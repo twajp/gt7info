@@ -24,7 +24,7 @@
                     {{oneData.date}}
                 </button>
             </h2>
-            {% if loop.index == 1%}
+            {% if loop.index == 1 %}
             <div id="collapse{{oneData.date}}" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                 {% else %}
                 <div id="collapse{{oneData.date}}" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -37,7 +37,7 @@
                                 <tr>
                                     <th scope="col">Maker</th>
                                     <th scope="col">Car</th>
-                                    <th scope="col">Price</th>
+                                    <th scope="col" style="text-align: right;">Price</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -51,7 +51,8 @@
                                     {% endif %}
                                     <td>{{car.makername}}</td>
                                     <th>{{car.carname}}</th>
-                                    <td>{{car.price_in_jpy}}</td>
+                                    <td style="text-align: right;">{{car.price_in_jpy}}</td>
+                                    <td></td>
                                 </tr>
                                 {% endfor %}
                                 {% if oneData.list_legend == [] %}
@@ -67,7 +68,7 @@
                                 <tr>
                                     <th scope="col">Maker</th>
                                     <th scope="col">Car</th>
-                                    <th scope="col">Price</th>
+                                    <th scope="col" style="text-align: right;">Price</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -82,6 +83,7 @@
                                     <td>{{car.makername}}</td>
                                     <th>{{car.carname}}</th>
                                     <td style="text-align: right;">{{car.price_in_jpy}}</td>
+                                    <td></td>
                                 </tr>
                                 {% endfor %}
                                 {% if oneData.list_legend == [] %}
