@@ -56,7 +56,7 @@
                                     <td></td>
                                 </tr>
                                 {% endfor %}
-                                {% if oneData.list_legend == [] %}
+                                {% if oneData.list_used == [] %}
                                 <td colspan="4" style="text-align: center;">No new cars available.</td>
                                 {% endif %}
                             </tbody>
