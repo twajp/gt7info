@@ -79,11 +79,8 @@ for i in range(how_many_days):
 env = Environment(loader=FileSystemLoader('.'))
 template = env.get_template('template.tpl')
 
-#レンダリングして出力
+#レンダリングしてhtml出力
 rendered = template.render({"data": data})
-print(rendered)
-
-# html出力
 if not os.path.exists("html"):
     # ディレクトリが存在しない場合、ディレクトリを作成する
     os.makedirs("html")
