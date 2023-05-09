@@ -53,7 +53,7 @@ def MakeNewCarList(data, carList, makerList):
 carList = LoadCSV("db/", "cars.csv")
 makerList = LoadCSV("db/", "maker.csv")
 today = datetime.datetime.utcnow().date()
-start_date = datetime.date(year=2022,month=3,day=3)
+start_date = datetime.date(year=2022,month=6,day=28)
 
 how_many_days = (today-start_date).days + 1
 data = []
