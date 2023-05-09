@@ -77,7 +77,7 @@ for i in range(how_many_days):
 
 #テンプレート読み込み
 env = Environment(loader=FileSystemLoader('.'))
-template = env.get_template('template.tpl')
+template = env.get_template('template.html')
 
 #レンダリングしてhtml出力
 rendered = template.render({"data": data})
