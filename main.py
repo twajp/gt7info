@@ -49,20 +49,6 @@ def MakeNewCarList(data, carList, makerList):
     return res
 
 
-def PrintNewCarList(new_car_list):
-    for car in new_car_list:
-        makername = car["makername"]
-        carname = car["carname"]
-        price_in_jpy = car["price_in_jpy"]
-
-        message = f"{makername}{carname}{price_in_jpy}"
-        print(message)
-
-    if len(new_car_list) == 0:
-        print("No new cars available.")
-
-    print()
-
 
 carList = LoadCSV("db/", "cars.csv")
 makerList = LoadCSV("db/", "maker.csv")
