@@ -1,8 +1,8 @@
+import os
+import csv
 import datetime
 import requests
-import csv
-import os
-import sys
+from jinja2 import Environment, FileSystemLoader
 
 
 def LoadCSV(directory, filename):
@@ -32,38 +32,31 @@ def MakeNewCarList(data, carList, makerList):
                         if carList[j][2] == makerList[k][0]:
                             makername = makerList[k][1]
                             carname = carList[j][1]
+                            price = format(int(data[i][1]), ",")
                             price_in_jpy = format(int(data[i][1])*100, ",")
 
+                            try:
+                                carYear = int(carname[-2:])
+                                if carYear >= 29 or carYear == 0:
+                                    isOld = True
+                                else:
+                                    isOld = False
+                            except:
+                                isOld = None
+
                             res.append(
-                                {"makername": makername, "carname": carname, "price_in_jpy": price_in_jpy})
+                                {"makername": makername, "carname": carname, "price": price, "price_in_jpy": price_in_jpy, "isOld": isOld})
     return res
 
 
 def PrintNewCarList(new_car_list):
-    maxlen = {"makername": 13, "carname": 32, "price_in_jpy": 10}
-
     for car in new_car_list:
-        if maxlen["makername"] < len(car["makername"]):
-            maxlen["makername"] = len(car["makername"])
-        if maxlen["carname"] < len(car["carname"]):
-            maxlen["carname"] = len(car["carname"])
-        if maxlen["price_in_jpy"] < len(car["price_in_jpy"]):
-            maxlen["price_in_jpy"] = len(car["price_in_jpy"])
+        makername = car["makername"]
+        carname = car["carname"]
+        price_in_jpy = car["price_in_jpy"]
 
-    for car in new_car_list:
-        makername = car["makername"].ljust(maxlen["makername"]+3)
-        carname = car["carname"].ljust(maxlen["carname"]+3)
-        price_in_jpy = car["price_in_jpy"].rjust(maxlen["price_in_jpy"]+3)
         message = f"{makername}{carname}{price_in_jpy}"
-
-        try:
-            carYear = int(car["carname"][-2:])
-            if carYear >= 29 or carYear == 0:
-                print(f"\033[91m{message}\033[0m")
-            else:
-                print(f"{message}")
-        except:
-            print(f"\033[93m{message}\033[0m")
+        print(message)
 
     if len(new_car_list) == 0:
         print("No new cars available.")
@@ -74,12 +67,13 @@ def PrintNewCarList(new_car_list):
 carList = LoadCSV("db/", "cars.csv")
 makerList = LoadCSV("db/", "maker.csv")
 today = datetime.datetime.utcnow().date()
+start_date = datetime.date(year=2022,month=3,day=3)
 
-how_many_days = 5
-if len(sys.argv) > 1:
-    how_many_days = int(sys.argv[1])
+# how_many_days = (today-start_date).days + 1
+how_many_days = 10
+data = []
 
-for i in reversed(range(how_many_days)):
+for i in range(how_many_days):
     date_to_import = today - datetime.timedelta(i)
     filename = date_to_import.strftime("%y-%m-%d")+".csv"
 
@@ -89,10 +83,22 @@ for i in reversed(range(how_many_days)):
     list_used = MakeNewCarList(data_used, carList, makerList)
     list_legend = MakeNewCarList(data_legend, carList, makerList)
 
-    print(f"====={date_to_import}=====".center(64))
-    print("---Used Car Dealership---".center(64))
-    PrintNewCarList(list_used)
+    data.append({
+        # "%Y/%-m/%-d"
+        "date": date_to_import.strftime("%Y/%m/%d"),
+        "list_used": list_used,
+        "list_legend": list_legend,
+    })
 
-    print("---Legendary Dealership---".center(64))
-    PrintNewCarList(list_legend)
-    print()
+#テンプレート読み込み
+env = Environment(loader=FileSystemLoader('.'))
+template = env.get_template('template.tpl')
+
+#レンダリングして出力
+rendered = template.render({"data": data})
+print(rendered)
+# print(data)
+ 
+# html出力
+with open('result.html', 'w') as f:
+    f.write(rendered)
