@@ -100,5 +100,8 @@ print(rendered)
 # print(data)
  
 # html出力
-with open('result.html', 'w') as f:
+if not os.path.exists("html"):
+    # ディレクトリが存在しない場合、ディレクトリを作成する
+    os.makedirs("html")
+with open('html/index.html', 'w') as f:
     f.write(rendered)
