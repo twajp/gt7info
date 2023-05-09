@@ -56,6 +56,7 @@ today = datetime.datetime.utcnow().date()
 start_date = datetime.date(year=2022,month=6,day=28)
 
 how_many_days = (today-start_date).days + 1
+# how_many_days = 10
 data = []
 
 for i in range(how_many_days):
@@ -76,13 +77,13 @@ for i in range(how_many_days):
 
 
 #テンプレート読み込み
-env = Environment(loader=FileSystemLoader('.'))
-template = env.get_template('template.html')
+env = Environment(loader=FileSystemLoader("."))
+template = env.get_template("template.html")
 
 #レンダリングしてhtml出力
 rendered = template.render({"data": data})
 if not os.path.exists("html"):
     # ディレクトリが存在しない場合、ディレクトリを作成する
     os.makedirs("html")
-with open('html/index.html', 'w') as f:
+with open("html/index.html", "w") as f:
     f.write(rendered)
