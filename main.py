@@ -10,7 +10,7 @@ def LoadCSV(directory, filename):
     urlData = requests.get(url+directory+filename).content
     data = []
 
-    with open(filename, mode="wb") as f:  # wb でバイト型を書き込める
+    with open(filename, mode="wb") as f:
         f.write(urlData)
 
     with open(filename) as f:
@@ -69,8 +69,7 @@ makerList = LoadCSV("db/", "maker.csv")
 today = datetime.datetime.utcnow().date()
 start_date = datetime.date(year=2022,month=3,day=3)
 
-# how_many_days = (today-start_date).days + 1
-how_many_days = 10
+how_many_days = (today-start_date).days + 1
 data = []
 
 for i in range(how_many_days):
@@ -84,11 +83,11 @@ for i in range(how_many_days):
     list_legend = MakeNewCarList(data_legend, carList, makerList)
 
     data.append({
-        # "%Y/%-m/%-d"
-        "date": date_to_import.strftime("%Y/%m/%d"),
+        "date": date_to_import.strftime("%Y/%-m/%-d"),
         "list_used": list_used,
         "list_legend": list_legend,
     })
+
 
 #テンプレート読み込み
 env = Environment(loader=FileSystemLoader('.'))
@@ -97,8 +96,7 @@ template = env.get_template('template.tpl')
 #レンダリングして出力
 rendered = template.render({"data": data})
 print(rendered)
-# print(data)
- 
+
 # html出力
 if not os.path.exists("html"):
     # ディレクトリが存在しない場合、ディレクトリを作成する
