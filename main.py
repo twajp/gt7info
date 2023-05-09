@@ -55,8 +55,8 @@ makerList = LoadCSV("db/", "maker.csv")
 today = datetime.datetime.utcnow().date()
 start_date = datetime.date(year=2022,month=6,day=28)
 
-how_many_days = (today-start_date).days + 1
-# how_many_days = 10
+# how_many_days = (today-start_date).days + 1
+how_many_days = 14
 data = []
 
 for i in range(how_many_days):
