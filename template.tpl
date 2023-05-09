@@ -38,6 +38,7 @@
                                     <th scope="col">Maker</th>
                                     <th scope="col">Car</th>
                                     <th scope="col" style="text-align: right;">Price</th>
+                                    <th scope="col"></th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -56,7 +57,7 @@
                                 </tr>
                                 {% endfor %}
                                 {% if oneData.list_legend == [] %}
-                                <td colspan="3" style="text-align: center;">No new cars available.</td>
+                                <td colspan="4" style="text-align: center;">No new cars available.</td>
                                 {% endif %}
                             </tbody>
                         </table>
@@ -69,6 +70,7 @@
                                     <th scope="col">Maker</th>
                                     <th scope="col">Car</th>
                                     <th scope="col" style="text-align: right;">Price</th>
+                                    <th scope="col"></th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -87,7 +89,7 @@
                                 </tr>
                                 {% endfor %}
                                 {% if oneData.list_legend == [] %}
-                                <td colspan="3" style="text-align: center;">No new cars available.</td>
+                                <td colspan="4" style="text-align: center;">No new cars available.</td>
                                 {% endif %}
                             </tbody>
                         </table>
