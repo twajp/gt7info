@@ -2,7 +2,7 @@ name: Build and Deploy
 
 on:
   schedule:
-    - cron: '3 1 * * *' # At 09:00 JST
+    - cron: '15 1 * * *' # At 09:00 JST
 
 jobs:
   build-and-deploy:
