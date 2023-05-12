@@ -17,22 +17,22 @@
 
 
     <div class="accordion container" id="accordionExample">
-        {% for oneData in data %}
+        {%- for oneData in data %}
         <div class="accordion-item">
             <h2 class="accordion-header">
-                {% if loop.index == 1 %}
+                {%- if loop.index == 1 %}
                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{oneData.date}}" aria-expanded="true" aria-controls="collapse{{oneData.date}}">
-                    {% else %}
+                    {%- else %}
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{oneData.date}}" aria-expanded="true" aria-controls="collapse{{oneData.date}}">
-                        {% endif %}
+                        {%- endif %}
                         {{oneData.date}}
                     </button>
             </h2>
-            {% if loop.index == 1 %}
+            {%- if loop.index == 1 %}
             <div id="collapse{{oneData.date}}" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
-                {% else %}
+                {%- else %}
                 <div id="collapse{{oneData.date}}" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                    {% endif %}
+                    {%- endif %}
 
                     <div class="accordion-body">
                         <h2 style="text-align: center;">Used Car Dealership</h2>
@@ -46,23 +46,23 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                {% for car in oneData.list_used %}
-                                {% if car.isOld == True %}
+                                {%- for car in oneData.list_used %}
+                                {%- if car.isOld == True %}
                                 <tr class="table-danger">
-                                    {% elif car.isOld == False %}
+                                    {%- elif car.isOld == False %}
                                 <tr>
-                                    {% else %}
+                                    {%- else %}
                                 <tr class="table-warning">
-                                    {% endif %}
+                                    {%- endif %}
                                     <td>{{car.makername}}</td>
                                     <th>{{car.carname}}</th>
                                     <td style="text-align: right;">{{car.price_in_jpy}}</td>
                                     <td></td>
                                 </tr>
-                                {% endfor %}
-                                {% if oneData.list_used == [] %}
+                                {%- endfor %}
+                                {%- if oneData.list_used == [] %}
                                 <td colspan="4" style="text-align: center;">No new cars available.</td>
-                                {% endif %}
+                                {%- endif %}
                             </tbody>
                         </table>
 
@@ -78,29 +78,29 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                {% for car in oneData.list_legend %}
-                                {% if car.isOld == True %}
+                                {%- for car in oneData.list_legend %}
+                                {%- if car.isOld == True %}
                                 <tr class="table-danger">
-                                    {% elif car.isOld == False %}
+                                    {%- elif car.isOld == False %}
                                 <tr>
-                                    {% else %}
+                                    {%- else %}
                                 <tr class="table-warning">
-                                    {% endif %}
+                                    {%- endif %}
                                     <td>{{car.makername}}</td>
                                     <th>{{car.carname}}</th>
                                     <td style="text-align: right;">{{car.price_in_jpy}}</td>
                                     <td></td>
                                 </tr>
-                                {% endfor %}
-                                {% if oneData.list_legend == [] %}
+                                {%- endfor %}
+                                {%- if oneData.list_legend == [] %}
                                 <td colspan="4" style="text-align: center;">No new cars available.</td>
-                                {% endif %}
+                                {%- endif %}
                             </tbody>
                         </table>
                     </div>
                 </div>
             </div>
-            {% endfor %}
+            {%- endfor %}
         </div>
 
         <div class="container">
