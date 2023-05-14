@@ -41,7 +41,11 @@
                                 <tr>
                                     <th scope="col">Maker</th>
                                     <th scope="col">Car</th>
-                                    <th scope="col" style="text-align: right;">Price</th>
+                                    {%- if loc == "global" %}
+                                    <th scope="col" style="text-align: right;"><a style="text-decoration: none; color:inherit;" href="jp.html">Price</a></th>
+                                    {%- elif loc == "jp" %}
+                                    <th scope="col" style="text-align: right;"><a style="text-decoration: none; color:inherit;" href="index.html">Price</a></th>
+                                    {%- endif %}
                                     <th scope="col"></th>
                                 </tr>
                             </thead>
@@ -77,7 +81,11 @@
                                 <tr>
                                     <th scope="col">Maker</th>
                                     <th scope="col">Car</th>
-                                    <th scope="col" style="text-align: right;">Price</th>
+                                    {%- if loc == "global" %}
+                                    <th scope="col" style="text-align: right;"><a style="text-decoration: none; color:inherit;" href="jp.html">Price</a></th>
+                                    {%- elif loc == "jp" %}
+                                    <th scope="col" style="text-align: right;"><a style="text-decoration: none; color:inherit;" href="index.html">Price</a></th>
+                                    {%- endif %}
                                     <th scope="col"></th>
                                 </tr>
                             </thead>
