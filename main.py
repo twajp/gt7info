@@ -31,6 +31,7 @@ def MakeNewCarList(data, carList, makerList):
                     for k in range(len(makerList)):
                         if carList[j][2] == makerList[k][0]:
                             makername = makerList[k][1]
+                            carid = carList[j][0]
                             carname = carList[j][1]
                             price = format(int(data[i][1]), ",")
                             price_in_jpy = format(int(data[i][1])*100, ",")
@@ -45,7 +46,7 @@ def MakeNewCarList(data, carList, makerList):
                                 isOld = None
 
                             res.append(
-                                {"makername": makername, "carname": carname, "price": price, "price_in_jpy": price_in_jpy, "isOld": isOld})
+                                {"makername": makername, "carid": carid, "carname": carname, "price": price, "price_in_jpy": price_in_jpy, "isOld": isOld})
     return res
 
 
