@@ -49,7 +49,6 @@ def MakeNewCarList(data, carList, makerList):
     return res
 
 
-
 carList = LoadCSV("db/", "cars.csv")
 makerList = LoadCSV("db/", "maker.csv")
 today = datetime.datetime.utcnow().date()
@@ -75,14 +74,17 @@ for i in range(how_many_days):
     })
 
 
-#テンプレート読み込み
 env = Environment(loader=FileSystemLoader("."))
 template = env.get_template("template.html")
 
-#レンダリングしてhtml出力
-rendered = template.render({"data": data})
+rendered = template.render({"data": data, "loc": "global"})
+rendered_jp = template.render({"data": data, "loc": "jp"})
+
 if not os.path.exists("html"):
-    # ディレクトリが存在しない場合、ディレクトリを作成する
     os.makedirs("html")
+
 with open("html/index.html", "w") as f:
     f.write(rendered)
+
+with open("html/jp.html", "w") as f:
+    f.write(rendered_jp)

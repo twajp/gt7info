@@ -56,7 +56,11 @@
                                     {%- endif %}
                                     <td>{{car.makername}}</td>
                                     <th>{{car.carname}}</th>
+                                    {%- if loc == "global" %}
+                                    <td style="text-align: right;">{{car.price}}</td>
+                                    {%- elif loc == "jp" %}
                                     <td style="text-align: right;">{{car.price_in_jpy}}</td>
+                                    {%- endif %}
                                     <td></td>
                                 </tr>
                                 {%- endfor %}
@@ -88,7 +92,11 @@
                                     {%- endif %}
                                     <td>{{car.makername}}</td>
                                     <th>{{car.carname}}</th>
+                                    {%- if loc == "global" %}
+                                    <td style="text-align: right;">{{car.price}}</td>
+                                    {%- elif loc == "jp" %}
                                     <td style="text-align: right;">{{car.price_in_jpy}}</td>
+                                    {%- endif %}
                                     <td></td>
                                 </tr>
                                 {%- endfor %}
