@@ -41,12 +41,14 @@
                                 <tr>
                                     <th scope="col">Maker</th>
                                     <th scope="col">Car</th>
-                                    {%- if loc == "global" %}
+                                    {%- if price == "global" %}
                                     <th scope="col" style="text-align: right;"><a style="text-decoration: none; color:inherit;" href="jp.html">Price</a></th>
-                                    {%- elif loc == "jp" %}
-                                    <th scope="col" style="text-align: right;"><a style="text-decoration: none; color:inherit;" href="index.html">Price</a></th>
-                                    {%- endif %}
                                     <th scope="col"></th>
+                                    {%- elif price == "jp" %}
+                                    <th scope="col" style="text-align: right;"><a style="text-decoration: none; color:inherit;" href="index.html">Price</a></th>
+                                    <th scope="col"></th>
+                                    {%- elif price == "no" %}
+                                    {%- endif %}
                                 </tr>
                             </thead>
                             <tbody>
@@ -60,12 +62,14 @@
                                     {%- endif %}
                                     <td>{{car.makername}}</td>
                                     <th>{{car.carname}}</th>
-                                    {%- if loc == "global" %}
+                                    {%- if price == "global" %}
                                     <td style="text-align: right;">{{car.price}}</td>
-                                    {%- elif loc == "jp" %}
-                                    <td style="text-align: right;">{{car.price_in_jpy}}</td>
-                                    {%- endif %}
                                     <td></td>
+                                    {%- elif price == "jp" %}
+                                    <td style="text-align: right;">{{car.price_in_jpy}}</td>
+                                    <td></td>
+                                    {%- elif price == "no" %}
+                                    {%- endif %}
                                 </tr>
                                 {%- endfor %}
                                 {%- if oneData.list_used == [] %}
@@ -81,12 +85,14 @@
                                 <tr>
                                     <th scope="col">Maker</th>
                                     <th scope="col">Car</th>
-                                    {%- if loc == "global" %}
+                                    {%- if price == "global" %}
                                     <th scope="col" style="text-align: right;"><a style="text-decoration: none; color:inherit;" href="jp.html">Price</a></th>
-                                    {%- elif loc == "jp" %}
-                                    <th scope="col" style="text-align: right;"><a style="text-decoration: none; color:inherit;" href="index.html">Price</a></th>
-                                    {%- endif %}
                                     <th scope="col"></th>
+                                    {%- elif price == "jp" %}
+                                    <th scope="col" style="text-align: right;"><a style="text-decoration: none; color:inherit;" href="index.html">Price</a></th>
+                                    <th scope="col"></th>
+                                    {%- elif price == "no" %}
+                                    {%- endif %}
                                 </tr>
                             </thead>
                             <tbody>
@@ -100,12 +106,14 @@
                                     {%- endif %}
                                     <td>{{car.makername}}</td>
                                     <th>{{car.carname}}</th>
-                                    {%- if loc == "global" %}
+                                    {%- if price == "global" %}
                                     <td style="text-align: right;">{{car.price}}</td>
-                                    {%- elif loc == "jp" %}
-                                    <td style="text-align: right;">{{car.price_in_jpy}}</td>
-                                    {%- endif %}
                                     <td></td>
+                                    {%- elif price == "jp" %}
+                                    <td style="text-align: right;">{{car.price_in_jpy}}</td>
+                                    <td></td>
+                                    {%- elif price == "no" %}
+                                    {%- endif %}
                                 </tr>
                                 {%- endfor %}
                                 {%- if oneData.list_legend == [] %}
