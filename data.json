@@ -1,0 +1,615 @@
+[
+  {
+    "date": "2023/6/6",
+    "list_used": [
+      {
+        "makername": "Renault",
+        "carid": "173",
+        "carname": "R5 Turbo '80",
+        "price": "151,900",
+        "price_in_jpy": "15,190,000",
+        "isOld": true
+      },
+      {
+        "makername": "Abarth",
+        "carid": "3438",
+        "carname": "Abarth 595 SS '70",
+        "price": "55,000",
+        "price_in_jpy": "5,500,000",
+        "isOld": true
+      },
+      {
+        "makername": "Ferrari",
+        "carid": "3443",
+        "carname": "308 GTB '75",
+        "price": "171,600",
+        "price_in_jpy": "17,160,000",
+        "isOld": true
+      },
+      {
+        "makername": "BMW",
+        "carid": "3389",
+        "carname": "M3 '03",
+        "price": "72,500",
+        "price_in_jpy": "7,250,000",
+        "isOld": false
+      }
+    ],
+    "list_legend": [
+      {
+        "makername": "Ford",
+        "carid": "1565",
+        "carname": "Mark IV Race Car '67",
+        "price": "6,750,000",
+        "price_in_jpy": "675,000,000",
+        "isOld": true
+      },
+      {
+        "makername": "Porsche",
+        "carid": "3400",
+        "carname": "911 GT1 Strassenversion '97",
+        "price": "9,000,000",
+        "price_in_jpy": "900,000,000",
+        "isOld": true
+      },
+      {
+        "makername": "Porsche",
+        "carid": "3375",
+        "carname": "356 A/1500 GS Carrera '56",
+        "price": "615,000",
+        "price_in_jpy": "61,500,000",
+        "isOld": true
+      },
+      {
+        "makername": "Mazda",
+        "carid": "1975",
+        "carname": "RX500 '70",
+        "price": "600,000",
+        "price_in_jpy": "60,000,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
+    "date": "2023/6/5",
+    "list_used": [
+      {
+        "makername": "Volkswagen",
+        "carid": "1773",
+        "carname": "Scirocco R '10",
+        "price": "45,000",
+        "price_in_jpy": "4,500,000",
+        "isOld": false
+      },
+      {
+        "makername": "BMW",
+        "carid": "3344",
+        "carname": "M3 Sport Evolution '89",
+        "price": "162,000",
+        "price_in_jpy": "16,200,000",
+        "isOld": true
+      },
+      {
+        "makername": "Toyota",
+        "carid": "3471",
+        "carname": "Celica GT-Four (ST205) '94",
+        "price": "74,700",
+        "price_in_jpy": "7,470,000",
+        "isOld": true
+      },
+      {
+        "makername": "BMW",
+        "carid": "1399",
+        "carname": "M3 '07",
+        "price": "79,400",
+        "price_in_jpy": "7,940,000",
+        "isOld": false
+      }
+    ],
+    "list_legend": [
+      {
+        "makername": "Maserati",
+        "carid": "3489",
+        "carname": "A6GCS/53 Spyder '54",
+        "price": "2,900,000",
+        "price_in_jpy": "290,000,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
+    "date": "2023/6/4",
+    "list_used": [
+      {
+        "makername": "Alfa Romeo",
+        "carid": "1933",
+        "carname": "MiTo '09",
+        "price": "21,400",
+        "price_in_jpy": "2,140,000",
+        "isOld": false
+      },
+      {
+        "makername": "TVR",
+        "carid": "187",
+        "carname": "Tuscan Speed 6 '00",
+        "price": "72,000",
+        "price_in_jpy": "7,200,000",
+        "isOld": true
+      }
+    ],
+    "list_legend": []
+  },
+  {
+    "date": "2023/6/3",
+    "list_used": [
+      {
+        "makername": "Honda",
+        "carid": "204",
+        "carname": "Civic Type R (EK) '98",
+        "price": "52,800",
+        "price_in_jpy": "5,280,000",
+        "isOld": true
+      },
+      {
+        "makername": "MINI",
+        "carid": "1370",
+        "carname": "MINI Cooper S '05",
+        "price": "21,500",
+        "price_in_jpy": "2,150,000",
+        "isOld": false
+      },
+      {
+        "makername": "Ford",
+        "carid": "1426",
+        "carname": "Ford GT '06",
+        "price": "411,600",
+        "price_in_jpy": "41,160,000",
+        "isOld": false
+      }
+    ],
+    "list_legend": [
+      {
+        "makername": "Alfa Romeo",
+        "carid": "365",
+        "carname": "155 2.5 V6 TI '93",
+        "price": "800,000",
+        "price_in_jpy": "80,000,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
+    "date": "2023/6/2",
+    "list_used": [
+      {
+        "makername": "Ferrari",
+        "carid": "1895",
+        "carname": "Dino 246 GT '71",
+        "price": "358,000",
+        "price_in_jpy": "35,800,000",
+        "isOld": true
+      },
+      {
+        "makername": "Porsche",
+        "carid": "3404",
+        "carname": "911 Carrera RS CS (993) '95",
+        "price": "415,400",
+        "price_in_jpy": "41,540,000",
+        "isOld": true
+      },
+      {
+        "makername": "Nissan",
+        "carid": "1384",
+        "carname": "Fairlady Z Version S (Z33) '07",
+        "price": "26,800",
+        "price_in_jpy": "2,680,000",
+        "isOld": false
+      },
+      {
+        "makername": "Ferrari",
+        "carid": "1378",
+        "carname": "F430 '06",
+        "price": "200,000",
+        "price_in_jpy": "20,000,000",
+        "isOld": false
+      }
+    ],
+    "list_legend": [
+      {
+        "makername": "Toyota",
+        "carid": "1470",
+        "carname": "Supra GT500 '97",
+        "price": "1,800,000",
+        "price_in_jpy": "180,000,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
+    "date": "2023/6/1",
+    "list_used": [
+      {
+        "makername": "Toyota",
+        "carid": "345",
+        "carname": "Sprinter Trueno 1600GT APEX (S.Shigeno Version)",
+        "price": "120,000",
+        "price_in_jpy": "12,000,000",
+        "isOld": null
+      },
+      {
+        "makername": "Nissan",
+        "carid": "1461",
+        "carname": "Silvia K's Dia Selection (S13) '90",
+        "price": "53,200",
+        "price_in_jpy": "5,320,000",
+        "isOld": true
+      },
+      {
+        "makername": "Alpine",
+        "carid": "1796",
+        "carname": "A110 '72",
+        "price": "143,900",
+        "price_in_jpy": "14,390,000",
+        "isOld": true
+      }
+    ],
+    "list_legend": [
+      {
+        "makername": "Maserati",
+        "carid": "3421",
+        "carname": "Merak SS '80",
+        "price": "78,500",
+        "price_in_jpy": "7,850,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
+    "date": "2023/5/31",
+    "list_used": [
+      {
+        "makername": "Honda",
+        "carid": "137",
+        "carname": "Beat '91",
+        "price": "17,000",
+        "price_in_jpy": "1,700,000",
+        "isOld": true
+      },
+      {
+        "makername": "Ferrari",
+        "carid": "3434",
+        "carname": "Testarossa '91",
+        "price": "366,500",
+        "price_in_jpy": "36,650,000",
+        "isOld": true
+      }
+    ],
+    "list_legend": []
+  },
+  {
+    "date": "2023/5/30",
+    "list_used": [
+      {
+        "makername": "Toyota",
+        "carid": "1044",
+        "carname": "Sports 800 '65",
+        "price": "43,400",
+        "price_in_jpy": "4,340,000",
+        "isOld": true
+      },
+      {
+        "makername": "Nissan",
+        "carid": "48",
+        "carname": "Fairlady 240ZG (HS30) '71",
+        "price": "99,100",
+        "price_in_jpy": "9,910,000",
+        "isOld": true
+      },
+      {
+        "makername": "Lancia",
+        "carid": "533",
+        "carname": "Stratos '73",
+        "price": "505,900",
+        "price_in_jpy": "50,590,000",
+        "isOld": true
+      },
+      {
+        "makername": "McLaren",
+        "carid": "1722",
+        "carname": "MP4-12C '10",
+        "price": "185,700",
+        "price_in_jpy": "18,570,000",
+        "isOld": false
+      }
+    ],
+    "list_legend": [
+      {
+        "makername": "Porsche",
+        "carid": "3490",
+        "carname": "Carrera GTS (904) '64",
+        "price": "2,500,000",
+        "price_in_jpy": "250,000,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
+    "date": "2023/5/29",
+    "list_used": [
+      {
+        "makername": "Mazda",
+        "carid": "201",
+        "carname": "Eunos Roadster (NA) '89",
+        "price": "28,000",
+        "price_in_jpy": "2,800,000",
+        "isOld": true
+      },
+      {
+        "makername": "Volkswagen",
+        "carid": "1778",
+        "carname": "Volkswagen 1200 '66",
+        "price": "29,700",
+        "price_in_jpy": "2,970,000",
+        "isOld": true
+      }
+    ],
+    "list_legend": []
+  },
+  {
+    "date": "2023/5/28",
+    "list_used": [
+      {
+        "makername": "Mitsubishi",
+        "carid": "1508",
+        "carname": "Lancer Evolution VI GSR T.M. SCP '99",
+        "price": "172,300",
+        "price_in_jpy": "17,230,000",
+        "isOld": true
+      },
+      {
+        "makername": "RUF",
+        "carid": "3398",
+        "carname": "CTR3 '07",
+        "price": "772,000",
+        "price_in_jpy": "77,200,000",
+        "isOld": false
+      },
+      {
+        "makername": "BMW",
+        "carid": "1893",
+        "carname": "Z8 '01",
+        "price": "258,100",
+        "price_in_jpy": "25,810,000",
+        "isOld": false
+      }
+    ],
+    "list_legend": []
+  },
+  {
+    "date": "2023/5/27",
+    "list_used": [
+      {
+        "makername": "Honda",
+        "carid": "688",
+        "carname": "Integra Type R (DC2) '95",
+        "price": "61,500",
+        "price_in_jpy": "6,150,000",
+        "isOld": true
+      },
+      {
+        "makername": "Nissan",
+        "carid": "24",
+        "carname": "180SX Type X '96",
+        "price": "49,900",
+        "price_in_jpy": "4,990,000",
+        "isOld": true
+      },
+      {
+        "makername": "Nissan",
+        "carid": "210",
+        "carname": "R34 GT-R V-spec II Nur '02",
+        "price": "401,300",
+        "price_in_jpy": "40,130,000",
+        "isOld": false
+      },
+      {
+        "makername": "Honda",
+        "carid": "1689",
+        "carname": "Civic Type R (EK) Touring Car",
+        "price": "115,600",
+        "price_in_jpy": "11,560,000",
+        "isOld": null
+      }
+    ],
+    "list_legend": []
+  },
+  {
+    "date": "2023/5/26",
+    "list_used": [
+      {
+        "makername": "Fiat",
+        "carid": "1527",
+        "carname": "500 1.2 8V Lounge SS '08",
+        "price": "12,900",
+        "price_in_jpy": "1,290,000",
+        "isOld": false
+      },
+      {
+        "makername": "BMW",
+        "carid": "3422",
+        "carname": "3.0 CSL '73",
+        "price": "202,500",
+        "price_in_jpy": "20,250,000",
+        "isOld": true
+      },
+      {
+        "makername": "De Tomaso",
+        "carid": "3341",
+        "carname": "Pantera '71",
+        "price": "164,600",
+        "price_in_jpy": "16,460,000",
+        "isOld": true
+      },
+      {
+        "makername": "AMG",
+        "carid": "1507",
+        "carname": "SLS AMG '10",
+        "price": "316,800",
+        "price_in_jpy": "31,680,000",
+        "isOld": false
+      }
+    ],
+    "list_legend": [
+      {
+        "makername": "Nissan",
+        "carid": "3493",
+        "carname": "Skyline Super Silhouette Group 5 '84",
+        "price": "1,150,000",
+        "price_in_jpy": "115,000,000",
+        "isOld": true
+      },
+      {
+        "makername": "McLaren",
+        "carid": "3475",
+        "carname": "MP4/4 '88",
+        "price": "10,000,000",
+        "price_in_jpy": "1,000,000,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
+    "date": "2023/5/25",
+    "list_used": [
+      {
+        "makername": "Alfa Romeo",
+        "carid": "3530",
+        "carname": "Giulia Sprint GT Veloce '67",
+        "price": "180,000",
+        "price_in_jpy": "18,000,000",
+        "isOld": true
+      },
+      {
+        "makername": "Nissan",
+        "carid": "3524",
+        "carname": "GT-R NISMO (R32) '90",
+        "price": "400,000",
+        "price_in_jpy": "40,000,000",
+        "isOld": true
+      },
+      {
+        "makername": "Lancia",
+        "carid": "829",
+        "carname": "Delta HF Integrale Evoluzione '91",
+        "price": "99,900",
+        "price_in_jpy": "9,990,000",
+        "isOld": true
+      },
+      {
+        "makername": "Nissan",
+        "carid": "1448",
+        "carname": "SILVIA spec-R Aero (S15) '02",
+        "price": "60,700",
+        "price_in_jpy": "6,070,000",
+        "isOld": false
+      },
+      {
+        "makername": "Chevrolet",
+        "carid": "1542",
+        "carname": "Corvette Convertible (C3) '69",
+        "price": "50,700",
+        "price_in_jpy": "5,070,000",
+        "isOld": true
+      },
+      {
+        "makername": "Honda",
+        "carid": "514",
+        "carname": "S2000 '99",
+        "price": "107,800",
+        "price_in_jpy": "10,780,000",
+        "isOld": true
+      },
+      {
+        "makername": "Dodge",
+        "carid": "1402",
+        "carname": "Viper SRT10 Coupe '06",
+        "price": "112,200",
+        "price_in_jpy": "11,220,000",
+        "isOld": false
+      }
+    ],
+    "list_legend": [
+      {
+        "makername": "Nissan",
+        "carid": "485",
+        "carname": "GT-R GT500 '99",
+        "price": "2,700,000",
+        "price_in_jpy": "270,000,000",
+        "isOld": true
+      },
+      {
+        "makername": "Shelby",
+        "carid": "1926",
+        "carname": "Cobra Daytona Coupe '64",
+        "price": "20,000,000",
+        "price_in_jpy": "2,000,000,000",
+        "isOld": true
+      },
+      {
+        "makername": "Ferrari",
+        "carid": "1931",
+        "carname": "250 GT Berlinetta passo corto '61",
+        "price": "8,300,000",
+        "price_in_jpy": "830,000,000",
+        "isOld": true
+      },
+      {
+        "makername": "Nissan",
+        "carid": "3429",
+        "carname": "Fairlady Z 432 '69",
+        "price": "190,000",
+        "price_in_jpy": "19,000,000",
+        "isOld": true
+      },
+      {
+        "makername": "Aston Martin",
+        "carid": "3445",
+        "carname": "DB5 '64",
+        "price": "958,000",
+        "price_in_jpy": "95,800,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
+    "date": "2023/5/24",
+    "list_used": [
+      {
+        "makername": "Honda",
+        "carid": "821",
+        "carname": "Civic Type R (EK) '97",
+        "price": "54,600",
+        "price_in_jpy": "5,460,000",
+        "isOld": true
+      },
+      {
+        "makername": "Ford",
+        "carid": "3466",
+        "carname": "Sierra RS 500 Cosworth '87",
+        "price": "180,400",
+        "price_in_jpy": "18,040,000",
+        "isOld": true
+      }
+    ],
+    "list_legend": [
+      {
+        "makername": "Jeep",
+        "carid": "3430",
+        "carname": "Willys MB '45",
+        "price": "30,100",
+        "price_in_jpy": "3,010,000",
+        "isOld": true
+      }
+    ]
+  }
+]
