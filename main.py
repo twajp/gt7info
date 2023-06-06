@@ -68,10 +68,6 @@ for i in range(how_many_days):
         "list_legend": list_legend,
     })
 
-with open("html/data.json", "w") as f:
-    json.dump(data, f, indent=2, ensure_ascii=False)
-
-
 env = Environment(loader=FileSystemLoader("."))
 template = env.get_template("template.html")
 
@@ -90,3 +86,6 @@ with open("html/jp.html", "w") as f:
 
 with open("html/noprice.html", "w") as f:
     f.write(rendered_noprice)
+
+with open("html/data.json", "w") as f:
+    json.dump(data, f, indent=2, ensure_ascii=False)
