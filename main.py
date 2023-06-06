@@ -1,18 +1,15 @@
 import os
 import csv
-import datetime
+import json
+from datetime import datetime, timedelta
 import requests
 from jinja2 import Environment, FileSystemLoader
 
 
 def LoadCSV(directory, filename):
     url = f"https://raw.githubusercontent.com/ddm999/gt7info/web-new/_data/{directory}{filename}"
-    
-    with requests.Session() as s:
-        download = s.get(url)
-
+    download = requests.get(url)
     decoded_content = download.content.decode('utf-8')
-
     cr = csv.reader(decoded_content.splitlines(), delimiter=',')
     data = list(cr)
 
@@ -49,14 +46,14 @@ def MakeNewCarList(data, carList, makerList):
 
 carList = LoadCSV("db/", "cars.csv")
 makerList = LoadCSV("db/", "maker.csv")
-today = datetime.datetime.utcnow().date()
+today = datetime.utcnow().date()
 # start_date = datetime.date(year=2022,month=6,day=28)
 # how_many_days = (today-start_date).days + 1
 how_many_days = 14
 data = []
 
 for i in range(how_many_days):
-    date_to_import = today - datetime.timedelta(i)
+    date_to_import = today - timedelta(i)
     filename = date_to_import.strftime("%y-%m-%d")+".csv"
 
     data_used = LoadCSV("used/", filename)
@@ -70,6 +67,9 @@ for i in range(how_many_days):
         "list_used": list_used,
         "list_legend": list_legend,
     })
+
+with open("html/data.json", "w") as f:
+    json.dump(data, f, indent=2, ensure_ascii=False)
 
 
 env = Environment(loader=FileSystemLoader("."))
