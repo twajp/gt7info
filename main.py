@@ -6,18 +6,15 @@ from jinja2 import Environment, FileSystemLoader
 
 
 def LoadCSV(directory, filename):
-    url = "https://raw.githubusercontent.com/ddm999/gt7info/web-new/_data/"
-    urlData = requests.get(url+directory+filename).content
-    data = []
+    url = f"https://raw.githubusercontent.com/ddm999/gt7info/web-new/_data/{directory}{filename}"
+    
+    with requests.Session() as s:
+        download = s.get(url)
 
-    with open(filename, mode="wb") as f:
-        f.write(urlData)
+    decoded_content = download.content.decode('utf-8')
 
-    with open(filename) as f:
-        for row in csv.reader(f):
-            data.append(row)
-
-    os.remove(filename)
+    cr = csv.reader(decoded_content.splitlines(), delimiter=',')
+    data = list(cr)
 
     return data
 
