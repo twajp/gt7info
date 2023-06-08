@@ -1,5 +1,52 @@
 [
   {
+    "date": "2023/6/8",
+    "list_used": [
+      {
+        "makername": "Autobianchi",
+        "carid": "3442",
+        "carname": "A112 Abarth '85",
+        "price": "34,100",
+        "price_in_jpy": "3,410,000",
+        "isOld": true
+      },
+      {
+        "makername": "Mitsubishi",
+        "carid": "211",
+        "carname": "Lancer Evolution V GSR '98",
+        "price": "73,400",
+        "price_in_jpy": "7,340,000",
+        "isOld": true
+      },
+      {
+        "makername": "Porsche",
+        "carid": "3439",
+        "carname": "911 Carrera RS (993) '95",
+        "price": "211,300",
+        "price_in_jpy": "21,130,000",
+        "isOld": true
+      },
+      {
+        "makername": "Mazda",
+        "carid": "205",
+        "carname": "RX-7 Spirit R Type A (FD) '02",
+        "price": "222,800",
+        "price_in_jpy": "22,280,000",
+        "isOld": false
+      }
+    ],
+    "list_legend": [
+      {
+        "makername": "Plymouth",
+        "carid": "1900",
+        "carname": "XNR Ghia Roadster '60",
+        "price": "1,600,000",
+        "price_in_jpy": "160,000,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
     "date": "2023/6/7",
     "list_used": [
       {
@@ -520,109 +567,6 @@
         "carname": "MP4/4 '88",
         "price": "10,000,000",
         "price_in_jpy": "1,000,000,000",
-        "isOld": true
-      }
-    ]
-  },
-  {
-    "date": "2023/5/25",
-    "list_used": [
-      {
-        "makername": "Alfa Romeo",
-        "carid": "3530",
-        "carname": "Giulia Sprint GT Veloce '67",
-        "price": "180,000",
-        "price_in_jpy": "18,000,000",
-        "isOld": true
-      },
-      {
-        "makername": "Nissan",
-        "carid": "3524",
-        "carname": "GT-R NISMO (R32) '90",
-        "price": "400,000",
-        "price_in_jpy": "40,000,000",
-        "isOld": true
-      },
-      {
-        "makername": "Lancia",
-        "carid": "829",
-        "carname": "Delta HF Integrale Evoluzione '91",
-        "price": "99,900",
-        "price_in_jpy": "9,990,000",
-        "isOld": true
-      },
-      {
-        "makername": "Nissan",
-        "carid": "1448",
-        "carname": "SILVIA spec-R Aero (S15) '02",
-        "price": "60,700",
-        "price_in_jpy": "6,070,000",
-        "isOld": false
-      },
-      {
-        "makername": "Chevrolet",
-        "carid": "1542",
-        "carname": "Corvette Convertible (C3) '69",
-        "price": "50,700",
-        "price_in_jpy": "5,070,000",
-        "isOld": true
-      },
-      {
-        "makername": "Honda",
-        "carid": "514",
-        "carname": "S2000 '99",
-        "price": "107,800",
-        "price_in_jpy": "10,780,000",
-        "isOld": true
-      },
-      {
-        "makername": "Dodge",
-        "carid": "1402",
-        "carname": "Viper SRT10 Coupe '06",
-        "price": "112,200",
-        "price_in_jpy": "11,220,000",
-        "isOld": false
-      }
-    ],
-    "list_legend": [
-      {
-        "makername": "Nissan",
-        "carid": "485",
-        "carname": "GT-R GT500 '99",
-        "price": "2,700,000",
-        "price_in_jpy": "270,000,000",
-        "isOld": true
-      },
-      {
-        "makername": "Shelby",
-        "carid": "1926",
-        "carname": "Cobra Daytona Coupe '64",
-        "price": "20,000,000",
-        "price_in_jpy": "2,000,000,000",
-        "isOld": true
-      },
-      {
-        "makername": "Ferrari",
-        "carid": "1931",
-        "carname": "250 GT Berlinetta passo corto '61",
-        "price": "8,300,000",
-        "price_in_jpy": "830,000,000",
-        "isOld": true
-      },
-      {
-        "makername": "Nissan",
-        "carid": "3429",
-        "carname": "Fairlady Z 432 '69",
-        "price": "190,000",
-        "price_in_jpy": "19,000,000",
-        "isOld": true
-      },
-      {
-        "makername": "Aston Martin",
-        "carid": "3445",
-        "carname": "DB5 '64",
-        "price": "958,000",
-        "price_in_jpy": "95,800,000",
         "isOld": true
       }
     ]
