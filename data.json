@@ -1,5 +1,28 @@
 [
   {
+    "date": "2023/6/9",
+    "list_used": [
+      {
+        "makername": "Alfa Romeo",
+        "carid": "1578",
+        "carname": "8C Competizione '08",
+        "price": "289,700",
+        "price_in_jpy": "28,970,000",
+        "isOld": false
+      }
+    ],
+    "list_legend": [
+      {
+        "makername": "Ferrari",
+        "carid": "3362",
+        "carname": "F50 '95",
+        "price": "4,300,000",
+        "price_in_jpy": "430,000,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
     "date": "2023/6/8",
     "list_used": [
       {
@@ -515,60 +538,5 @@
       }
     ],
     "list_legend": []
-  },
-  {
-    "date": "2023/5/26",
-    "list_used": [
-      {
-        "makername": "Fiat",
-        "carid": "1527",
-        "carname": "500 1.2 8V Lounge SS '08",
-        "price": "12,900",
-        "price_in_jpy": "1,290,000",
-        "isOld": false
-      },
-      {
-        "makername": "BMW",
-        "carid": "3422",
-        "carname": "3.0 CSL '73",
-        "price": "202,500",
-        "price_in_jpy": "20,250,000",
-        "isOld": true
-      },
-      {
-        "makername": "De Tomaso",
-        "carid": "3341",
-        "carname": "Pantera '71",
-        "price": "164,600",
-        "price_in_jpy": "16,460,000",
-        "isOld": true
-      },
-      {
-        "makername": "AMG",
-        "carid": "1507",
-        "carname": "SLS AMG '10",
-        "price": "316,800",
-        "price_in_jpy": "31,680,000",
-        "isOld": false
-      }
-    ],
-    "list_legend": [
-      {
-        "makername": "Nissan",
-        "carid": "3493",
-        "carname": "Skyline Super Silhouette Group 5 '84",
-        "price": "1,150,000",
-        "price_in_jpy": "115,000,000",
-        "isOld": true
-      },
-      {
-        "makername": "McLaren",
-        "carid": "3475",
-        "carname": "MP4/4 '88",
-        "price": "10,000,000",
-        "price_in_jpy": "1,000,000,000",
-        "isOld": true
-      }
-    ]
   }
 ]
