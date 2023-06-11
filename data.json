@@ -1,7 +1,7 @@
 [
   {
     "date": "2023/6/11",
-    "list_used": [
+    "used": [
       {
         "makername": "Nissan",
         "carid": "773",
@@ -19,11 +19,11 @@
         "isOld": true
       }
     ],
-    "list_legend": []
+    "legend": []
   },
   {
     "date": "2023/6/10",
-    "list_used": [
+    "used": [
       {
         "makername": "Pontiac",
         "carid": "1985",
@@ -65,11 +65,11 @@
         "isOld": true
       }
     ],
-    "list_legend": []
+    "legend": []
   },
   {
     "date": "2023/6/9",
-    "list_used": [
+    "used": [
       {
         "makername": "Alfa Romeo",
         "carid": "1578",
@@ -79,7 +79,7 @@
         "isOld": false
       }
     ],
-    "list_legend": [
+    "legend": [
       {
         "makername": "Ferrari",
         "carid": "3362",
@@ -92,7 +92,7 @@
   },
   {
     "date": "2023/6/8",
-    "list_used": [
+    "used": [
       {
         "makername": "Autobianchi",
         "carid": "3442",
@@ -126,7 +126,7 @@
         "isOld": false
       }
     ],
-    "list_legend": [
+    "legend": [
       {
         "makername": "Plymouth",
         "carid": "1900",
@@ -139,7 +139,7 @@
   },
   {
     "date": "2023/6/7",
-    "list_used": [
+    "used": [
       {
         "makername": "Nissan",
         "carid": "919",
@@ -181,11 +181,11 @@
         "isOld": true
       }
     ],
-    "list_legend": []
+    "legend": []
   },
   {
     "date": "2023/6/6",
-    "list_used": [
+    "used": [
       {
         "makername": "Renault",
         "carid": "173",
@@ -219,7 +219,7 @@
         "isOld": false
       }
     ],
-    "list_legend": [
+    "legend": [
       {
         "makername": "Ford",
         "carid": "1565",
@@ -256,7 +256,7 @@
   },
   {
     "date": "2023/6/5",
-    "list_used": [
+    "used": [
       {
         "makername": "Volkswagen",
         "carid": "1773",
@@ -290,7 +290,7 @@
         "isOld": false
       }
     ],
-    "list_legend": [
+    "legend": [
       {
         "makername": "Maserati",
         "carid": "3489",
@@ -303,7 +303,7 @@
   },
   {
     "date": "2023/6/4",
-    "list_used": [
+    "used": [
       {
         "makername": "Alfa Romeo",
         "carid": "1933",
@@ -321,11 +321,11 @@
         "isOld": true
       }
     ],
-    "list_legend": []
+    "legend": []
   },
   {
     "date": "2023/6/3",
-    "list_used": [
+    "used": [
       {
         "makername": "Honda",
         "carid": "204",
@@ -351,7 +351,7 @@
         "isOld": false
       }
     ],
-    "list_legend": [
+    "legend": [
       {
         "makername": "Alfa Romeo",
         "carid": "365",
@@ -364,7 +364,7 @@
   },
   {
     "date": "2023/6/2",
-    "list_used": [
+    "used": [
       {
         "makername": "Ferrari",
         "carid": "1895",
@@ -398,7 +398,7 @@
         "isOld": false
       }
     ],
-    "list_legend": [
+    "legend": [
       {
         "makername": "Toyota",
         "carid": "1470",
@@ -411,7 +411,7 @@
   },
   {
     "date": "2023/6/1",
-    "list_used": [
+    "used": [
       {
         "makername": "Toyota",
         "carid": "345",
@@ -437,7 +437,7 @@
         "isOld": true
       }
     ],
-    "list_legend": [
+    "legend": [
       {
         "makername": "Maserati",
         "carid": "3421",
@@ -450,7 +450,7 @@
   },
   {
     "date": "2023/5/31",
-    "list_used": [
+    "used": [
       {
         "makername": "Honda",
         "carid": "137",
@@ -468,11 +468,11 @@
         "isOld": true
       }
     ],
-    "list_legend": []
+    "legend": []
   },
   {
     "date": "2023/5/30",
-    "list_used": [
+    "used": [
       {
         "makername": "Toyota",
         "carid": "1044",
@@ -506,7 +506,7 @@
         "isOld": false
       }
     ],
-    "list_legend": [
+    "legend": [
       {
         "makername": "Porsche",
         "carid": "3490",
@@ -519,7 +519,7 @@
   },
   {
     "date": "2023/5/29",
-    "list_used": [
+    "used": [
       {
         "makername": "Mazda",
         "carid": "201",
@@ -537,6 +537,6 @@
         "isOld": true
       }
     ],
-    "list_legend": []
+    "legend": []
   }
 ]
