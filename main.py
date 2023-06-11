@@ -64,8 +64,8 @@ for i in range(how_many_days):
 
     data.append({
         "date": date_to_import.strftime("%Y/%-m/%-d"),
-        "list_used": list_used,
-        "list_legend": list_legend,
+        "used": list_used,
+        "legend": list_legend,
     })
 
 env = Environment(loader=FileSystemLoader("."))

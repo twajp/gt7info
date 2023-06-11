@@ -52,7 +52,7 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                {%- for car in oneData.list_used %}
+                                {%- for car in oneData.used %}
                                 {%- if car.isOld == True %}
                                 <tr class="table-danger">
                                     {%- elif car.isOld == False %}
@@ -72,7 +72,7 @@
                                     {%- endif %}
                                 </tr>
                                 {%- endfor %}
-                                {%- if oneData.list_used == [] %}
+                                {%- if oneData.used == [] %}
                                 <td colspan="4" style="text-align: center;">No new cars available.</td>
                                 {%- endif %}
                             </tbody>
@@ -96,7 +96,7 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                {%- for car in oneData.list_legend %}
+                                {%- for car in oneData.legend %}
                                 {%- if car.isOld == True %}
                                 <tr class="table-danger">
                                     {%- elif car.isOld == False %}
@@ -116,7 +116,7 @@
                                     {%- endif %}
                                 </tr>
                                 {%- endfor %}
-                                {%- if oneData.list_legend == [] %}
+                                {%- if oneData.legend == [] %}
                                 <td colspan="4" style="text-align: center;">No new cars available.</td>
                                 {%- endif %}
                             </tbody>
