@@ -1,5 +1,60 @@
 [
   {
+    "date": "2023/6/14",
+    "used": [
+      {
+        "makername": "Volkswagen",
+        "carid": "1671",
+        "carname": "Sambabus Typ 2 '62",
+        "price": "61,200",
+        "price_in_jpy": "6,120,000",
+        "isOld": true
+      },
+      {
+        "makername": "DMC",
+        "carid": "1027",
+        "carname": "DeLorean S2 '04",
+        "price": "426,400",
+        "price_in_jpy": "42,640,000",
+        "isOld": false
+      },
+      {
+        "makername": "Chevrolet",
+        "carid": "1480",
+        "carname": "Corvette ZR1 (C6) '09",
+        "price": "102,300",
+        "price_in_jpy": "10,230,000",
+        "isOld": false
+      },
+      {
+        "makername": "Honda",
+        "carid": "396",
+        "carname": "NSX Type R '02",
+        "price": "431,600",
+        "price_in_jpy": "43,160,000",
+        "isOld": false
+      },
+      {
+        "makername": "Audi",
+        "carid": "1365",
+        "carname": "R8 4.2 '07",
+        "price": "136,500",
+        "price_in_jpy": "13,650,000",
+        "isOld": false
+      }
+    ],
+    "legend": [
+      {
+        "makername": "Chevrolet",
+        "carid": "818",
+        "carname": "Corvette (C2) '63",
+        "price": "237,000",
+        "price_in_jpy": "23,700,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
     "date": "2023/6/13",
     "used": [
       {
@@ -517,27 +572,5 @@
         "isOld": true
       }
     ]
-  },
-  {
-    "date": "2023/5/31",
-    "used": [
-      {
-        "makername": "Honda",
-        "carid": "137",
-        "carname": "Beat '91",
-        "price": "17,000",
-        "price_in_jpy": "1,700,000",
-        "isOld": true
-      },
-      {
-        "makername": "Ferrari",
-        "carid": "3434",
-        "carname": "Testarossa '91",
-        "price": "366,500",
-        "price_in_jpy": "36,650,000",
-        "isOld": true
-      }
-    ],
-    "legend": []
   }
 ]
