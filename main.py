@@ -2,6 +2,7 @@ import os
 import csv
 import json
 from datetime import datetime, timedelta
+from shutil import copyfile
 import requests
 from jinja2 import Environment, FileSystemLoader
 
@@ -89,3 +90,6 @@ with open("html/noprice.html", "w") as f:
 
 with open("html/data.json", "w") as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
+
+copyfile("style.css", "html/style.css")
+copyfile("script.js", "html/script.js")
