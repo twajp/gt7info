@@ -1,5 +1,35 @@
 [
   {
+    "date": "2023/6/16",
+    "used": [
+      {
+        "makername": "Toyota",
+        "carid": "810",
+        "carname": "Sprinter Trueno 1600GT APEX (AE86) '83",
+        "price": "48,200",
+        "price_in_jpy": "4,820,000",
+        "isOld": true
+      },
+      {
+        "makername": "Toyota",
+        "carid": "1537",
+        "carname": "Prius G '09",
+        "price": "19,300",
+        "price_in_jpy": "1,930,000",
+        "isOld": false
+      },
+      {
+        "makername": "Mercedes-Benz",
+        "carid": "1528",
+        "carname": "SLR McLaren '09",
+        "price": "496,600",
+        "price_in_jpy": "49,660,000",
+        "isOld": false
+      }
+    ],
+    "legend": []
+  },
+  {
     "date": "2023/6/15",
     "used": [
       {
@@ -538,53 +568,6 @@
         "carname": "155 2.5 V6 TI '93",
         "price": "800,000",
         "price_in_jpy": "80,000,000",
-        "isOld": true
-      }
-    ]
-  },
-  {
-    "date": "2023/6/2",
-    "used": [
-      {
-        "makername": "Ferrari",
-        "carid": "1895",
-        "carname": "Dino 246 GT '71",
-        "price": "358,000",
-        "price_in_jpy": "35,800,000",
-        "isOld": true
-      },
-      {
-        "makername": "Porsche",
-        "carid": "3404",
-        "carname": "911 Carrera RS CS (993) '95",
-        "price": "415,400",
-        "price_in_jpy": "41,540,000",
-        "isOld": true
-      },
-      {
-        "makername": "Nissan",
-        "carid": "1384",
-        "carname": "Fairlady Z Version S (Z33) '07",
-        "price": "26,800",
-        "price_in_jpy": "2,680,000",
-        "isOld": false
-      },
-      {
-        "makername": "Ferrari",
-        "carid": "1378",
-        "carname": "F430 '06",
-        "price": "200,000",
-        "price_in_jpy": "20,000,000",
-        "isOld": false
-      }
-    ],
-    "legend": [
-      {
-        "makername": "Toyota",
-        "carid": "1470",
-        "carname": "Supra GT500 '97",
-        "price": "1,800,000",
-        "price_in_jpy": "180,000,000",
         "isOld": true
       }
     ]
