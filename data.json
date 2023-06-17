@@ -1,5 +1,52 @@
 [
   {
+    "date": "2023/6/17",
+    "used": [
+      {
+        "makername": "Suzuki",
+        "carid": "1385",
+        "carname": "Swift Sport '07",
+        "price": "12,900",
+        "price_in_jpy": "1,290,000",
+        "isOld": false
+      },
+      {
+        "makername": "Mazda",
+        "carid": "374",
+        "carname": "RX-7 GT-X (FC) '90",
+        "price": "59,300",
+        "price_in_jpy": "5,930,000",
+        "isOld": true
+      },
+      {
+        "makername": "Lamborghini",
+        "carid": "1481",
+        "carname": "Countach 25th Anniversary '88",
+        "price": "695,900",
+        "price_in_jpy": "69,590,000",
+        "isOld": true
+      }
+    ],
+    "legend": [
+      {
+        "makername": "Ferrari",
+        "carid": "2011",
+        "carname": "500 Mondial Pinin Farina Coupe '54",
+        "price": "2,700,000",
+        "price_in_jpy": "270,000,000",
+        "isOld": true
+      },
+      {
+        "makername": "Jaguar",
+        "carid": "3361",
+        "carname": "E-type Coupe '61",
+        "price": "227,000",
+        "price_in_jpy": "22,700,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
     "date": "2023/6/16",
     "used": [
       {
@@ -532,44 +579,5 @@
       }
     ],
     "legend": []
-  },
-  {
-    "date": "2023/6/3",
-    "used": [
-      {
-        "makername": "Honda",
-        "carid": "204",
-        "carname": "Civic Type R (EK) '98",
-        "price": "52,800",
-        "price_in_jpy": "5,280,000",
-        "isOld": true
-      },
-      {
-        "makername": "MINI",
-        "carid": "1370",
-        "carname": "MINI Cooper S '05",
-        "price": "21,500",
-        "price_in_jpy": "2,150,000",
-        "isOld": false
-      },
-      {
-        "makername": "Ford",
-        "carid": "1426",
-        "carname": "Ford GT '06",
-        "price": "411,600",
-        "price_in_jpy": "41,160,000",
-        "isOld": false
-      }
-    ],
-    "legend": [
-      {
-        "makername": "Alfa Romeo",
-        "carid": "365",
-        "carname": "155 2.5 V6 TI '93",
-        "price": "800,000",
-        "price_in_jpy": "80,000,000",
-        "isOld": true
-      }
-    ]
   }
 ]
