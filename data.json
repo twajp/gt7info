@@ -1,5 +1,60 @@
 [
   {
+    "date": "2023/6/20",
+    "used": [
+      {
+        "makername": "Suzuki",
+        "carid": "779",
+        "carname": "Cappuccino (EA11R) '91",
+        "price": "17,500",
+        "price_in_jpy": "1,750,000",
+        "isOld": true
+      },
+      {
+        "makername": "BMW",
+        "carid": "3454",
+        "carname": "3.0 CSL '71",
+        "price": "150,000",
+        "price_in_jpy": "15,000,000",
+        "isOld": true
+      },
+      {
+        "makername": "Subaru",
+        "carid": "451",
+        "carname": "Impreza 22B-STi '98",
+        "price": "165,000",
+        "price_in_jpy": "16,500,000",
+        "isOld": true
+      },
+      {
+        "makername": "Chevrolet",
+        "carid": "41",
+        "carname": "Corvette Stingray (C3) '69",
+        "price": "61,600",
+        "price_in_jpy": "6,160,000",
+        "isOld": true
+      },
+      {
+        "makername": "Lamborghini",
+        "carid": "1545",
+        "carname": "Murcielago LP 640 '09",
+        "price": "332,300",
+        "price_in_jpy": "33,230,000",
+        "isOld": false
+      }
+    ],
+    "legend": [
+      {
+        "makername": "Alfa Romeo",
+        "carid": "3415",
+        "carname": "8C 2900B Touring Berlinetta '38",
+        "price": "20,000,000",
+        "price_in_jpy": "2,000,000,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
     "date": "2023/6/19",
     "used": [
       {
@@ -516,76 +571,5 @@
       }
     ],
     "legend": []
-  },
-  {
-    "date": "2023/6/6",
-    "used": [
-      {
-        "makername": "Renault",
-        "carid": "173",
-        "carname": "R5 Turbo '80",
-        "price": "151,900",
-        "price_in_jpy": "15,190,000",
-        "isOld": true
-      },
-      {
-        "makername": "Abarth",
-        "carid": "3438",
-        "carname": "Abarth 595 SS '70",
-        "price": "55,000",
-        "price_in_jpy": "5,500,000",
-        "isOld": true
-      },
-      {
-        "makername": "Ferrari",
-        "carid": "3443",
-        "carname": "308 GTB '75",
-        "price": "171,600",
-        "price_in_jpy": "17,160,000",
-        "isOld": true
-      },
-      {
-        "makername": "BMW",
-        "carid": "3389",
-        "carname": "M3 '03",
-        "price": "72,500",
-        "price_in_jpy": "7,250,000",
-        "isOld": false
-      }
-    ],
-    "legend": [
-      {
-        "makername": "Ford",
-        "carid": "1565",
-        "carname": "Mark IV Race Car '67",
-        "price": "6,750,000",
-        "price_in_jpy": "675,000,000",
-        "isOld": true
-      },
-      {
-        "makername": "Porsche",
-        "carid": "3400",
-        "carname": "911 GT1 Strassenversion '97",
-        "price": "9,000,000",
-        "price_in_jpy": "900,000,000",
-        "isOld": true
-      },
-      {
-        "makername": "Porsche",
-        "carid": "3375",
-        "carname": "356 A/1500 GS Carrera '56",
-        "price": "615,000",
-        "price_in_jpy": "61,500,000",
-        "isOld": true
-      },
-      {
-        "makername": "Mazda",
-        "carid": "1975",
-        "carname": "RX500 '70",
-        "price": "600,000",
-        "price_in_jpy": "60,000,000",
-        "isOld": true
-      }
-    ]
   }
 ]
