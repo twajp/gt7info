@@ -1,5 +1,43 @@
 [
   {
+    "date": "2023/6/23",
+    "used": [
+      {
+        "makername": "Lancia",
+        "carid": "829",
+        "carname": "Delta HF Integrale Evoluzione '91",
+        "price": "99,900",
+        "price_in_jpy": "9,990,000",
+        "isOld": true
+      },
+      {
+        "makername": "Fiat",
+        "carid": "1527",
+        "carname": "500 1.2 8V Lounge SS '08",
+        "price": "12,900",
+        "price_in_jpy": "1,290,000",
+        "isOld": false
+      },
+      {
+        "makername": "Nissan",
+        "carid": "104",
+        "carname": "Sileighty '98",
+        "price": "76,500",
+        "price_in_jpy": "7,650,000",
+        "isOld": true
+      },
+      {
+        "makername": "Porsche",
+        "carid": "3358",
+        "carname": "911 GT3 (996) '01",
+        "price": "157,600",
+        "price_in_jpy": "15,760,000",
+        "isOld": false
+      }
+    ],
+    "legend": []
+  },
+  {
     "date": "2023/6/22",
     "used": [
       {
@@ -541,28 +579,5 @@
       }
     ],
     "legend": []
-  },
-  {
-    "date": "2023/6/9",
-    "used": [
-      {
-        "makername": "Alfa Romeo",
-        "carid": "1578",
-        "carname": "8C Competizione '08",
-        "price": "289,700",
-        "price_in_jpy": "28,970,000",
-        "isOld": false
-      }
-    ],
-    "legend": [
-      {
-        "makername": "Ferrari",
-        "carid": "3362",
-        "carname": "F50 '95",
-        "price": "4,300,000",
-        "price_in_jpy": "430,000,000",
-        "isOld": true
-      }
-    ]
   }
 ]
