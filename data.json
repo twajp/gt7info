@@ -1,5 +1,35 @@
 [
   {
+    "date": "2023/6/24",
+    "used": [
+      {
+        "makername": "BMW",
+        "carid": "3422",
+        "carname": "3.0 CSL '73",
+        "price": "202,500",
+        "price_in_jpy": "20,250,000",
+        "isOld": true
+      },
+      {
+        "makername": "Dodge",
+        "carid": "3377",
+        "carname": "Super Bee '70",
+        "price": "66,400",
+        "price_in_jpy": "6,640,000",
+        "isOld": true
+      },
+      {
+        "makername": "Dodge",
+        "carid": "1373",
+        "carname": "Viper GTS '02",
+        "price": "105,800",
+        "price_in_jpy": "10,580,000",
+        "isOld": false
+      }
+    ],
+    "legend": []
+  },
+  {
     "date": "2023/6/23",
     "used": [
       {
@@ -529,52 +559,6 @@
         "carname": "Corvette ZR-1 (C4) '89",
         "price": "90,700",
         "price_in_jpy": "9,070,000",
-        "isOld": true
-      }
-    ],
-    "legend": []
-  },
-  {
-    "date": "2023/6/10",
-    "used": [
-      {
-        "makername": "Pontiac",
-        "carid": "1985",
-        "carname": "Firebird Trans Am '78",
-        "price": "80,300",
-        "price_in_jpy": "8,030,000",
-        "isOld": true
-      },
-      {
-        "makername": "Toyota",
-        "carid": "63",
-        "carname": "Corolla Levin 1600GT APEX (AE86) '83",
-        "price": "47,900",
-        "price_in_jpy": "4,790,000",
-        "isOld": true
-      },
-      {
-        "makername": "Nissan",
-        "carid": "78",
-        "carname": "Silvia K's Aero (S14) '96",
-        "price": "59,900",
-        "price_in_jpy": "5,990,000",
-        "isOld": true
-      },
-      {
-        "makername": "Toyota",
-        "carid": "843",
-        "carname": "Supra 3.0GT Turbo A '88",
-        "price": "108,100",
-        "price_in_jpy": "10,810,000",
-        "isOld": true
-      },
-      {
-        "makername": "Lamborghini",
-        "carid": "1990",
-        "carname": "Diablo GT '00",
-        "price": "783,400",
-        "price_in_jpy": "78,340,000",
         "isOld": true
       }
     ],
