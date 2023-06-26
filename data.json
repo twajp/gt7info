@@ -1,5 +1,36 @@
 [
   {
+    "date": "2023/6/26",
+    "used": [
+      {
+        "makername": "Mazda",
+        "carid": "201",
+        "carname": "Eunos Roadster (NA) '89",
+        "price": "28,000",
+        "price_in_jpy": "2,800,000",
+        "isOld": true
+      },
+      {
+        "makername": "Volkswagen",
+        "carid": "1778",
+        "carname": "Volkswagen 1200 '66",
+        "price": "29,700",
+        "price_in_jpy": "2,970,000",
+        "isOld": true
+      }
+    ],
+    "legend": [
+      {
+        "makername": "Ferrari",
+        "carid": "2018",
+        "carname": "365 GTB4 '71",
+        "price": "690,000",
+        "price_in_jpy": "69,000,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
     "date": "2023/6/25",
     "used": [
       {
@@ -529,45 +560,6 @@
         "carname": "XJ220 '92",
         "price": "615,000",
         "price_in_jpy": "61,500,000",
-        "isOld": true
-      }
-    ]
-  },
-  {
-    "date": "2023/6/12",
-    "used": [
-      {
-        "makername": "Abarth",
-        "carid": "1973",
-        "carname": "Abarth 500 '09",
-        "price": "25,900",
-        "price_in_jpy": "2,590,000",
-        "isOld": false
-      },
-      {
-        "makername": "Mitsubishi",
-        "carid": "301",
-        "carname": "Lancer Evolution IV GSR '96",
-        "price": "42,300",
-        "price_in_jpy": "4,230,000",
-        "isOld": true
-      },
-      {
-        "makername": "Honda",
-        "carid": "203",
-        "carname": "Integra Type R (DC2) '98",
-        "price": "63,100",
-        "price_in_jpy": "6,310,000",
-        "isOld": true
-      }
-    ],
-    "legend": [
-      {
-        "makername": "Porsche",
-        "carid": "3519",
-        "carname": "959 '87",
-        "price": "1,750,000",
-        "price_in_jpy": "175,000,000",
         "isOld": true
       }
     ]
