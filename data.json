@@ -1,5 +1,60 @@
 [
   {
+    "date": "2023/6/27",
+    "used": [
+      {
+        "makername": "Toyota",
+        "carid": "1044",
+        "carname": "Sports 800 '65",
+        "price": "43,400",
+        "price_in_jpy": "4,340,000",
+        "isOld": true
+      },
+      {
+        "makername": "Ford",
+        "carid": "3466",
+        "carname": "Sierra RS 500 Cosworth '87",
+        "price": "180,400",
+        "price_in_jpy": "18,040,000",
+        "isOld": true
+      },
+      {
+        "makername": "Nissan",
+        "carid": "1448",
+        "carname": "SILVIA spec-R Aero (S15) '02",
+        "price": "60,700",
+        "price_in_jpy": "6,070,000",
+        "isOld": false
+      },
+      {
+        "makername": "Chevrolet",
+        "carid": "1542",
+        "carname": "Corvette Convertible (C3) '69",
+        "price": "50,700",
+        "price_in_jpy": "5,070,000",
+        "isOld": true
+      }
+    ],
+    "legend": [
+      {
+        "makername": "Aston Martin",
+        "carid": "3363",
+        "carname": "DB3S '53",
+        "price": "6,000,000",
+        "price_in_jpy": "600,000,000",
+        "isOld": true
+      },
+      {
+        "makername": "McLaren",
+        "carid": "1540",
+        "carname": "McLaren F1 '94",
+        "price": "20,000,000",
+        "price_in_jpy": "2,000,000,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
     "date": "2023/6/26",
     "used": [
       {
@@ -529,37 +584,6 @@
         "carname": "Corvette (C2) '63",
         "price": "237,000",
         "price_in_jpy": "23,700,000",
-        "isOld": true
-      }
-    ]
-  },
-  {
-    "date": "2023/6/13",
-    "used": [
-      {
-        "makername": "Volkswagen",
-        "carid": "3403",
-        "carname": "Golf I GTI '83",
-        "price": "47,100",
-        "price_in_jpy": "4,710,000",
-        "isOld": true
-      },
-      {
-        "makername": "Toyota",
-        "carid": "345",
-        "carname": "Sprinter Trueno 1600GT APEX (S.Shigeno Version)",
-        "price": "104,900",
-        "price_in_jpy": "10,490,000",
-        "isOld": null
-      }
-    ],
-    "legend": [
-      {
-        "makername": "Jaguar",
-        "carid": "543",
-        "carname": "XJ220 '92",
-        "price": "615,000",
-        "price_in_jpy": "61,500,000",
         "isOld": true
       }
     ]
