@@ -1,5 +1,36 @@
 [
   {
+    "date": "2023/7/2",
+    "used": [
+      {
+        "makername": "Volkswagen",
+        "carid": "1773",
+        "carname": "Scirocco R '10",
+        "price": "42,000",
+        "price_in_jpy": "4,200,000",
+        "isOld": false
+      },
+      {
+        "makername": "McLaren",
+        "carid": "1722",
+        "carname": "MP4-12C '10",
+        "price": "200,200",
+        "price_in_jpy": "20,020,000",
+        "isOld": false
+      }
+    ],
+    "legend": [
+      {
+        "makername": "Peugeot",
+        "carid": "105",
+        "carname": "205 Turbo 16 Evolution 2 '86",
+        "price": "1,100,000",
+        "price_in_jpy": "110,000,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
     "date": "2023/7/1",
     "used": [
       {
@@ -556,52 +587,5 @@
       }
     ],
     "legend": []
-  },
-  {
-    "date": "2023/6/18",
-    "used": [
-      {
-        "makername": "Audi",
-        "carid": "959",
-        "carname": "TT Coupe 3.2 quattro '03",
-        "price": "47,300",
-        "price_in_jpy": "4,730,000",
-        "isOld": false
-      },
-      {
-        "makername": "BMW",
-        "carid": "3453",
-        "carname": "M3 '89",
-        "price": "72,800",
-        "price_in_jpy": "7,280,000",
-        "isOld": true
-      },
-      {
-        "makername": "Porsche",
-        "carid": "3359",
-        "carname": "911 GT3 (997) '09",
-        "price": "143,800",
-        "price_in_jpy": "14,380,000",
-        "isOld": false
-      }
-    ],
-    "legend": [
-      {
-        "makername": "Porsche",
-        "carid": "3410",
-        "carname": "917K '70",
-        "price": "18,000,000",
-        "price_in_jpy": "1,800,000,000",
-        "isOld": true
-      },
-      {
-        "makername": "Chaparral",
-        "carid": "1069",
-        "carname": "2J '70",
-        "price": "2,500,000",
-        "price_in_jpy": "250,000,000",
-        "isOld": true
-      }
-    ]
   }
 ]
