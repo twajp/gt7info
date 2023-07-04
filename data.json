@@ -1,5 +1,51 @@
 [
   {
+    "date": "2023/7/4",
+    "used": [
+      {
+        "makername": "Abarth",
+        "carid": "3438",
+        "carname": "Abarth 595 SS '70",
+        "price": "47,900",
+        "price_in_jpy": "4,790,000",
+        "isOld": true
+      },
+      {
+        "makername": "Nissan",
+        "carid": "919",
+        "carname": "Silvia Q's (S13) '88",
+        "price": "35,100",
+        "price_in_jpy": "3,510,000",
+        "isOld": true
+      },
+      {
+        "makername": "Ferrari",
+        "carid": "3443",
+        "carname": "308 GTB '75",
+        "price": "171,600",
+        "price_in_jpy": "17,160,000",
+        "isOld": true
+      },
+      {
+        "makername": "Porsche",
+        "carid": "3404",
+        "carname": "911 Carrera RS CS (993) '95",
+        "price": "438,500",
+        "price_in_jpy": "43,850,000",
+        "isOld": true
+      },
+      {
+        "makername": "Nissan",
+        "carid": "1384",
+        "carname": "Fairlady Z Version S (Z33) '07",
+        "price": "31,300",
+        "price_in_jpy": "3,130,000",
+        "isOld": false
+      }
+    ],
+    "legend": []
+  },
+  {
     "date": "2023/7/3",
     "used": [
       {
@@ -562,61 +608,6 @@
         "carname": "330 P4 '67",
         "price": "9,500,000",
         "price_in_jpy": "950,000,000",
-        "isOld": true
-      }
-    ]
-  },
-  {
-    "date": "2023/6/20",
-    "used": [
-      {
-        "makername": "Suzuki",
-        "carid": "779",
-        "carname": "Cappuccino (EA11R) '91",
-        "price": "17,500",
-        "price_in_jpy": "1,750,000",
-        "isOld": true
-      },
-      {
-        "makername": "BMW",
-        "carid": "3454",
-        "carname": "3.0 CSL '71",
-        "price": "150,000",
-        "price_in_jpy": "15,000,000",
-        "isOld": true
-      },
-      {
-        "makername": "Subaru",
-        "carid": "451",
-        "carname": "Impreza 22B-STi '98",
-        "price": "165,000",
-        "price_in_jpy": "16,500,000",
-        "isOld": true
-      },
-      {
-        "makername": "Chevrolet",
-        "carid": "41",
-        "carname": "Corvette Stingray (C3) '69",
-        "price": "61,600",
-        "price_in_jpy": "6,160,000",
-        "isOld": true
-      },
-      {
-        "makername": "Lamborghini",
-        "carid": "1545",
-        "carname": "Murcielago LP 640 '09",
-        "price": "332,300",
-        "price_in_jpy": "33,230,000",
-        "isOld": false
-      }
-    ],
-    "legend": [
-      {
-        "makername": "Alfa Romeo",
-        "carid": "3415",
-        "carname": "8C 2900B Touring Berlinetta '38",
-        "price": "20,000,000",
-        "price_in_jpy": "2,000,000,000",
         "isOld": true
       }
     ]
