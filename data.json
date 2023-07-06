@@ -1,5 +1,27 @@
 [
   {
+    "date": "2023/7/6",
+    "used": [],
+    "legend": [
+      {
+        "makername": "Ford",
+        "carid": "3487",
+        "carname": "Mustang Boss 429 '69",
+        "price": "323,000",
+        "price_in_jpy": "32,300,000",
+        "isOld": true
+      },
+      {
+        "makername": "Toyota",
+        "carid": "781",
+        "carname": "Celica GT-FOUR Rally Car (ST205) '95",
+        "price": "250,000",
+        "price_in_jpy": "25,000,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
     "date": "2023/7/5",
     "used": [
       {
@@ -571,52 +593,5 @@
       }
     ],
     "legend": []
-  },
-  {
-    "date": "2023/6/22",
-    "used": [
-      {
-        "makername": "Honda",
-        "carid": "821",
-        "carname": "Civic Type R (EK) '97",
-        "price": "54,600",
-        "price_in_jpy": "5,460,000",
-        "isOld": true
-      },
-      {
-        "makername": "Honda",
-        "carid": "293",
-        "carname": "NSX Type R '92",
-        "price": "399,200",
-        "price_in_jpy": "39,920,000",
-        "isOld": true
-      },
-      {
-        "makername": "Toyota",
-        "carid": "82",
-        "carname": "Supra RZ '97",
-        "price": "180,400",
-        "price_in_jpy": "18,040,000",
-        "isOld": true
-      }
-    ],
-    "legend": [
-      {
-        "makername": "Ford",
-        "carid": "3444",
-        "carname": "1932 Ford Roadster Hot Rod",
-        "price": "400,000",
-        "price_in_jpy": "40,000,000",
-        "isOld": null
-      },
-      {
-        "makername": "AMG",
-        "carid": "3397",
-        "carname": "CLK-LM '98",
-        "price": "6,500,000",
-        "price_in_jpy": "650,000,000",
-        "isOld": true
-      }
-    ]
   }
 ]
