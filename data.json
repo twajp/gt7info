@@ -1,5 +1,28 @@
 [
   {
+    "date": "2023/7/7",
+    "used": [
+      {
+        "makername": "TVR",
+        "carid": "187",
+        "carname": "Tuscan Speed 6 '00",
+        "price": "82,200",
+        "price_in_jpy": "8,220,000",
+        "isOld": true
+      }
+    ],
+    "legend": [
+      {
+        "makername": "Suzuki",
+        "carid": "808",
+        "carname": "V6 Escudo Pikes Peak Special spec.98",
+        "price": "1,700,000",
+        "price_in_jpy": "170,000,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
     "date": "2023/7/6",
     "used": [],
     "legend": [
@@ -551,44 +574,6 @@
         "carname": "Viper GTS '02",
         "price": "105,800",
         "price_in_jpy": "10,580,000",
-        "isOld": false
-      }
-    ],
-    "legend": []
-  },
-  {
-    "date": "2023/6/23",
-    "used": [
-      {
-        "makername": "Lancia",
-        "carid": "829",
-        "carname": "Delta HF Integrale Evoluzione '91",
-        "price": "99,900",
-        "price_in_jpy": "9,990,000",
-        "isOld": true
-      },
-      {
-        "makername": "Fiat",
-        "carid": "1527",
-        "carname": "500 1.2 8V Lounge SS '08",
-        "price": "12,900",
-        "price_in_jpy": "1,290,000",
-        "isOld": false
-      },
-      {
-        "makername": "Nissan",
-        "carid": "104",
-        "carname": "Sileighty '98",
-        "price": "76,500",
-        "price_in_jpy": "7,650,000",
-        "isOld": true
-      },
-      {
-        "makername": "Porsche",
-        "carid": "3358",
-        "carname": "911 GT3 (996) '01",
-        "price": "157,600",
-        "price_in_jpy": "15,760,000",
         "isOld": false
       }
     ],
