@@ -1,5 +1,44 @@
 [
   {
+    "date": "2023/7/8",
+    "used": [
+      {
+        "makername": "Autobianchi",
+        "carid": "3442",
+        "carname": "A112 Abarth '85",
+        "price": "31,800",
+        "price_in_jpy": "3,180,000",
+        "isOld": true
+      },
+      {
+        "makername": "Mitsubishi",
+        "carid": "211",
+        "carname": "Lancer Evolution V GSR '98",
+        "price": "71,100",
+        "price_in_jpy": "7,110,000",
+        "isOld": true
+      },
+      {
+        "makername": "Nissan",
+        "carid": "3524",
+        "carname": "GT-R NISMO (R32) '90",
+        "price": "383,900",
+        "price_in_jpy": "38,390,000",
+        "isOld": true
+      }
+    ],
+    "legend": [
+      {
+        "makername": "Jaguar",
+        "carid": "1553",
+        "carname": "XJ13 '66",
+        "price": "12,000,000",
+        "price_in_jpy": "1,200,000,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
     "date": "2023/7/7",
     "used": [
       {
@@ -544,36 +583,6 @@
         "carname": "458 Italia '09",
         "price": "246,500",
         "price_in_jpy": "24,650,000",
-        "isOld": false
-      }
-    ],
-    "legend": []
-  },
-  {
-    "date": "2023/6/24",
-    "used": [
-      {
-        "makername": "BMW",
-        "carid": "3422",
-        "carname": "3.0 CSL '73",
-        "price": "202,500",
-        "price_in_jpy": "20,250,000",
-        "isOld": true
-      },
-      {
-        "makername": "Dodge",
-        "carid": "3377",
-        "carname": "Super Bee '70",
-        "price": "66,400",
-        "price_in_jpy": "6,640,000",
-        "isOld": true
-      },
-      {
-        "makername": "Dodge",
-        "carid": "1373",
-        "carname": "Viper GTS '02",
-        "price": "105,800",
-        "price_in_jpy": "10,580,000",
         "isOld": false
       }
     ],
