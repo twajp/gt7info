@@ -1,5 +1,51 @@
 [
   {
+    "date": "2023/7/12",
+    "used": [
+      {
+        "makername": "Abarth",
+        "carid": "1973",
+        "carname": "Abarth 500 '09",
+        "price": "21,800",
+        "price_in_jpy": "2,180,000",
+        "isOld": false
+      },
+      {
+        "makername": "Volkswagen",
+        "carid": "3403",
+        "carname": "Golf I GTI '83",
+        "price": "43,400",
+        "price_in_jpy": "4,340,000",
+        "isOld": true
+      },
+      {
+        "makername": "Volkswagen",
+        "carid": "1671",
+        "carname": "Sambabus Typ 2 '62",
+        "price": "59,600",
+        "price_in_jpy": "5,960,000",
+        "isOld": true
+      },
+      {
+        "makername": "DMC",
+        "carid": "1027",
+        "carname": "DeLorean S2 '04",
+        "price": "458,900",
+        "price_in_jpy": "45,890,000",
+        "isOld": false
+      },
+      {
+        "makername": "Alfa Romeo",
+        "carid": "1578",
+        "carname": "8C Competizione '08",
+        "price": "286,600",
+        "price_in_jpy": "28,660,000",
+        "isOld": false
+      }
+    ],
+    "legend": []
+  },
+  {
     "date": "2023/7/11",
     "used": [
       {
@@ -560,61 +606,6 @@
         "carname": "Skyline 2000GT-R (KPGC110) '73",
         "price": "542,000",
         "price_in_jpy": "54,200,000",
-        "isOld": true
-      }
-    ]
-  },
-  {
-    "date": "2023/6/28",
-    "used": [
-      {
-        "makername": "Nissan",
-        "carid": "48",
-        "carname": "Fairlady 240ZG (HS30) '71",
-        "price": "99,100",
-        "price_in_jpy": "9,910,000",
-        "isOld": true
-      },
-      {
-        "makername": "Honda",
-        "carid": "514",
-        "carname": "S2000 '99",
-        "price": "107,800",
-        "price_in_jpy": "10,780,000",
-        "isOld": true
-      },
-      {
-        "makername": "Dodge",
-        "carid": "1402",
-        "carname": "Viper SRT10 Coupe '06",
-        "price": "112,200",
-        "price_in_jpy": "11,220,000",
-        "isOld": false
-      },
-      {
-        "makername": "AMG",
-        "carid": "1507",
-        "carname": "SLS AMG '10",
-        "price": "316,800",
-        "price_in_jpy": "31,680,000",
-        "isOld": false
-      }
-    ],
-    "legend": [
-      {
-        "makername": "Mercedes-Benz",
-        "carid": "3441",
-        "carname": "300 SL (W194) '52",
-        "price": "20,000,000",
-        "price_in_jpy": "2,000,000,000",
-        "isOld": true
-      },
-      {
-        "makername": "Abarth",
-        "carid": "1932",
-        "carname": "1500 Biposto Bertone B.A.T 1 '52",
-        "price": "1,000,000",
-        "price_in_jpy": "100,000,000",
         "isOld": true
       }
     ]
