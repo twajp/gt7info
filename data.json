@@ -1,5 +1,60 @@
 [
   {
+    "date": "2023/7/13",
+    "used": [
+      {
+        "makername": "Nissan",
+        "carid": "3513",
+        "carname": "Silvia K's Type S (S14) '94",
+        "price": "45,500",
+        "price_in_jpy": "4,550,000",
+        "isOld": true
+      },
+      {
+        "makername": "Fiat",
+        "carid": "1523",
+        "carname": "500 F '68",
+        "price": "18,700",
+        "price_in_jpy": "1,870,000",
+        "isOld": true
+      },
+      {
+        "makername": "Ford",
+        "carid": "1729",
+        "carname": "Mustang Mach 1 '71",
+        "price": "40,900",
+        "price_in_jpy": "4,090,000",
+        "isOld": true
+      },
+      {
+        "makername": "Renault",
+        "carid": "334",
+        "carname": "Clio V6 24V '00",
+        "price": "72,800",
+        "price_in_jpy": "7,280,000",
+        "isOld": true
+      },
+      {
+        "makername": "Lamborghini",
+        "carid": "1990",
+        "carname": "Diablo GT '00",
+        "price": "828,800",
+        "price_in_jpy": "82,880,000",
+        "isOld": true
+      }
+    ],
+    "legend": [
+      {
+        "makername": "AMG",
+        "carid": "3388",
+        "carname": "300 SEL 6.8 AMG '71",
+        "price": "700,000",
+        "price_in_jpy": "70,000,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
     "date": "2023/7/12",
     "used": [
       {
@@ -522,92 +577,5 @@
       }
     ],
     "legend": []
-  },
-  {
-    "date": "2023/6/29",
-    "used": [
-      {
-        "makername": "Mitsubishi",
-        "carid": "931",
-        "carname": "Lancer Evolution III GSR '95",
-        "price": "100,000",
-        "price_in_jpy": "10,000,000",
-        "isOld": true
-      },
-      {
-        "makername": "Subaru",
-        "carid": "3432",
-        "carname": "Impreza Sedan WRX STi '04",
-        "price": "42,000",
-        "price_in_jpy": "4,200,000",
-        "isOld": false
-      },
-      {
-        "makername": "Honda",
-        "carid": "137",
-        "carname": "Beat '91",
-        "price": "17,000",
-        "price_in_jpy": "1,700,000",
-        "isOld": true
-      },
-      {
-        "makername": "Nissan",
-        "carid": "1461",
-        "carname": "Silvia K's Dia Selection (S13) '90",
-        "price": "53,200",
-        "price_in_jpy": "5,320,000",
-        "isOld": true
-      },
-      {
-        "makername": "De Tomaso",
-        "carid": "3341",
-        "carname": "Pantera '71",
-        "price": "164,600",
-        "price_in_jpy": "16,460,000",
-        "isOld": true
-      },
-      {
-        "makername": "Honda",
-        "carid": "688",
-        "carname": "Integra Type R (DC2) '95",
-        "price": "61,500",
-        "price_in_jpy": "6,150,000",
-        "isOld": true
-      },
-      {
-        "makername": "Nissan",
-        "carid": "24",
-        "carname": "180SX Type X '96",
-        "price": "49,900",
-        "price_in_jpy": "4,990,000",
-        "isOld": true
-      },
-      {
-        "makername": "Nissan",
-        "carid": "210",
-        "carname": "R34 GT-R V-spec II Nur '02",
-        "price": "401,300",
-        "price_in_jpy": "40,130,000",
-        "isOld": false
-      },
-      {
-        "makername": "Honda",
-        "carid": "1689",
-        "carname": "Civic Type R (EK) Touring Car",
-        "price": "115,600",
-        "price_in_jpy": "11,560,000",
-        "isOld": null
-      }
-    ],
-    "legend": [
-      {
-        "makername": "Nissan",
-        "carid": "836",
-        "carname": "Skyline 2000GT-R (KPGC110) '73",
-        "price": "542,000",
-        "price_in_jpy": "54,200,000",
-        "isOld": true
-      }
-    ]
   }
 ]
