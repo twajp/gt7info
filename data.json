@@ -1,5 +1,36 @@
 [
   {
+    "date": "2023/7/15",
+    "used": [
+      {
+        "makername": "Toyota",
+        "carid": "1537",
+        "carname": "Prius G '09",
+        "price": "21,900",
+        "price_in_jpy": "2,190,000",
+        "isOld": false
+      },
+      {
+        "makername": "Mazda",
+        "carid": "374",
+        "carname": "RX-7 GT-X (FC) '90",
+        "price": "52,500",
+        "price_in_jpy": "5,250,000",
+        "isOld": true
+      }
+    ],
+    "legend": [
+      {
+        "makername": "Ferrari",
+        "carid": "1409",
+        "carname": "F40 '92",
+        "price": "3,000,000",
+        "price_in_jpy": "300,000,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
     "date": "2023/7/14",
     "used": [
       {
@@ -528,45 +559,6 @@
         "price": "1,100,000",
         "price_in_jpy": "110,000,000",
         "isOld": true
-      }
-    ]
-  },
-  {
-    "date": "2023/7/1",
-    "used": [
-      {
-        "makername": "Alpine",
-        "carid": "1796",
-        "carname": "A110 '72",
-        "price": "133,800",
-        "price_in_jpy": "13,380,000",
-        "isOld": true
-      },
-      {
-        "makername": "MINI",
-        "carid": "1370",
-        "carname": "MINI Cooper S '05",
-        "price": "23,600",
-        "price_in_jpy": "2,360,000",
-        "isOld": false
-      },
-      {
-        "makername": "BMW",
-        "carid": "1893",
-        "carname": "Z8 '01",
-        "price": "258,300",
-        "price_in_jpy": "25,830,000",
-        "isOld": false
-      }
-    ],
-    "legend": [
-      {
-        "makername": "De Tomaso",
-        "carid": "3505",
-        "carname": "Mangusta (Christian Dior)",
-        "price": "500,000",
-        "price_in_jpy": "50,000,000",
-        "isOld": null
       }
     ]
   }
