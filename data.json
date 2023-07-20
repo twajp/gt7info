@@ -1,5 +1,44 @@
 [
   {
+    "date": "2023/7/20",
+    "used": [
+      {
+        "makername": "Nissan",
+        "carid": "48",
+        "carname": "Fairlady 240ZG (HS30) '71",
+        "price": "102,100",
+        "price_in_jpy": "10,210,000",
+        "isOld": true
+      },
+      {
+        "makername": "Subaru",
+        "carid": "379",
+        "carname": "Impreza Coupe WRX Type R STi Ver.VI '99",
+        "price": "56,200",
+        "price_in_jpy": "5,620,000",
+        "isOld": true
+      },
+      {
+        "makername": "Mercedes-Benz",
+        "carid": "1528",
+        "carname": "SLR McLaren '09",
+        "price": "524,500",
+        "price_in_jpy": "52,450,000",
+        "isOld": false
+      }
+    ],
+    "legend": [
+      {
+        "makername": "Ferrari",
+        "carid": "2017",
+        "carname": "GTO '84",
+        "price": "3,550,000",
+        "price_in_jpy": "355,000,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
     "date": "2023/7/19",
     "used": [
       {
@@ -546,28 +585,6 @@
         "carname": "V6 Escudo Pikes Peak Special spec.98",
         "price": "1,700,000",
         "price_in_jpy": "170,000,000",
-        "isOld": true
-      }
-    ]
-  },
-  {
-    "date": "2023/7/6",
-    "used": [],
-    "legend": [
-      {
-        "makername": "Ford",
-        "carid": "3487",
-        "carname": "Mustang Boss 429 '69",
-        "price": "323,000",
-        "price_in_jpy": "32,300,000",
-        "isOld": true
-      },
-      {
-        "makername": "Toyota",
-        "carid": "781",
-        "carname": "Celica GT-FOUR Rally Car (ST205) '95",
-        "price": "250,000",
-        "price_in_jpy": "25,000,000",
         "isOld": true
       }
     ]
