@@ -1,5 +1,43 @@
 [
   {
+    "date": "2023/7/21",
+    "used": [
+      {
+        "makername": "BMW",
+        "carid": "3422",
+        "carname": "3.0 CSL '73",
+        "price": "205,300",
+        "price_in_jpy": "20,530,000",
+        "isOld": true
+      },
+      {
+        "makername": "Honda",
+        "carid": "514",
+        "carname": "S2000 '99",
+        "price": "97,400",
+        "price_in_jpy": "9,740,000",
+        "isOld": true
+      },
+      {
+        "makername": "Lamborghini",
+        "carid": "1481",
+        "carname": "Countach 25th Anniversary '88",
+        "price": "656,000",
+        "price_in_jpy": "65,600,000",
+        "isOld": true
+      },
+      {
+        "makername": "Porsche",
+        "carid": "3359",
+        "carname": "911 GT3 (997) '09",
+        "price": "138,100",
+        "price_in_jpy": "13,810,000",
+        "isOld": false
+      }
+    ],
+    "legend": []
+  },
+  {
     "date": "2023/7/20",
     "used": [
       {
@@ -562,29 +600,6 @@
         "carname": "XJ13 '66",
         "price": "12,000,000",
         "price_in_jpy": "1,200,000,000",
-        "isOld": true
-      }
-    ]
-  },
-  {
-    "date": "2023/7/7",
-    "used": [
-      {
-        "makername": "TVR",
-        "carid": "187",
-        "carname": "Tuscan Speed 6 '00",
-        "price": "82,200",
-        "price_in_jpy": "8,220,000",
-        "isOld": true
-      }
-    ],
-    "legend": [
-      {
-        "makername": "Suzuki",
-        "carid": "808",
-        "carname": "V6 Escudo Pikes Peak Special spec.98",
-        "price": "1,700,000",
-        "price_in_jpy": "170,000,000",
         "isOld": true
       }
     ]
