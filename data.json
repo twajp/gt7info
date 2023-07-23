@@ -1,5 +1,19 @@
 [
   {
+    "date": "2023/7/23",
+    "used": [
+      {
+        "makername": "Mitsubishi",
+        "carid": "1508",
+        "carname": "Lancer Evolution VI GSR T.M. SCP '99",
+        "price": "168,100",
+        "price_in_jpy": "16,810,000",
+        "isOld": true
+      }
+    ],
+    "legend": []
+  },
+  {
     "date": "2023/7/22",
     "used": [
       {
@@ -565,59 +579,5 @@
         "isOld": true
       }
     ]
-  },
-  {
-    "date": "2023/7/9",
-    "used": [
-      {
-        "makername": "Pontiac",
-        "carid": "1985",
-        "carname": "Firebird Trans Am '78",
-        "price": "87,800",
-        "price_in_jpy": "8,780,000",
-        "isOld": true
-      },
-      {
-        "makername": "Toyota",
-        "carid": "63",
-        "carname": "Corolla Levin 1600GT APEX (AE86) '83",
-        "price": "51,800",
-        "price_in_jpy": "5,180,000",
-        "isOld": true
-      },
-      {
-        "makername": "Nissan",
-        "carid": "78",
-        "carname": "Silvia K's Aero (S14) '96",
-        "price": "57,800",
-        "price_in_jpy": "5,780,000",
-        "isOld": true
-      },
-      {
-        "makername": "Toyota",
-        "carid": "843",
-        "carname": "Supra 3.0GT Turbo A '88",
-        "price": "113,200",
-        "price_in_jpy": "11,320,000",
-        "isOld": true
-      },
-      {
-        "makername": "Nissan",
-        "carid": "773",
-        "carname": "R32 GT-R V-spec II '94",
-        "price": "171,200",
-        "price_in_jpy": "17,120,000",
-        "isOld": true
-      },
-      {
-        "makername": "BMW",
-        "carid": "1399",
-        "carname": "M3 '07",
-        "price": "69,600",
-        "price_in_jpy": "6,960,000",
-        "isOld": false
-      }
-    ],
-    "legend": []
   }
 ]
