@@ -1,5 +1,19 @@
 [
   {
+    "date": "2023/7/24",
+    "used": [
+      {
+        "makername": "Honda",
+        "carid": "821",
+        "carname": "Civic Type R (EK) '97",
+        "price": "55,200",
+        "price_in_jpy": "5,520,000",
+        "isOld": true
+      }
+    ],
+    "legend": []
+  },
+  {
     "date": "2023/7/23",
     "used": [
       {
@@ -532,52 +546,5 @@
       }
     ],
     "legend": []
-  },
-  {
-    "date": "2023/7/10",
-    "used": [
-      {
-        "makername": "Mitsubishi",
-        "carid": "301",
-        "carname": "Lancer Evolution IV GSR '96",
-        "price": "41,400",
-        "price_in_jpy": "4,140,000",
-        "isOld": true
-      }
-    ],
-    "legend": [
-      {
-        "makername": "Ferrari",
-        "carid": "2010",
-        "carname": "250 GTO '62",
-        "price": "20,000,000",
-        "price_in_jpy": "2,000,000,000",
-        "isOld": true
-      },
-      {
-        "makername": "Toyota",
-        "carid": "604",
-        "carname": "2000GT '67",
-        "price": "936,000",
-        "price_in_jpy": "93,600,000",
-        "isOld": true
-      },
-      {
-        "makername": "Jaguar",
-        "carid": "1067",
-        "carname": "XJR-9 '88",
-        "price": "2,200,000",
-        "price_in_jpy": "220,000,000",
-        "isOld": true
-      },
-      {
-        "makername": "Pontiac",
-        "carid": "3462",
-        "carname": "GTO 'The Judge' '69",
-        "price": "201,000",
-        "price_in_jpy": "20,100,000",
-        "isOld": true
-      }
-    ]
   }
 ]
