@@ -1,5 +1,19 @@
 [
   {
+    "date": "2023/7/31",
+    "used": [
+      {
+        "makername": "Ferrari",
+        "carid": "1504",
+        "carname": "458 Italia '09",
+        "price": "244,100",
+        "price_in_jpy": "24,410,000",
+        "isOld": false
+      }
+    ],
+    "legend": []
+  },
+  {
     "date": "2023/7/30",
     "used": [
       {
@@ -545,45 +559,6 @@
         "carname": "Corvette Stingray Racer Concept '59",
         "price": "4,000,000",
         "price_in_jpy": "400,000,000",
-        "isOld": true
-      }
-    ]
-  },
-  {
-    "date": "2023/7/17",
-    "used": [
-      {
-        "makername": "Audi",
-        "carid": "959",
-        "carname": "TT Coupe 3.2 quattro '03",
-        "price": "49,800",
-        "price_in_jpy": "4,980,000",
-        "isOld": false
-      },
-      {
-        "makername": "Chevrolet",
-        "carid": "1480",
-        "carname": "Corvette ZR1 (C6) '09",
-        "price": "107,700",
-        "price_in_jpy": "10,770,000",
-        "isOld": false
-      },
-      {
-        "makername": "Honda",
-        "carid": "396",
-        "carname": "NSX Type R '02",
-        "price": "440,200",
-        "price_in_jpy": "44,020,000",
-        "isOld": false
-      }
-    ],
-    "legend": [
-      {
-        "makername": "Renault",
-        "carid": "1986",
-        "carname": "R8 Gordini '66",
-        "price": "32,500",
-        "price_in_jpy": "3,250,000",
         "isOld": true
       }
     ]
