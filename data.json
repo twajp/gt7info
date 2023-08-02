@@ -1,5 +1,44 @@
 [
   {
+    "date": "2023/8/2",
+    "used": [
+      {
+        "makername": "Alfa Romeo",
+        "carid": "1933",
+        "carname": "MiTo '09",
+        "price": "24,900",
+        "price_in_jpy": "2,490,000",
+        "isOld": false
+      },
+      {
+        "makername": "Renault",
+        "carid": "173",
+        "carname": "R5 Turbo '80",
+        "price": "146,700",
+        "price_in_jpy": "14,670,000",
+        "isOld": true
+      },
+      {
+        "makername": "Nissan",
+        "carid": "24",
+        "carname": "180SX Type X '96",
+        "price": "46,800",
+        "price_in_jpy": "4,680,000",
+        "isOld": true
+      }
+    ],
+    "legend": [
+      {
+        "makername": "Audi",
+        "carid": "1927",
+        "carname": "Sport quattro S1 Pikes Peak '87",
+        "price": "2,300,000",
+        "price_in_jpy": "230,000,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
     "date": "2023/8/1",
     "used": [
       {
@@ -480,77 +519,6 @@
         "carname": "GTO '84",
         "price": "3,550,000",
         "price_in_jpy": "355,000,000",
-        "isOld": true
-      }
-    ]
-  },
-  {
-    "date": "2023/7/19",
-    "used": [
-      {
-        "makername": "Daihatsu",
-        "carid": "145",
-        "carname": "Copen '02",
-        "price": "13,400",
-        "price_in_jpy": "1,340,000",
-        "isOld": false
-      },
-      {
-        "makername": "Lancia",
-        "carid": "829",
-        "carname": "Delta HF Integrale Evoluzione '91",
-        "price": "99,700",
-        "price_in_jpy": "9,970,000",
-        "isOld": true
-      },
-      {
-        "makername": "Suzuki",
-        "carid": "779",
-        "carname": "Cappuccino (EA11R) '91",
-        "price": "16,000",
-        "price_in_jpy": "1,600,000",
-        "isOld": true
-      },
-      {
-        "makername": "Chevrolet",
-        "carid": "41",
-        "carname": "Corvette Stingray (C3) '69",
-        "price": "54,700",
-        "price_in_jpy": "5,470,000",
-        "isOld": true
-      },
-      {
-        "makername": "Toyota",
-        "carid": "207",
-        "carname": "MR2 GT-S '97",
-        "price": "58,100",
-        "price_in_jpy": "5,810,000",
-        "isOld": true
-      },
-      {
-        "makername": "Nissan",
-        "carid": "489",
-        "carname": "R33 GT-R V-spec '97",
-        "price": "160,400",
-        "price_in_jpy": "16,040,000",
-        "isOld": true
-      }
-    ],
-    "legend": [
-      {
-        "makername": "Mercedes-Benz",
-        "carid": "998",
-        "carname": "Sauber Mercedes C9 '89",
-        "price": "3,000,000",
-        "price_in_jpy": "300,000,000",
-        "isOld": true
-      },
-      {
-        "makername": "Plymouth",
-        "carid": "665",
-        "carname": "Superbird '70",
-        "price": "510,000",
-        "price_in_jpy": "51,000,000",
         "isOld": true
       }
     ]
