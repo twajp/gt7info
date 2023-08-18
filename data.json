@@ -1,5 +1,35 @@
 [
   {
+    "date": "2023/8/18",
+    "used": [
+      {
+        "makername": "Abarth",
+        "carid": "1973",
+        "carname": "Abarth 500 '09",
+        "price": "23,300",
+        "price_in_jpy": "2,330,000",
+        "isOld": false
+      },
+      {
+        "makername": "Nissan",
+        "carid": "78",
+        "carname": "Silvia K's Aero (S14) '96",
+        "price": "59,000",
+        "price_in_jpy": "5,900,000",
+        "isOld": true
+      },
+      {
+        "makername": "Nissan",
+        "carid": "3524",
+        "carname": "GT-R NISMO (R32) '90",
+        "price": "389,500",
+        "price_in_jpy": "38,950,000",
+        "isOld": true
+      }
+    ],
+    "legend": []
+  },
+  {
     "date": "2023/8/17",
     "used": [
       {
@@ -570,29 +600,6 @@
         "carname": "DS 21 Pallas '70",
         "price": "49,600",
         "price_in_jpy": "4,960,000",
-        "isOld": true
-      }
-    ]
-  },
-  {
-    "date": "2023/8/4",
-    "used": [
-      {
-        "makername": "BMW",
-        "carid": "3344",
-        "carname": "M3 Sport Evolution '89",
-        "price": "162,200",
-        "price_in_jpy": "16,220,000",
-        "isOld": true
-      }
-    ],
-    "legend": [
-      {
-        "makername": "Alpine",
-        "carid": "3457",
-        "carname": "A220 Race Car '68",
-        "price": "330,000",
-        "price_in_jpy": "33,000,000",
         "isOld": true
       }
     ]
