@@ -1,5 +1,43 @@
 [
   {
+    "date": "2023/8/19",
+    "used": [
+      {
+        "makername": "Pontiac",
+        "carid": "1985",
+        "carname": "Firebird Trans Am '78",
+        "price": "87,400",
+        "price_in_jpy": "8,740,000",
+        "isOld": true
+      },
+      {
+        "makername": "Toyota",
+        "carid": "843",
+        "carname": "Supra 3.0GT Turbo A '88",
+        "price": "105,500",
+        "price_in_jpy": "10,550,000",
+        "isOld": true
+      },
+      {
+        "makername": "Subaru",
+        "carid": "379",
+        "carname": "Impreza Coupe WRX Type R STi Ver.VI '99",
+        "price": "52,600",
+        "price_in_jpy": "5,260,000",
+        "isOld": true
+      },
+      {
+        "makername": "BMW",
+        "carid": "1399",
+        "carname": "M3 '07",
+        "price": "70,000",
+        "price_in_jpy": "7,000,000",
+        "isOld": false
+      }
+    ],
+    "legend": []
+  },
+  {
     "date": "2023/8/18",
     "used": [
       {
@@ -561,45 +599,6 @@
         "carname": "RA272 '65",
         "price": "2,500,000",
         "price_in_jpy": "250,000,000",
-        "isOld": true
-      }
-    ]
-  },
-  {
-    "date": "2023/8/5",
-    "used": [
-      {
-        "makername": "Toyota",
-        "carid": "3471",
-        "carname": "Celica GT-Four (ST205) '94",
-        "price": "80,600",
-        "price_in_jpy": "8,060,000",
-        "isOld": true
-      },
-      {
-        "makername": "RUF",
-        "carid": "3398",
-        "carname": "CTR3 '07",
-        "price": "774,000",
-        "price_in_jpy": "77,400,000",
-        "isOld": false
-      },
-      {
-        "makername": "BMW",
-        "carid": "1893",
-        "carname": "Z8 '01",
-        "price": "258,300",
-        "price_in_jpy": "25,830,000",
-        "isOld": false
-      }
-    ],
-    "legend": [
-      {
-        "makername": "Citroen",
-        "carid": "3514",
-        "carname": "DS 21 Pallas '70",
-        "price": "49,600",
-        "price_in_jpy": "4,960,000",
         "isOld": true
       }
     ]
