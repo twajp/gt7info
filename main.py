@@ -2,6 +2,7 @@ import os
 import csv
 import json
 from datetime import datetime, timedelta
+from dateutil import tz
 from shutil import copyfile
 import requests
 from jinja2 import Environment, FileSystemLoader
@@ -48,7 +49,10 @@ def MakeNewCarList(data, carList, makerList):
 carList = LoadCSV("db/", "cars.csv")
 makerList = LoadCSV("db/", "maker.csv")
 today = datetime.utcnow().date()
-timestamp = datetime.utcnow()
+JST = tz.gettz("Asia/Tokyo")
+UTC = tz.gettz("UTC")
+timestamp = datetime.utcnow().strftime("%Y/%-m/%-d %-H:%M") + " (UTC)"
+timestamp_jp = datetime.utcnow().replace(tzinfo=UTC).astimezone(JST).replace(tzinfo=None).strftime("%Y/%-m/%-d %-H:%M") + " (JST)"
 # start_date = datetime.date(year=2022,month=6,day=28)
 # how_many_days = (today-start_date).days + 1
 how_many_days = 14
@@ -73,9 +77,9 @@ for i in range(how_many_days):
 env = Environment(loader=FileSystemLoader("."))
 template = env.get_template("template.html")
 
-rendered = template.render({"data": data, "price": "global", "timestamp": timestamp.strftime("%Y/%-m/%-d %-H:%M")})
-rendered_jp = template.render({"data": data, "price": "jp", "timestamp": timestamp.strftime("%Y/%-m/%-d %-H:%M")})
-rendered_simple = template.render({"data": data, "price": "simple", "timestamp": timestamp.strftime("%Y/%-m/%-d %-H:%M")})
+rendered = template.render({"data": data, "price": "global", "timestamp": timestamp})
+rendered_jp = template.render({"data": data, "price": "jp", "timestamp": timestamp_jp})
+rendered_simple = template.render({"data": data, "price": "simple", "timestamp": timestamp})
 
 if not os.path.exists("html"):
     os.makedirs("html")
