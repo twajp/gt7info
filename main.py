@@ -48,6 +48,7 @@ def MakeNewCarList(data, carList, makerList):
 carList = LoadCSV("db/", "cars.csv")
 makerList = LoadCSV("db/", "maker.csv")
 today = datetime.utcnow().date()
+timestamp = datetime.utcnow()
 # start_date = datetime.date(year=2022,month=6,day=28)
 # how_many_days = (today-start_date).days + 1
 how_many_days = 14
@@ -72,9 +73,9 @@ for i in range(how_many_days):
 env = Environment(loader=FileSystemLoader("."))
 template = env.get_template("template.html")
 
-rendered = template.render({"data": data, "price": "global"})
-rendered_jp = template.render({"data": data, "price": "jp"})
-rendered_simple = template.render({"data": data, "price": "simple"})
+rendered = template.render({"data": data, "price": "global", "timestamp": timestamp.strftime("%Y/%-m/%-d %-H:%M")})
+rendered_jp = template.render({"data": data, "price": "jp", "timestamp": timestamp.strftime("%Y/%-m/%-d %-H:%M")})
+rendered_simple = template.render({"data": data, "price": "simple", "timestamp": timestamp.strftime("%Y/%-m/%-d %-H:%M")})
 
 if not os.path.exists("html"):
     os.makedirs("html")
