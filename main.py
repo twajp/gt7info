@@ -74,7 +74,7 @@ template = env.get_template("template.html")
 
 rendered = template.render({"data": data, "price": "global"})
 rendered_jp = template.render({"data": data, "price": "jp"})
-rendered_noprice = template.render({"data": data, "price": "no"})
+rendered_simple = template.render({"data": data, "price": "simple"})
 
 if not os.path.exists("html"):
     os.makedirs("html")
@@ -85,8 +85,8 @@ with open("html/index.html", "w") as f:
 with open("html/jp.html", "w") as f:
     f.write(rendered_jp)
 
-with open("html/noprice.html", "w") as f:
-    f.write(rendered_noprice)
+with open("html/simple.html", "w") as f:
+    f.write(rendered_simple)
 
 with open("html/data.json", "w") as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
