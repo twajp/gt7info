@@ -1,5 +1,19 @@
 [
   {
+    "date": "2023/8/23",
+    "used": [
+      {
+        "makername": "Volkswagen",
+        "carid": "1671",
+        "carname": "Sambabus Typ 2 '62",
+        "price": "59,000",
+        "price_in_jpy": "5,900,000",
+        "isOld": true
+      }
+    ],
+    "legend": []
+  },
+  {
     "date": "2023/8/22",
     "used": [
       {
@@ -585,53 +599,6 @@
         "carname": "XJ13 '66",
         "price": "12,000,000",
         "price_in_jpy": "1,200,000,000",
-        "isOld": true
-      }
-    ]
-  },
-  {
-    "date": "2023/8/9",
-    "used": [
-      {
-        "makername": "Mitsubishi",
-        "carid": "931",
-        "carname": "Lancer Evolution III GSR '95",
-        "price": "97,000",
-        "price_in_jpy": "9,700,000",
-        "isOld": true
-      },
-      {
-        "makername": "Honda",
-        "carid": "514",
-        "carname": "S2000 '99",
-        "price": "97,200",
-        "price_in_jpy": "9,720,000",
-        "isOld": true
-      },
-      {
-        "makername": "Porsche",
-        "carid": "3358",
-        "carname": "911 GT3 (996) '01",
-        "price": "155,600",
-        "price_in_jpy": "15,560,000",
-        "isOld": false
-      }
-    ],
-    "legend": [
-      {
-        "makername": "Porsche",
-        "carid": "3509",
-        "carname": "911 Carrera RS (901) '73",
-        "price": "745,000",
-        "price_in_jpy": "74,500,000",
-        "isOld": true
-      },
-      {
-        "makername": "Chevrolet",
-        "carid": "31",
-        "carname": "Camaro Z28 '69",
-        "price": "105,000",
-        "price_in_jpy": "10,500,000",
         "isOld": true
       }
     ]
