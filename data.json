@@ -1,5 +1,68 @@
 [
   {
+    "date": "2023/8/26",
+    "used": [
+      {
+        "makername": "Daihatsu",
+        "carid": "145",
+        "carname": "Copen '02",
+        "price": "13,400",
+        "price_in_jpy": "1,340,000",
+        "isOld": false
+      },
+      {
+        "makername": "Alpine",
+        "carid": "1796",
+        "carname": "A110 '72",
+        "price": "132,900",
+        "price_in_jpy": "13,290,000",
+        "isOld": true
+      },
+      {
+        "makername": "Renault",
+        "carid": "334",
+        "carname": "Clio V6 24V '00",
+        "price": "86,100",
+        "price_in_jpy": "8,610,000",
+        "isOld": true
+      },
+      {
+        "makername": "Mazda",
+        "carid": "374",
+        "carname": "RX-7 GT-X (FC) '90",
+        "price": "60,200",
+        "price_in_jpy": "6,020,000",
+        "isOld": true
+      },
+      {
+        "makername": "Chevrolet",
+        "carid": "942",
+        "carname": "Corvette ZR-1 (C4) '89",
+        "price": "86,500",
+        "price_in_jpy": "8,650,000",
+        "isOld": true
+      },
+      {
+        "makername": "Toyota",
+        "carid": "345",
+        "carname": "Sprinter Trueno 1600GT APEX (S.Shigeno Version)",
+        "price": "105,900",
+        "price_in_jpy": "10,590,000",
+        "isOld": null
+      }
+    ],
+    "legend": [
+      {
+        "makername": "Toyota",
+        "carid": "1470",
+        "carname": "Supra GT500 '97",
+        "price": "1,800,000",
+        "price_in_jpy": "180,000,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
     "date": "2023/8/25",
     "used": [
       {
@@ -508,75 +571,5 @@
         "isOld": true
       }
     ]
-  },
-  {
-    "date": "2023/8/12",
-    "used": [
-      {
-        "makername": "Mazda",
-        "carid": "201",
-        "carname": "Eunos Roadster (NA) '89",
-        "price": "30,700",
-        "price_in_jpy": "3,070,000",
-        "isOld": true
-      },
-      {
-        "makername": "Honda",
-        "carid": "821",
-        "carname": "Civic Type R (EK) '97",
-        "price": "55,600",
-        "price_in_jpy": "5,560,000",
-        "isOld": true
-      },
-      {
-        "makername": "Subaru",
-        "carid": "3432",
-        "carname": "Impreza Sedan WRX STi '04",
-        "price": "45,300",
-        "price_in_jpy": "4,530,000",
-        "isOld": false
-      },
-      {
-        "makername": "Ferrari",
-        "carid": "1895",
-        "carname": "Dino 246 GT '71",
-        "price": "359,500",
-        "price_in_jpy": "35,950,000",
-        "isOld": true
-      },
-      {
-        "makername": "Mitsubishi",
-        "carid": "3384",
-        "carname": "GTO Twin Turbo '91",
-        "price": "42,000",
-        "price_in_jpy": "4,200,000",
-        "isOld": true
-      },
-      {
-        "makername": "Ferrari",
-        "carid": "1410",
-        "carname": "512 BB '76",
-        "price": "284,500",
-        "price_in_jpy": "28,450,000",
-        "isOld": true
-      },
-      {
-        "makername": "Toyota",
-        "carid": "82",
-        "carname": "Supra RZ '97",
-        "price": "194,200",
-        "price_in_jpy": "19,420,000",
-        "isOld": true
-      },
-      {
-        "makername": "Nissan",
-        "carid": "1384",
-        "carname": "Fairlady Z Version S (Z33) '07",
-        "price": "27,400",
-        "price_in_jpy": "2,740,000",
-        "isOld": false
-      }
-    ],
-    "legend": []
   }
 ]
