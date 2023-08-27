@@ -1,5 +1,51 @@
 [
   {
+    "date": "2023/8/27",
+    "used": [
+      {
+        "makername": "Toyota",
+        "carid": "1044",
+        "carname": "Sports 800 '65",
+        "price": "43,200",
+        "price_in_jpy": "4,320,000",
+        "isOld": true
+      },
+      {
+        "makername": "Mitsubishi",
+        "carid": "1508",
+        "carname": "Lancer Evolution VI GSR T.M. SCP '99",
+        "price": "178,300",
+        "price_in_jpy": "17,830,000",
+        "isOld": true
+      },
+      {
+        "makername": "Audi",
+        "carid": "959",
+        "carname": "TT Coupe 3.2 quattro '03",
+        "price": "44,200",
+        "price_in_jpy": "4,420,000",
+        "isOld": false
+      },
+      {
+        "makername": "Chevrolet",
+        "carid": "1480",
+        "carname": "Corvette ZR1 (C6) '09",
+        "price": "104,900",
+        "price_in_jpy": "10,490,000",
+        "isOld": false
+      },
+      {
+        "makername": "Honda",
+        "carid": "396",
+        "carname": "NSX Type R '02",
+        "price": "430,000",
+        "price_in_jpy": "43,000,000",
+        "isOld": false
+      }
+    ],
+    "legend": []
+  },
+  {
     "date": "2023/8/26",
     "used": [
       {
@@ -538,36 +584,6 @@
         "carname": "S Barker Tourer '29",
         "price": "13,000,000",
         "price_in_jpy": "1,300,000,000",
-        "isOld": true
-      }
-    ]
-  },
-  {
-    "date": "2023/8/13",
-    "used": [],
-    "legend": [
-      {
-        "makername": "Porsche",
-        "carid": "3446",
-        "carname": "Spyder type 550/1500RS '55",
-        "price": "4,500,000",
-        "price_in_jpy": "450,000,000",
-        "isOld": true
-      },
-      {
-        "makername": "Nissan",
-        "carid": "837",
-        "carname": "Skyline Hard Top 2000GT-R (KPGC10) '70",
-        "price": "170,000",
-        "price_in_jpy": "17,000,000",
-        "isOld": true
-      },
-      {
-        "makername": "Jaguar",
-        "carid": "3376",
-        "carname": "D-type '54",
-        "price": "6,000,000",
-        "price_in_jpy": "600,000,000",
         "isOld": true
       }
     ]
