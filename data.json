@@ -1,5 +1,27 @@
 [
   {
+    "date": "2023/8/31",
+    "used": [
+      {
+        "makername": "Alfa Romeo",
+        "carid": "3530",
+        "carname": "Giulia Sprint GT Veloce '67",
+        "price": "165,200",
+        "price_in_jpy": "16,520,000",
+        "isOld": true
+      },
+      {
+        "makername": "McLaren",
+        "carid": "1722",
+        "carname": "MP4-12C '10",
+        "price": "189,400",
+        "price_in_jpy": "18,940,000",
+        "isOld": false
+      }
+    ],
+    "legend": []
+  },
+  {
     "date": "2023/8/30",
     "used": [
       {
@@ -588,52 +610,5 @@
       }
     ],
     "legend": []
-  },
-  {
-    "date": "2023/8/17",
-    "used": [
-      {
-        "makername": "Nissan",
-        "carid": "1461",
-        "carname": "Silvia K's Dia Selection (S13) '90",
-        "price": "48,200",
-        "price_in_jpy": "4,820,000",
-        "isOld": true
-      },
-      {
-        "makername": "Mitsubishi",
-        "carid": "211",
-        "carname": "Lancer Evolution V GSR '98",
-        "price": "69,200",
-        "price_in_jpy": "6,920,000",
-        "isOld": true
-      },
-      {
-        "makername": "TVR",
-        "carid": "187",
-        "carname": "Tuscan Speed 6 '00",
-        "price": "80,600",
-        "price_in_jpy": "8,060,000",
-        "isOld": true
-      }
-    ],
-    "legend": [
-      {
-        "makername": "McLaren",
-        "carid": "1984",
-        "carname": "McLaren F1 GTR - BMW '95",
-        "price": "12,500,000",
-        "price_in_jpy": "1,250,000,000",
-        "isOld": true
-      },
-      {
-        "makername": "Lamborghini",
-        "carid": "1484",
-        "carname": "Countach LP400 '74",
-        "price": "1,250,000",
-        "price_in_jpy": "125,000,000",
-        "isOld": true
-      }
-    ]
   }
 ]
