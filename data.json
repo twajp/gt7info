@@ -1,5 +1,36 @@
 [
   {
+    "date": "2023/9/2",
+    "used": [
+      {
+        "makername": "Toyota",
+        "carid": "1537",
+        "carname": "Prius G '09",
+        "price": "20,000",
+        "price_in_jpy": "2,000,000",
+        "isOld": false
+      },
+      {
+        "makername": "RUF",
+        "carid": "3398",
+        "carname": "CTR3 '07",
+        "price": "776,800",
+        "price_in_jpy": "77,680,000",
+        "isOld": false
+      }
+    ],
+    "legend": [
+      {
+        "makername": "Porsche",
+        "carid": "3400",
+        "carname": "911 GT1 Strassenversion '97",
+        "price": "9,000,000",
+        "price_in_jpy": "900,000,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
     "date": "2023/9/1",
     "used": [
       {
@@ -573,43 +604,5 @@
         "isOld": true
       }
     ]
-  },
-  {
-    "date": "2023/8/19",
-    "used": [
-      {
-        "makername": "Pontiac",
-        "carid": "1985",
-        "carname": "Firebird Trans Am '78",
-        "price": "87,400",
-        "price_in_jpy": "8,740,000",
-        "isOld": true
-      },
-      {
-        "makername": "Toyota",
-        "carid": "843",
-        "carname": "Supra 3.0GT Turbo A '88",
-        "price": "105,500",
-        "price_in_jpy": "10,550,000",
-        "isOld": true
-      },
-      {
-        "makername": "Subaru",
-        "carid": "379",
-        "carname": "Impreza Coupe WRX Type R STi Ver.VI '99",
-        "price": "52,600",
-        "price_in_jpy": "5,260,000",
-        "isOld": true
-      },
-      {
-        "makername": "BMW",
-        "carid": "1399",
-        "carname": "M3 '07",
-        "price": "70,000",
-        "price_in_jpy": "7,000,000",
-        "isOld": false
-      }
-    ],
-    "legend": []
   }
 ]
