@@ -1,5 +1,35 @@
 [
   {
+    "date": "2023/9/3",
+    "used": [
+      {
+        "makername": "Honda",
+        "carid": "204",
+        "carname": "Civic Type R (EK) '98",
+        "price": "58,400",
+        "price_in_jpy": "5,840,000",
+        "isOld": true
+      },
+      {
+        "makername": "Renault",
+        "carid": "173",
+        "carname": "R5 Turbo '80",
+        "price": "154,200",
+        "price_in_jpy": "15,420,000",
+        "isOld": true
+      },
+      {
+        "makername": "Toyota",
+        "carid": "3471",
+        "carname": "Celica GT-Four (ST205) '94",
+        "price": "70,300",
+        "price_in_jpy": "7,030,000",
+        "isOld": true
+      }
+    ],
+    "legend": []
+  },
+  {
     "date": "2023/9/2",
     "used": [
       {
@@ -514,93 +544,6 @@
         "carname": "Fairlady Z 432 '69",
         "price": "190,000",
         "price_in_jpy": "19,000,000",
-        "isOld": true
-      }
-    ]
-  },
-  {
-    "date": "2023/8/20",
-    "used": [
-      {
-        "makername": "Toyota",
-        "carid": "63",
-        "carname": "Corolla Levin 1600GT APEX (AE86) '83",
-        "price": "49,300",
-        "price_in_jpy": "4,930,000",
-        "isOld": true
-      },
-      {
-        "makername": "Nissan",
-        "carid": "773",
-        "carname": "R32 GT-R V-spec II '94",
-        "price": "179,900",
-        "price_in_jpy": "17,990,000",
-        "isOld": true
-      },
-      {
-        "makername": "Mitsubishi",
-        "carid": "301",
-        "carname": "Lancer Evolution IV GSR '96",
-        "price": "46,600",
-        "price_in_jpy": "4,660,000",
-        "isOld": true
-      },
-      {
-        "makername": "Honda",
-        "carid": "203",
-        "carname": "Integra Type R (DC2) '98",
-        "price": "61,400",
-        "price_in_jpy": "6,140,000",
-        "isOld": true
-      },
-      {
-        "makername": "DMC",
-        "carid": "1027",
-        "carname": "DeLorean S2 '04",
-        "price": "427,500",
-        "price_in_jpy": "42,750,000",
-        "isOld": false
-      },
-      {
-        "makername": "BMW",
-        "carid": "3389",
-        "carname": "M3 '03",
-        "price": "61,900",
-        "price_in_jpy": "6,190,000",
-        "isOld": false
-      },
-      {
-        "makername": "Porsche",
-        "carid": "3431",
-        "carname": "911 Carrera RS (964) '92",
-        "price": "220,700",
-        "price_in_jpy": "22,070,000",
-        "isOld": true
-      },
-      {
-        "makername": "Porsche",
-        "carid": "3439",
-        "carname": "911 Carrera RS (993) '95",
-        "price": "215,200",
-        "price_in_jpy": "21,520,000",
-        "isOld": true
-      }
-    ],
-    "legend": [
-      {
-        "makername": "Nissan",
-        "carid": "485",
-        "carname": "GT-R GT500 '99",
-        "price": "2,700,000",
-        "price_in_jpy": "270,000,000",
-        "isOld": true
-      },
-      {
-        "makername": "Shelby",
-        "carid": "1926",
-        "carname": "Cobra Daytona Coupe '64",
-        "price": "20,000,000",
-        "price_in_jpy": "2,000,000,000",
         "isOld": true
       }
     ]
