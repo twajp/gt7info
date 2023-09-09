@@ -1,5 +1,28 @@
 [
   {
+    "date": "2023/9/9",
+    "used": [
+      {
+        "makername": "Nissan",
+        "carid": "48",
+        "carname": "Fairlady 240ZG (HS30) '71",
+        "price": "106,400",
+        "price_in_jpy": "10,640,000",
+        "isOld": true
+      }
+    ],
+    "legend": [
+      {
+        "makername": "Chevrolet",
+        "carid": "818",
+        "carname": "Corvette (C2) '63",
+        "price": "237,000",
+        "price_in_jpy": "23,700,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
     "date": "2023/9/8",
     "used": [
       {
@@ -556,68 +579,5 @@
       }
     ],
     "legend": []
-  },
-  {
-    "date": "2023/8/26",
-    "used": [
-      {
-        "makername": "Daihatsu",
-        "carid": "145",
-        "carname": "Copen '02",
-        "price": "13,400",
-        "price_in_jpy": "1,340,000",
-        "isOld": false
-      },
-      {
-        "makername": "Alpine",
-        "carid": "1796",
-        "carname": "A110 '72",
-        "price": "132,900",
-        "price_in_jpy": "13,290,000",
-        "isOld": true
-      },
-      {
-        "makername": "Renault",
-        "carid": "334",
-        "carname": "Clio V6 24V '00",
-        "price": "86,100",
-        "price_in_jpy": "8,610,000",
-        "isOld": true
-      },
-      {
-        "makername": "Mazda",
-        "carid": "374",
-        "carname": "RX-7 GT-X (FC) '90",
-        "price": "60,200",
-        "price_in_jpy": "6,020,000",
-        "isOld": true
-      },
-      {
-        "makername": "Chevrolet",
-        "carid": "942",
-        "carname": "Corvette ZR-1 (C4) '89",
-        "price": "86,500",
-        "price_in_jpy": "8,650,000",
-        "isOld": true
-      },
-      {
-        "makername": "Toyota",
-        "carid": "345",
-        "carname": "Sprinter Trueno 1600GT APEX (S.Shigeno Version)",
-        "price": "105,900",
-        "price_in_jpy": "10,590,000",
-        "isOld": null
-      }
-    ],
-    "legend": [
-      {
-        "makername": "Toyota",
-        "carid": "1470",
-        "carname": "Supra GT500 '97",
-        "price": "1,800,000",
-        "price_in_jpy": "180,000,000",
-        "isOld": true
-      }
-    ]
   }
 ]
