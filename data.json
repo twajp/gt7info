@@ -1,5 +1,19 @@
 [
   {
+    "date": "2023/9/11",
+    "used": [
+      {
+        "makername": "Ferrari",
+        "carid": "3434",
+        "carname": "Testarossa '91",
+        "price": "369,000",
+        "price_in_jpy": "36,900,000",
+        "isOld": true
+      }
+    ],
+    "legend": []
+  },
+  {
     "date": "2023/9/10",
     "used": [
       {
@@ -534,35 +548,5 @@
         "isOld": true
       }
     ]
-  },
-  {
-    "date": "2023/8/28",
-    "used": [
-      {
-        "makername": "BMW",
-        "carid": "3453",
-        "carname": "M3 '89",
-        "price": "83,100",
-        "price_in_jpy": "8,310,000",
-        "isOld": true
-      },
-      {
-        "makername": "Audi",
-        "carid": "1365",
-        "carname": "R8 4.2 '07",
-        "price": "137,800",
-        "price_in_jpy": "13,780,000",
-        "isOld": false
-      },
-      {
-        "makername": "Nissan",
-        "carid": "489",
-        "carname": "R33 GT-R V-spec '97",
-        "price": "156,200",
-        "price_in_jpy": "15,620,000",
-        "isOld": true
-      }
-    ],
-    "legend": []
   }
 ]
