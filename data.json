@@ -1,5 +1,68 @@
 [
   {
+    "date": "2023/9/17",
+    "used": [
+      {
+        "makername": "Abarth",
+        "carid": "1973",
+        "carname": "Abarth 500 '09",
+        "price": "23,300",
+        "price_in_jpy": "2,330,000",
+        "isOld": false
+      },
+      {
+        "makername": "Subaru",
+        "carid": "3432",
+        "carname": "Impreza Sedan WRX STi '04",
+        "price": "45,300",
+        "price_in_jpy": "4,530,000",
+        "isOld": false
+      },
+      {
+        "makername": "Ferrari",
+        "carid": "1895",
+        "carname": "Dino 246 GT '71",
+        "price": "359,500",
+        "price_in_jpy": "35,950,000",
+        "isOld": true
+      },
+      {
+        "makername": "Mitsubishi",
+        "carid": "3384",
+        "carname": "GTO Twin Turbo '91",
+        "price": "42,000",
+        "price_in_jpy": "4,200,000",
+        "isOld": true
+      },
+      {
+        "makername": "Toyota",
+        "carid": "82",
+        "carname": "Supra RZ '97",
+        "price": "194,200",
+        "price_in_jpy": "19,420,000",
+        "isOld": true
+      }
+    ],
+    "legend": [
+      {
+        "makername": "Ford",
+        "carid": "3444",
+        "carname": "1932 Ford Roadster Hot Rod",
+        "price": "400,000",
+        "price_in_jpy": "40,000,000",
+        "isOld": null
+      },
+      {
+        "makername": "AMG",
+        "carid": "3397",
+        "carname": "CLK-LM '98",
+        "price": "6,500,000",
+        "price_in_jpy": "650,000,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
     "date": "2023/9/16",
     "used": [
       {
@@ -550,35 +613,5 @@
         "isOld": true
       }
     ]
-  },
-  {
-    "date": "2023/9/3",
-    "used": [
-      {
-        "makername": "Honda",
-        "carid": "204",
-        "carname": "Civic Type R (EK) '98",
-        "price": "58,400",
-        "price_in_jpy": "5,840,000",
-        "isOld": true
-      },
-      {
-        "makername": "Renault",
-        "carid": "173",
-        "carname": "R5 Turbo '80",
-        "price": "154,200",
-        "price_in_jpy": "15,420,000",
-        "isOld": true
-      },
-      {
-        "makername": "Toyota",
-        "carid": "3471",
-        "carname": "Celica GT-Four (ST205) '94",
-        "price": "70,300",
-        "price_in_jpy": "7,030,000",
-        "isOld": true
-      }
-    ],
-    "legend": []
   }
 ]
