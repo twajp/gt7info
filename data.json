@@ -1,5 +1,19 @@
 [
   {
+    "date": "2023/9/20",
+    "used": [
+      {
+        "makername": "Ferrari",
+        "carid": "1378",
+        "carname": "F430 '06",
+        "price": "200,500",
+        "price_in_jpy": "20,050,000",
+        "isOld": false
+      }
+    ],
+    "legend": []
+  },
+  {
     "date": "2023/9/19",
     "used": [
       {
@@ -475,52 +489,5 @@
       }
     ],
     "legend": []
-  },
-  {
-    "date": "2023/9/6",
-    "used": [
-      {
-        "makername": "Lancia",
-        "carid": "829",
-        "carname": "Delta HF Integrale Evoluzione '91",
-        "price": "100,300",
-        "price_in_jpy": "10,030,000",
-        "isOld": true
-      },
-      {
-        "makername": "MINI",
-        "carid": "1370",
-        "carname": "MINI Cooper S '05",
-        "price": "21,900",
-        "price_in_jpy": "2,190,000",
-        "isOld": false
-      },
-      {
-        "makername": "Nissan",
-        "carid": "1448",
-        "carname": "SILVIA spec-R Aero (S15) '02",
-        "price": "59,900",
-        "price_in_jpy": "5,990,000",
-        "isOld": false
-      },
-      {
-        "makername": "Porsche",
-        "carid": "3359",
-        "carname": "911 GT3 (997) '09",
-        "price": "138,000",
-        "price_in_jpy": "13,800,000",
-        "isOld": false
-      }
-    ],
-    "legend": [
-      {
-        "makername": "Porsche",
-        "carid": "3519",
-        "carname": "959 '87",
-        "price": "1,750,000",
-        "price_in_jpy": "175,000,000",
-        "isOld": true
-      }
-    ]
   }
 ]
