@@ -69,6 +69,7 @@ for i in range(how_many_days):
     list_legend = MakeNewCarList(data_legend, carList, makerList)
 
     data.append({
+        "id": date_to_import.strftime("%Y%m%d"),
         "date": date_to_import.strftime("%Y/%-m/%-d"),
         "used": list_used,
         "legend": list_legend,
