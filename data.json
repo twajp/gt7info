@@ -1,5 +1,37 @@
 [
   {
+    "id": "20230921",
+    "date": "2023/9/21",
+    "used": [
+      {
+        "makername": "Toyota",
+        "carid": "63",
+        "carname": "Corolla Levin 1600GT APEX (AE86) '83",
+        "price": "49,300",
+        "price_in_jpy": "4,930,000",
+        "isOld": true
+      },
+      {
+        "makername": "Ford",
+        "carid": "1426",
+        "carname": "Ford GT '06",
+        "price": "409,800",
+        "price_in_jpy": "40,980,000",
+        "isOld": false
+      }
+    ],
+    "legend": [
+      {
+        "makername": "Ferrari",
+        "carid": "2018",
+        "carname": "365 GTB4 '71",
+        "price": "690,000",
+        "price_in_jpy": "69,000,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
     "id": "20230920",
     "date": "2023/9/20",
     "used": [
@@ -472,36 +504,5 @@
         "isOld": true
       }
     ]
-  },
-  {
-    "id": "20230907",
-    "date": "2023/9/7",
-    "used": [
-      {
-        "makername": "Volkswagen",
-        "carid": "1773",
-        "carname": "Scirocco R '10",
-        "price": "40,500",
-        "price_in_jpy": "4,050,000",
-        "isOld": false
-      },
-      {
-        "makername": "BMW",
-        "carid": "3344",
-        "carname": "M3 Sport Evolution '89",
-        "price": "179,000",
-        "price_in_jpy": "17,900,000",
-        "isOld": true
-      },
-      {
-        "makername": "Lamborghini",
-        "carid": "1545",
-        "carname": "Murcielago LP 640 '09",
-        "price": "314,000",
-        "price_in_jpy": "31,400,000",
-        "isOld": false
-      }
-    ],
-    "legend": []
   }
 ]
