@@ -1,5 +1,20 @@
 [
   {
+    "id": "20230923",
+    "date": "2023/9/23",
+    "used": [
+      {
+        "makername": "Nissan",
+        "carid": "3513",
+        "carname": "Silvia K's Type S (S14) '94",
+        "price": "53,800",
+        "price_in_jpy": "5,380,000",
+        "isOld": true
+      }
+    ],
+    "legend": []
+  },
+  {
     "id": "20230922",
     "date": "2023/9/22",
     "used": [
@@ -501,30 +516,6 @@
         "carname": "962 C '88",
         "price": "1,500,000",
         "price_in_jpy": "150,000,000",
-        "isOld": true
-      }
-    ]
-  },
-  {
-    "id": "20230909",
-    "date": "2023/9/9",
-    "used": [
-      {
-        "makername": "Nissan",
-        "carid": "48",
-        "carname": "Fairlady 240ZG (HS30) '71",
-        "price": "106,400",
-        "price_in_jpy": "10,640,000",
-        "isOld": true
-      }
-    ],
-    "legend": [
-      {
-        "makername": "Chevrolet",
-        "carid": "818",
-        "carname": "Corvette (C2) '63",
-        "price": "237,000",
-        "price_in_jpy": "23,700,000",
         "isOld": true
       }
     ]
