@@ -1,5 +1,37 @@
 [
   {
+    "id": "20230926",
+    "date": "2023/9/26",
+    "used": [
+      {
+        "makername": "Toyota",
+        "carid": "1044",
+        "carname": "Sports 800 '65",
+        "price": "43,200",
+        "price_in_jpy": "4,320,000",
+        "isOld": true
+      },
+      {
+        "makername": "Ford",
+        "carid": "1729",
+        "carname": "Mustang Mach 1 '71",
+        "price": "37,500",
+        "price_in_jpy": "3,750,000",
+        "isOld": true
+      }
+    ],
+    "legend": [
+      {
+        "makername": "De Tomaso",
+        "carid": "3505",
+        "carname": "Mangusta (Christian Dior)",
+        "price": "500,000",
+        "price_in_jpy": "50,000,000",
+        "isOld": null
+      }
+    ]
+  },
+  {
     "id": "20230925",
     "date": "2023/9/25",
     "used": [
@@ -601,28 +633,5 @@
         "isOld": true
       }
     ]
-  },
-  {
-    "id": "20230912",
-    "date": "2023/9/12",
-    "used": [
-      {
-        "makername": "BMW",
-        "carid": "3454",
-        "carname": "3.0 CSL '71",
-        "price": "136,700",
-        "price_in_jpy": "13,670,000",
-        "isOld": true
-      },
-      {
-        "makername": "Porsche",
-        "carid": "3404",
-        "carname": "911 Carrera RS CS (993) '95",
-        "price": "411,300",
-        "price_in_jpy": "41,130,000",
-        "isOld": true
-      }
-    ],
-    "legend": []
   }
 ]
