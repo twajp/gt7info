@@ -1,7 +1,7 @@
 import os
 import csv
 import json
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from dateutil import tz
 from shutil import copyfile
 import requests
@@ -48,11 +48,10 @@ def MakeNewCarList(data, carList, makerList):
 
 carList = LoadCSV("db/", "cars.csv")
 makerList = LoadCSV("db/", "maker.csv")
-today = datetime.utcnow().date()
+today = datetime.now(timezone.utc).date()
 JST = tz.gettz("Asia/Tokyo")
-UTC = tz.gettz("UTC")
-timestamp = datetime.utcnow().strftime("%Y/%-m/%-d %-H:%M") + " (UTC)"
-timestamp_jp = datetime.utcnow().replace(tzinfo=UTC).astimezone(JST).replace(tzinfo=None).strftime("%Y/%-m/%-d %-H:%M") + " (JST)"
+timestamp = datetime.now(timezone.utc).strftime("%Y/%-m/%-d %-H:%M") + " (UTC)"
+timestamp_jp = datetime.now(timezone.utc).astimezone(JST).strftime("%Y/%-m/%-d %-H:%M") + " (JST)"
 # start_date = datetime.date(year=2022,month=6,day=28)
 # how_many_days = (today-start_date).days + 1
 how_many_days = 14
