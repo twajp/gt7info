@@ -19,6 +19,7 @@ $(document).ready(function () {
         .then(response => response.json())
         .then(data => {
             renderAccordion(data);
+            updateLastUpdatedTimestamp(data.timestamp);
         });
 
     // Load and render db.json
@@ -26,7 +27,6 @@ $(document).ready(function () {
         .then(response => response.json())
         .then(db => {
             renderExpectedSection(db);
-            updateLastUpdatedTimestamp(db.timestamp);
         });
 
     // Render accordion section
