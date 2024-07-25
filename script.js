@@ -18,7 +18,7 @@ $(document).ready(function () {
     fetch('data.json')
         .then(response => response.json())
         .then(data => {
-            renderAccordion(data);
+            renderAccordion(data.content);
             updateLastUpdatedTimestamp(data.timestamp);
         });
 
