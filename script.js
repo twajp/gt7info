@@ -34,7 +34,7 @@ $(document).ready(function () {
         const accordionContainer = $('#appeared');
         accordionContainer.empty();
 
-        data.forEach((oneData, index) => {
+        data.content.forEach((oneData, index) => {
             const collapseId = `collapse${oneData.id}`;
             const isFirstItem = index === 0;
             const showClass = isFirstItem ? 'show' : '';
