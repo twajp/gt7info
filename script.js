@@ -39,8 +39,9 @@ $(document).ready(function () {
             const isFirstItem = index === 0;
             const showClass = isFirstItem ? 'show' : '';
             const buttonClass = isFirstItem ? '' : 'collapsed';
-            const accordionItem = `
+            const accordionItem =
                 // <div class="accordion-item">
+                `
                     <h2 class="accordion-header">
                         <button class="accordion-button ${buttonClass}" type="button" data-bs-toggle="collapse" data-bs-target="#${collapseId}" aria-expanded="true" aria-controls="${collapseId}">
                             ${oneData.date}
@@ -95,8 +96,8 @@ $(document).ready(function () {
                             </table>
                         </div>
                     </div>
-                // </div>
             `;
+            // </div>
             accordionContainer.append(accordionItem);
         });
 
