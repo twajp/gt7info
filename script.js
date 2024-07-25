@@ -157,7 +157,7 @@ $(document).ready(function () {
                     Expected to Appear Soon
                 </button>
             </h2>
-            <div id='collapseExpected' class='accordion-collapse collapse' data-bs-parent='#accordion'>
+            <div id='collapseExpected' class='accordion-collapse collapse' data-bs-parent='#accordionPanelsStayOpen'>
                 <div class='accordion-body'>
                     <h2 style='text-align: center;'>Used Car Dealership</h2>
                     <table class='table'>
