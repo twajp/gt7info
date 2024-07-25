@@ -71,7 +71,7 @@ $(document).ready(function () {
                                 </tbody>
                             </table>
                             <br><br>
-                            <h2 style="text-align: center;">Legendary Car Dealership</h2>
+                            <h2 style="text-align: center;">Legendary Dealership</h2>
                             <table class="table">
                                 <thead>
                                     <tr>
@@ -120,7 +120,7 @@ $(document).ready(function () {
 
             // Sort cars by 'sinceLastAppeared'
             carsArray.sort((a, b) => {
-                return a[1].sinceLastAppeared - b[1].sinceLastAppeared;
+                return b[1].sinceLastAppeared - a[1].sinceLastAppeared;
             });
 
             // Filter out non-old cars and get top cars based on percentage
