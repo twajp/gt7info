@@ -83,7 +83,7 @@ today = datetime.now(timezone.utc).date()
 JST = tz.gettz('Asia/Tokyo')
 timestamp = datetime.now(timezone.utc).strftime('%Y/%-m/%-d %-H:%M') + ' (UTC)'
 timestamp_jp = datetime.now(timezone.utc).astimezone(JST).strftime('%Y/%-m/%-d %-H:%M') + ' (JST)'
-# start_date = datetime.date(year=2022,month=6,day=28)
+# start_date = datetime(year=2022, month=6, day=28).date()
 # how_many_days = (today-start_date).days + 1
 how_many_days = 14
 data = []
@@ -104,7 +104,7 @@ for i in range(how_many_days):
         'used': list_used,
         'legend': list_legend,
     })
-    print(f'Day {i}')
+    print(f'Day {i+1}')
 
 
 UpdateDB('used')
@@ -117,6 +117,9 @@ db_top = {}
 db_top['used'] = Select(db['used'], percentage=20)
 db_top['legend'] = Select(db['legend'], percentage=10)
 
+# Filter out Brand Central cars
+db_top['used'] = {k: v for k, v in db_top['used'].items() if v['isOld'] != False}
+db_top['legend'] = {k: v for k, v in db_top['legend'].items() if v['isOld'] != False}
 
 env = Environment(loader=FileSystemLoader('.'))
 template = env.get_template('template.html')
