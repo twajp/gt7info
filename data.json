@@ -1,5 +1,61 @@
 [
   {
+    "id": "20240727",
+    "date": "2024/7/27",
+    "used": [
+      {
+        "makername": "Nissan",
+        "carid": "102",
+        "carname": "Skyline GTS-R (R31) '87",
+        "price": "162,200",
+        "price_in_jpy": "16,220,000",
+        "isOld": true
+      },
+      {
+        "makername": "Porsche",
+        "carid": "3439",
+        "carname": "911 Carrera RS (993) '95",
+        "price": "229,200",
+        "price_in_jpy": "22,920,000",
+        "isOld": true
+      },
+      {
+        "makername": "McLaren",
+        "carid": "1722",
+        "carname": "MP4-12C '10",
+        "price": "194,100",
+        "price_in_jpy": "19,410,000",
+        "isOld": false
+      }
+    ],
+    "legend": [
+      {
+        "makername": "Honda",
+        "carid": "140",
+        "carname": "NSX GT500 '00",
+        "price": "1,500,000",
+        "price_in_jpy": "150,000,000",
+        "isOld": true
+      },
+      {
+        "makername": "Jaguar",
+        "carid": "3376",
+        "carname": "D-type '54",
+        "price": "6,000,000",
+        "price_in_jpy": "600,000,000",
+        "isOld": true
+      },
+      {
+        "makername": "Mercedes-Benz",
+        "carid": "3428",
+        "carname": "S Barker Tourer '29",
+        "price": "13,000,000",
+        "price_in_jpy": "1,300,000,000",
+        "isOld": true
+      }
+    ]
+  },
+  {
     "id": "20240726",
     "date": "2024/7/26",
     "used": [
@@ -559,38 +615,6 @@
         "carname": "911 Carrera RS (901) '73",
         "price": "750,000",
         "price_in_jpy": "75,000,000",
-        "isOld": true
-      }
-    ]
-  },
-  {
-    "id": "20240713",
-    "date": "2024/7/13",
-    "used": [
-      {
-        "makername": "Honda",
-        "carid": "514",
-        "carname": "S2000 '99",
-        "price": "100,100",
-        "price_in_jpy": "10,010,000",
-        "isOld": true
-      },
-      {
-        "makername": "Ford",
-        "carid": "3466",
-        "carname": "Sierra RS 500 Cosworth '87",
-        "price": "193,500",
-        "price_in_jpy": "19,350,000",
-        "isOld": true
-      }
-    ],
-    "legend": [
-      {
-        "makername": "Ferrari",
-        "carid": "1551",
-        "carname": "330 P4 '67",
-        "price": "20,000,000",
-        "price_in_jpy": "2,000,000,000",
         "isOld": true
       }
     ]
