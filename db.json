@@ -7,25 +7,7 @@
       "price_in_jpy": "78,930,000",
       "isOld": true,
       "lastAppeared": "2024/6/6",
-      "sinceLastAppeared": 52
-    },
-    "1507": {
-      "makername": "AMG",
-      "carname": "SLS AMG '10",
-      "price": "308,300",
-      "price_in_jpy": "30,830,000",
-      "isOld": false,
-      "lastAppeared": "2024/6/21",
-      "sinceLastAppeared": 37
-    },
-    "1539": {
-      "makername": "Maserati",
-      "carname": "GranTurismo S '08",
-      "price": "147,400",
-      "price_in_jpy": "14,740,000",
-      "isOld": false,
-      "lastAppeared": "2024/6/21",
-      "sinceLastAppeared": 37
+      "sinceLastAppeared": 53
     },
     "1893": {
       "makername": "BMW",
@@ -34,7 +16,7 @@
       "price_in_jpy": "25,910,000",
       "isOld": false,
       "lastAppeared": "2024/6/21",
-      "sinceLastAppeared": 37
+      "sinceLastAppeared": 38
     },
     "1689": {
       "makername": "Honda",
@@ -43,7 +25,7 @@
       "price_in_jpy": "11,540,000",
       "isOld": null,
       "lastAppeared": "2024/6/22",
-      "sinceLastAppeared": 36
+      "sinceLastAppeared": 37
     },
     "3359": {
       "makername": "Porsche",
@@ -52,16 +34,7 @@
       "price_in_jpy": "14,250,000",
       "isOld": false,
       "lastAppeared": "2024/6/23",
-      "sinceLastAppeared": 35
-    },
-    "1542": {
-      "makername": "Chevrolet",
-      "carname": "Corvette Convertible (C3) '69",
-      "price": "50,900",
-      "price_in_jpy": "5,090,000",
-      "isOld": true,
-      "lastAppeared": "2024/6/24",
-      "sinceLastAppeared": 34
+      "sinceLastAppeared": 36
     },
     "1545": {
       "makername": "Lamborghini",
@@ -70,7 +43,7 @@
       "price_in_jpy": "33,720,000",
       "isOld": false,
       "lastAppeared": "2024/6/24",
-      "sinceLastAppeared": 34
+      "sinceLastAppeared": 35
     },
     "1504": {
       "makername": "Ferrari",
@@ -79,16 +52,7 @@
       "price_in_jpy": "24,800,000",
       "isOld": false,
       "lastAppeared": "2024/6/25",
-      "sinceLastAppeared": 33
-    },
-    "1385": {
-      "makername": "Suzuki",
-      "carname": "Swift Sport '07",
-      "price": "12,200",
-      "price_in_jpy": "1,220,000",
-      "isOld": false,
-      "lastAppeared": "2024/6/26",
-      "sinceLastAppeared": 32
+      "sinceLastAppeared": 34
     },
     "374": {
       "makername": "Mazda",
@@ -97,7 +61,7 @@
       "price_in_jpy": "6,110,000",
       "isOld": true,
       "lastAppeared": "2024/6/27",
-      "sinceLastAppeared": 31
+      "sinceLastAppeared": 32
     },
     "1508": {
       "makername": "Mitsubishi",
@@ -106,7 +70,7 @@
       "price_in_jpy": "16,810,000",
       "isOld": true,
       "lastAppeared": "2024/6/27",
-      "sinceLastAppeared": 31
+      "sinceLastAppeared": 32
     },
     "3403": {
       "makername": "Volkswagen",
@@ -115,7 +79,7 @@
       "price_in_jpy": "4,670,000",
       "isOld": true,
       "lastAppeared": "2024/6/27",
-      "sinceLastAppeared": 31
+      "sinceLastAppeared": 32
     },
     "1796": {
       "makername": "Alpine",
@@ -124,7 +88,7 @@
       "price_in_jpy": "13,750,000",
       "isOld": true,
       "lastAppeared": "2024/6/27",
-      "sinceLastAppeared": 31
+      "sinceLastAppeared": 32
     },
     "3471": {
       "makername": "Toyota",
@@ -133,7 +97,7 @@
       "price_in_jpy": "8,070,000",
       "isOld": true,
       "lastAppeared": "2024/6/28",
-      "sinceLastAppeared": 30
+      "sinceLastAppeared": 31
     },
     "24": {
       "makername": "Nissan",
@@ -142,7 +106,7 @@
       "price_in_jpy": "4,850,000",
       "isOld": true,
       "lastAppeared": "2024/6/29",
-      "sinceLastAppeared": 29
+      "sinceLastAppeared": 30
     },
     "1027": {
       "makername": "DMC",
@@ -151,7 +115,7 @@
       "price_in_jpy": "45,160,000",
       "isOld": false,
       "lastAppeared": "2024/6/29",
-      "sinceLastAppeared": 29
+      "sinceLastAppeared": 30
     },
     "3356": {
       "makername": "MINI",
@@ -160,7 +124,7 @@
       "price_in_jpy": "4,060,000",
       "isOld": true,
       "lastAppeared": "2024/6/29",
-      "sinceLastAppeared": 29
+      "sinceLastAppeared": 30
     },
     "1370": {
       "makername": "MINI",
@@ -169,7 +133,7 @@
       "price_in_jpy": "2,190,000",
       "isOld": false,
       "lastAppeared": "2024/6/30",
-      "sinceLastAppeared": 28
+      "sinceLastAppeared": 29
     },
     "810": {
       "makername": "Toyota",
@@ -178,7 +142,7 @@
       "price_in_jpy": "4,890,000",
       "isOld": true,
       "lastAppeared": "2024/6/30",
-      "sinceLastAppeared": 28
+      "sinceLastAppeared": 29
     },
     "3404": {
       "makername": "Porsche",
@@ -187,7 +151,7 @@
       "price_in_jpy": "40,950,000",
       "isOld": true,
       "lastAppeared": "2024/6/30",
-      "sinceLastAppeared": 28
+      "sinceLastAppeared": 29
     },
     "293": {
       "makername": "Honda",
@@ -196,7 +160,7 @@
       "price_in_jpy": "39,870,000",
       "isOld": true,
       "lastAppeared": "2024/6/30",
-      "sinceLastAppeared": 28
+      "sinceLastAppeared": 29
     },
     "3358": {
       "makername": "Porsche",
@@ -205,7 +169,7 @@
       "price_in_jpy": "15,550,000",
       "isOld": false,
       "lastAppeared": "2024/6/30",
-      "sinceLastAppeared": 28
+      "sinceLastAppeared": 29
     },
     "1402": {
       "makername": "Dodge",
@@ -214,7 +178,7 @@
       "price_in_jpy": "11,500,000",
       "isOld": false,
       "lastAppeared": "2024/6/30",
-      "sinceLastAppeared": 25
+      "sinceLastAppeared": 29
     },
     "334": {
       "makername": "Renault",
@@ -223,7 +187,7 @@
       "price_in_jpy": "8,230,000",
       "isOld": true,
       "lastAppeared": "2024/7/1",
-      "sinceLastAppeared": 24
+      "sinceLastAppeared": 28
     },
     "959": {
       "makername": "Audi",
@@ -232,7 +196,7 @@
       "price_in_jpy": "4,540,000",
       "isOld": false,
       "lastAppeared": "2024/7/1",
-      "sinceLastAppeared": 24
+      "sinceLastAppeared": 28
     },
     "709": {
       "makername": "Nissan",
@@ -241,7 +205,7 @@
       "price_in_jpy": "6,230,000",
       "isOld": true,
       "lastAppeared": "2024/7/1",
-      "sinceLastAppeared": 24
+      "sinceLastAppeared": 28
     },
     "3424": {
       "makername": "Mitsubishi",
@@ -589,14 +553,6 @@
       "price_in_jpy": "19,350,000",
       "isOld": true,
       "lastAppeared": "2024/7/13"
-    },
-    "104": {
-      "makername": "Nissan",
-      "carname": "Sileighty '98",
-      "price": "72,400",
-      "price_in_jpy": "7,240,000",
-      "isOld": true,
-      "lastAppeared": "2024/7/14"
     },
     "533": {
       "makername": "Lancia",
@@ -1013,6 +969,46 @@
       "price_in_jpy": "1,570,000",
       "isOld": false,
       "lastAppeared": "2024/7/28"
+    },
+    "1507": {
+      "makername": "AMG",
+      "carname": "SLS AMG '10",
+      "price": "310,900",
+      "price_in_jpy": "31,090,000",
+      "isOld": false,
+      "lastAppeared": "2024/7/29"
+    },
+    "1539": {
+      "makername": "Maserati",
+      "carname": "GranTurismo S '08",
+      "price": "137,700",
+      "price_in_jpy": "13,770,000",
+      "isOld": false,
+      "lastAppeared": "2024/7/29"
+    },
+    "1542": {
+      "makername": "Chevrolet",
+      "carname": "Corvette Convertible (C3) '69",
+      "price": "58,200",
+      "price_in_jpy": "5,820,000",
+      "isOld": true,
+      "lastAppeared": "2024/7/29"
+    },
+    "1385": {
+      "makername": "Suzuki",
+      "carname": "Swift Sport '07",
+      "price": "11,800",
+      "price_in_jpy": "1,180,000",
+      "isOld": false,
+      "lastAppeared": "2024/7/29"
+    },
+    "104": {
+      "makername": "Nissan",
+      "carname": "Sileighty '98",
+      "price": "81,600",
+      "price_in_jpy": "8,160,000",
+      "isOld": true,
+      "lastAppeared": "2024/7/29"
     }
   },
   "legend": {
@@ -1023,7 +1019,7 @@
       "price_in_jpy": "125,000,000",
       "isOld": true,
       "lastAppeared": "2024/5/3",
-      "sinceLastAppeared": 86
+      "sinceLastAppeared": 87
     },
     "3538": {
       "makername": "Dodge",
@@ -1032,7 +1028,7 @@
       "price_in_jpy": "15,800,000",
       "isOld": true,
       "lastAppeared": "2024/5/3",
-      "sinceLastAppeared": 86
+      "sinceLastAppeared": 87
     },
     "1926": {
       "makername": "Shelby",
@@ -1041,7 +1037,7 @@
       "price_in_jpy": "2,000,000,000",
       "isOld": true,
       "lastAppeared": "2024/5/7",
-      "sinceLastAppeared": 82
+      "sinceLastAppeared": 83
     },
     "1931": {
       "makername": "Ferrari",
@@ -1050,7 +1046,7 @@
       "price_in_jpy": "840,000,000",
       "isOld": true,
       "lastAppeared": "2024/5/8",
-      "sinceLastAppeared": 81
+      "sinceLastAppeared": 82
     },
     "3429": {
       "makername": "Nissan",
@@ -1059,7 +1055,7 @@
       "price_in_jpy": "19,000,000",
       "isOld": true,
       "lastAppeared": "2024/5/9",
-      "sinceLastAppeared": 80
+      "sinceLastAppeared": 81
     },
     "3445": {
       "makername": "Aston Martin",
@@ -1068,7 +1064,7 @@
       "price_in_jpy": "89,200,000",
       "isOld": true,
       "lastAppeared": "2024/5/9",
-      "sinceLastAppeared": 80
+      "sinceLastAppeared": 81
     },
     "116": {
       "makername": "Toyota",
@@ -1077,7 +1073,7 @@
       "price_in_jpy": "250,000,000",
       "isOld": true,
       "lastAppeared": "2024/5/10",
-      "sinceLastAppeared": 79
+      "sinceLastAppeared": 80
     },
     "3493": {
       "makername": "Nissan",
@@ -1086,7 +1082,7 @@
       "price_in_jpy": "115,000,000",
       "isOld": true,
       "lastAppeared": "2024/5/11",
-      "sinceLastAppeared": 78
+      "sinceLastAppeared": 79
     },
     "3475": {
       "makername": "McLaren",
@@ -1366,15 +1362,6 @@
       "isOld": true,
       "lastAppeared": "2024/6/16",
       "sinceLastAppeared": 39
-    },
-    "1553": {
-      "makername": "Jaguar",
-      "carname": "XJ13 '66",
-      "price": "12,000,000",
-      "price_in_jpy": "1,200,000,000",
-      "isOld": true,
-      "lastAppeared": "2024/6/19",
-      "sinceLastAppeared": 36
     },
     "808": {
       "makername": "Suzuki",
@@ -1768,6 +1755,14 @@
       "price_in_jpy": "1,500,000,000",
       "isOld": true,
       "lastAppeared": "2024/7/28"
+    },
+    "1553": {
+      "makername": "Jaguar",
+      "carname": "XJ13 '66",
+      "price": "12,000,000",
+      "price_in_jpy": "1,200,000,000",
+      "isOld": true,
+      "lastAppeared": "2024/7/29"
     }
   },
   "timestamp": "2024/7/25 8:39 (UTC)",
