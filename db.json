@@ -7,16 +7,7 @@
       "price_in_jpy": "78,930,000",
       "isOld": true,
       "lastAppeared": "2024/6/6",
-      "sinceLastAppeared": 53
-    },
-    "1893": {
-      "makername": "BMW",
-      "carname": "Z8 '01",
-      "price": "259,100",
-      "price_in_jpy": "25,910,000",
-      "isOld": false,
-      "lastAppeared": "2024/6/21",
-      "sinceLastAppeared": 38
+      "sinceLastAppeared": 54
     },
     "1689": {
       "makername": "Honda",
@@ -25,7 +16,7 @@
       "price_in_jpy": "11,540,000",
       "isOld": null,
       "lastAppeared": "2024/6/22",
-      "sinceLastAppeared": 37
+      "sinceLastAppeared": 38
     },
     "3359": {
       "makername": "Porsche",
@@ -34,7 +25,7 @@
       "price_in_jpy": "14,250,000",
       "isOld": false,
       "lastAppeared": "2024/6/23",
-      "sinceLastAppeared": 36
+      "sinceLastAppeared": 37
     },
     "1545": {
       "makername": "Lamborghini",
@@ -43,7 +34,7 @@
       "price_in_jpy": "33,720,000",
       "isOld": false,
       "lastAppeared": "2024/6/24",
-      "sinceLastAppeared": 35
+      "sinceLastAppeared": 36
     },
     "1504": {
       "makername": "Ferrari",
@@ -52,7 +43,7 @@
       "price_in_jpy": "24,800,000",
       "isOld": false,
       "lastAppeared": "2024/6/25",
-      "sinceLastAppeared": 34
+      "sinceLastAppeared": 35
     },
     "374": {
       "makername": "Mazda",
@@ -61,7 +52,7 @@
       "price_in_jpy": "6,110,000",
       "isOld": true,
       "lastAppeared": "2024/6/27",
-      "sinceLastAppeared": 32
+      "sinceLastAppeared": 33
     },
     "1508": {
       "makername": "Mitsubishi",
@@ -70,16 +61,7 @@
       "price_in_jpy": "16,810,000",
       "isOld": true,
       "lastAppeared": "2024/6/27",
-      "sinceLastAppeared": 32
-    },
-    "3403": {
-      "makername": "Volkswagen",
-      "carname": "Golf I GTI '83",
-      "price": "46,700",
-      "price_in_jpy": "4,670,000",
-      "isOld": true,
-      "lastAppeared": "2024/6/27",
-      "sinceLastAppeared": 32
+      "sinceLastAppeared": 33
     },
     "1796": {
       "makername": "Alpine",
@@ -88,7 +70,7 @@
       "price_in_jpy": "13,750,000",
       "isOld": true,
       "lastAppeared": "2024/6/27",
-      "sinceLastAppeared": 32
+      "sinceLastAppeared": 33
     },
     "3471": {
       "makername": "Toyota",
@@ -97,7 +79,7 @@
       "price_in_jpy": "8,070,000",
       "isOld": true,
       "lastAppeared": "2024/6/28",
-      "sinceLastAppeared": 31
+      "sinceLastAppeared": 32
     },
     "24": {
       "makername": "Nissan",
@@ -106,7 +88,7 @@
       "price_in_jpy": "4,850,000",
       "isOld": true,
       "lastAppeared": "2024/6/29",
-      "sinceLastAppeared": 30
+      "sinceLastAppeared": 31
     },
     "1027": {
       "makername": "DMC",
@@ -115,7 +97,7 @@
       "price_in_jpy": "45,160,000",
       "isOld": false,
       "lastAppeared": "2024/6/29",
-      "sinceLastAppeared": 30
+      "sinceLastAppeared": 31
     },
     "3356": {
       "makername": "MINI",
@@ -124,7 +106,7 @@
       "price_in_jpy": "4,060,000",
       "isOld": true,
       "lastAppeared": "2024/6/29",
-      "sinceLastAppeared": 30
+      "sinceLastAppeared": 31
     },
     "1370": {
       "makername": "MINI",
@@ -133,7 +115,7 @@
       "price_in_jpy": "2,190,000",
       "isOld": false,
       "lastAppeared": "2024/6/30",
-      "sinceLastAppeared": 29
+      "sinceLastAppeared": 30
     },
     "810": {
       "makername": "Toyota",
@@ -142,7 +124,7 @@
       "price_in_jpy": "4,890,000",
       "isOld": true,
       "lastAppeared": "2024/6/30",
-      "sinceLastAppeared": 29
+      "sinceLastAppeared": 30
     },
     "3404": {
       "makername": "Porsche",
@@ -151,7 +133,7 @@
       "price_in_jpy": "40,950,000",
       "isOld": true,
       "lastAppeared": "2024/6/30",
-      "sinceLastAppeared": 29
+      "sinceLastAppeared": 30
     },
     "293": {
       "makername": "Honda",
@@ -160,7 +142,7 @@
       "price_in_jpy": "39,870,000",
       "isOld": true,
       "lastAppeared": "2024/6/30",
-      "sinceLastAppeared": 29
+      "sinceLastAppeared": 30
     },
     "3358": {
       "makername": "Porsche",
@@ -169,7 +151,7 @@
       "price_in_jpy": "15,550,000",
       "isOld": false,
       "lastAppeared": "2024/6/30",
-      "sinceLastAppeared": 29
+      "sinceLastAppeared": 30
     },
     "1402": {
       "makername": "Dodge",
@@ -178,7 +160,7 @@
       "price_in_jpy": "11,500,000",
       "isOld": false,
       "lastAppeared": "2024/6/30",
-      "sinceLastAppeared": 29
+      "sinceLastAppeared": 30
     },
     "334": {
       "makername": "Renault",
@@ -187,7 +169,7 @@
       "price_in_jpy": "8,230,000",
       "isOld": true,
       "lastAppeared": "2024/7/1",
-      "sinceLastAppeared": 28
+      "sinceLastAppeared": 29
     },
     "959": {
       "makername": "Audi",
@@ -196,16 +178,7 @@
       "price_in_jpy": "4,540,000",
       "isOld": false,
       "lastAppeared": "2024/7/1",
-      "sinceLastAppeared": 28
-    },
-    "709": {
-      "makername": "Nissan",
-      "carname": "Fairlady Z 300ZX TT 2seater '89",
-      "price": "62,300",
-      "price_in_jpy": "6,230,000",
-      "isOld": true,
-      "lastAppeared": "2024/7/1",
-      "sinceLastAppeared": 28
+      "sinceLastAppeared": 29
     },
     "3424": {
       "makername": "Mitsubishi",
@@ -214,7 +187,7 @@
       "price_in_jpy": "9,970,000",
       "isOld": false,
       "lastAppeared": "2024/7/1",
-      "sinceLastAppeared": 24
+      "sinceLastAppeared": 29
     },
     "1373": {
       "makername": "Dodge",
@@ -223,7 +196,7 @@
       "price_in_jpy": "10,560,000",
       "isOld": false,
       "lastAppeared": "2024/7/1",
-      "sinceLastAppeared": 24
+      "sinceLastAppeared": 29
     },
     "1458": {
       "makername": "Nissan",
@@ -232,7 +205,7 @@
       "price_in_jpy": "3,600,000",
       "isOld": false,
       "lastAppeared": "2024/7/2",
-      "sinceLastAppeared": 23
+      "sinceLastAppeared": 28
     },
     "1933": {
       "makername": "Alfa Romeo",
@@ -553,14 +526,6 @@
       "price_in_jpy": "19,350,000",
       "isOld": true,
       "lastAppeared": "2024/7/13"
-    },
-    "533": {
-      "makername": "Lancia",
-      "carname": "Stratos '73",
-      "price": "495,800",
-      "price_in_jpy": "49,580,000",
-      "isOld": true,
-      "lastAppeared": "2024/7/14"
     },
     "48": {
       "makername": "Nissan",
@@ -1009,27 +974,41 @@
       "price_in_jpy": "8,160,000",
       "isOld": true,
       "lastAppeared": "2024/7/29"
+    },
+    "1893": {
+      "makername": "BMW",
+      "carname": "Z8 '01",
+      "price": "267,200",
+      "price_in_jpy": "26,720,000",
+      "isOld": false,
+      "lastAppeared": "2024/7/30"
+    },
+    "3403": {
+      "makername": "Volkswagen",
+      "carname": "Golf I GTI '83",
+      "price": "40,500",
+      "price_in_jpy": "4,050,000",
+      "isOld": true,
+      "lastAppeared": "2024/7/30"
+    },
+    "709": {
+      "makername": "Nissan",
+      "carname": "Fairlady Z 300ZX TT 2seater '89",
+      "price": "70,000",
+      "price_in_jpy": "7,000,000",
+      "isOld": true,
+      "lastAppeared": "2024/7/30"
+    },
+    "533": {
+      "makername": "Lancia",
+      "carname": "Stratos '73",
+      "price": "539,300",
+      "price_in_jpy": "53,930,000",
+      "isOld": true,
+      "lastAppeared": "2024/7/30"
     }
   },
   "legend": {
-    "1484": {
-      "makername": "Lamborghini",
-      "carname": "Countach LP400 '74",
-      "price": "1,250,000",
-      "price_in_jpy": "125,000,000",
-      "isOld": true,
-      "lastAppeared": "2024/5/3",
-      "sinceLastAppeared": 87
-    },
-    "3538": {
-      "makername": "Dodge",
-      "carname": "Charger R/T 426 Hemi '68",
-      "price": "158,000",
-      "price_in_jpy": "15,800,000",
-      "isOld": true,
-      "lastAppeared": "2024/5/3",
-      "sinceLastAppeared": 87
-    },
     "1926": {
       "makername": "Shelby",
       "carname": "Cobra Daytona Coupe '64",
@@ -1037,7 +1016,7 @@
       "price_in_jpy": "2,000,000,000",
       "isOld": true,
       "lastAppeared": "2024/5/7",
-      "sinceLastAppeared": 83
+      "sinceLastAppeared": 84
     },
     "1931": {
       "makername": "Ferrari",
@@ -1046,7 +1025,7 @@
       "price_in_jpy": "840,000,000",
       "isOld": true,
       "lastAppeared": "2024/5/8",
-      "sinceLastAppeared": 82
+      "sinceLastAppeared": 83
     },
     "3429": {
       "makername": "Nissan",
@@ -1055,7 +1034,7 @@
       "price_in_jpy": "19,000,000",
       "isOld": true,
       "lastAppeared": "2024/5/9",
-      "sinceLastAppeared": 81
+      "sinceLastAppeared": 82
     },
     "3445": {
       "makername": "Aston Martin",
@@ -1064,7 +1043,7 @@
       "price_in_jpy": "89,200,000",
       "isOld": true,
       "lastAppeared": "2024/5/9",
-      "sinceLastAppeared": 81
+      "sinceLastAppeared": 82
     },
     "116": {
       "makername": "Toyota",
@@ -1073,7 +1052,7 @@
       "price_in_jpy": "250,000,000",
       "isOld": true,
       "lastAppeared": "2024/5/10",
-      "sinceLastAppeared": 80
+      "sinceLastAppeared": 81
     },
     "3493": {
       "makername": "Nissan",
@@ -1082,7 +1061,7 @@
       "price_in_jpy": "115,000,000",
       "isOld": true,
       "lastAppeared": "2024/5/11",
-      "sinceLastAppeared": 79
+      "sinceLastAppeared": 80
     },
     "3475": {
       "makername": "McLaren",
@@ -1091,7 +1070,7 @@
       "price_in_jpy": "1,000,000,000",
       "isOld": true,
       "lastAppeared": "2024/5/12",
-      "sinceLastAppeared": 74
+      "sinceLastAppeared": 79
     },
     "3490": {
       "makername": "Porsche",
@@ -1100,7 +1079,7 @@
       "price_in_jpy": "230,000,000",
       "isOld": true,
       "lastAppeared": "2024/5/13",
-      "sinceLastAppeared": 73
+      "sinceLastAppeared": 78
     },
     "3421": {
       "makername": "Maserati",
@@ -1763,6 +1742,22 @@
       "price_in_jpy": "1,200,000,000",
       "isOld": true,
       "lastAppeared": "2024/7/29"
+    },
+    "1484": {
+      "makername": "Lamborghini",
+      "carname": "Countach LP400 '74",
+      "price": "1,350,000",
+      "price_in_jpy": "135,000,000",
+      "isOld": true,
+      "lastAppeared": "2024/7/30"
+    },
+    "3538": {
+      "makername": "Dodge",
+      "carname": "Charger R/T 426 Hemi '68",
+      "price": "158,000",
+      "price_in_jpy": "15,800,000",
+      "isOld": true,
+      "lastAppeared": "2024/7/30"
     }
   },
   "timestamp": "2024/7/25 8:39 (UTC)",
