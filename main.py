@@ -30,8 +30,10 @@ def MakeNewCarList(data, carList, makerList):
                 if data[i][0] == carList[j][0]:
                     for k in range(len(makerList)):
                         if carList[j][2] == makerList[k][0]:
-                            car_id = int(carList[j][0])
+                            maker_id = int(makerList[k][0])
                             maker_name = makerList[k][1]
+                            maker_country_id = int(makerList[k][2])
+                            car_id = int(carList[j][0])
                             car_name = carList[j][1]
                             price = int(data[i][1])
                             price_jp = int(data[i][1]) * 100
@@ -45,23 +47,46 @@ def MakeNewCarList(data, carList, makerList):
                             except:
                                 isOld = None
 
-                            res.append(
-                                {'car_id': car_id, 'maker_name': maker_name, 'car_name': car_name, 'price': price, 'price_jp': price_jp, 'isOld': isOld})
+                            res.append({
+                                'maker_id': maker_id,
+                                'maker_name': maker_name,
+                                'maker_country_id': maker_country_id,
+                                'car_id': car_id,
+                                'car_name': car_name,
+                                'price': price,
+                                'price_jp': price_jp,
+                                'isOld': isOld
+                            })
     return res
 
 
-def UpdateDB():
+def CheckLastAppearance(data, data_prev, date_to_import):
+    res = {}
+    for i in range(len(data)):
+        res.update({data[i][0]: today})
+    for i in range(len(data)):
+        if data[i][2] == 'soldout':
+            for j in range(len(data_prev)):
+                if data[i][0] == data_prev[j][0] and data_prev[j][2] != 'soldout':
+                    res.update({data[i][0]: date_to_import - timedelta(1)})
+    return res
+
+
+def UpdateDB(lastAppearance):
     for dealer in ['used', 'legend']:
-        for day in reversed(data['content']):
+        for day in data['content']:
             for car in day[dealer]:
                 db[dealer][str(car['car_id'])] = {
+                    'maker_id': car['maker_id'],
                     'maker_name': car['maker_name'],
+                    'maker_country_id': car['maker_country_id'],
                     'car_name': car['car_name'],
                     'price': car['price'],
                     'price_jp': car['price_jp'],
                     'isOld': car['isOld'],
-                    'lastAppearance': day['date'],
                 }
+                if str(car['car_id']) in lastAppearance[dealer]:
+                    db[dealer][str(car['car_id'])].update({'lastAppearance': lastAppearance[dealer][str(car['car_id'])].strftime('%Y/%m/%d')})
 
     db.update({'timestamp': timestamp})
 
@@ -82,31 +107,42 @@ today = datetime.now(timezone.utc).date()
 timestamp = datetime.now(timezone.utc).isoformat()
 # start_date = datetime(year=2022, month=6, day=28).date()
 # how_many_days = (today-start_date).days + 1
-how_many_days = 14
+how_many_days = 100
 data = {
     'timestamp': timestamp,
     'content': []
 }
+lastAppearance = {
+    'used': {},
+    'legend': {}
+}
 
-for i in range(how_many_days):
+for i in reversed(range(how_many_days)):
     date_to_import = today - timedelta(i)
+    date_to_import_prev = today - timedelta(i+1)
     filename = date_to_import.strftime('%y-%m-%d')+'.csv'
+    filename_prev = date_to_import_prev.strftime('%y-%m-%d')+'.csv'
 
     data_used = LoadCSV('used', filename)
     data_legend = LoadCSV('legend', filename)
+    data_prev_used = LoadCSV('used', filename_prev)
+    data_prev_legend = LoadCSV('legend', filename_prev)
 
     list_used = MakeNewCarList(data_used, carList, makerList)
     list_legend = MakeNewCarList(data_legend, carList, makerList)
 
-    data['content'].append({
+    lastAppearance['used'].update(CheckLastAppearance(data_used, data_prev_used, date_to_import))
+    lastAppearance['legend'].update(CheckLastAppearance(data_legend, data_prev_legend, date_to_import))
+
+    data['content'].insert(0, {
         'id': int(date_to_import.strftime('%Y%m%d')),
         'date': date_to_import.strftime('%Y/%-m/%-d'),
         'used': list_used,
         'legend': list_legend,
     })
-    print(f'Day {i+1}')
+    print(f'Day {100-i}')
 
-UpdateDB()
+UpdateDB(lastAppearance)
 
 with open('data.json', 'w') as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
