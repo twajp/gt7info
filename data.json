@@ -1,6 +1,46 @@
 {
-  "timestamp": "2024-09-11T00:10:04.915222+00:00",
+  "timestamp": "2024-09-12T00:09:31.013814+00:00",
   "content": [
+    {
+      "id": 20240912,
+      "date": "2024/9/12",
+      "used": [
+        {
+          "car_id": 173,
+          "maker_name": "Renault",
+          "car_name": "R5 Turbo '80",
+          "price": 151900,
+          "price_jp": 15190000,
+          "isOld": true
+        },
+        {
+          "car_id": 1990,
+          "maker_name": "Lamborghini",
+          "car_name": "Diablo GT '00",
+          "price": 779000,
+          "price_jp": 77900000,
+          "isOld": true
+        }
+      ],
+      "legend": [
+        {
+          "car_id": 3487,
+          "maker_name": "Ford",
+          "car_name": "Mustang Boss 429 '69",
+          "price": 346000,
+          "price_jp": 34600000,
+          "isOld": true
+        },
+        {
+          "car_id": 781,
+          "maker_name": "Toyota",
+          "car_name": "Celica GT-FOUR Rally Car (ST205) '95",
+          "price": 250000,
+          "price_jp": 25000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20240911,
       "date": "2024/9/11",
@@ -515,38 +555,6 @@
         }
       ],
       "legend": []
-    },
-    {
-      "id": 20240829,
-      "date": "2024/8/29",
-      "used": [
-        {
-          "car_id": 3549,
-          "maker_name": "Volvo",
-          "car_name": "240 SE Estate '93",
-          "price": 47000,
-          "price_jp": 4700000,
-          "isOld": true
-        },
-        {
-          "car_id": 1504,
-          "maker_name": "Ferrari",
-          "car_name": "458 Italia '09",
-          "price": 243200,
-          "price_jp": 24320000,
-          "isOld": false
-        }
-      ],
-      "legend": [
-        {
-          "car_id": 1551,
-          "maker_name": "Ferrari",
-          "car_name": "330 P4 '67",
-          "price": 20000000,
-          "price_jp": 2000000000,
-          "isOld": true
-        }
-      ]
     }
   ]
 }
