@@ -1,6 +1,62 @@
 {
-  "timestamp": "2024-09-12T00:09:31.013814+00:00",
+  "timestamp": "2024-09-13T00:10:34.662164+00:00",
   "content": [
+    {
+      "id": 20240913,
+      "date": "2024/9/13",
+      "used": [
+        {
+          "car_id": 3438,
+          "maker_name": "Abarth",
+          "car_name": "Abarth 595 SS '70",
+          "price": 58200,
+          "price_jp": 5820000,
+          "isOld": true
+        },
+        {
+          "car_id": 135,
+          "maker_name": "Honda",
+          "car_name": "S800 '66",
+          "price": 48700,
+          "price_jp": 4870000,
+          "isOld": true
+        },
+        {
+          "car_id": 709,
+          "maker_name": "Nissan",
+          "car_name": "Fairlady Z 300ZX TT 2seater '89",
+          "price": 52500,
+          "price_jp": 5250000,
+          "isOld": true
+        },
+        {
+          "car_id": 3424,
+          "maker_name": "Mitsubishi",
+          "car_name": "Lancer Evolution IX MR GSR '06",
+          "price": 91400,
+          "price_jp": 9140000,
+          "isOld": false
+        },
+        {
+          "car_id": 345,
+          "maker_name": "Toyota",
+          "car_name": "Sprinter Trueno 1600GT APEX (S.Shigeno Version)",
+          "price": 106700,
+          "price_jp": 10670000,
+          "isOld": null
+        }
+      ],
+      "legend": [
+        {
+          "car_id": 808,
+          "maker_name": "Suzuki",
+          "car_name": "V6 Escudo Pikes Peak Special spec.98",
+          "price": 1700000,
+          "price_jp": 170000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20240912,
       "date": "2024/9/12",
@@ -536,21 +592,6 @@
           "car_name": "Sileighty '98",
           "price": 81600,
           "price_jp": 8160000,
-          "isOld": true
-        }
-      ],
-      "legend": []
-    },
-    {
-      "id": 20240830,
-      "date": "2024/8/30",
-      "used": [
-        {
-          "car_id": 1729,
-          "maker_name": "Ford",
-          "car_name": "Mustang Mach 1 '71",
-          "price": 40800,
-          "price_jp": 4080000,
           "isOld": true
         }
       ],
