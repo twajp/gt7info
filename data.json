@@ -1,6 +1,21 @@
 {
-  "timestamp": "2024-09-13T00:10:34.662164+00:00",
+  "timestamp": "2024-09-14T00:09:40.161015+00:00",
   "content": [
+    {
+      "id": 20240914,
+      "date": "2024/9/14",
+      "used": [
+        {
+          "car_id": 3442,
+          "maker_name": "Autobianchi",
+          "car_name": "A112 Abarth '85",
+          "price": 29800,
+          "price_jp": 2980000,
+          "isOld": true
+        }
+      ],
+      "legend": []
+    },
     {
       "id": 20240913,
       "date": "2024/9/13",
@@ -549,53 +564,6 @@
           "isOld": true
         }
       ]
-    },
-    {
-      "id": 20240831,
-      "date": "2024/8/31",
-      "used": [
-        {
-          "car_id": 1044,
-          "maker_name": "Toyota",
-          "car_name": "Sports 800 '65",
-          "price": 46300,
-          "price_jp": 4630000,
-          "isOld": true
-        },
-        {
-          "car_id": 1985,
-          "maker_name": "Pontiac",
-          "car_name": "Firebird Trans Am '78",
-          "price": 87900,
-          "price_jp": 8790000,
-          "isOld": true
-        },
-        {
-          "car_id": 102,
-          "maker_name": "Nissan",
-          "car_name": "Skyline GTS-R (R31) '87",
-          "price": 162200,
-          "price_jp": 16220000,
-          "isOld": true
-        },
-        {
-          "car_id": 1542,
-          "maker_name": "Chevrolet",
-          "car_name": "Corvette Convertible (C3) '69",
-          "price": 58200,
-          "price_jp": 5820000,
-          "isOld": true
-        },
-        {
-          "car_id": 104,
-          "maker_name": "Nissan",
-          "car_name": "Sileighty '98",
-          "price": 81600,
-          "price_jp": 8160000,
-          "isOld": true
-        }
-      ],
-      "legend": []
     }
   ]
 }
