@@ -1,6 +1,62 @@
 {
-  "timestamp": "2024-09-15T00:11:57.470073+00:00",
+  "timestamp": "2024-09-16T00:09:54.176146+00:00",
   "content": [
+    {
+      "id": 20240916,
+      "date": "2024/9/16",
+      "used": [
+        {
+          "car_id": 829,
+          "maker_name": "Lancia",
+          "car_name": "Delta HF Integrale Evoluzione '91",
+          "price": 98900,
+          "price_jp": 9890000,
+          "isOld": true
+        },
+        {
+          "car_id": 207,
+          "maker_name": "Toyota",
+          "car_name": "MR2 GT-S '97",
+          "price": 53600,
+          "price_jp": 5360000,
+          "isOld": true
+        },
+        {
+          "car_id": 688,
+          "maker_name": "Honda",
+          "car_name": "Integra Type R (DC2) '95",
+          "price": 62300,
+          "price_jp": 6230000,
+          "isOld": true
+        },
+        {
+          "car_id": 3341,
+          "maker_name": "De Tomaso",
+          "car_name": "Pantera '71",
+          "price": 170400,
+          "price_jp": 17040000,
+          "isOld": true
+        },
+        {
+          "car_id": 3439,
+          "maker_name": "Porsche",
+          "car_name": "911 Carrera RS (993) '95",
+          "price": 229200,
+          "price_jp": 22920000,
+          "isOld": true
+        }
+      ],
+      "legend": [
+        {
+          "car_id": 3464,
+          "maker_name": "Chevrolet",
+          "car_name": "Corvette (C1) '58",
+          "price": 119000,
+          "price_jp": 11900000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20240915,
       "date": "2024/9/15",
@@ -548,38 +604,6 @@
         }
       ],
       "legend": []
-    },
-    {
-      "id": 20240902,
-      "date": "2024/9/2",
-      "used": [
-        {
-          "car_id": 3403,
-          "maker_name": "Volkswagen",
-          "car_name": "Golf I GTI '83",
-          "price": 40500,
-          "price_jp": 4050000,
-          "isOld": true
-        },
-        {
-          "car_id": 533,
-          "maker_name": "Lancia",
-          "car_name": "Stratos '73",
-          "price": 539300,
-          "price_jp": 53930000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "car_id": 3363,
-          "maker_name": "Aston Martin",
-          "car_name": "DB3S '53",
-          "price": 6000000,
-          "price_jp": 600000000,
-          "isOld": true
-        }
-      ]
     }
   ]
 }
