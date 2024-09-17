@@ -1,6 +1,62 @@
 {
-  "timestamp": "2024-09-16T00:09:54.176146+00:00",
+  "timestamp": "2024-09-17T00:08:56.100291+00:00",
   "content": [
+    {
+      "id": 20240917,
+      "date": "2024/9/17",
+      "used": [
+        {
+          "car_id": 1410,
+          "maker_name": "Ferrari",
+          "car_name": "512 BB '76",
+          "price": 350000,
+          "price_jp": 35000000,
+          "isOld": true
+        },
+        {
+          "car_id": 779,
+          "maker_name": "Suzuki",
+          "car_name": "Cappuccino (EA11R) '91",
+          "price": 16000,
+          "price_jp": 1600000,
+          "isOld": true
+        },
+        {
+          "car_id": 1448,
+          "maker_name": "Nissan",
+          "car_name": "SILVIA spec-R Aero (S15) '02",
+          "price": 59900,
+          "price_jp": 5990000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "car_id": 3445,
+          "maker_name": "Aston Martin",
+          "car_name": "DB5 '64",
+          "price": 892000,
+          "price_jp": 89200000,
+          "isOld": true
+        },
+        {
+          "car_id": 604,
+          "maker_name": "Toyota",
+          "car_name": "2000GT '67",
+          "price": 992000,
+          "price_jp": 99200000,
+          "isOld": true
+        },
+        {
+          "car_id": 1067,
+          "maker_name": "Jaguar",
+          "car_name": "XJR-9 '88",
+          "price": 3000000,
+          "price_jp": 300000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20240916,
       "date": "2024/9/16",
@@ -581,29 +637,6 @@
           "isOld": true
         }
       ]
-    },
-    {
-      "id": 20240903,
-      "date": "2024/9/3",
-      "used": [
-        {
-          "car_id": 1796,
-          "maker_name": "Alpine",
-          "car_name": "A110 '72",
-          "price": 142200,
-          "price_jp": 14220000,
-          "isOld": true
-        },
-        {
-          "car_id": 3404,
-          "maker_name": "Porsche",
-          "car_name": "911 Carrera RS CS (993) '95",
-          "price": 413800,
-          "price_jp": 41380000,
-          "isOld": true
-        }
-      ],
-      "legend": []
     }
   ]
 }
