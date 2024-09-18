@@ -1,6 +1,37 @@
 {
-  "timestamp": "2024-09-17T00:08:56.100291+00:00",
+  "timestamp": "2024-09-18T00:09:55.429918+00:00",
   "content": [
+    {
+      "id": 20240918,
+      "date": "2024/9/18",
+      "used": [
+        {
+          "car_id": 48,
+          "maker_name": "Nissan",
+          "car_name": "Fairlady 240ZG (HS30) '71",
+          "price": 106400,
+          "price_jp": 10640000,
+          "isOld": true
+        },
+        {
+          "car_id": 3454,
+          "maker_name": "BMW",
+          "car_name": "3.0 CSL '71",
+          "price": 140400,
+          "price_jp": 14040000,
+          "isOld": true
+        },
+        {
+          "car_id": 1722,
+          "maker_name": "McLaren",
+          "car_name": "MP4-12C '10",
+          "price": 194100,
+          "price_jp": 19410000,
+          "isOld": false
+        }
+      ],
+      "legend": []
+    },
     {
       "id": 20240917,
       "date": "2024/9/17",
@@ -570,70 +601,6 @@
           "car_name": "Skyline 2000GT-R (KPGC110) '73",
           "price": 542000,
           "price_jp": 54200000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20240904,
-      "date": "2024/9/4",
-      "used": [
-        {
-          "car_id": 293,
-          "maker_name": "Honda",
-          "car_name": "NSX Type R '92",
-          "price": 398200,
-          "price_jp": 39820000,
-          "isOld": true
-        },
-        {
-          "car_id": 3358,
-          "maker_name": "Porsche",
-          "car_name": "911 GT3 (996) '01",
-          "price": 161700,
-          "price_jp": 16170000,
-          "isOld": false
-        },
-        {
-          "car_id": 1402,
-          "maker_name": "Dodge",
-          "car_name": "Viper SRT10 Coupe '06",
-          "price": 114400,
-          "price_jp": 11440000,
-          "isOld": false
-        },
-        {
-          "car_id": 1480,
-          "maker_name": "Chevrolet",
-          "car_name": "Corvette ZR1 (C6) '09",
-          "price": 99000,
-          "price_jp": 9900000,
-          "isOld": false
-        },
-        {
-          "car_id": 1365,
-          "maker_name": "Audi",
-          "car_name": "R8 4.2 '07",
-          "price": 135900,
-          "price_jp": 13590000,
-          "isOld": false
-        }
-      ],
-      "legend": [
-        {
-          "car_id": 3505,
-          "maker_name": "De Tomaso",
-          "car_name": "Mangusta (Christian Dior)",
-          "price": 500000,
-          "price_jp": 50000000,
-          "isOld": null
-        },
-        {
-          "car_id": 2018,
-          "maker_name": "Ferrari",
-          "car_name": "365 GTB4 '71",
-          "price": 610000,
-          "price_jp": 61000000,
           "isOld": true
         }
       ]
