@@ -1,6 +1,37 @@
 {
-  "timestamp": "2024-09-18T00:09:55.429918+00:00",
+  "timestamp": "2024-09-19T00:10:12.697549+00:00",
   "content": [
+    {
+      "id": 20240919,
+      "date": "2024/9/19",
+      "used": [
+        {
+          "car_id": 1773,
+          "maker_name": "Volkswagen",
+          "car_name": "Scirocco R '10",
+          "price": 37900,
+          "price_jp": 3790000,
+          "isOld": false
+        },
+        {
+          "car_id": 3398,
+          "maker_name": "RUF",
+          "car_name": "CTR3 '07",
+          "price": 770800,
+          "price_jp": 77080000,
+          "isOld": false
+        },
+        {
+          "car_id": 210,
+          "maker_name": "Nissan",
+          "car_name": "R34 GT-R V-spec II Nur '02",
+          "price": 401100,
+          "price_jp": 40110000,
+          "isOld": false
+        }
+      ],
+      "legend": []
+    },
     {
       "id": 20240918,
       "date": "2024/9/18",
@@ -561,46 +592,6 @@
           "car_name": "CLK-LM '98",
           "price": 8500000,
           "price_jp": 850000000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20240905,
-      "date": "2024/9/5",
-      "used": [
-        {
-          "car_id": 3513,
-          "maker_name": "Nissan",
-          "car_name": "Silvia K's Type S (S14) '94",
-          "price": 51400,
-          "price_jp": 5140000,
-          "isOld": true
-        },
-        {
-          "car_id": 3356,
-          "maker_name": "MINI",
-          "car_name": "Mini-Cooper 'S' '65",
-          "price": 40800,
-          "price_jp": 4080000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "car_id": 1932,
-          "maker_name": "Abarth",
-          "car_name": "1500 Biposto Bertone B.A.T 1 '52",
-          "price": 1000000,
-          "price_jp": 100000000,
-          "isOld": true
-        },
-        {
-          "car_id": 836,
-          "maker_name": "Nissan",
-          "car_name": "Skyline 2000GT-R (KPGC110) '73",
-          "price": 542000,
-          "price_jp": 54200000,
           "isOld": true
         }
       ]
