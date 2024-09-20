@@ -1,6 +1,46 @@
 {
-  "timestamp": "2024-09-19T00:10:12.697549+00:00",
+  "timestamp": "2024-09-20T00:11:06.101408+00:00",
   "content": [
+    {
+      "id": 20240920,
+      "date": "2024/9/20",
+      "used": [
+        {
+          "car_id": 1527,
+          "maker_name": "Fiat",
+          "car_name": "500 1.2 8V Lounge SS '08",
+          "price": 12900,
+          "price_jp": 1290000,
+          "isOld": false
+        },
+        {
+          "car_id": 3344,
+          "maker_name": "BMW",
+          "car_name": "M3 Sport Evolution '89",
+          "price": 168400,
+          "price_jp": 16840000,
+          "isOld": true
+        },
+        {
+          "car_id": 1507,
+          "maker_name": "AMG",
+          "car_name": "SLS AMG '10",
+          "price": 310900,
+          "price_jp": 31090000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "car_id": 3462,
+          "maker_name": "Pontiac",
+          "car_name": "GTO 'The Judge' '69",
+          "price": 268000,
+          "price_jp": 26800000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20240919,
       "date": "2024/9/19",
@@ -528,70 +568,6 @@
           "car_name": "8C 2900B Touring Berlinetta '38",
           "price": 20000000,
           "price_jp": 2000000000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20240906,
-      "date": "2024/9/6",
-      "used": [
-        {
-          "car_id": 810,
-          "maker_name": "Toyota",
-          "car_name": "Sprinter Trueno 1600GT APEX (AE86) '83",
-          "price": 51900,
-          "price_jp": 5190000,
-          "isOld": true
-        },
-        {
-          "car_id": 1933,
-          "maker_name": "Alfa Romeo",
-          "car_name": "MiTo '09",
-          "price": 22700,
-          "price_jp": 2270000,
-          "isOld": false
-        },
-        {
-          "car_id": 3377,
-          "maker_name": "Dodge",
-          "car_name": "Super Bee '70",
-          "price": 61100,
-          "price_jp": 6110000,
-          "isOld": true
-        },
-        {
-          "car_id": 1895,
-          "maker_name": "Ferrari",
-          "car_name": "Dino 246 GT '71",
-          "price": 338000,
-          "price_jp": 33800000,
-          "isOld": true
-        },
-        {
-          "car_id": 374,
-          "maker_name": "Mazda",
-          "car_name": "RX-7 GT-X (FC) '90",
-          "price": 53800,
-          "price_jp": 5380000,
-          "isOld": true
-        },
-        {
-          "car_id": 942,
-          "maker_name": "Chevrolet",
-          "car_name": "Corvette ZR-1 (C4) '89",
-          "price": 77800,
-          "price_jp": 7780000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "car_id": 3397,
-          "maker_name": "Mercedes-Benz",
-          "car_name": "CLK-LM '98",
-          "price": 8500000,
-          "price_jp": 850000000,
           "isOld": true
         }
       ]
