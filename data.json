@@ -1,6 +1,21 @@
 {
-  "timestamp": "2024-09-20T00:11:06.101408+00:00",
+  "timestamp": "2024-09-21T00:09:50.792324+00:00",
   "content": [
+    {
+      "id": 20240921,
+      "date": "2024/9/21",
+      "used": [
+        {
+          "car_id": 3443,
+          "maker_name": "Ferrari",
+          "car_name": "308 GTB '75",
+          "price": 165200,
+          "price_jp": 16520000,
+          "isOld": true
+        }
+      ],
+      "legend": []
+    },
     {
       "id": 20240920,
       "date": "2024/9/20",
@@ -539,38 +554,6 @@
         }
       ],
       "legend": []
-    },
-    {
-      "id": 20240907,
-      "date": "2024/9/7",
-      "used": [
-        {
-          "car_id": 1523,
-          "maker_name": "Fiat",
-          "car_name": "500 F '68",
-          "price": 15500,
-          "price_jp": 1550000,
-          "isOld": true
-        },
-        {
-          "car_id": 1508,
-          "maker_name": "Mitsubishi",
-          "car_name": "Lancer Evolution VI GSR T.M. SCP '99",
-          "price": 174200,
-          "price_jp": 17420000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "car_id": 3415,
-          "maker_name": "Alfa Romeo",
-          "car_name": "8C 2900B Touring Berlinetta '38",
-          "price": 20000000,
-          "price_jp": 2000000000,
-          "isOld": true
-        }
-      ]
     }
   ]
 }
