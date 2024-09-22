@@ -1,6 +1,70 @@
 {
-  "timestamp": "2024-09-21T00:09:50.792324+00:00",
+  "timestamp": "2024-09-22T00:10:51.509503+00:00",
   "content": [
+    {
+      "id": 20240922,
+      "date": "2024/9/22",
+      "used": [
+        {
+          "car_id": 1778,
+          "maker_name": "Volkswagen",
+          "car_name": "Volkswagen 1200 '66",
+          "price": 28800,
+          "price_jp": 2880000,
+          "isOld": true
+        },
+        {
+          "car_id": 3547,
+          "maker_name": "Renault",
+          "car_name": "R4 GTL '85",
+          "price": 26700,
+          "price_jp": 2670000,
+          "isOld": true
+        },
+        {
+          "car_id": 931,
+          "maker_name": "Mitsubishi",
+          "car_name": "Lancer Evolution III GSR '95",
+          "price": 91100,
+          "price_jp": 9110000,
+          "isOld": true
+        },
+        {
+          "car_id": 1539,
+          "maker_name": "Maserati",
+          "car_name": "GranTurismo S '08",
+          "price": 137700,
+          "price_jp": 13770000,
+          "isOld": false
+        },
+        {
+          "car_id": 1893,
+          "maker_name": "BMW",
+          "car_name": "Z8 '01",
+          "price": 267200,
+          "price_jp": 26720000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "car_id": 3388,
+          "maker_name": "AMG",
+          "car_name": "300 SEL 6.8 AMG '71",
+          "price": 700000,
+          "price_jp": 70000000,
+          "isOld": true
+        },
+        {
+          "car_id": 1409,
+          "maker_name": "Ferrari",
+          "car_name": "F40 '92",
+          "price": 3100000,
+          "price_jp": 310000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20240921,
       "date": "2024/9/21",
@@ -539,21 +603,6 @@
           "isOld": true
         }
       ]
-    },
-    {
-      "id": 20240908,
-      "date": "2024/9/8",
-      "used": [
-        {
-          "car_id": 1528,
-          "maker_name": "Mercedes-Benz",
-          "car_name": "SLR McLaren '09",
-          "price": 495200,
-          "price_jp": 49520000,
-          "isOld": false
-        }
-      ],
-      "legend": []
     }
   ]
 }
