@@ -1,6 +1,53 @@
 {
-  "timestamp": "2024-09-22T00:10:51.509503+00:00",
+  "timestamp": "2024-09-23T00:10:16.126051+00:00",
   "content": [
+    {
+      "id": 20240923,
+      "date": "2024/9/23",
+      "used": [
+        {
+          "car_id": 821,
+          "maker_name": "Honda",
+          "car_name": "Civic Type R (EK) '97",
+          "price": 48200,
+          "price_jp": 4820000,
+          "isOld": true
+        },
+        {
+          "car_id": 137,
+          "maker_name": "Honda",
+          "car_name": "Beat '91",
+          "price": 14400,
+          "price_jp": 1440000,
+          "isOld": true
+        },
+        {
+          "car_id": 1973,
+          "maker_name": "Abarth",
+          "car_name": "Abarth 500 '09",
+          "price": 22200,
+          "price_jp": 2220000,
+          "isOld": false
+        },
+        {
+          "car_id": 1689,
+          "maker_name": "Honda",
+          "car_name": "Civic Type R (EK) Touring Car",
+          "price": 122400,
+          "price_jp": 12240000,
+          "isOld": null
+        },
+        {
+          "car_id": 3359,
+          "maker_name": "Porsche",
+          "car_name": "911 GT3 (997) '09",
+          "price": 140200,
+          "price_jp": 14020000,
+          "isOld": false
+        }
+      ],
+      "legend": []
+    },
     {
       "id": 20240922,
       "date": "2024/9/22",
@@ -552,54 +599,6 @@
           "car_name": "McLaren F1 GTR Race Car '97",
           "price": 20000000,
           "price_jp": 2000000000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20240909,
-      "date": "2024/9/9",
-      "used": [
-        {
-          "car_id": 3530,
-          "maker_name": "Alfa Romeo",
-          "car_name": "Giulia Sprint GT Veloce '67",
-          "price": 169000,
-          "price_jp": 16900000,
-          "isOld": true
-        },
-        {
-          "car_id": 3471,
-          "maker_name": "Toyota",
-          "car_name": "Celica GT-Four (ST205) '94",
-          "price": 65100,
-          "price_jp": 6510000,
-          "isOld": true
-        },
-        {
-          "car_id": 24,
-          "maker_name": "Nissan",
-          "car_name": "180SX Type X '96",
-          "price": 48900,
-          "price_jp": 4890000,
-          "isOld": true
-        },
-        {
-          "car_id": 489,
-          "maker_name": "Nissan",
-          "car_name": "R33 GT-R V-spec '97",
-          "price": 154300,
-          "price_jp": 15430000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "car_id": 105,
-          "maker_name": "Peugeot",
-          "car_name": "205 Turbo 16 Evolution 2 '86",
-          "price": 1100000,
-          "price_jp": 110000000,
           "isOld": true
         }
       ]
