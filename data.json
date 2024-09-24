@@ -1,6 +1,102 @@
 {
-  "timestamp": "2024-09-23T00:10:16.126051+00:00",
+  "timestamp": "2024-09-24T00:10:15.464038+00:00",
   "content": [
+    {
+      "id": 20240924,
+      "date": "2024/9/24",
+      "used": [
+        {
+          "car_id": 301,
+          "maker_name": "Mitsubishi",
+          "car_name": "Lancer Evolution IV GSR '96",
+          "price": 55000,
+          "price_jp": 5500000,
+          "isOld": true
+        },
+        {
+          "car_id": 1461,
+          "maker_name": "Nissan",
+          "car_name": "Silvia K's Dia Selection (S13) '90",
+          "price": 55200,
+          "price_jp": 5520000,
+          "isOld": true
+        },
+        {
+          "car_id": 514,
+          "maker_name": "Honda",
+          "car_name": "S2000 '99",
+          "price": 106000,
+          "price_jp": 10600000,
+          "isOld": true
+        },
+        {
+          "car_id": 78,
+          "maker_name": "Nissan",
+          "car_name": "Silvia K's Aero (S14) '96",
+          "price": 59900,
+          "price_jp": 5990000,
+          "isOld": true
+        },
+        {
+          "car_id": 843,
+          "maker_name": "Toyota",
+          "car_name": "Supra 3.0GT Turbo A '88",
+          "price": 107000,
+          "price_jp": 10700000,
+          "isOld": true
+        },
+        {
+          "car_id": 1545,
+          "maker_name": "Lamborghini",
+          "car_name": "Murcielago LP 640 '09",
+          "price": 318700,
+          "price_jp": 31870000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "car_id": 3520,
+          "maker_name": "NISMO",
+          "car_name": "400R '95",
+          "price": 1800000,
+          "price_jp": 180000000,
+          "isOld": true
+        },
+        {
+          "car_id": 1565,
+          "maker_name": "Ford",
+          "car_name": "Mark IV Race Car '67",
+          "price": 6750000,
+          "price_jp": 675000000,
+          "isOld": true
+        },
+        {
+          "car_id": 1986,
+          "maker_name": "Renault",
+          "car_name": "R8 Gordini '66",
+          "price": 32500,
+          "price_jp": 3250000,
+          "isOld": true
+        },
+        {
+          "car_id": 296,
+          "maker_name": "Mazda",
+          "car_name": "787B '91",
+          "price": 3300000,
+          "price_jp": 330000000,
+          "isOld": true
+        },
+        {
+          "car_id": 2059,
+          "maker_name": "Chevrolet",
+          "car_name": "Corvette Stingray Racer Concept '59",
+          "price": 4000000,
+          "price_jp": 400000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20240923,
       "date": "2024/9/23",
@@ -554,54 +650,6 @@
         }
       ],
       "legend": []
-    },
-    {
-      "id": 20240910,
-      "date": "2024/9/10",
-      "used": [
-        {
-          "car_id": 1027,
-          "maker_name": "DMC",
-          "car_name": "DeLorean S2 '04",
-          "price": 472300,
-          "price_jp": 47230000,
-          "isOld": false
-        },
-        {
-          "car_id": 1370,
-          "maker_name": "MINI",
-          "car_name": "MINI Cooper S '05",
-          "price": 24100,
-          "price_jp": 2410000,
-          "isOld": false
-        },
-        {
-          "car_id": 334,
-          "maker_name": "Renault",
-          "car_name": "Clio V6 24V '00",
-          "price": 81900,
-          "price_jp": 8190000,
-          "isOld": true
-        },
-        {
-          "car_id": 205,
-          "maker_name": "Mazda",
-          "car_name": "RX-7 Spirit R Type A (FD) '02",
-          "price": 216300,
-          "price_jp": 21630000,
-          "isOld": false
-        }
-      ],
-      "legend": [
-        {
-          "car_id": 216,
-          "maker_name": "BMW",
-          "car_name": "McLaren F1 GTR Race Car '97",
-          "price": 20000000,
-          "price_jp": 2000000000,
-          "isOld": true
-        }
-      ]
     }
   ]
 }
