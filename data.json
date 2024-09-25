@@ -1,6 +1,62 @@
 {
-  "timestamp": "2024-09-24T00:10:15.464038+00:00",
+  "timestamp": "2024-09-25T00:10:42.275492+00:00",
   "content": [
+    {
+      "id": 20240925,
+      "date": "2024/9/25",
+      "used": [
+        {
+          "car_id": 1461,
+          "maker_name": "Nissan",
+          "car_name": "Silvia K's Dia Selection (S13) '90",
+          "price": 55200,
+          "price_jp": 5520000,
+          "isOld": true
+        },
+        {
+          "car_id": 514,
+          "maker_name": "Honda",
+          "car_name": "S2000 '99",
+          "price": 106000,
+          "price_jp": 10600000,
+          "isOld": true
+        },
+        {
+          "car_id": 78,
+          "maker_name": "Nissan",
+          "car_name": "Silvia K's Aero (S14) '96",
+          "price": 59900,
+          "price_jp": 5990000,
+          "isOld": true
+        },
+        {
+          "car_id": 843,
+          "maker_name": "Toyota",
+          "car_name": "Supra 3.0GT Turbo A '88",
+          "price": 107000,
+          "price_jp": 10700000,
+          "isOld": true
+        },
+        {
+          "car_id": 1545,
+          "maker_name": "Lamborghini",
+          "car_name": "Murcielago LP 640 '09",
+          "price": 318700,
+          "price_jp": 31870000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "car_id": 998,
+          "maker_name": "Mercedes-Benz",
+          "car_name": "Sauber Mercedes C9 '89",
+          "price": 3500000,
+          "price_jp": 350000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20240924,
       "date": "2024/9/24",
@@ -611,45 +667,6 @@
           "isOld": true
         }
       ]
-    },
-    {
-      "id": 20240911,
-      "date": "2024/9/11",
-      "used": [
-        {
-          "car_id": 919,
-          "maker_name": "Nissan",
-          "car_name": "Silvia Q's (S13) '88",
-          "price": 31800,
-          "price_jp": 3180000,
-          "isOld": true
-        },
-        {
-          "car_id": 1537,
-          "maker_name": "Toyota",
-          "car_name": "Prius G '09",
-          "price": 18500,
-          "price_jp": 1850000,
-          "isOld": false
-        },
-        {
-          "car_id": 204,
-          "maker_name": "Honda",
-          "car_name": "Civic Type R (EK) '98",
-          "price": 58100,
-          "price_jp": 5810000,
-          "isOld": true
-        },
-        {
-          "car_id": 959,
-          "maker_name": "Audi",
-          "car_name": "TT Coupe 3.2 quattro '03",
-          "price": 42100,
-          "price_jp": 4210000,
-          "isOld": false
-        }
-      ],
-      "legend": []
     }
   ]
 }
