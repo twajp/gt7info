@@ -1,6 +1,12 @@
 {
-  "timestamp": "2024-09-25T00:10:42.275492+00:00",
+  "timestamp": "2024-09-26T00:09:49.685920+00:00",
   "content": [
+    {
+      "id": 20240926,
+      "date": "2024/9/26",
+      "used": [],
+      "legend": []
+    },
     {
       "id": 20240925,
       "date": "2024/9/25",
@@ -624,46 +630,6 @@
           "car_name": "V6 Escudo Pikes Peak Special spec.98",
           "price": 1700000,
           "price_jp": 170000000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20240912,
-      "date": "2024/9/12",
-      "used": [
-        {
-          "car_id": 173,
-          "maker_name": "Renault",
-          "car_name": "R5 Turbo '80",
-          "price": 151900,
-          "price_jp": 15190000,
-          "isOld": true
-        },
-        {
-          "car_id": 1990,
-          "maker_name": "Lamborghini",
-          "car_name": "Diablo GT '00",
-          "price": 779000,
-          "price_jp": 77900000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "car_id": 3487,
-          "maker_name": "Ford",
-          "car_name": "Mustang Boss 429 '69",
-          "price": 346000,
-          "price_jp": 34600000,
-          "isOld": true
-        },
-        {
-          "car_id": 781,
-          "maker_name": "Toyota",
-          "car_name": "Celica GT-FOUR Rally Car (ST205) '95",
-          "price": 250000,
-          "price_jp": 25000000,
           "isOld": true
         }
       ]
