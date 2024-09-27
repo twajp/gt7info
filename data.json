@@ -1,6 +1,46 @@
 {
-  "timestamp": "2024-09-26T00:09:49.685920+00:00",
+  "timestamp": "2024-09-27T00:10:10.801783+00:00",
   "content": [
+    {
+      "id": 20240927,
+      "date": "2024/9/27",
+      "used": [
+        {
+          "car_id": 1671,
+          "maker_name": "Volkswagen",
+          "car_name": "Sambabus Typ 2 '62",
+          "price": 67400,
+          "price_jp": 6740000,
+          "isOld": true
+        },
+        {
+          "car_id": 3422,
+          "maker_name": "BMW",
+          "car_name": "3.0 CSL '73",
+          "price": 214100,
+          "price_jp": 21410000,
+          "isOld": true
+        },
+        {
+          "car_id": 3384,
+          "maker_name": "Mitsubishi",
+          "car_name": "GTO Twin Turbo '91",
+          "price": 45300,
+          "price_jp": 4530000,
+          "isOld": true
+        }
+      ],
+      "legend": [
+        {
+          "car_id": 665,
+          "maker_name": "Plymouth",
+          "car_name": "Superbird '70",
+          "price": 402000,
+          "price_jp": 40200000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20240926,
       "date": "2024/9/26",
@@ -577,62 +617,6 @@
         }
       ],
       "legend": []
-    },
-    {
-      "id": 20240913,
-      "date": "2024/9/13",
-      "used": [
-        {
-          "car_id": 3438,
-          "maker_name": "Abarth",
-          "car_name": "Abarth 595 SS '70",
-          "price": 58200,
-          "price_jp": 5820000,
-          "isOld": true
-        },
-        {
-          "car_id": 135,
-          "maker_name": "Honda",
-          "car_name": "S800 '66",
-          "price": 48700,
-          "price_jp": 4870000,
-          "isOld": true
-        },
-        {
-          "car_id": 709,
-          "maker_name": "Nissan",
-          "car_name": "Fairlady Z 300ZX TT 2seater '89",
-          "price": 52500,
-          "price_jp": 5250000,
-          "isOld": true
-        },
-        {
-          "car_id": 3424,
-          "maker_name": "Mitsubishi",
-          "car_name": "Lancer Evolution IX MR GSR '06",
-          "price": 91400,
-          "price_jp": 9140000,
-          "isOld": false
-        },
-        {
-          "car_id": 345,
-          "maker_name": "Toyota",
-          "car_name": "Sprinter Trueno 1600GT APEX (S.Shigeno Version)",
-          "price": 106700,
-          "price_jp": 10670000,
-          "isOld": null
-        }
-      ],
-      "legend": [
-        {
-          "car_id": 808,
-          "maker_name": "Suzuki",
-          "car_name": "V6 Escudo Pikes Peak Special spec.98",
-          "price": 1700000,
-          "price_jp": 170000000,
-          "isOld": true
-        }
-      ]
     }
   ]
 }
