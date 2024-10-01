@@ -1,6 +1,78 @@
 {
-  "timestamp": "2024-09-30T00:10:05.084730+00:00",
+  "timestamp": "2024-10-01T00:12:07.739305+00:00",
   "content": [
+    {
+      "id": 20241001,
+      "date": "2024/10/1",
+      "used": [
+        {
+          "car_id": 919,
+          "maker_name": "Nissan",
+          "car_name": "Silvia Q's (S13) '88",
+          "price": 40000,
+          "price_jp": 4000000,
+          "isOld": true
+        },
+        {
+          "car_id": 37,
+          "maker_name": "Honda",
+          "car_name": "Civic SiR-II (EG) '93",
+          "price": 52500,
+          "price_jp": 5250000,
+          "isOld": true
+        },
+        {
+          "car_id": 3432,
+          "maker_name": "Subaru",
+          "car_name": "Impreza Sedan WRX STi '04",
+          "price": 42000,
+          "price_jp": 4200000,
+          "isOld": false
+        },
+        {
+          "car_id": 1402,
+          "maker_name": "Dodge",
+          "car_name": "Viper SRT10 Coupe '06",
+          "price": 114400,
+          "price_jp": 11440000,
+          "isOld": false
+        },
+        {
+          "car_id": 1480,
+          "maker_name": "Chevrolet",
+          "car_name": "Corvette ZR1 (C6) '09",
+          "price": 99000,
+          "price_jp": 9900000,
+          "isOld": false
+        },
+        {
+          "car_id": 1365,
+          "maker_name": "Audi",
+          "car_name": "R8 4.2 '07",
+          "price": 135900,
+          "price_jp": 13590000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "car_id": 365,
+          "maker_name": "Alfa Romeo",
+          "car_name": "155 2.5 V6 TI '93",
+          "price": 800000,
+          "price_jp": 80000000,
+          "isOld": true
+        },
+        {
+          "car_id": 3441,
+          "maker_name": "Mercedes-Benz",
+          "car_name": "300 SL (W194) '52",
+          "price": 20000000,
+          "price_jp": 2000000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20240930,
       "date": "2024/9/30",
@@ -520,62 +592,6 @@
         }
       ],
       "legend": []
-    },
-    {
-      "id": 20240917,
-      "date": "2024/9/17",
-      "used": [
-        {
-          "car_id": 1410,
-          "maker_name": "Ferrari",
-          "car_name": "512 BB '76",
-          "price": 350000,
-          "price_jp": 35000000,
-          "isOld": true
-        },
-        {
-          "car_id": 779,
-          "maker_name": "Suzuki",
-          "car_name": "Cappuccino (EA11R) '91",
-          "price": 16000,
-          "price_jp": 1600000,
-          "isOld": true
-        },
-        {
-          "car_id": 1448,
-          "maker_name": "Nissan",
-          "car_name": "SILVIA spec-R Aero (S15) '02",
-          "price": 59900,
-          "price_jp": 5990000,
-          "isOld": false
-        }
-      ],
-      "legend": [
-        {
-          "car_id": 3445,
-          "maker_name": "Aston Martin",
-          "car_name": "DB5 '64",
-          "price": 892000,
-          "price_jp": 89200000,
-          "isOld": true
-        },
-        {
-          "car_id": 604,
-          "maker_name": "Toyota",
-          "car_name": "2000GT '67",
-          "price": 992000,
-          "price_jp": 99200000,
-          "isOld": true
-        },
-        {
-          "car_id": 1067,
-          "maker_name": "Jaguar",
-          "car_name": "XJR-9 '88",
-          "price": 3000000,
-          "price_jp": 300000000,
-          "isOld": true
-        }
-      ]
     }
   ]
 }
