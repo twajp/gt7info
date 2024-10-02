@@ -1,6 +1,46 @@
 {
-  "timestamp": "2024-10-01T00:12:07.739305+00:00",
+  "timestamp": "2024-10-02T00:09:56.770581+00:00",
   "content": [
+    {
+      "id": 20241002,
+      "date": "2024/10/2",
+      "used": [
+        {
+          "car_id": 773,
+          "maker_name": "Nissan",
+          "car_name": "R32 GT-R V-spec II '94",
+          "price": 178600,
+          "price_jp": 17860000,
+          "isOld": true
+        },
+        {
+          "car_id": 301,
+          "maker_name": "Mitsubishi",
+          "car_name": "Lancer Evolution IV GSR '96",
+          "price": 39600,
+          "price_jp": 3960000,
+          "isOld": true
+        }
+      ],
+      "legend": [
+        {
+          "car_id": 954,
+          "maker_name": "Nissan",
+          "car_name": "R92CP '92",
+          "price": 2000000,
+          "price_jp": 200000000,
+          "isOld": true
+        },
+        {
+          "car_id": 1935,
+          "maker_name": "Ford",
+          "car_name": "GT40 Mark I '66",
+          "price": 6700000,
+          "price_jp": 670000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20241001,
       "date": "2024/10/1",
@@ -557,37 +597,6 @@
           "car_name": "R34 GT-R V-spec II Nur '02",
           "price": 401100,
           "price_jp": 40110000,
-          "isOld": false
-        }
-      ],
-      "legend": []
-    },
-    {
-      "id": 20240918,
-      "date": "2024/9/18",
-      "used": [
-        {
-          "car_id": 48,
-          "maker_name": "Nissan",
-          "car_name": "Fairlady 240ZG (HS30) '71",
-          "price": 106400,
-          "price_jp": 10640000,
-          "isOld": true
-        },
-        {
-          "car_id": 3454,
-          "maker_name": "BMW",
-          "car_name": "3.0 CSL '71",
-          "price": 140400,
-          "price_jp": 14040000,
-          "isOld": true
-        },
-        {
-          "car_id": 1722,
-          "maker_name": "McLaren",
-          "car_name": "MP4-12C '10",
-          "price": 194100,
-          "price_jp": 19410000,
           "isOld": false
         }
       ],
