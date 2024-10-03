@@ -1,10 +1,34 @@
 {
-  "timestamp": "2024-10-03T00:09:50.359758+00:00",
+  "timestamp": "2024-10-03T18:18:45.471886+00:00",
   "content": [
     {
       "id": 20241003,
       "date": "2024/10/3",
       "used": [
+        {
+          "car_id": 799,
+          "maker_name": "Mitsubishi",
+          "car_name": "Lancer Evolution VIII MR GSR '04",
+          "price": 65800,
+          "price_jp": 6580000,
+          "isOld": false
+        },
+        {
+          "car_id": 3344,
+          "maker_name": "BMW",
+          "car_name": "M3 Sport Evolution '89",
+          "price": 200000,
+          "price_jp": 20000000,
+          "isOld": true
+        },
+        {
+          "car_id": 3466,
+          "maker_name": "Ford",
+          "car_name": "Sierra RS 500 Cosworth '87",
+          "price": 200000,
+          "price_jp": 20000000,
+          "isOld": true
+        },
         {
           "car_id": 3549,
           "maker_name": "Volvo",
@@ -30,7 +54,16 @@
           "isOld": true
         }
       ],
-      "legend": []
+      "legend": [
+        {
+          "car_id": 575,
+          "maker_name": "Mercedes-Benz",
+          "car_name": "190 E 2.5-16 Evolution II '91",
+          "price": 280000,
+          "price_jp": 28000000,
+          "isOld": true
+        }
+      ]
     },
     {
       "id": 20241002,
