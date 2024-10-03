@@ -1,6 +1,37 @@
 {
-  "timestamp": "2024-10-02T00:09:56.770581+00:00",
+  "timestamp": "2024-10-03T00:09:50.359758+00:00",
   "content": [
+    {
+      "id": 20241003,
+      "date": "2024/10/3",
+      "used": [
+        {
+          "car_id": 3549,
+          "maker_name": "Volvo",
+          "car_name": "240 SE Estate '93",
+          "price": 47000,
+          "price_jp": 4700000,
+          "isOld": true
+        },
+        {
+          "car_id": 1044,
+          "maker_name": "Toyota",
+          "car_name": "Sports 800 '65",
+          "price": 46300,
+          "price_jp": 4630000,
+          "isOld": true
+        },
+        {
+          "car_id": 942,
+          "maker_name": "Chevrolet",
+          "car_name": "Corvette ZR-1 (C4) '89",
+          "price": 77800,
+          "price_jp": 7780000,
+          "isOld": true
+        }
+      ],
+      "legend": []
+    },
     {
       "id": 20241002,
       "date": "2024/10/2",
@@ -570,37 +601,6 @@
           "isOld": true
         }
       ]
-    },
-    {
-      "id": 20240919,
-      "date": "2024/9/19",
-      "used": [
-        {
-          "car_id": 1773,
-          "maker_name": "Volkswagen",
-          "car_name": "Scirocco R '10",
-          "price": 37900,
-          "price_jp": 3790000,
-          "isOld": false
-        },
-        {
-          "car_id": 3398,
-          "maker_name": "RUF",
-          "car_name": "CTR3 '07",
-          "price": 770800,
-          "price_jp": 77080000,
-          "isOld": false
-        },
-        {
-          "car_id": 210,
-          "maker_name": "Nissan",
-          "car_name": "R34 GT-R V-spec II Nur '02",
-          "price": 401100,
-          "price_jp": 40110000,
-          "isOld": false
-        }
-      ],
-      "legend": []
     }
   ]
 }
