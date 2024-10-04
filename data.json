@@ -1,6 +1,29 @@
 {
-  "timestamp": "2024-10-03T18:18:45.471886+00:00",
+  "timestamp": "2024-10-04T00:11:01.465963+00:00",
   "content": [
+    {
+      "id": 20241004,
+      "date": "2024/10/4",
+      "used": [
+        {
+          "car_id": 1527,
+          "maker_name": "Fiat",
+          "car_name": "500 1.2 8V Lounge SS '08",
+          "price": 14100,
+          "price_jp": 1410000,
+          "isOld": false
+        },
+        {
+          "car_id": 821,
+          "maker_name": "Honda",
+          "car_name": "Civic Type R (EK) '97",
+          "price": 53600,
+          "price_jp": 5360000,
+          "isOld": true
+        }
+      ],
+      "legend": []
+    },
     {
       "id": 20241003,
       "date": "2024/10/3",
@@ -594,46 +617,6 @@
         }
       ],
       "legend": []
-    },
-    {
-      "id": 20240920,
-      "date": "2024/9/20",
-      "used": [
-        {
-          "car_id": 1527,
-          "maker_name": "Fiat",
-          "car_name": "500 1.2 8V Lounge SS '08",
-          "price": 12900,
-          "price_jp": 1290000,
-          "isOld": false
-        },
-        {
-          "car_id": 3344,
-          "maker_name": "BMW",
-          "car_name": "M3 Sport Evolution '89",
-          "price": 168400,
-          "price_jp": 16840000,
-          "isOld": true
-        },
-        {
-          "car_id": 1507,
-          "maker_name": "AMG",
-          "car_name": "SLS AMG '10",
-          "price": 310900,
-          "price_jp": 31090000,
-          "isOld": false
-        }
-      ],
-      "legend": [
-        {
-          "car_id": 3462,
-          "maker_name": "Pontiac",
-          "car_name": "GTO 'The Judge' '69",
-          "price": 268000,
-          "price_jp": 26800000,
-          "isOld": true
-        }
-      ]
     }
   ]
 }
