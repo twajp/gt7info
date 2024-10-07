@@ -1,6 +1,54 @@
 {
-  "timestamp": "2024-10-06T00:10:46.703828+00:00",
+  "timestamp": "2024-10-07T00:10:55.978419+00:00",
   "content": [
+    {
+      "id": 20241007,
+      "date": "2024/10/7",
+      "used": [
+        {
+          "car_id": 3403,
+          "maker_name": "Volkswagen",
+          "car_name": "Golf I GTI '83",
+          "price": 45700,
+          "price_jp": 4570000,
+          "isOld": true
+        },
+        {
+          "car_id": 1796,
+          "maker_name": "Alpine",
+          "car_name": "A110 '72",
+          "price": 138100,
+          "price_jp": 13810000,
+          "isOld": true
+        },
+        {
+          "car_id": 1542,
+          "maker_name": "Chevrolet",
+          "car_name": "Corvette Convertible (C3) '69",
+          "price": 51900,
+          "price_jp": 5190000,
+          "isOld": true
+        },
+        {
+          "car_id": 1545,
+          "maker_name": "Lamborghini",
+          "car_name": "Murcielago LP 640 '09",
+          "price": 321600,
+          "price_jp": 32160000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "car_id": 1925,
+          "maker_name": "Shelby",
+          "car_name": "G.T.350 '65",
+          "price": 469000,
+          "price_jp": 46900000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20241006,
       "date": "2024/10/6",
@@ -611,53 +659,6 @@
           "isOld": true
         }
       ]
-    },
-    {
-      "id": 20240923,
-      "date": "2024/9/23",
-      "used": [
-        {
-          "car_id": 821,
-          "maker_name": "Honda",
-          "car_name": "Civic Type R (EK) '97",
-          "price": 48200,
-          "price_jp": 4820000,
-          "isOld": true
-        },
-        {
-          "car_id": 137,
-          "maker_name": "Honda",
-          "car_name": "Beat '91",
-          "price": 14400,
-          "price_jp": 1440000,
-          "isOld": true
-        },
-        {
-          "car_id": 1973,
-          "maker_name": "Abarth",
-          "car_name": "Abarth 500 '09",
-          "price": 22200,
-          "price_jp": 2220000,
-          "isOld": false
-        },
-        {
-          "car_id": 1689,
-          "maker_name": "Honda",
-          "car_name": "Civic Type R (EK) Touring Car",
-          "price": 122400,
-          "price_jp": 12240000,
-          "isOld": null
-        },
-        {
-          "car_id": 3359,
-          "maker_name": "Porsche",
-          "car_name": "911 GT3 (997) '09",
-          "price": 140200,
-          "price_jp": 14020000,
-          "isOld": false
-        }
-      ],
-      "legend": []
     }
   ]
 }
