@@ -1,6 +1,94 @@
 {
-  "timestamp": "2024-10-09T00:09:53.515983+00:00",
+  "timestamp": "2024-10-10T00:10:48.969685+00:00",
   "content": [
+    {
+      "id": 20241010,
+      "date": "2024/10/10",
+      "used": [
+        {
+          "car_id": 201,
+          "maker_name": "Mazda",
+          "car_name": "Eunos Roadster (NA) '89",
+          "price": 35000,
+          "price_jp": 3500000,
+          "isOld": true
+        },
+        {
+          "car_id": 931,
+          "maker_name": "Mitsubishi",
+          "car_name": "Lancer Evolution III GSR '95",
+          "price": 100000,
+          "price_jp": 10000000,
+          "isOld": true
+        },
+        {
+          "car_id": 301,
+          "maker_name": "Mitsubishi",
+          "car_name": "Lancer Evolution IV GSR '96",
+          "price": 55000,
+          "price_jp": 5500000,
+          "isOld": true
+        },
+        {
+          "car_id": 211,
+          "maker_name": "Mitsubishi",
+          "car_name": "Lancer Evolution V GSR '98",
+          "price": 90000,
+          "price_jp": 9000000,
+          "isOld": true
+        },
+        {
+          "car_id": 1508,
+          "maker_name": "Mitsubishi",
+          "car_name": "Lancer Evolution VI GSR T.M. SCP '99",
+          "price": 200000,
+          "price_jp": 20000000,
+          "isOld": true
+        },
+        {
+          "car_id": 3377,
+          "maker_name": "Dodge",
+          "car_name": "Super Bee '70",
+          "price": 63200,
+          "price_jp": 6320000,
+          "isOld": true
+        },
+        {
+          "car_id": 1384,
+          "maker_name": "Nissan",
+          "car_name": "Fairlady Z Version S (Z33) '07",
+          "price": 30800,
+          "price_jp": 3080000,
+          "isOld": false
+        },
+        {
+          "car_id": 1378,
+          "maker_name": "Ferrari",
+          "car_name": "F430 '06",
+          "price": 207400,
+          "price_jp": 20740000,
+          "isOld": false
+        },
+        {
+          "car_id": 1426,
+          "maker_name": "Ford",
+          "car_name": "Ford GT '06",
+          "price": 397100,
+          "price_jp": 39710000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "car_id": 3430,
+          "maker_name": "Jeep",
+          "car_name": "Willys MB '45",
+          "price": 30100,
+          "price_jp": 3010000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20241009,
       "date": "2024/10/9",
@@ -613,12 +701,6 @@
           "isOld": true
         }
       ]
-    },
-    {
-      "id": 20240926,
-      "date": "2024/9/26",
-      "used": [],
-      "legend": []
     }
   ]
 }
