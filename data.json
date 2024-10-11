@@ -1,6 +1,37 @@
 {
-  "timestamp": "2024-10-10T00:10:48.969685+00:00",
+  "timestamp": "2024-10-11T00:09:54.565906+00:00",
   "content": [
+    {
+      "id": 20241011,
+      "date": "2024/10/11",
+      "used": [
+        {
+          "car_id": 3356,
+          "maker_name": "MINI",
+          "car_name": "Mini-Cooper 'S' '65",
+          "price": 40800,
+          "price_jp": 4080000,
+          "isOld": true
+        },
+        {
+          "car_id": 1895,
+          "maker_name": "Ferrari",
+          "car_name": "Dino 246 GT '71",
+          "price": 333900,
+          "price_jp": 33390000,
+          "isOld": true
+        },
+        {
+          "car_id": 374,
+          "maker_name": "Mazda",
+          "car_name": "RX-7 GT-X (FC) '90",
+          "price": 58900,
+          "price_jp": 5890000,
+          "isOld": true
+        }
+      ],
+      "legend": []
+    },
     {
       "id": 20241010,
       "date": "2024/10/10",
@@ -661,46 +692,6 @@
         }
       ],
       "legend": []
-    },
-    {
-      "id": 20240927,
-      "date": "2024/9/27",
-      "used": [
-        {
-          "car_id": 1671,
-          "maker_name": "Volkswagen",
-          "car_name": "Sambabus Typ 2 '62",
-          "price": 67400,
-          "price_jp": 6740000,
-          "isOld": true
-        },
-        {
-          "car_id": 3422,
-          "maker_name": "BMW",
-          "car_name": "3.0 CSL '73",
-          "price": 214100,
-          "price_jp": 21410000,
-          "isOld": true
-        },
-        {
-          "car_id": 3384,
-          "maker_name": "Mitsubishi",
-          "car_name": "GTO Twin Turbo '91",
-          "price": 45300,
-          "price_jp": 4530000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "car_id": 665,
-          "maker_name": "Plymouth",
-          "car_name": "Superbird '70",
-          "price": 402000,
-          "price_jp": 40200000,
-          "isOld": true
-        }
-      ]
     }
   ]
 }
