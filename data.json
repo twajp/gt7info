@@ -1,6 +1,61 @@
 {
-  "timestamp": "2024-10-13T00:11:54.938822+00:00",
+  "timestamp": "2024-10-14T00:10:57.303661+00:00",
   "content": [
+    {
+      "id": 20241014,
+      "date": "2024/10/14",
+      "used": [
+        {
+          "car_id": 1523,
+          "maker_name": "Fiat",
+          "car_name": "500 F '68",
+          "price": 15500,
+          "price_jp": 1550000,
+          "isOld": true
+        },
+        {
+          "car_id": 3530,
+          "maker_name": "Alfa Romeo",
+          "car_name": "Giulia Sprint GT Veloce '67",
+          "price": 169000,
+          "price_jp": 16900000,
+          "isOld": true
+        },
+        {
+          "car_id": 919,
+          "maker_name": "Nissan",
+          "car_name": "Silvia Q's (S13) '88",
+          "price": 31800,
+          "price_jp": 3180000,
+          "isOld": true
+        },
+        {
+          "car_id": 3471,
+          "maker_name": "Toyota",
+          "car_name": "Celica GT-Four (ST205) '94",
+          "price": 67700,
+          "price_jp": 6770000,
+          "isOld": true
+        },
+        {
+          "car_id": 1399,
+          "maker_name": "BMW",
+          "car_name": "M3 '07",
+          "price": 70200,
+          "price_jp": 7020000,
+          "isOld": false
+        },
+        {
+          "car_id": 3431,
+          "maker_name": "Porsche",
+          "car_name": "911 Carrera RS (964) '92",
+          "price": 220000,
+          "price_jp": 22000000,
+          "isOld": true
+        }
+      ],
+      "legend": []
+    },
     {
       "id": 20241013,
       "date": "2024/10/13",
@@ -644,45 +699,6 @@
           "isOld": true
         }
       ]
-    },
-    {
-      "id": 20240930,
-      "date": "2024/9/30",
-      "used": [
-        {
-          "car_id": 63,
-          "maker_name": "Toyota",
-          "car_name": "Corolla Levin 1600GT APEX (AE86) '83",
-          "price": 48900,
-          "price_jp": 4890000,
-          "isOld": true
-        },
-        {
-          "car_id": 211,
-          "maker_name": "Mitsubishi",
-          "car_name": "Lancer Evolution V GSR '98",
-          "price": 80100,
-          "price_jp": 8010000,
-          "isOld": true
-        },
-        {
-          "car_id": 293,
-          "maker_name": "Honda",
-          "car_name": "NSX Type R '92",
-          "price": 398200,
-          "price_jp": 39820000,
-          "isOld": true
-        },
-        {
-          "car_id": 3358,
-          "maker_name": "Porsche",
-          "car_name": "911 GT3 (996) '01",
-          "price": 161700,
-          "price_jp": 16170000,
-          "isOld": false
-        }
-      ],
-      "legend": []
     }
   ]
 }
