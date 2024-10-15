@@ -1,6 +1,54 @@
 {
-  "timestamp": "2024-10-14T00:10:57.303661+00:00",
+  "timestamp": "2024-10-15T00:09:51.502428+00:00",
   "content": [
+    {
+      "id": 20241015,
+      "date": "2024/10/15",
+      "used": [
+        {
+          "car_id": 1537,
+          "maker_name": "Toyota",
+          "car_name": "Prius G '09",
+          "price": 18500,
+          "price_jp": 1850000,
+          "isOld": false
+        },
+        {
+          "car_id": 24,
+          "maker_name": "Nissan",
+          "car_name": "180SX Type X '96",
+          "price": 58400,
+          "price_jp": 5840000,
+          "isOld": true
+        },
+        {
+          "car_id": 1541,
+          "maker_name": "Audi",
+          "car_name": "TTS Coupe '09",
+          "price": 67600,
+          "price_jp": 6760000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "car_id": 837,
+          "maker_name": "Nissan",
+          "car_name": "Skyline Hard Top 2000GT-R (KPGC10) '70",
+          "price": 194000,
+          "price_jp": 19400000,
+          "isOld": true
+        },
+        {
+          "car_id": 3514,
+          "maker_name": "Citroen",
+          "car_name": "DS 21 Pallas '70",
+          "price": 47600,
+          "price_jp": 4760000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20241014,
       "date": "2024/10/14",
@@ -624,78 +672,6 @@
           "car_name": "GT40 Mark I '66",
           "price": 6700000,
           "price_jp": 670000000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20241001,
-      "date": "2024/10/1",
-      "used": [
-        {
-          "car_id": 919,
-          "maker_name": "Nissan",
-          "car_name": "Silvia Q's (S13) '88",
-          "price": 40000,
-          "price_jp": 4000000,
-          "isOld": true
-        },
-        {
-          "car_id": 37,
-          "maker_name": "Honda",
-          "car_name": "Civic SiR-II (EG) '93",
-          "price": 52500,
-          "price_jp": 5250000,
-          "isOld": true
-        },
-        {
-          "car_id": 3432,
-          "maker_name": "Subaru",
-          "car_name": "Impreza Sedan WRX STi '04",
-          "price": 42000,
-          "price_jp": 4200000,
-          "isOld": false
-        },
-        {
-          "car_id": 1402,
-          "maker_name": "Dodge",
-          "car_name": "Viper SRT10 Coupe '06",
-          "price": 114400,
-          "price_jp": 11440000,
-          "isOld": false
-        },
-        {
-          "car_id": 1480,
-          "maker_name": "Chevrolet",
-          "car_name": "Corvette ZR1 (C6) '09",
-          "price": 99000,
-          "price_jp": 9900000,
-          "isOld": false
-        },
-        {
-          "car_id": 1365,
-          "maker_name": "Audi",
-          "car_name": "R8 4.2 '07",
-          "price": 135900,
-          "price_jp": 13590000,
-          "isOld": false
-        }
-      ],
-      "legend": [
-        {
-          "car_id": 365,
-          "maker_name": "Alfa Romeo",
-          "car_name": "155 2.5 V6 TI '93",
-          "price": 800000,
-          "price_jp": 80000000,
-          "isOld": true
-        },
-        {
-          "car_id": 3441,
-          "maker_name": "Mercedes-Benz",
-          "car_name": "300 SL (W194) '52",
-          "price": 20000000,
-          "price_jp": 2000000000,
           "isOld": true
         }
       ]
