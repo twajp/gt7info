@@ -1,6 +1,86 @@
 {
-  "timestamp": "2024-10-15T00:09:51.502428+00:00",
+  "timestamp": "2024-10-16T00:09:43.172071+00:00",
   "content": [
+    {
+      "id": 20241016,
+      "date": "2024/10/16",
+      "used": [
+        {
+          "car_id": 204,
+          "maker_name": "Honda",
+          "car_name": "Civic Type R (EK) '98",
+          "price": 58100,
+          "price_jp": 5810000,
+          "isOld": true
+        },
+        {
+          "car_id": 173,
+          "maker_name": "Renault",
+          "car_name": "R5 Turbo '80",
+          "price": 151900,
+          "price_jp": 15190000,
+          "isOld": true
+        },
+        {
+          "car_id": 1027,
+          "maker_name": "DMC",
+          "car_name": "DeLorean S2 '04",
+          "price": 458900,
+          "price_jp": 45890000,
+          "isOld": false
+        },
+        {
+          "car_id": 1370,
+          "maker_name": "MINI",
+          "car_name": "MINI Cooper S '05",
+          "price": 23300,
+          "price_jp": 2330000,
+          "isOld": false
+        },
+        {
+          "car_id": 1544,
+          "maker_name": "Ferrari",
+          "car_name": "430 Scuderia '07",
+          "price": 363500,
+          "price_jp": 36350000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "car_id": 1927,
+          "maker_name": "Audi",
+          "car_name": "Sport quattro S1 Pikes Peak '87",
+          "price": 1900000,
+          "price_jp": 190000000,
+          "isOld": true
+        },
+        {
+          "car_id": 315,
+          "maker_name": "Shelby",
+          "car_name": "Cobra 427 '66",
+          "price": 2500000,
+          "price_jp": 250000000,
+          "isOld": true
+        },
+        {
+          "car_id": 3525,
+          "maker_name": "Honda",
+          "car_name": "RA272 '65",
+          "price": 2500000,
+          "price_jp": 250000000,
+          "isOld": true
+        },
+        {
+          "car_id": 575,
+          "maker_name": "Mercedes-Benz",
+          "car_name": "190 E 2.5-16 Evolution II '91",
+          "price": 280000,
+          "price_jp": 28000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20241015,
       "date": "2024/10/15",
@@ -632,46 +712,6 @@
           "car_name": "190 E 2.5-16 Evolution II '91",
           "price": 280000,
           "price_jp": 28000000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20241002,
-      "date": "2024/10/2",
-      "used": [
-        {
-          "car_id": 773,
-          "maker_name": "Nissan",
-          "car_name": "R32 GT-R V-spec II '94",
-          "price": 178600,
-          "price_jp": 17860000,
-          "isOld": true
-        },
-        {
-          "car_id": 301,
-          "maker_name": "Mitsubishi",
-          "car_name": "Lancer Evolution IV GSR '96",
-          "price": 39600,
-          "price_jp": 3960000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "car_id": 954,
-          "maker_name": "Nissan",
-          "car_name": "R92CP '92",
-          "price": 2000000,
-          "price_jp": 200000000,
-          "isOld": true
-        },
-        {
-          "car_id": 1935,
-          "maker_name": "Ford",
-          "car_name": "GT40 Mark I '66",
-          "price": 6700000,
-          "price_jp": 670000000,
           "isOld": true
         }
       ]
