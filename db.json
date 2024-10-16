@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-16T02:35:55.044087+00:00",
+  "timestamp": "2024-10-16T02:43:28.899419+00:00",
   "used": {
     "3389": {
       "maker_id": 6,
@@ -1278,9 +1278,9 @@
       "price": 47000,
       "price_jp": 4700000,
       "isOld": true,
-      "lastAppearance": "2024/7/28",
+      "lastAppearance": "2024/10/3",
       "lastSeen": "2024/10/09",
-      "sinceLastAppearance": 80,
+      "sinceLastAppearance": 13,
       "sinceLastSeen": 7
     },
     "773": {
@@ -1330,9 +1330,9 @@
       "price": 87900,
       "price_jp": 8790000,
       "isOld": true,
-      "lastAppearance": "2024/7/28",
+      "lastAppearance": "2024/10/5",
       "lastSeen": "2024/10/10",
-      "sinceLastAppearance": 80,
+      "sinceLastAppearance": 11,
       "sinceLastSeen": 6
     },
     "821": {
@@ -1353,12 +1353,12 @@
           "engine_name": "K24A-Civic"
         }
       ],
-      "price": 58100,
-      "price_jp": 5810000,
+      "price": 53600,
+      "price_jp": 5360000,
       "isOld": true,
-      "lastAppearance": "2024/7/18",
+      "lastAppearance": "2024/10/4",
       "lastSeen": "2024/10/10",
-      "sinceLastAppearance": 90,
+      "sinceLastAppearance": 12,
       "sinceLastSeen": 6
     },
     "3359": {
@@ -1379,12 +1379,12 @@
           "engine_name": "M97/80-911"
         }
       ],
-      "price": 140200,
-      "price_jp": 14020000,
+      "price": 141200,
+      "price_jp": 14120000,
       "isOld": false,
-      "lastAppearance": "2024/8/1",
+      "lastAppearance": "2024/10/6",
       "lastSeen": "2024/10/11",
-      "sinceLastAppearance": 76,
+      "sinceLastAppearance": 10,
       "sinceLastSeen": 5
     },
     "3344": {
@@ -1405,12 +1405,12 @@
           "engine_name": "B58-GR-Supra-'20"
         }
       ],
-      "price": 179700,
-      "price_jp": 17970000,
+      "price": 200000,
+      "price_jp": 20000000,
       "isOld": true,
-      "lastAppearance": "2024/7/11",
+      "lastAppearance": "2024/10/3",
       "lastSeen": "2024/10/11",
-      "sinceLastAppearance": 97,
+      "sinceLastAppearance": 13,
       "sinceLastSeen": 5
     },
     "3466": {
@@ -1423,12 +1423,12 @@
       "country_name": "United States",
       "country_code": "us",
       "engine_swaps": [],
-      "price": 193500,
-      "price_jp": 19350000,
+      "price": 200000,
+      "price_jp": 20000000,
       "isOld": true,
-      "lastAppearance": "2024/7/13",
+      "lastAppearance": "2024/10/3",
       "lastSeen": "2024/10/11",
-      "sinceLastAppearance": 95,
+      "sinceLastAppearance": 13,
       "sinceLastSeen": 5
     },
     "942": {
@@ -1449,12 +1449,12 @@
           "engine_name": "LT5-Corvette-C7"
         }
       ],
-      "price": 86100,
-      "price_jp": 8610000,
+      "price": 77800,
+      "price_jp": 7780000,
       "isOld": true,
-      "lastAppearance": "2024/7/15",
+      "lastAppearance": "2024/10/3",
       "lastSeen": "2024/10/11",
-      "sinceLastAppearance": 93,
+      "sinceLastAppearance": 13,
       "sinceLastSeen": 5
     },
     "3403": {
@@ -1475,12 +1475,12 @@
           "engine_name": "R5-20vT-Quattro-Pikes"
         }
       ],
-      "price": 40500,
-      "price_jp": 4050000,
+      "price": 45700,
+      "price_jp": 4570000,
       "isOld": true,
-      "lastAppearance": "2024/7/30",
+      "lastAppearance": "2024/10/7",
       "lastSeen": "2024/10/12",
-      "sinceLastAppearance": 78,
+      "sinceLastAppearance": 9,
       "sinceLastSeen": 4
     },
     "1545": {
@@ -1493,12 +1493,12 @@
       "country_name": "Italy",
       "country_code": "it",
       "engine_swaps": [],
-      "price": 318700,
-      "price_jp": 31870000,
+      "price": 321600,
+      "price_jp": 32160000,
       "isOld": false,
-      "lastAppearance": "2024/8/1",
+      "lastAppearance": "2024/10/7",
       "lastSeen": "2024/10/12",
-      "sinceLastAppearance": 76,
+      "sinceLastAppearance": 9,
       "sinceLastSeen": 4
     },
     "3551": {
@@ -1519,12 +1519,12 @@
           "engine_name": "LS7-BRZ"
         }
       ],
-      "price": 74600,
-      "price_jp": 7460000,
+      "price": 85500,
+      "price_jp": 8550000,
       "isOld": true,
-      "lastAppearance": "2024/7/25",
+      "lastAppearance": "2024/10/5",
       "lastSeen": "2024/10/12",
-      "sinceLastAppearance": 83,
+      "sinceLastAppearance": 11,
       "sinceLastSeen": 4
     },
     "1506": {
@@ -1537,12 +1537,12 @@
       "country_name": "Italy",
       "country_code": "it",
       "engine_swaps": [],
-      "price": 253100,
-      "price_jp": 25310000,
+      "price": 243800,
+      "price_jp": 24380000,
       "isOld": false,
-      "lastAppearance": "2024/7/25",
+      "lastAppearance": "2024/10/5",
       "lastSeen": "2024/10/12",
-      "sinceLastAppearance": 83,
+      "sinceLastAppearance": 11,
       "sinceLastSeen": 4
     },
     "1527": {
@@ -1555,12 +1555,12 @@
       "country_name": "Italy",
       "country_code": "it",
       "engine_swaps": [],
-      "price": 13300,
-      "price_jp": 1330000,
+      "price": 14100,
+      "price_jp": 1410000,
       "isOld": false,
-      "lastAppearance": "2024/7/19",
+      "lastAppearance": "2024/10/4",
       "lastSeen": "2024/10/12",
-      "sinceLastAppearance": 89,
+      "sinceLastAppearance": 12,
       "sinceLastSeen": 4
     },
     "1044": {
@@ -1576,9 +1576,9 @@
       "price": 46300,
       "price_jp": 4630000,
       "isOld": true,
-      "lastAppearance": "2024/7/28",
+      "lastAppearance": "2024/10/3",
       "lastSeen": "2024/10/12",
-      "sinceLastAppearance": 80,
+      "sinceLastAppearance": 13,
       "sinceLastSeen": 4
     },
     "3384": {
@@ -1606,12 +1606,12 @@
           "engine_name": "H25A-Escudo"
         }
       ],
-      "price": 40000,
-      "price_jp": 4000000,
+      "price": 55000,
+      "price_jp": 5500000,
       "isOld": true,
-      "lastAppearance": "2024/7/20",
+      "lastAppearance": "2024/10/8",
       "lastSeen": "2024/10/13",
-      "sinceLastAppearance": 88,
+      "sinceLastAppearance": 8,
       "sinceLastSeen": 3
     },
     "1458": {
@@ -1661,9 +1661,9 @@
       "price": 62100,
       "price_jp": 6210000,
       "isOld": true,
-      "lastAppearance": "2024/7/25",
+      "lastAppearance": "2024/10/6",
       "lastSeen": "2024/10/13",
-      "sinceLastAppearance": 83,
+      "sinceLastAppearance": 10,
       "sinceLastSeen": 3
     },
     "145": {
@@ -1679,9 +1679,9 @@
       "price": 15700,
       "price_jp": 1570000,
       "isOld": false,
-      "lastAppearance": "2024/7/28",
+      "lastAppearance": "2024/10/5",
       "lastSeen": "2024/10/13",
-      "sinceLastAppearance": 80,
+      "sinceLastAppearance": 11,
       "sinceLastSeen": 3
     },
     "533": {
@@ -1694,12 +1694,12 @@
       "country_name": "Italy",
       "country_code": "it",
       "engine_swaps": [],
-      "price": 495800,
-      "price_jp": 49580000,
+      "price": 499300,
+      "price_jp": 49930000,
       "isOld": true,
-      "lastAppearance": "2024/7/14",
+      "lastAppearance": "2024/10/9",
       "lastSeen": "2024/10/14",
-      "sinceLastAppearance": 94,
+      "sinceLastAppearance": 7,
       "sinceLastSeen": 2
     },
     "1410": {
@@ -1712,12 +1712,12 @@
       "country_name": "Italy",
       "country_code": "it",
       "engine_swaps": [],
-      "price": 350000,
-      "price_jp": 35000000,
+      "price": 288600,
+      "price_jp": 28860000,
       "isOld": true,
-      "lastAppearance": "2024/9/17",
+      "lastAppearance": "2024/10/9",
       "lastSeen": "2024/10/14",
-      "sinceLastAppearance": 29,
+      "sinceLastAppearance": 7,
       "sinceLastSeen": 2
     },
     "1796": {
@@ -1730,12 +1730,12 @@
       "country_name": "France",
       "country_code": "fr",
       "engine_swaps": [],
-      "price": 142200,
-      "price_jp": 14220000,
+      "price": 138100,
+      "price_jp": 13810000,
       "isOld": true,
-      "lastAppearance": "2024/7/31",
+      "lastAppearance": "2024/10/7",
       "lastSeen": "2024/10/14",
-      "sinceLastAppearance": 77,
+      "sinceLastAppearance": 9,
       "sinceLastSeen": 2
     },
     "1542": {
@@ -1756,12 +1756,12 @@
           "engine_name": "LT5-Corvette-C7"
         }
       ],
-      "price": 58200,
-      "price_jp": 5820000,
+      "price": 51900,
+      "price_jp": 5190000,
       "isOld": true,
-      "lastAppearance": "2024/7/29",
+      "lastAppearance": "2024/10/7",
       "lastSeen": "2024/10/14",
-      "sinceLastAppearance": 79,
+      "sinceLastAppearance": 9,
       "sinceLastSeen": 2
     },
     "1385": {
@@ -1777,9 +1777,9 @@
       "price": 11800,
       "price_jp": 1180000,
       "isOld": false,
-      "lastAppearance": "2024/7/29",
+      "lastAppearance": "2024/10/6",
       "lastSeen": "2024/10/14",
-      "sinceLastAppearance": 79,
+      "sinceLastAppearance": 10,
       "sinceLastSeen": 2
     },
     "799": {
@@ -1810,12 +1810,12 @@
       "country_name": "United States",
       "country_code": "us",
       "engine_swaps": [],
-      "price": 399300,
-      "price_jp": 39930000,
+      "price": 397100,
+      "price_jp": 39710000,
       "isOld": false,
-      "lastAppearance": "2024/7/9",
+      "lastAppearance": "2024/10/10",
       "lastSeen": "2024/10/15",
-      "sinceLastAppearance": 99,
+      "sinceLastAppearance": 6,
       "sinceLastSeen": 1
     },
     "82": {
@@ -1862,12 +1862,12 @@
           "engine_name": "RB26DETT-GT-R-R34"
         }
       ],
-      "price": 162200,
-      "price_jp": 16220000,
+      "price": 163300,
+      "price_jp": 16330000,
       "isOld": true,
-      "lastAppearance": "2024/7/27",
+      "lastAppearance": "2024/10/6",
       "lastSeen": "2024/10/15",
-      "sinceLastAppearance": 81,
+      "sinceLastAppearance": 10,
       "sinceLastSeen": 1
     },
     "204": {
@@ -1891,9 +1891,9 @@
       "price": 58100,
       "price_jp": 5810000,
       "isOld": true,
-      "lastAppearance": "2024/8/8",
+      "lastAppearance": "2024/10/16",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 69,
+      "sinceLastAppearance": 0,
       "sinceLastSeen": 0
     },
     "173": {
@@ -1909,9 +1909,9 @@
       "price": 151900,
       "price_jp": 15190000,
       "isOld": true,
-      "lastAppearance": "2024/8/9",
+      "lastAppearance": "2024/10/16",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 68,
+      "sinceLastAppearance": 0,
       "sinceLastSeen": 0
     },
     "1027": {
@@ -1932,12 +1932,12 @@
           "engine_name": "LS7-Rampage"
         }
       ],
-      "price": 472300,
-      "price_jp": 47230000,
+      "price": 458900,
+      "price_jp": 45890000,
       "isOld": false,
-      "lastAppearance": "2024/8/6",
+      "lastAppearance": "2024/10/16",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 71,
+      "sinceLastAppearance": 0,
       "sinceLastSeen": 0
     },
     "1370": {
@@ -1958,12 +1958,12 @@
           "engine_name": "K24A-Civic"
         }
       ],
-      "price": 24100,
-      "price_jp": 2410000,
+      "price": 23300,
+      "price_jp": 2330000,
       "isOld": false,
-      "lastAppearance": "2024/8/7",
+      "lastAppearance": "2024/10/16",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 70,
+      "sinceLastAppearance": 0,
       "sinceLastSeen": 0
     },
     "1544": {
@@ -1976,12 +1976,12 @@
       "country_name": "Italy",
       "country_code": "it",
       "engine_swaps": [],
-      "price": 366700,
-      "price_jp": 36670000,
+      "price": 363500,
+      "price_jp": 36350000,
       "isOld": false,
-      "lastAppearance": "2024/7/25",
+      "lastAppearance": "2024/10/16",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 83,
+      "sinceLastAppearance": 0,
       "sinceLastSeen": 0
     },
     "1537": {
@@ -1997,9 +1997,9 @@
       "price": 18500,
       "price_jp": 1850000,
       "isOld": false,
-      "lastAppearance": "2024/8/8",
+      "lastAppearance": "2024/10/15",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 69,
+      "sinceLastAppearance": 1,
       "sinceLastSeen": 0
     },
     "24": {
@@ -2020,12 +2020,12 @@
           "engine_name": "VR38DETT-GT-R-NISMO"
         }
       ],
-      "price": 48900,
-      "price_jp": 4890000,
+      "price": 58400,
+      "price_jp": 5840000,
       "isOld": true,
-      "lastAppearance": "2024/8/3",
+      "lastAppearance": "2024/10/15",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 74,
+      "sinceLastAppearance": 1,
       "sinceLastSeen": 0
     },
     "1541": {
@@ -2038,12 +2038,12 @@
       "country_name": "Germany",
       "country_code": "de",
       "engine_swaps": [],
-      "price": 63100,
-      "price_jp": 6310000,
+      "price": 67600,
+      "price_jp": 6760000,
       "isOld": false,
-      "lastAppearance": "2024/7/11",
+      "lastAppearance": "2024/10/15",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 97,
+      "sinceLastAppearance": 1,
       "sinceLastSeen": 0
     },
     "1523": {
@@ -2059,9 +2059,9 @@
       "price": 15500,
       "price_jp": 1550000,
       "isOld": true,
-      "lastAppearance": "2024/8/5",
+      "lastAppearance": "2024/10/14",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 72,
+      "sinceLastAppearance": 2,
       "sinceLastSeen": 0
     },
     "3530": {
@@ -2077,9 +2077,9 @@
       "price": 169000,
       "price_jp": 16900000,
       "isOld": true,
-      "lastAppearance": "2024/8/6",
+      "lastAppearance": "2024/10/14",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 71,
+      "sinceLastAppearance": 2,
       "sinceLastSeen": 0
     },
     "919": {
@@ -2110,9 +2110,9 @@
       "price": 31800,
       "price_jp": 3180000,
       "isOld": true,
-      "lastAppearance": "2024/8/7",
+      "lastAppearance": "2024/10/14",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 70,
+      "sinceLastAppearance": 2,
       "sinceLastSeen": 0
     },
     "3471": {
@@ -2125,12 +2125,12 @@
       "country_name": "Japan",
       "country_code": "jp",
       "engine_swaps": [],
-      "price": 65100,
-      "price_jp": 6510000,
+      "price": 67700,
+      "price_jp": 6770000,
       "isOld": true,
-      "lastAppearance": "2024/8/2",
+      "lastAppearance": "2024/10/14",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 75,
+      "sinceLastAppearance": 2,
       "sinceLastSeen": 0
     },
     "1399": {
@@ -2151,12 +2151,12 @@
           "engine_name": "P65B44-Z4"
         }
       ],
-      "price": 69900,
-      "price_jp": 6990000,
+      "price": 70200,
+      "price_jp": 7020000,
       "isOld": false,
-      "lastAppearance": "2024/7/9",
+      "lastAppearance": "2024/10/14",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 99,
+      "sinceLastAppearance": 2,
       "sinceLastSeen": 0
     },
     "3431": {
@@ -2177,12 +2177,12 @@
           "engine_name": "959.50-959"
         }
       ],
-      "price": 226500,
-      "price_jp": 22650000,
+      "price": 220000,
+      "price_jp": 22000000,
       "isOld": true,
-      "lastAppearance": "2024/7/11",
+      "lastAppearance": "2024/10/14",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 97,
+      "sinceLastAppearance": 2,
       "sinceLastSeen": 0
     },
     "187": {
@@ -2203,12 +2203,12 @@
           "engine_name": "LT4-Camaro"
         }
       ],
-      "price": 72500,
-      "price_jp": 7250000,
+      "price": 70100,
+      "price_jp": 7010000,
       "isOld": true,
-      "lastAppearance": "2024/7/9",
+      "lastAppearance": "2024/10/13",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 99,
+      "sinceLastAppearance": 3,
       "sinceLastSeen": 0
     },
     "3524": {
@@ -2229,12 +2229,12 @@
           "engine_name": "VR38DETT-GT-R-NISMO"
         }
       ],
-      "price": 390000,
-      "price_jp": 39000000,
+      "price": 393800,
+      "price_jp": 39380000,
       "isOld": true,
-      "lastAppearance": "2024/7/9",
+      "lastAppearance": "2024/10/13",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 99,
+      "sinceLastAppearance": 3,
       "sinceLastSeen": 0
     },
     "810": {
@@ -2258,9 +2258,9 @@
       "price": 51900,
       "price_jp": 5190000,
       "isOld": true,
-      "lastAppearance": "2024/8/4",
+      "lastAppearance": "2024/10/12",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 73,
+      "sinceLastAppearance": 4,
       "sinceLastSeen": 0
     },
     "1933": {
@@ -2276,9 +2276,9 @@
       "price": 22700,
       "price_jp": 2270000,
       "isOld": false,
-      "lastAppearance": "2024/8/5",
+      "lastAppearance": "2024/10/12",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 72,
+      "sinceLastAppearance": 4,
       "sinceLastSeen": 0
     },
     "3356": {
@@ -2302,9 +2302,9 @@
       "price": 40800,
       "price_jp": 4080000,
       "isOld": true,
-      "lastAppearance": "2024/8/3",
+      "lastAppearance": "2024/10/11",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 74,
+      "sinceLastAppearance": 5,
       "sinceLastSeen": 0
     },
     "1895": {
@@ -2317,12 +2317,12 @@
       "country_name": "Italy",
       "country_code": "it",
       "engine_swaps": [],
-      "price": 343900,
-      "price_jp": 34390000,
+      "price": 333900,
+      "price_jp": 33390000,
       "isOld": true,
-      "lastAppearance": "2024/7/17",
+      "lastAppearance": "2024/10/11",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 91,
+      "sinceLastAppearance": 5,
       "sinceLastSeen": 0
     },
     "374": {
@@ -2343,12 +2343,12 @@
           "engine_name": "R26B-787B"
         }
       ],
-      "price": 53800,
-      "price_jp": 5380000,
+      "price": 58900,
+      "price_jp": 5890000,
       "isOld": true,
-      "lastAppearance": "2024/7/31",
+      "lastAppearance": "2024/10/11",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 77,
+      "sinceLastAppearance": 5,
       "sinceLastSeen": 0
     },
     "201": {
@@ -2369,12 +2369,12 @@
           "engine_name": "13B-REW-RX-7"
         }
       ],
-      "price": 26500,
-      "price_jp": 2650000,
+      "price": 35000,
+      "price_jp": 3500000,
       "isOld": true,
-      "lastAppearance": "2024/7/17",
+      "lastAppearance": "2024/10/10",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 91,
+      "sinceLastAppearance": 6,
       "sinceLastSeen": 0
     },
     "931": {
@@ -2395,12 +2395,12 @@
           "engine_name": "Evo-Final-Gr.B"
         }
       ],
-      "price": 87800,
-      "price_jp": 8780000,
+      "price": 100000,
+      "price_jp": 10000000,
       "isOld": true,
-      "lastAppearance": "2024/7/12",
+      "lastAppearance": "2024/10/10",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 96,
+      "sinceLastAppearance": 6,
       "sinceLastSeen": 0
     },
     "301": {
@@ -2421,12 +2421,12 @@
           "engine_name": "Evo-Final-Gr.B"
         }
       ],
-      "price": 44200,
-      "price_jp": 4420000,
+      "price": 55000,
+      "price_jp": 5500000,
       "isOld": true,
-      "lastAppearance": "2024/7/24",
+      "lastAppearance": "2024/10/10",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 84,
+      "sinceLastAppearance": 6,
       "sinceLastSeen": 0
     },
     "211": {
@@ -2447,12 +2447,12 @@
           "engine_name": "Evo-Final-Gr.B"
         }
       ],
-      "price": 77500,
-      "price_jp": 7750000,
+      "price": 90000,
+      "price_jp": 9000000,
       "isOld": true,
-      "lastAppearance": "2024/7/21",
+      "lastAppearance": "2024/10/10",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 87,
+      "sinceLastAppearance": 6,
       "sinceLastSeen": 0
     },
     "1508": {
@@ -2473,12 +2473,12 @@
           "engine_name": "Evo-Final-Gr.B"
         }
       ],
-      "price": 174200,
-      "price_jp": 17420000,
+      "price": 200000,
+      "price_jp": 20000000,
       "isOld": true,
-      "lastAppearance": "2024/7/31",
+      "lastAppearance": "2024/10/10",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 77,
+      "sinceLastAppearance": 6,
       "sinceLastSeen": 0
     },
     "3377": {
@@ -2491,12 +2491,12 @@
       "country_name": "United States",
       "country_code": "us",
       "engine_swaps": [],
-      "price": 71900,
-      "price_jp": 7190000,
+      "price": 63200,
+      "price_jp": 6320000,
       "isOld": true,
-      "lastAppearance": "2024/7/15",
+      "lastAppearance": "2024/10/10",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 93,
+      "sinceLastAppearance": 6,
       "sinceLastSeen": 0
     },
     "1384": {
@@ -2535,12 +2535,12 @@
       "country_name": "Italy",
       "country_code": "it",
       "engine_swaps": [],
-      "price": 201100,
-      "price_jp": 20110000,
+      "price": 207400,
+      "price_jp": 20740000,
       "isOld": false,
-      "lastAppearance": "2024/7/9",
+      "lastAppearance": "2024/10/10",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 99,
+      "sinceLastAppearance": 6,
       "sinceLastSeen": 0
     },
     "3513": {
@@ -2561,12 +2561,12 @@
           "engine_name": "LT5-Corvette-C7"
         }
       ],
-      "price": 60000,
-      "price_jp": 6000000,
+      "price": 51400,
+      "price_jp": 5140000,
       "isOld": true,
-      "lastAppearance": "2024/7/16",
+      "lastAppearance": "2024/10/9",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 92,
+      "sinceLastAppearance": 7,
       "sinceLastSeen": 0
     },
     "104": {
@@ -2587,12 +2587,12 @@
           "engine_name": "K24A-Civic"
         }
       ],
-      "price": 72400,
-      "price_jp": 7240000,
+      "price": 79600,
+      "price_jp": 7960000,
       "isOld": true,
-      "lastAppearance": "2024/7/14",
+      "lastAppearance": "2024/10/8",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 94,
+      "sinceLastAppearance": 8,
       "sinceLastSeen": 0
     },
     "1729": {
@@ -2613,12 +2613,12 @@
           "engine_name": "Coyote-5.0L-Mustang"
         }
       ],
-      "price": 36800,
-      "price_jp": 3680000,
+      "price": 40200,
+      "price_jp": 4020000,
       "isOld": true,
-      "lastAppearance": "2024/7/25",
+      "lastAppearance": "2024/10/6",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 83,
+      "sinceLastAppearance": 10,
       "sinceLastSeen": 0
     },
     "3454": {
@@ -4036,9 +4036,9 @@
       "price": 4450000,
       "price_jp": 445000000,
       "isOld": true,
-      "lastAppearance": "2024/8/17",
+      "lastAppearance": "2024/10/8",
       "lastSeen": "2024/10/13",
-      "sinceLastAppearance": 60,
+      "sinceLastAppearance": 8,
       "sinceLastSeen": 3
     },
     "3365": {
@@ -4054,9 +4054,9 @@
       "price": 1600000,
       "price_jp": 160000000,
       "isOld": true,
-      "lastAppearance": "2024/7/10",
+      "lastAppearance": "2024/10/6",
       "lastSeen": "2024/10/13",
-      "sinceLastAppearance": 98,
+      "sinceLastAppearance": 10,
       "sinceLastSeen": 3
     },
     "3550": {
@@ -4072,9 +4072,9 @@
       "price": 650000,
       "price_jp": 65000000,
       "isOld": true,
-      "lastAppearance": "2024/7/25",
+      "lastAppearance": "2024/10/5",
       "lastSeen": "2024/10/13",
-      "sinceLastAppearance": 83,
+      "sinceLastAppearance": 11,
       "sinceLastSeen": 3
     },
     "3457": {
@@ -4090,9 +4090,9 @@
       "price": 330000,
       "price_jp": 33000000,
       "isOld": true,
-      "lastAppearance": "2024/7/12",
+      "lastAppearance": "2024/10/8",
       "lastSeen": "2024/10/14",
-      "sinceLastAppearance": 96,
+      "sinceLastAppearance": 8,
       "sinceLastSeen": 2
     },
     "1551": {
@@ -4108,9 +4108,9 @@
       "price": 20000000,
       "price_jp": 2000000000,
       "isOld": true,
-      "lastAppearance": "2024/7/13",
+      "lastAppearance": "2024/10/8",
       "lastSeen": "2024/10/14",
-      "sinceLastAppearance": 95,
+      "sinceLastAppearance": 8,
       "sinceLastSeen": 2
     },
     "1645": {
@@ -4126,9 +4126,9 @@
       "price": 3800000,
       "price_jp": 380000000,
       "isOld": true,
-      "lastAppearance": "2024/7/10",
+      "lastAppearance": "2024/10/6",
       "lastSeen": "2024/10/14",
-      "sinceLastAppearance": 98,
+      "sinceLastAppearance": 10,
       "sinceLastSeen": 2
     },
     "1543": {
@@ -4152,9 +4152,9 @@
       "price": 214000,
       "price_jp": 21400000,
       "isOld": true,
-      "lastAppearance": "2024/7/10",
+      "lastAppearance": "2024/10/5",
       "lastSeen": "2024/10/14",
-      "sinceLastAppearance": 98,
+      "sinceLastAppearance": 11,
       "sinceLastSeen": 2
     },
     "3520": {
@@ -4178,9 +4178,9 @@
       "price": 1800000,
       "price_jp": 180000000,
       "isOld": true,
-      "lastAppearance": "2024/7/16",
+      "lastAppearance": "2024/10/9",
       "lastSeen": "2024/10/15",
-      "sinceLastAppearance": 92,
+      "sinceLastAppearance": 7,
       "sinceLastSeen": 1
     },
     "1925": {
@@ -4204,9 +4204,9 @@
       "price": 469000,
       "price_jp": 46900000,
       "isOld": true,
-      "lastAppearance": "2024/7/11",
+      "lastAppearance": "2024/10/7",
       "lastSeen": "2024/10/15",
-      "sinceLastAppearance": 97,
+      "sinceLastAppearance": 9,
       "sinceLastSeen": 1
     },
     "1927": {
@@ -4222,9 +4222,9 @@
       "price": 1900000,
       "price_jp": 190000000,
       "isOld": true,
-      "lastAppearance": "2024/7/21",
+      "lastAppearance": "2024/10/16",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 87,
+      "sinceLastAppearance": 0,
       "sinceLastSeen": 0
     },
     "315": {
@@ -4240,9 +4240,9 @@
       "price": 2500000,
       "price_jp": 250000000,
       "isOld": true,
-      "lastAppearance": "2024/7/19",
+      "lastAppearance": "2024/10/16",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 89,
+      "sinceLastAppearance": 0,
       "sinceLastSeen": 0
     },
     "3525": {
@@ -4258,9 +4258,9 @@
       "price": 2500000,
       "price_jp": 250000000,
       "isOld": true,
-      "lastAppearance": "2024/7/16",
+      "lastAppearance": "2024/10/16",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 92,
+      "sinceLastAppearance": 0,
       "sinceLastSeen": 0
     },
     "575": {
@@ -4284,9 +4284,9 @@
       "price": 280000,
       "price_jp": 28000000,
       "isOld": true,
-      "lastAppearance": "2024/7/24",
+      "lastAppearance": "2024/10/3",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 84,
+      "sinceLastAppearance": 13,
       "sinceLastSeen": 0
     },
     "837": {
@@ -4310,9 +4310,9 @@
       "price": 194000,
       "price_jp": 19400000,
       "isOld": true,
-      "lastAppearance": "2024/7/23",
+      "lastAppearance": "2024/10/15",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 85,
+      "sinceLastAppearance": 1,
       "sinceLastSeen": 0
     },
     "3514": {
@@ -4328,9 +4328,9 @@
       "price": 47600,
       "price_jp": 4760000,
       "isOld": true,
-      "lastAppearance": "2024/7/21",
+      "lastAppearance": "2024/10/15",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 87,
+      "sinceLastAppearance": 1,
       "sinceLastSeen": 0
     },
     "3430": {
@@ -4354,9 +4354,9 @@
       "price": 30100,
       "price_jp": 3010000,
       "isOld": true,
-      "lastAppearance": "2024/7/20",
+      "lastAppearance": "2024/10/10",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 88,
+      "sinceLastAppearance": 6,
       "sinceLastSeen": 0
     },
     "3509": {
@@ -4380,9 +4380,9 @@
       "price": 750000,
       "price_jp": 75000000,
       "isOld": true,
-      "lastAppearance": "2024/7/14",
+      "lastAppearance": "2024/10/9",
       "lastSeen": "2024/10/16",
-      "sinceLastAppearance": 94,
+      "sinceLastAppearance": 7,
       "sinceLastSeen": 0
     },
     "3538": {
