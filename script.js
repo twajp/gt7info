@@ -150,16 +150,16 @@ $(document).ready(function () {
         updateLastUpdatedTimestamp(timestamp, displayInJPY);
     }
 
-    // Render Expected to Appear Soon section
+    // Render Expected Soon section
     function renderExpectedSection(db) {
         // Selection algorithm
         function selectCars(carsDict, percentage) {
             const today = new Date();
             let carsArray = Object.entries(carsDict);
 
-            // Sort cars by 'sinceLastAppearance'
+            // Sort cars by 'sinceLastSeen'
             carsArray.sort((a, b) => {
-                return b[1].sinceLastAppearance - a[1].sinceLastAppearance;
+                return b[1].sinceLastSeen - a[1].sinceLastSeen;
             });
 
             // Filter out non-old cars and get top cars based on percentage
@@ -181,7 +181,7 @@ $(document).ready(function () {
                 <tr class="${car[1].isOld ? 'table-danger' : (car[1].isOld === false ? '' : 'table-warning')}">
                     <td>${car[1].maker_name}</td>
                     <th class="popup-text" data-image-url="https://ddm999.github.io/gt7info/cars/prices_${car[0]}.png">${car[1].car_name}</th>
-                    <td style="text-align: right;">${car[1].lastAppearance} (${car[1].sinceLastAppearance} days ago)</td>
+                    <td style="text-align: right;">${car[1].lastSeen} (${car[1].sinceLastSeen} days ago)</td>
                     <td></td>
                 </tr>
             `).join('');
@@ -194,7 +194,7 @@ $(document).ready(function () {
             <div class="accordion-item">
                 <h2 class="accordion-header">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExpected" aria-expanded="true" aria-controls="collapseExpected">
-                        Expected to Appear Soon
+                        Expected Soon
                     </button>
                 </h2>
                 <div id="collapseExpected" class="accordion-collapse collapse" data-bs-parent="${keepAccordionOpen ? '' : '#accordionPanelsStayOpen'}">
@@ -205,7 +205,7 @@ $(document).ready(function () {
                                 <tr>
                                     <th scope="col">Maker</th>
                                     <th scope="col">Car</th>
-                                    <th scope="col" style="text-align: right;">Last Appeared</th>
+                                    <th scope="col" style="text-align: right;">Last Seen</th>
                                     <th scope="col"></th>
                                 </tr>
                             </thead>
@@ -219,7 +219,7 @@ $(document).ready(function () {
                                 <tr>
                                     <th scope="col">Maker</th>
                                     <th scope="col">Car</th>
-                                    <th scope="col" style="text-align: right;">Last Appeared</th>
+                                    <th scope="col" style="text-align: right;">Last Seen</th>
                                     <th scope="col"></th>
                                 </tr>
                             </thead>
