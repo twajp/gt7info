@@ -134,7 +134,7 @@ def UpdateDB(lastSeen):
         db[dealer] = dict(sorted(db[dealer].items(), key=lambda item: item[1]['sinceLastSeen'], reverse=True))
 
 
-db = {'used': {}, 'legend': {}}  # データを再構成する時に使う
+db = {'timestamp': '', 'used': {}, 'legend': {}}  # データを再構成する時に使う
 # db = LoadJSON(f'https://raw.githubusercontent.com/twajp/gt7info/gh-pages/db.json')
 carList = LoadCSV('db', 'cars.csv')
 makerList = LoadCSV('db', 'maker.csv')
