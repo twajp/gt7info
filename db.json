@@ -1,32 +1,6 @@
 {
-  "timestamp": "2025-04-19T00:10:37.531039+00:00",
+  "timestamp": "2025-04-20T00:11:44.486790+00:00",
   "used": {
-    "104": {
-      "maker_id": 28,
-      "maker_name": "Nissan",
-      "car_id": 104,
-      "car_name": "Sileighty '98",
-      "car_group": "N",
-      "country_id": 2,
-      "country_name": "Japan",
-      "country_code": "jp",
-      "engine_swaps": [
-        {
-          "maker_id": 157,
-          "maker_name": "Garage RCR",
-          "car_id": "3526",
-          "car_name": "Civic",
-          "engine_name": "K24A-Civic"
-        }
-      ],
-      "price": 72400,
-      "price_jp": 7240000,
-      "isOld": true,
-      "lastAppearance": "2025/3/5",
-      "lastSeen": "2025/03/14",
-      "sinceLastAppearance": 45,
-      "sinceLastSeen": 36
-    },
     "3555": {
       "maker_id": 13,
       "maker_name": "Ford",
@@ -50,8 +24,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/9",
       "lastSeen": "2025/03/16",
-      "sinceLastAppearance": 41,
-      "sinceLastSeen": 34
+      "sinceLastAppearance": 42,
+      "sinceLastSeen": 35
     },
     "1545": {
       "maker_id": 112,
@@ -68,8 +42,8 @@
       "isOld": false,
       "lastAppearance": "2025/3/13",
       "lastSeen": "2025/03/18",
-      "sinceLastAppearance": 37,
-      "sinceLastSeen": 32
+      "sinceLastAppearance": 38,
+      "sinceLastSeen": 33
     },
     "1027": {
       "maker_id": 65,
@@ -94,8 +68,8 @@
       "isOld": false,
       "lastAppearance": "2025/3/12",
       "lastSeen": "2025/03/18",
-      "sinceLastAppearance": 38,
-      "sinceLastSeen": 32
+      "sinceLastAppearance": 39,
+      "sinceLastSeen": 33
     },
     "1458": {
       "maker_id": 28,
@@ -120,8 +94,8 @@
       "isOld": false,
       "lastAppearance": "2025/3/14",
       "lastSeen": "2025/03/19",
-      "sinceLastAppearance": 36,
-      "sinceLastSeen": 31
+      "sinceLastAppearance": 37,
+      "sinceLastSeen": 32
     },
     "821": {
       "maker_id": 15,
@@ -146,8 +120,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/13",
       "lastSeen": "2025/03/19",
-      "sinceLastAppearance": 37,
-      "sinceLastSeen": 31
+      "sinceLastAppearance": 38,
+      "sinceLastSeen": 32
     },
     "1370": {
       "maker_id": 51,
@@ -172,8 +146,8 @@
       "isOld": false,
       "lastAppearance": "2025/3/12",
       "lastSeen": "2025/03/19",
-      "sinceLastAppearance": 38,
-      "sinceLastSeen": 31
+      "sinceLastAppearance": 39,
+      "sinceLastSeen": 32
     },
     "3471": {
       "maker_id": 43,
@@ -190,8 +164,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/11",
       "lastSeen": "2025/03/19",
-      "sinceLastAppearance": 39,
-      "sinceLastSeen": 31
+      "sinceLastAppearance": 40,
+      "sinceLastSeen": 32
     },
     "24": {
       "maker_id": 28,
@@ -216,8 +190,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/11",
       "lastSeen": "2025/03/19",
-      "sinceLastAppearance": 39,
-      "sinceLastSeen": 31
+      "sinceLastAppearance": 40,
+      "sinceLastSeen": 32
     },
     "709": {
       "maker_id": 28,
@@ -242,8 +216,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/14",
       "lastSeen": "2025/03/20",
-      "sinceLastAppearance": 36,
-      "sinceLastSeen": 30
+      "sinceLastAppearance": 37,
+      "sinceLastSeen": 31
     },
     "334": {
       "maker_id": 34,
@@ -260,8 +234,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/12",
       "lastSeen": "2025/03/20",
-      "sinceLastAppearance": 38,
-      "sinceLastSeen": 30
+      "sinceLastAppearance": 39,
+      "sinceLastSeen": 31
     },
     "82": {
       "maker_id": 43,
@@ -286,8 +260,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/15",
       "lastSeen": "2025/03/21",
-      "sinceLastAppearance": 35,
-      "sinceLastSeen": 29
+      "sinceLastAppearance": 36,
+      "sinceLastSeen": 30
     },
     "1384": {
       "maker_id": 28,
@@ -312,8 +286,8 @@
       "isOld": false,
       "lastAppearance": "2025/3/15",
       "lastSeen": "2025/03/21",
-      "sinceLastAppearance": 35,
-      "sinceLastSeen": 29
+      "sinceLastAppearance": 36,
+      "sinceLastSeen": 30
     },
     "959": {
       "maker_id": 5,
@@ -330,34 +304,8 @@
       "isOld": false,
       "lastAppearance": "2025/3/13",
       "lastSeen": "2025/03/21",
-      "sinceLastAppearance": 37,
-      "sinceLastSeen": 29
-    },
-    "3403": {
-      "maker_id": 46,
-      "maker_name": "Volkswagen",
-      "car_id": 3403,
-      "car_name": "Golf I GTI '83",
-      "car_group": "N",
-      "country_id": 5,
-      "country_name": "Germany",
-      "country_code": "de",
-      "engine_swaps": [
-        {
-          "maker_id": 5,
-          "maker_name": "Audi",
-          "car_id": "1927",
-          "car_name": "Sport quattro S1 Pikes Peak '87",
-          "engine_name": "R5-20vT-Quattro-Pikes"
-        }
-      ],
-      "price": 46200,
-      "price_jp": 4620000,
-      "isOld": true,
-      "lastAppearance": "2025/3/16",
-      "lastSeen": "2025/03/22",
-      "sinceLastAppearance": 34,
-      "sinceLastSeen": 28
+      "sinceLastAppearance": 38,
+      "sinceLastSeen": 30
     },
     "1426": {
       "maker_id": 13,
@@ -382,26 +330,8 @@
       "isOld": false,
       "lastAppearance": "2025/3/18",
       "lastSeen": "2025/03/23",
-      "sinceLastAppearance": 32,
-      "sinceLastSeen": 27
-    },
-    "1385": {
-      "maker_id": 39,
-      "maker_name": "Suzuki",
-      "car_id": 1385,
-      "car_name": "Swift Sport '07",
-      "car_group": "N",
-      "country_id": 2,
-      "country_name": "Japan",
-      "country_code": "jp",
-      "engine_swaps": [],
-      "price": 14500,
-      "price_jp": 1450000,
-      "isOld": false,
-      "lastAppearance": "2025/3/15",
-      "lastSeen": "2025/03/23",
-      "sinceLastAppearance": 35,
-      "sinceLastSeen": 27
+      "sinceLastAppearance": 33,
+      "sinceLastSeen": 28
     },
     "1796": {
       "maker_id": 86,
@@ -426,8 +356,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/18",
       "lastSeen": "2025/03/25",
-      "sinceLastAppearance": 32,
-      "sinceLastSeen": 25
+      "sinceLastAppearance": 33,
+      "sinceLastSeen": 26
     },
     "3513": {
       "maker_id": 28,
@@ -452,8 +382,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/18",
       "lastSeen": "2025/03/25",
-      "sinceLastAppearance": 32,
-      "sinceLastSeen": 25
+      "sinceLastAppearance": 33,
+      "sinceLastSeen": 26
     },
     "3431": {
       "maker_id": 136,
@@ -478,8 +408,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/20",
       "lastSeen": "2025/03/26",
-      "sinceLastAppearance": 30,
-      "sinceLastSeen": 24
+      "sinceLastAppearance": 31,
+      "sinceLastSeen": 25
     },
     "207": {
       "maker_id": 43,
@@ -504,8 +434,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/20",
       "lastSeen": "2025/03/26",
-      "sinceLastAppearance": 30,
-      "sinceLastSeen": 24
+      "sinceLastAppearance": 31,
+      "sinceLastSeen": 25
     },
     "3524": {
       "maker_id": 28,
@@ -530,8 +460,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/19",
       "lastSeen": "2025/03/26",
-      "sinceLastAppearance": 31,
-      "sinceLastSeen": 24
+      "sinceLastAppearance": 32,
+      "sinceLastSeen": 25
     },
     "1378": {
       "maker_id": 110,
@@ -548,8 +478,8 @@
       "isOld": false,
       "lastAppearance": "2025/3/17",
       "lastSeen": "2025/03/26",
-      "sinceLastAppearance": 33,
-      "sinceLastSeen": 24
+      "sinceLastAppearance": 34,
+      "sinceLastSeen": 25
     },
     "1541": {
       "maker_id": 5,
@@ -566,8 +496,8 @@
       "isOld": false,
       "lastAppearance": "2025/3/21",
       "lastSeen": "2025/03/27",
-      "sinceLastAppearance": 29,
-      "sinceLastSeen": 23
+      "sinceLastAppearance": 30,
+      "sinceLastSeen": 24
     },
     "1399": {
       "maker_id": 6,
@@ -592,8 +522,8 @@
       "isOld": false,
       "lastAppearance": "2025/3/20",
       "lastSeen": "2025/03/27",
-      "sinceLastAppearance": 30,
-      "sinceLastSeen": 23
+      "sinceLastAppearance": 31,
+      "sinceLastSeen": 24
     },
     "3389": {
       "maker_id": 6,
@@ -618,8 +548,8 @@
       "isOld": false,
       "lastAppearance": "2025/3/23",
       "lastSeen": "2025/03/28",
-      "sinceLastAppearance": 27,
-      "sinceLastSeen": 22
+      "sinceLastAppearance": 28,
+      "sinceLastSeen": 23
     },
     "3530": {
       "maker_id": 3,
@@ -644,8 +574,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/22",
       "lastSeen": "2025/03/28",
-      "sinceLastAppearance": 28,
-      "sinceLastSeen": 22
+      "sinceLastAppearance": 29,
+      "sinceLastSeen": 23
     },
     "1448": {
       "maker_id": 28,
@@ -670,8 +600,8 @@
       "isOld": false,
       "lastAppearance": "2025/3/21",
       "lastSeen": "2025/03/28",
-      "sinceLastAppearance": 29,
-      "sinceLastSeen": 22
+      "sinceLastAppearance": 30,
+      "sinceLastSeen": 23
     },
     "3341": {
       "maker_id": 140,
@@ -696,8 +626,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/21",
       "lastSeen": "2025/03/28",
-      "sinceLastAppearance": 29,
-      "sinceLastSeen": 22
+      "sinceLastAppearance": 30,
+      "sinceLastSeen": 23
     },
     "1523": {
       "maker_id": 12,
@@ -714,8 +644,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/21",
       "lastSeen": "2025/03/28",
-      "sinceLastAppearance": 29,
-      "sinceLastSeen": 22
+      "sinceLastAppearance": 30,
+      "sinceLastSeen": 23
     },
     "3356": {
       "maker_id": 51,
@@ -740,8 +670,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/19",
       "lastSeen": "2025/03/28",
-      "sinceLastAppearance": 31,
-      "sinceLastSeen": 22
+      "sinceLastAppearance": 32,
+      "sinceLastSeen": 23
     },
     "688": {
       "maker_id": 15,
@@ -766,8 +696,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/21",
       "lastSeen": "2025/03/29",
-      "sinceLastAppearance": 29,
-      "sinceLastSeen": 21
+      "sinceLastAppearance": 30,
+      "sinceLastSeen": 22
     },
     "396": {
       "maker_id": 15,
@@ -792,8 +722,8 @@
       "isOld": false,
       "lastAppearance": "2025/3/23",
       "lastSeen": "2025/03/30",
-      "sinceLastAppearance": 27,
-      "sinceLastSeen": 20
+      "sinceLastAppearance": 28,
+      "sinceLastSeen": 21
     },
     "810": {
       "maker_id": 43,
@@ -818,8 +748,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/21",
       "lastSeen": "2025/03/30",
-      "sinceLastAppearance": 29,
-      "sinceLastSeen": 20
+      "sinceLastAppearance": 30,
+      "sinceLastSeen": 21
     },
     "3442": {
       "maker_id": 57,
@@ -844,8 +774,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/24",
       "lastSeen": "2025/03/31",
-      "sinceLastAppearance": 26,
-      "sinceLastSeen": 19
+      "sinceLastAppearance": 27,
+      "sinceLastSeen": 20
     },
     "37": {
       "maker_id": 15,
@@ -870,8 +800,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/24",
       "lastSeen": "2025/03/31",
-      "sinceLastAppearance": 26,
-      "sinceLastSeen": 19
+      "sinceLastAppearance": 27,
+      "sinceLastSeen": 20
     },
     "3344": {
       "maker_id": 6,
@@ -896,8 +826,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/22",
       "lastSeen": "2025/03/31",
-      "sinceLastAppearance": 28,
-      "sinceLastSeen": 19
+      "sinceLastAppearance": 29,
+      "sinceLastSeen": 20
     },
     "1544": {
       "maker_id": 110,
@@ -914,8 +844,8 @@
       "isOld": false,
       "lastAppearance": "2025/3/21",
       "lastSeen": "2025/03/31",
-      "sinceLastAppearance": 29,
-      "sinceLastSeen": 19
+      "sinceLastAppearance": 30,
+      "sinceLastSeen": 20
     },
     "931": {
       "maker_id": 25,
@@ -940,8 +870,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/26",
       "lastSeen": "2025/04/01",
-      "sinceLastAppearance": 24,
-      "sinceLastSeen": 18
+      "sinceLastAppearance": 25,
+      "sinceLastSeen": 19
     },
     "3466": {
       "maker_id": 13,
@@ -966,8 +896,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/26",
       "lastSeen": "2025/04/01",
-      "sinceLastAppearance": 24,
-      "sinceLastSeen": 18
+      "sinceLastAppearance": 25,
+      "sinceLastSeen": 19
     },
     "1373": {
       "maker_id": 11,
@@ -984,8 +914,8 @@
       "isOld": false,
       "lastAppearance": "2025/3/25",
       "lastSeen": "2025/04/01",
-      "sinceLastAppearance": 25,
-      "sinceLastSeen": 18
+      "sinceLastAppearance": 26,
+      "sinceLastSeen": 19
     },
     "204": {
       "maker_id": 15,
@@ -1010,8 +940,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/25",
       "lastSeen": "2025/04/01",
-      "sinceLastAppearance": 25,
-      "sinceLastSeen": 18
+      "sinceLastAppearance": 26,
+      "sinceLastSeen": 19
     },
     "829": {
       "maker_id": 18,
@@ -1036,8 +966,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/25",
       "lastSeen": "2025/04/01",
-      "sinceLastAppearance": 25,
-      "sinceLastSeen": 18
+      "sinceLastAppearance": 26,
+      "sinceLastSeen": 19
     },
     "489": {
       "maker_id": 28,
@@ -1062,8 +992,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/28",
       "lastSeen": "2025/04/03",
-      "sinceLastAppearance": 22,
-      "sinceLastSeen": 16
+      "sinceLastAppearance": 23,
+      "sinceLastSeen": 17
     },
     "514": {
       "maker_id": 15,
@@ -1088,8 +1018,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/27",
       "lastSeen": "2025/04/03",
-      "sinceLastAppearance": 23,
-      "sinceLastSeen": 16
+      "sinceLastAppearance": 24,
+      "sinceLastSeen": 17
     },
     "3438": {
       "maker_id": 125,
@@ -1114,8 +1044,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/27",
       "lastSeen": "2025/04/03",
-      "sinceLastAppearance": 23,
-      "sinceLastSeen": 16
+      "sinceLastAppearance": 24,
+      "sinceLastSeen": 17
     },
     "3424": {
       "maker_id": 25,
@@ -1140,8 +1070,8 @@
       "isOld": false,
       "lastAppearance": "2025/3/28",
       "lastSeen": "2025/04/04",
-      "sinceLastAppearance": 22,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 23,
+      "sinceLastSeen": 16
     },
     "1990": {
       "maker_id": 112,
@@ -1158,8 +1088,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/28",
       "lastSeen": "2025/04/04",
-      "sinceLastAppearance": 22,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 23,
+      "sinceLastSeen": 16
     },
     "3454": {
       "maker_id": 6,
@@ -1176,8 +1106,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/27",
       "lastSeen": "2025/04/04",
-      "sinceLastAppearance": 23,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 24,
+      "sinceLastSeen": 16
     },
     "779": {
       "maker_id": 39,
@@ -1202,8 +1132,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/30",
       "lastSeen": "2025/04/05",
-      "sinceLastAppearance": 20,
-      "sinceLastSeen": 14
+      "sinceLastAppearance": 21,
+      "sinceLastSeen": 15
     },
     "1481": {
       "maker_id": 112,
@@ -1228,8 +1158,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/29",
       "lastSeen": "2025/04/05",
-      "sinceLastAppearance": 21,
-      "sinceLastSeen": 14
+      "sinceLastAppearance": 22,
+      "sinceLastSeen": 15
     },
     "655": {
       "maker_id": 6,
@@ -1254,8 +1184,8 @@
       "isOld": false,
       "lastAppearance": "2025/3/28",
       "lastSeen": "2025/04/05",
-      "sinceLastAppearance": 22,
-      "sinceLastSeen": 14
+      "sinceLastAppearance": 23,
+      "sinceLastSeen": 15
     },
     "1410": {
       "maker_id": 110,
@@ -1272,8 +1202,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/1",
       "lastSeen": "2025/04/06",
-      "sinceLastAppearance": 18,
-      "sinceLastSeen": 13
+      "sinceLastAppearance": 19,
+      "sinceLastSeen": 14
     },
     "1933": {
       "maker_id": 3,
@@ -1290,8 +1220,8 @@
       "isOld": false,
       "lastAppearance": "2025/3/30",
       "lastSeen": "2025/04/06",
-      "sinceLastAppearance": 20,
-      "sinceLastSeen": 13
+      "sinceLastAppearance": 21,
+      "sinceLastSeen": 14
     },
     "3398": {
       "maker_id": 35,
@@ -1308,8 +1238,8 @@
       "isOld": false,
       "lastAppearance": "2025/3/28",
       "lastSeen": "2025/04/06",
-      "sinceLastAppearance": 22,
-      "sinceLastSeen": 13
+      "sinceLastAppearance": 23,
+      "sinceLastSeen": 14
     },
     "210": {
       "maker_id": 28,
@@ -1334,8 +1264,8 @@
       "isOld": false,
       "lastAppearance": "2025/3/29",
       "lastSeen": "2025/04/06",
-      "sinceLastAppearance": 21,
-      "sinceLastSeen": 13
+      "sinceLastAppearance": 22,
+      "sinceLastSeen": 14
     },
     "1773": {
       "maker_id": 46,
@@ -1352,8 +1282,8 @@
       "isOld": false,
       "lastAppearance": "2025/4/2",
       "lastSeen": "2025/04/08",
-      "sinceLastAppearance": 17,
-      "sinceLastSeen": 11
+      "sinceLastAppearance": 18,
+      "sinceLastSeen": 12
     },
     "3439": {
       "maker_id": 136,
@@ -1378,8 +1308,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/1",
       "lastSeen": "2025/04/08",
-      "sinceLastAppearance": 18,
-      "sinceLastSeen": 11
+      "sinceLastAppearance": 19,
+      "sinceLastSeen": 12
     },
     "451": {
       "maker_id": 38,
@@ -1404,8 +1334,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/31",
       "lastSeen": "2025/04/08",
-      "sinceLastAppearance": 19,
-      "sinceLastSeen": 11
+      "sinceLastAppearance": 20,
+      "sinceLastSeen": 12
     },
     "3432": {
       "maker_id": 38,
@@ -1430,8 +1360,8 @@
       "isOld": false,
       "lastAppearance": "2025/3/30",
       "lastSeen": "2025/04/08",
-      "sinceLastAppearance": 20,
-      "sinceLastSeen": 11
+      "sinceLastAppearance": 21,
+      "sinceLastSeen": 12
     },
     "345": {
       "maker_id": 43,
@@ -1448,8 +1378,8 @@
       "isOld": null,
       "lastAppearance": "2025/3/30",
       "lastSeen": "2025/04/08",
-      "sinceLastAppearance": 20,
-      "sinceLastSeen": 11
+      "sinceLastAppearance": 21,
+      "sinceLastSeen": 12
     },
     "205": {
       "maker_id": 21,
@@ -1474,8 +1404,8 @@
       "isOld": false,
       "lastAppearance": "2025/4/3",
       "lastSeen": "2025/04/09",
-      "sinceLastAppearance": 16,
-      "sinceLastSeen": 10
+      "sinceLastAppearance": 17,
+      "sinceLastSeen": 11
     },
     "173": {
       "maker_id": 34,
@@ -1500,8 +1430,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/3",
       "lastSeen": "2025/04/09",
-      "sinceLastAppearance": 16,
-      "sinceLastSeen": 10
+      "sinceLastAppearance": 17,
+      "sinceLastSeen": 11
     },
     "1528": {
       "maker_id": 22,
@@ -1518,8 +1448,8 @@
       "isOld": false,
       "lastAppearance": "2025/4/2",
       "lastSeen": "2025/04/09",
-      "sinceLastAppearance": 17,
-      "sinceLastSeen": 10
+      "sinceLastAppearance": 18,
+      "sinceLastSeen": 11
     },
     "135": {
       "maker_id": 15,
@@ -1544,8 +1474,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/2",
       "lastSeen": "2025/04/09",
-      "sinceLastAppearance": 17,
-      "sinceLastSeen": 10
+      "sinceLastAppearance": 18,
+      "sinceLastSeen": 11
     },
     "3453": {
       "maker_id": 6,
@@ -1570,8 +1500,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/2",
       "lastSeen": "2025/04/09",
-      "sinceLastAppearance": 17,
-      "sinceLastSeen": 10
+      "sinceLastAppearance": 18,
+      "sinceLastSeen": 11
     },
     "48": {
       "maker_id": 28,
@@ -1596,8 +1526,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/1",
       "lastSeen": "2025/04/09",
-      "sinceLastAppearance": 18,
-      "sinceLastSeen": 10
+      "sinceLastAppearance": 19,
+      "sinceLastSeen": 11
     },
     "203": {
       "maker_id": 15,
@@ -1622,8 +1552,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/30",
       "lastSeen": "2025/04/09",
-      "sinceLastAppearance": 20,
-      "sinceLastSeen": 10
+      "sinceLastAppearance": 21,
+      "sinceLastSeen": 11
     },
     "1778": {
       "maker_id": 46,
@@ -1648,8 +1578,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/2",
       "lastSeen": "2025/04/10",
-      "sinceLastAppearance": 17,
-      "sinceLastSeen": 9
+      "sinceLastAppearance": 18,
+      "sinceLastSeen": 10
     },
     "1537": {
       "maker_id": 43,
@@ -1666,8 +1596,8 @@
       "isOld": false,
       "lastAppearance": "2025/4/5",
       "lastSeen": "2025/04/11",
-      "sinceLastAppearance": 14,
-      "sinceLastSeen": 8
+      "sinceLastAppearance": 15,
+      "sinceLastSeen": 9
     },
     "211": {
       "maker_id": 25,
@@ -1692,8 +1622,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/3",
       "lastSeen": "2025/04/11",
-      "sinceLastAppearance": 16,
-      "sinceLastSeen": 8
+      "sinceLastAppearance": 17,
+      "sinceLastSeen": 9
     },
     "919": {
       "maker_id": 28,
@@ -1725,8 +1655,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/3",
       "lastSeen": "2025/04/11",
-      "sinceLastAppearance": 16,
-      "sinceLastSeen": 8
+      "sinceLastAppearance": 17,
+      "sinceLastSeen": 9
     },
     "379": {
       "maker_id": 38,
@@ -1751,8 +1681,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/2",
       "lastSeen": "2025/04/11",
-      "sinceLastAppearance": 17,
-      "sinceLastSeen": 8
+      "sinceLastAppearance": 18,
+      "sinceLastSeen": 9
     },
     "1507": {
       "maker_id": 153,
@@ -1769,8 +1699,8 @@
       "isOld": false,
       "lastAppearance": "2025/4/6",
       "lastSeen": "2025/04/12",
-      "sinceLastAppearance": 13,
-      "sinceLastSeen": 7
+      "sinceLastAppearance": 14,
+      "sinceLastSeen": 8
     },
     "1578": {
       "maker_id": 3,
@@ -1787,8 +1717,8 @@
       "isOld": false,
       "lastAppearance": "2025/4/5",
       "lastSeen": "2025/04/12",
-      "sinceLastAppearance": 14,
-      "sinceLastSeen": 7
+      "sinceLastAppearance": 15,
+      "sinceLastSeen": 8
     },
     "3385": {
       "maker_id": 136,
@@ -1813,8 +1743,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/5",
       "lastSeen": "2025/04/12",
-      "sinceLastAppearance": 14,
-      "sinceLastSeen": 7
+      "sinceLastAppearance": 15,
+      "sinceLastSeen": 8
     },
     "843": {
       "maker_id": 43,
@@ -1839,8 +1769,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/3",
       "lastSeen": "2025/04/12",
-      "sinceLastAppearance": 16,
-      "sinceLastSeen": 7
+      "sinceLastAppearance": 17,
+      "sinceLastSeen": 8
     },
     "187": {
       "maker_id": 44,
@@ -1865,8 +1795,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/8",
       "lastSeen": "2025/04/13",
-      "sinceLastAppearance": 11,
-      "sinceLastSeen": 6
+      "sinceLastAppearance": 12,
+      "sinceLastSeen": 7
     },
     "3443": {
       "maker_id": 110,
@@ -1883,8 +1813,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/8",
       "lastSeen": "2025/04/13",
-      "sinceLastAppearance": 11,
-      "sinceLastSeen": 6
+      "sinceLastAppearance": 12,
+      "sinceLastSeen": 7
     },
     "3547": {
       "maker_id": 34,
@@ -1901,8 +1831,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/7",
       "lastSeen": "2025/04/13",
-      "sinceLastAppearance": 12,
-      "sinceLastSeen": 6
+      "sinceLastAppearance": 13,
+      "sinceLastSeen": 7
     },
     "1461": {
       "maker_id": 28,
@@ -1927,8 +1857,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/6",
       "lastSeen": "2025/04/13",
-      "sinceLastAppearance": 13,
-      "sinceLastSeen": 6
+      "sinceLastAppearance": 14,
+      "sinceLastSeen": 7
     },
     "78": {
       "maker_id": 28,
@@ -1953,8 +1883,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/7",
       "lastSeen": "2025/04/14",
-      "sinceLastAppearance": 12,
-      "sinceLastSeen": 5
+      "sinceLastAppearance": 13,
+      "sinceLastSeen": 6
     },
     "1539": {
       "maker_id": 116,
@@ -1971,8 +1901,8 @@
       "isOld": false,
       "lastAppearance": "2025/4/7",
       "lastSeen": "2025/04/14",
-      "sinceLastAppearance": 12,
-      "sinceLastSeen": 5
+      "sinceLastAppearance": 13,
+      "sinceLastSeen": 6
     },
     "1722": {
       "maker_id": 117,
@@ -1989,8 +1919,8 @@
       "isOld": false,
       "lastAppearance": "2025/4/6",
       "lastSeen": "2025/04/14",
-      "sinceLastAppearance": 13,
-      "sinceLastSeen": 5
+      "sinceLastAppearance": 14,
+      "sinceLastSeen": 6
     },
     "1893": {
       "maker_id": 6,
@@ -2007,8 +1937,8 @@
       "isOld": false,
       "lastAppearance": "2025/4/8",
       "lastSeen": "2025/04/15",
-      "sinceLastAppearance": 11,
-      "sinceLastSeen": 4
+      "sinceLastAppearance": 12,
+      "sinceLastSeen": 5
     },
     "3434": {
       "maker_id": 110,
@@ -2025,8 +1955,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/8",
       "lastSeen": "2025/04/15",
-      "sinceLastAppearance": 11,
-      "sinceLastSeen": 4
+      "sinceLastAppearance": 12,
+      "sinceLastSeen": 5
     },
     "3422": {
       "maker_id": 6,
@@ -2051,8 +1981,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/8",
       "lastSeen": "2025/04/16",
-      "sinceLastAppearance": 11,
-      "sinceLastSeen": 3
+      "sinceLastAppearance": 12,
+      "sinceLastSeen": 4
     },
     "374": {
       "maker_id": 21,
@@ -2077,8 +2007,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/11",
       "lastSeen": "2025/04/17",
-      "sinceLastAppearance": 8,
-      "sinceLastSeen": 2
+      "sinceLastAppearance": 9,
+      "sinceLastSeen": 3
     },
     "942": {
       "maker_id": 7,
@@ -2103,8 +2033,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/11",
       "lastSeen": "2025/04/17",
-      "sinceLastAppearance": 8,
-      "sinceLastSeen": 2
+      "sinceLastAppearance": 9,
+      "sinceLastSeen": 3
     },
     "3563": {
       "maker_id": 15,
@@ -2129,8 +2059,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/11",
       "lastSeen": "2025/04/17",
-      "sinceLastAppearance": 8,
-      "sinceLastSeen": 2
+      "sinceLastAppearance": 9,
+      "sinceLastSeen": 3
     },
     "201": {
       "maker_id": 21,
@@ -2155,8 +2085,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/11",
       "lastSeen": "2025/04/17",
-      "sinceLastAppearance": 8,
-      "sinceLastSeen": 2
+      "sinceLastAppearance": 9,
+      "sinceLastSeen": 3
     },
     "3551": {
       "maker_id": 6,
@@ -2181,8 +2111,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/10",
       "lastSeen": "2025/04/17",
-      "sinceLastAppearance": 9,
-      "sinceLastSeen": 2
+      "sinceLastAppearance": 10,
+      "sinceLastSeen": 3
     },
     "3404": {
       "maker_id": 136,
@@ -2199,8 +2129,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/10",
       "lastSeen": "2025/04/17",
-      "sinceLastAppearance": 9,
-      "sinceLastSeen": 2
+      "sinceLastAppearance": 10,
+      "sinceLastSeen": 3
     },
     "137": {
       "maker_id": 15,
@@ -2225,8 +2155,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/11",
       "lastSeen": "2025/04/18",
-      "sinceLastAppearance": 8,
-      "sinceLastSeen": 1
+      "sinceLastAppearance": 9,
+      "sinceLastSeen": 2
     },
     "1729": {
       "maker_id": 13,
@@ -2251,8 +2181,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/10",
       "lastSeen": "2025/04/18",
-      "sinceLastAppearance": 9,
-      "sinceLastSeen": 1
+      "sinceLastAppearance": 10,
+      "sinceLastSeen": 2
     },
     "1671": {
       "maker_id": 46,
@@ -2277,474 +2207,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/8",
       "lastSeen": "2025/04/18",
-      "sinceLastAppearance": 11,
-      "sinceLastSeen": 1
-    },
-    "1508": {
-      "maker_id": 25,
-      "maker_name": "Mitsubishi",
-      "car_id": 1508,
-      "car_name": "Lancer Evolution VI GSR T.M. SCP '99",
-      "car_group": "N",
-      "country_id": 2,
-      "country_name": "Japan",
-      "country_code": "jp",
-      "engine_swaps": [
-        {
-          "maker_id": 25,
-          "maker_name": "Mitsubishi",
-          "car_id": "3230",
-          "car_name": "Lancer Evolution Final Gr.B Rally Car",
-          "engine_name": "Evo-Final-Gr.B"
-        }
-      ],
-      "price": 163600,
-      "price_jp": 16360000,
-      "isOld": true,
-      "lastAppearance": "2025/4/19",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 0,
-      "sinceLastSeen": 0
-    },
-    "533": {
-      "maker_id": 18,
-      "maker_name": "Lancia",
-      "car_id": 533,
-      "car_name": "Stratos '73",
-      "car_group": "N",
-      "country_id": 7,
-      "country_name": "Italy",
-      "country_code": "it",
-      "engine_swaps": [],
-      "price": 505300,
-      "price_jp": 50530000,
-      "isOld": true,
-      "lastAppearance": "2025/4/19",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 0,
-      "sinceLastSeen": 0
-    },
-    "3359": {
-      "maker_id": 136,
-      "maker_name": "Porsche",
-      "car_id": 3359,
-      "car_name": "911 GT3 (997) '09",
-      "car_group": "N",
-      "country_id": 5,
-      "country_name": "Germany",
-      "country_code": "de",
-      "engine_swaps": [
-        {
-          "maker_id": 136,
-          "maker_name": "Porsche",
-          "car_id": "3311",
-          "car_name": "911 RSR (991) '17",
-          "engine_name": "M97/80-911"
-        }
-      ],
-      "price": 139900,
-      "price_jp": 13990000,
-      "isOld": false,
-      "lastAppearance": "2025/4/19",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 0,
-      "sinceLastSeen": 0
-    },
-    "799": {
-      "maker_id": 25,
-      "maker_name": "Mitsubishi",
-      "car_id": 799,
-      "car_name": "Lancer Evolution VIII MR GSR '04",
-      "car_group": null,
-      "country_id": 2,
-      "country_name": "Japan",
-      "country_code": "jp",
-      "engine_swaps": [
-        {
-          "maker_id": 25,
-          "maker_name": "Mitsubishi",
-          "car_id": "3230",
-          "car_name": "Lancer Evolution Final Gr.B Rally Car",
-          "engine_name": "Evo-Final-Gr.B"
-        }
-      ],
-      "price": 62400,
-      "price_jp": 6240000,
-      "isOld": false,
-      "lastAppearance": "2025/4/19",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 0,
-      "sinceLastSeen": 0
-    },
-    "145": {
-      "maker_id": 10,
-      "maker_name": "Daihatsu",
-      "car_id": 145,
-      "car_name": "Copen '02",
-      "car_group": "N",
-      "country_id": 2,
-      "country_name": "Japan",
-      "country_code": "jp",
-      "engine_swaps": [],
-      "price": 14000,
-      "price_jp": 1400000,
-      "isOld": false,
-      "lastAppearance": "2025/4/19",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 0,
-      "sinceLastSeen": 0
-    },
-    "1985": {
-      "maker_id": 52,
-      "maker_name": "Pontiac",
-      "car_id": 1985,
-      "car_name": "Firebird Trans Am '78",
-      "car_group": "N",
-      "country_id": 3,
-      "country_name": "United States",
-      "country_code": "us",
-      "engine_swaps": [
-        {
-          "maker_id": 7,
-          "maker_name": "Chevrolet",
-          "car_id": "1480",
-          "car_name": "Corvette ZR1 (C6) '09",
-          "engine_name": "LS9-Corvette"
-        }
-      ],
-      "price": 96000,
-      "price_jp": 9600000,
-      "isOld": true,
-      "lastAppearance": "2025/4/19",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 0,
-      "sinceLastSeen": 0
-    },
-    "293": {
-      "maker_id": 15,
-      "maker_name": "Honda",
-      "car_id": 293,
-      "car_name": "NSX Type R '92",
-      "car_group": "N",
-      "country_id": 2,
-      "country_name": "Japan",
-      "country_code": "jp",
-      "engine_swaps": [
-        {
-          "maker_id": 15,
-          "maker_name": "Honda",
-          "car_id": "3348",
-          "car_name": "NSX CONCEPT-GT '16",
-          "engine_name": "HR-414E-NSX"
-        }
-      ],
-      "price": 385600,
-      "price_jp": 38560000,
-      "isOld": true,
-      "lastAppearance": "2025/4/17",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 2,
-      "sinceLastSeen": 0
-    },
-    "3358": {
-      "maker_id": 136,
-      "maker_name": "Porsche",
-      "car_id": 3358,
-      "car_name": "911 GT3 (996) '01",
-      "car_group": "N",
-      "country_id": 5,
-      "country_name": "Germany",
-      "country_code": "de",
-      "engine_swaps": [],
-      "price": 158500,
-      "price_jp": 15850000,
-      "isOld": false,
-      "lastAppearance": "2025/4/17",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 2,
-      "sinceLastSeen": 0
-    },
-    "3564": {
-      "maker_id": 32,
-      "maker_name": "Peugeot",
-      "car_id": 3564,
-      "car_name": "205 GTI '88",
-      "car_group": null,
-      "country_id": 6,
-      "country_name": "France",
-      "country_code": "fr",
-      "engine_swaps": [],
-      "price": 70000,
-      "price_jp": 7000000,
-      "isOld": true,
-      "lastAppearance": "2025/4/17",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 2,
-      "sinceLastSeen": 0
-    },
-    "1542": {
-      "maker_id": 7,
-      "maker_name": "Chevrolet",
-      "car_id": 1542,
-      "car_name": "Corvette Convertible (C3) '69",
-      "car_group": "N",
-      "country_id": 3,
-      "country_name": "United States",
-      "country_code": "us",
-      "engine_swaps": [
-        {
-          "maker_id": 7,
-          "maker_name": "Chevrolet",
-          "car_id": "3449",
-          "car_name": "Corvette C7 ZR1 '19",
-          "engine_name": "LT5-Corvette-C7"
-        }
-      ],
-      "price": 53800,
-      "price_jp": 5380000,
-      "isOld": true,
-      "lastAppearance": "2025/4/16",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 3,
-      "sinceLastSeen": 0
-    },
-    "1506": {
-      "maker_id": 112,
-      "maker_name": "Lamborghini",
-      "car_id": 1506,
-      "car_name": "Gallardo LP 560-4 '08",
-      "car_group": null,
-      "country_id": 7,
-      "country_name": "Italy",
-      "country_code": "it",
-      "engine_swaps": [],
-      "price": 253400,
-      "price_jp": 25340000,
-      "isOld": false,
-      "lastAppearance": "2025/4/16",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 3,
-      "sinceLastSeen": 0
-    },
-    "1504": {
-      "maker_id": 110,
-      "maker_name": "Ferrari",
-      "car_id": 1504,
-      "car_name": "458 Italia '09",
-      "car_group": "N",
-      "country_id": 7,
-      "country_name": "Italy",
-      "country_code": "it",
-      "engine_swaps": [],
-      "price": 243100,
-      "price_jp": 24310000,
-      "isOld": false,
-      "lastAppearance": "2025/4/16",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 3,
-      "sinceLastSeen": 0
-    },
-    "1527": {
-      "maker_id": 12,
-      "maker_name": "Fiat",
-      "car_id": 1527,
-      "car_name": "500 1.2 8V Lounge SS '08",
-      "car_group": "N",
-      "country_id": 7,
-      "country_name": "Italy",
-      "country_code": "it",
-      "engine_swaps": [],
-      "price": 12700,
-      "price_jp": 1270000,
-      "isOld": false,
-      "lastAppearance": "2025/4/15",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 4,
-      "sinceLastSeen": 0
-    },
-    "1044": {
-      "maker_id": 43,
-      "maker_name": "Toyota",
-      "car_id": 1044,
-      "car_name": "Sports 800 '65",
-      "car_group": "N",
-      "country_id": 2,
-      "country_name": "Japan",
-      "country_code": "jp",
-      "engine_swaps": [],
-      "price": 45900,
-      "price_jp": 4590000,
-      "isOld": true,
-      "lastAppearance": "2025/4/15",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 4,
-      "sinceLastSeen": 0
-    },
-    "41": {
-      "maker_id": 7,
-      "maker_name": "Chevrolet",
-      "car_id": 41,
-      "car_name": "Corvette Stingray (C3) '69",
-      "car_group": "N",
-      "country_id": 3,
-      "country_name": "United States",
-      "country_code": "us",
-      "engine_swaps": [
-        {
-          "maker_id": 7,
-          "maker_name": "Chevrolet",
-          "car_id": "3449",
-          "car_name": "Corvette C7 ZR1 '19",
-          "engine_name": "LT5-Corvette-C7"
-        }
-      ],
-      "price": 71500,
-      "price_jp": 7150000,
-      "isOld": true,
-      "lastAppearance": "2025/4/15",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 4,
-      "sinceLastSeen": 0
-    },
-    "773": {
-      "maker_id": 28,
-      "maker_name": "Nissan",
-      "car_id": 773,
-      "car_name": "R32 GT-R V-spec II '94",
-      "car_group": "N",
-      "country_id": 2,
-      "country_name": "Japan",
-      "country_code": "jp",
-      "engine_swaps": [
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": "954",
-          "car_name": "R92CP '92",
-          "engine_name": "VRH35Z-R92CP"
-        }
-      ],
-      "price": 176500,
-      "price_jp": 17650000,
-      "isOld": true,
-      "lastAppearance": "2025/4/14",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 5,
-      "sinceLastSeen": 0
-    },
-    "301": {
-      "maker_id": 25,
-      "maker_name": "Mitsubishi",
-      "car_id": 301,
-      "car_name": "Lancer Evolution IV GSR '96",
-      "car_group": "N",
-      "country_id": 2,
-      "country_name": "Japan",
-      "country_code": "jp",
-      "engine_swaps": [
-        {
-          "maker_id": 25,
-          "maker_name": "Mitsubishi",
-          "car_id": "3230",
-          "car_name": "Lancer Evolution Final Gr.B Rally Car",
-          "engine_name": "Evo-Final-Gr.B"
-        }
-      ],
-      "price": 44200,
-      "price_jp": 4420000,
-      "isOld": true,
-      "lastAppearance": "2025/4/14",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 5,
-      "sinceLastSeen": 0
-    },
-    "1480": {
-      "maker_id": 7,
-      "maker_name": "Chevrolet",
-      "car_id": 1480,
-      "car_name": "Corvette ZR1 (C6) '09",
-      "car_group": "N",
-      "country_id": 3,
-      "country_name": "United States",
-      "country_code": "us",
-      "engine_swaps": [
-        {
-          "maker_id": 113,
-          "maker_name": "Bugatti",
-          "car_id": "3473",
-          "car_name": "Chiron '16",
-          "engine_name": "8.0-WR16-64v4T-Chiron"
-        }
-      ],
-      "price": 107400,
-      "price_jp": 10740000,
-      "isOld": false,
-      "lastAppearance": "2025/4/14",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 5,
-      "sinceLastSeen": 0
-    },
-    "1365": {
-      "maker_id": 5,
-      "maker_name": "Audi",
-      "car_id": 1365,
-      "car_name": "R8 4.2 '07",
-      "car_group": "N",
-      "country_id": 5,
-      "country_name": "Germany",
-      "country_code": "de",
-      "engine_swaps": [],
-      "price": 144600,
-      "price_jp": 14460000,
-      "isOld": false,
-      "lastAppearance": "2025/4/14",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 5,
-      "sinceLastSeen": 0
-    },
-    "3377": {
-      "maker_id": 11,
-      "maker_name": "Dodge",
-      "car_id": 3377,
-      "car_name": "Super Bee '70",
-      "car_group": "N",
-      "country_id": 3,
-      "country_name": "United States",
-      "country_code": "us",
-      "engine_swaps": [],
-      "price": 70600,
-      "price_jp": 7060000,
-      "isOld": true,
-      "lastAppearance": "2025/4/13",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 6,
-      "sinceLastSeen": 0
-    },
-    "102": {
-      "maker_id": 28,
-      "maker_name": "Nissan",
-      "car_id": 102,
-      "car_name": "Skyline GTS-R (R31) '87",
-      "car_group": "N",
-      "country_id": 2,
-      "country_name": "Japan",
-      "country_code": "jp",
-      "engine_swaps": [
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": "210",
-          "car_name": "R34 GT-R V-spec II Nur '02",
-          "engine_name": "RB26DETT-GT-R-R34"
-        }
-      ],
-      "price": 166500,
-      "price_jp": 16650000,
-      "isOld": true,
-      "lastAppearance": "2025/4/13",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 6,
-      "sinceLastSeen": 0
+      "sinceLastAppearance": 12,
+      "sinceLastSeen": 2
     },
     "3549": {
       "maker_id": 69,
@@ -2761,52 +2225,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/13",
       "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 6,
-      "sinceLastSeen": 0
-    },
-    "1973": {
-      "maker_id": 125,
-      "maker_name": "Abarth",
-      "car_id": 1973,
-      "car_name": "Abarth 500 '09",
-      "car_group": "N",
-      "country_id": 7,
-      "country_name": "Italy",
-      "country_code": "it",
-      "engine_swaps": [],
-      "price": 26400,
-      "price_jp": 2640000,
-      "isOld": false,
-      "lastAppearance": "2025/4/13",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 6,
-      "sinceLastSeen": 0
-    },
-    "63": {
-      "maker_id": 43,
-      "maker_name": "Toyota",
-      "car_id": 63,
-      "car_name": "Corolla Levin 1600GT APEX (AE86) '83",
-      "car_group": "N",
-      "country_id": 2,
-      "country_name": "Japan",
-      "country_code": "jp",
-      "engine_swaps": [
-        {
-          "maker_id": 43,
-          "maker_name": "Toyota",
-          "car_id": "207",
-          "car_name": "MR2 GT-S '97",
-          "engine_name": "3S-GTE-MR2"
-        }
-      ],
-      "price": 51200,
-      "price_jp": 5120000,
-      "isOld": true,
-      "lastAppearance": "2025/4/12",
-      "lastSeen": "2025/04/19",
       "sinceLastAppearance": 7,
-      "sinceLastSeen": 0
+      "sinceLastSeen": 1
     },
     "1895": {
       "maker_id": 110,
@@ -2823,26 +2243,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/11",
       "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 8,
-      "sinceLastSeen": 0
-    },
-    "1402": {
-      "maker_id": 11,
-      "maker_name": "Dodge",
-      "car_id": 1402,
-      "car_name": "Viper SRT10 Coupe '06",
-      "car_group": "N",
-      "country_id": 3,
-      "country_name": "United States",
-      "country_code": "us",
-      "engine_swaps": [],
-      "price": 114000,
-      "price_jp": 11400000,
-      "isOld": false,
-      "lastAppearance": "2025/4/11",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 8,
-      "sinceLastSeen": 0
+      "sinceLastAppearance": 9,
+      "sinceLastSeen": 1
     },
     "3384": {
       "maker_id": 25,
@@ -2874,6 +2276,604 @@
       "isOld": true,
       "lastAppearance": "2025/4/10",
       "lastSeen": "2025/04/19",
+      "sinceLastAppearance": 10,
+      "sinceLastSeen": 1
+    },
+    "104": {
+      "maker_id": 28,
+      "maker_name": "Nissan",
+      "car_id": 104,
+      "car_name": "Sileighty '98",
+      "car_group": "N",
+      "country_id": 2,
+      "country_name": "Japan",
+      "country_code": "jp",
+      "engine_swaps": [
+        {
+          "maker_id": 157,
+          "maker_name": "Garage RCR",
+          "car_id": "3526",
+          "car_name": "Civic",
+          "engine_name": "K24A-Civic"
+        }
+      ],
+      "price": 75200,
+      "price_jp": 7520000,
+      "isOld": true,
+      "lastAppearance": "2025/4/20",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 0,
+      "sinceLastSeen": 0
+    },
+    "3403": {
+      "maker_id": 46,
+      "maker_name": "Volkswagen",
+      "car_id": 3403,
+      "car_name": "Golf I GTI '83",
+      "car_group": "N",
+      "country_id": 5,
+      "country_name": "Germany",
+      "country_code": "de",
+      "engine_swaps": [
+        {
+          "maker_id": 5,
+          "maker_name": "Audi",
+          "car_id": "1927",
+          "car_name": "Sport quattro S1 Pikes Peak '87",
+          "engine_name": "R5-20vT-Quattro-Pikes"
+        }
+      ],
+      "price": 41000,
+      "price_jp": 4100000,
+      "isOld": true,
+      "lastAppearance": "2025/4/20",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 0,
+      "sinceLastSeen": 0
+    },
+    "1385": {
+      "maker_id": 39,
+      "maker_name": "Suzuki",
+      "car_id": 1385,
+      "car_name": "Swift Sport '07",
+      "car_group": "N",
+      "country_id": 2,
+      "country_name": "Japan",
+      "country_code": "jp",
+      "engine_swaps": [],
+      "price": 14600,
+      "price_jp": 1460000,
+      "isOld": false,
+      "lastAppearance": "2025/4/20",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 0,
+      "sinceLastSeen": 0
+    },
+    "1508": {
+      "maker_id": 25,
+      "maker_name": "Mitsubishi",
+      "car_id": 1508,
+      "car_name": "Lancer Evolution VI GSR T.M. SCP '99",
+      "car_group": "N",
+      "country_id": 2,
+      "country_name": "Japan",
+      "country_code": "jp",
+      "engine_swaps": [
+        {
+          "maker_id": 25,
+          "maker_name": "Mitsubishi",
+          "car_id": "3230",
+          "car_name": "Lancer Evolution Final Gr.B Rally Car",
+          "engine_name": "Evo-Final-Gr.B"
+        }
+      ],
+      "price": 163600,
+      "price_jp": 16360000,
+      "isOld": true,
+      "lastAppearance": "2025/4/19",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 1,
+      "sinceLastSeen": 0
+    },
+    "533": {
+      "maker_id": 18,
+      "maker_name": "Lancia",
+      "car_id": 533,
+      "car_name": "Stratos '73",
+      "car_group": "N",
+      "country_id": 7,
+      "country_name": "Italy",
+      "country_code": "it",
+      "engine_swaps": [],
+      "price": 505300,
+      "price_jp": 50530000,
+      "isOld": true,
+      "lastAppearance": "2025/4/19",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 1,
+      "sinceLastSeen": 0
+    },
+    "3359": {
+      "maker_id": 136,
+      "maker_name": "Porsche",
+      "car_id": 3359,
+      "car_name": "911 GT3 (997) '09",
+      "car_group": "N",
+      "country_id": 5,
+      "country_name": "Germany",
+      "country_code": "de",
+      "engine_swaps": [
+        {
+          "maker_id": 136,
+          "maker_name": "Porsche",
+          "car_id": "3311",
+          "car_name": "911 RSR (991) '17",
+          "engine_name": "M97/80-911"
+        }
+      ],
+      "price": 139900,
+      "price_jp": 13990000,
+      "isOld": false,
+      "lastAppearance": "2025/4/19",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 1,
+      "sinceLastSeen": 0
+    },
+    "799": {
+      "maker_id": 25,
+      "maker_name": "Mitsubishi",
+      "car_id": 799,
+      "car_name": "Lancer Evolution VIII MR GSR '04",
+      "car_group": null,
+      "country_id": 2,
+      "country_name": "Japan",
+      "country_code": "jp",
+      "engine_swaps": [
+        {
+          "maker_id": 25,
+          "maker_name": "Mitsubishi",
+          "car_id": "3230",
+          "car_name": "Lancer Evolution Final Gr.B Rally Car",
+          "engine_name": "Evo-Final-Gr.B"
+        }
+      ],
+      "price": 62400,
+      "price_jp": 6240000,
+      "isOld": false,
+      "lastAppearance": "2025/4/19",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 1,
+      "sinceLastSeen": 0
+    },
+    "145": {
+      "maker_id": 10,
+      "maker_name": "Daihatsu",
+      "car_id": 145,
+      "car_name": "Copen '02",
+      "car_group": "N",
+      "country_id": 2,
+      "country_name": "Japan",
+      "country_code": "jp",
+      "engine_swaps": [],
+      "price": 14000,
+      "price_jp": 1400000,
+      "isOld": false,
+      "lastAppearance": "2025/4/19",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 1,
+      "sinceLastSeen": 0
+    },
+    "1985": {
+      "maker_id": 52,
+      "maker_name": "Pontiac",
+      "car_id": 1985,
+      "car_name": "Firebird Trans Am '78",
+      "car_group": "N",
+      "country_id": 3,
+      "country_name": "United States",
+      "country_code": "us",
+      "engine_swaps": [
+        {
+          "maker_id": 7,
+          "maker_name": "Chevrolet",
+          "car_id": "1480",
+          "car_name": "Corvette ZR1 (C6) '09",
+          "engine_name": "LS9-Corvette"
+        }
+      ],
+      "price": 96000,
+      "price_jp": 9600000,
+      "isOld": true,
+      "lastAppearance": "2025/4/19",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 1,
+      "sinceLastSeen": 0
+    },
+    "293": {
+      "maker_id": 15,
+      "maker_name": "Honda",
+      "car_id": 293,
+      "car_name": "NSX Type R '92",
+      "car_group": "N",
+      "country_id": 2,
+      "country_name": "Japan",
+      "country_code": "jp",
+      "engine_swaps": [
+        {
+          "maker_id": 15,
+          "maker_name": "Honda",
+          "car_id": "3348",
+          "car_name": "NSX CONCEPT-GT '16",
+          "engine_name": "HR-414E-NSX"
+        }
+      ],
+      "price": 385600,
+      "price_jp": 38560000,
+      "isOld": true,
+      "lastAppearance": "2025/4/17",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 3,
+      "sinceLastSeen": 0
+    },
+    "3358": {
+      "maker_id": 136,
+      "maker_name": "Porsche",
+      "car_id": 3358,
+      "car_name": "911 GT3 (996) '01",
+      "car_group": "N",
+      "country_id": 5,
+      "country_name": "Germany",
+      "country_code": "de",
+      "engine_swaps": [],
+      "price": 158500,
+      "price_jp": 15850000,
+      "isOld": false,
+      "lastAppearance": "2025/4/17",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 3,
+      "sinceLastSeen": 0
+    },
+    "3564": {
+      "maker_id": 32,
+      "maker_name": "Peugeot",
+      "car_id": 3564,
+      "car_name": "205 GTI '88",
+      "car_group": null,
+      "country_id": 6,
+      "country_name": "France",
+      "country_code": "fr",
+      "engine_swaps": [],
+      "price": 70000,
+      "price_jp": 7000000,
+      "isOld": true,
+      "lastAppearance": "2025/4/17",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 3,
+      "sinceLastSeen": 0
+    },
+    "1542": {
+      "maker_id": 7,
+      "maker_name": "Chevrolet",
+      "car_id": 1542,
+      "car_name": "Corvette Convertible (C3) '69",
+      "car_group": "N",
+      "country_id": 3,
+      "country_name": "United States",
+      "country_code": "us",
+      "engine_swaps": [
+        {
+          "maker_id": 7,
+          "maker_name": "Chevrolet",
+          "car_id": "3449",
+          "car_name": "Corvette C7 ZR1 '19",
+          "engine_name": "LT5-Corvette-C7"
+        }
+      ],
+      "price": 53800,
+      "price_jp": 5380000,
+      "isOld": true,
+      "lastAppearance": "2025/4/16",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 4,
+      "sinceLastSeen": 0
+    },
+    "1506": {
+      "maker_id": 112,
+      "maker_name": "Lamborghini",
+      "car_id": 1506,
+      "car_name": "Gallardo LP 560-4 '08",
+      "car_group": null,
+      "country_id": 7,
+      "country_name": "Italy",
+      "country_code": "it",
+      "engine_swaps": [],
+      "price": 253400,
+      "price_jp": 25340000,
+      "isOld": false,
+      "lastAppearance": "2025/4/16",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 4,
+      "sinceLastSeen": 0
+    },
+    "1504": {
+      "maker_id": 110,
+      "maker_name": "Ferrari",
+      "car_id": 1504,
+      "car_name": "458 Italia '09",
+      "car_group": "N",
+      "country_id": 7,
+      "country_name": "Italy",
+      "country_code": "it",
+      "engine_swaps": [],
+      "price": 243100,
+      "price_jp": 24310000,
+      "isOld": false,
+      "lastAppearance": "2025/4/16",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 4,
+      "sinceLastSeen": 0
+    },
+    "1527": {
+      "maker_id": 12,
+      "maker_name": "Fiat",
+      "car_id": 1527,
+      "car_name": "500 1.2 8V Lounge SS '08",
+      "car_group": "N",
+      "country_id": 7,
+      "country_name": "Italy",
+      "country_code": "it",
+      "engine_swaps": [],
+      "price": 12700,
+      "price_jp": 1270000,
+      "isOld": false,
+      "lastAppearance": "2025/4/15",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 5,
+      "sinceLastSeen": 0
+    },
+    "1044": {
+      "maker_id": 43,
+      "maker_name": "Toyota",
+      "car_id": 1044,
+      "car_name": "Sports 800 '65",
+      "car_group": "N",
+      "country_id": 2,
+      "country_name": "Japan",
+      "country_code": "jp",
+      "engine_swaps": [],
+      "price": 45900,
+      "price_jp": 4590000,
+      "isOld": true,
+      "lastAppearance": "2025/4/15",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 5,
+      "sinceLastSeen": 0
+    },
+    "41": {
+      "maker_id": 7,
+      "maker_name": "Chevrolet",
+      "car_id": 41,
+      "car_name": "Corvette Stingray (C3) '69",
+      "car_group": "N",
+      "country_id": 3,
+      "country_name": "United States",
+      "country_code": "us",
+      "engine_swaps": [
+        {
+          "maker_id": 7,
+          "maker_name": "Chevrolet",
+          "car_id": "3449",
+          "car_name": "Corvette C7 ZR1 '19",
+          "engine_name": "LT5-Corvette-C7"
+        }
+      ],
+      "price": 71500,
+      "price_jp": 7150000,
+      "isOld": true,
+      "lastAppearance": "2025/4/15",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 5,
+      "sinceLastSeen": 0
+    },
+    "773": {
+      "maker_id": 28,
+      "maker_name": "Nissan",
+      "car_id": 773,
+      "car_name": "R32 GT-R V-spec II '94",
+      "car_group": "N",
+      "country_id": 2,
+      "country_name": "Japan",
+      "country_code": "jp",
+      "engine_swaps": [
+        {
+          "maker_id": 28,
+          "maker_name": "Nissan",
+          "car_id": "954",
+          "car_name": "R92CP '92",
+          "engine_name": "VRH35Z-R92CP"
+        }
+      ],
+      "price": 176500,
+      "price_jp": 17650000,
+      "isOld": true,
+      "lastAppearance": "2025/4/14",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 6,
+      "sinceLastSeen": 0
+    },
+    "301": {
+      "maker_id": 25,
+      "maker_name": "Mitsubishi",
+      "car_id": 301,
+      "car_name": "Lancer Evolution IV GSR '96",
+      "car_group": "N",
+      "country_id": 2,
+      "country_name": "Japan",
+      "country_code": "jp",
+      "engine_swaps": [
+        {
+          "maker_id": 25,
+          "maker_name": "Mitsubishi",
+          "car_id": "3230",
+          "car_name": "Lancer Evolution Final Gr.B Rally Car",
+          "engine_name": "Evo-Final-Gr.B"
+        }
+      ],
+      "price": 44200,
+      "price_jp": 4420000,
+      "isOld": true,
+      "lastAppearance": "2025/4/14",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 6,
+      "sinceLastSeen": 0
+    },
+    "1480": {
+      "maker_id": 7,
+      "maker_name": "Chevrolet",
+      "car_id": 1480,
+      "car_name": "Corvette ZR1 (C6) '09",
+      "car_group": "N",
+      "country_id": 3,
+      "country_name": "United States",
+      "country_code": "us",
+      "engine_swaps": [
+        {
+          "maker_id": 113,
+          "maker_name": "Bugatti",
+          "car_id": "3473",
+          "car_name": "Chiron '16",
+          "engine_name": "8.0-WR16-64v4T-Chiron"
+        }
+      ],
+      "price": 107400,
+      "price_jp": 10740000,
+      "isOld": false,
+      "lastAppearance": "2025/4/14",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 6,
+      "sinceLastSeen": 0
+    },
+    "1365": {
+      "maker_id": 5,
+      "maker_name": "Audi",
+      "car_id": 1365,
+      "car_name": "R8 4.2 '07",
+      "car_group": "N",
+      "country_id": 5,
+      "country_name": "Germany",
+      "country_code": "de",
+      "engine_swaps": [],
+      "price": 144600,
+      "price_jp": 14460000,
+      "isOld": false,
+      "lastAppearance": "2025/4/14",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 6,
+      "sinceLastSeen": 0
+    },
+    "3377": {
+      "maker_id": 11,
+      "maker_name": "Dodge",
+      "car_id": 3377,
+      "car_name": "Super Bee '70",
+      "car_group": "N",
+      "country_id": 3,
+      "country_name": "United States",
+      "country_code": "us",
+      "engine_swaps": [],
+      "price": 70600,
+      "price_jp": 7060000,
+      "isOld": true,
+      "lastAppearance": "2025/4/13",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 7,
+      "sinceLastSeen": 0
+    },
+    "102": {
+      "maker_id": 28,
+      "maker_name": "Nissan",
+      "car_id": 102,
+      "car_name": "Skyline GTS-R (R31) '87",
+      "car_group": "N",
+      "country_id": 2,
+      "country_name": "Japan",
+      "country_code": "jp",
+      "engine_swaps": [
+        {
+          "maker_id": 28,
+          "maker_name": "Nissan",
+          "car_id": "210",
+          "car_name": "R34 GT-R V-spec II Nur '02",
+          "engine_name": "RB26DETT-GT-R-R34"
+        }
+      ],
+      "price": 166500,
+      "price_jp": 16650000,
+      "isOld": true,
+      "lastAppearance": "2025/4/13",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 7,
+      "sinceLastSeen": 0
+    },
+    "1973": {
+      "maker_id": 125,
+      "maker_name": "Abarth",
+      "car_id": 1973,
+      "car_name": "Abarth 500 '09",
+      "car_group": "N",
+      "country_id": 7,
+      "country_name": "Italy",
+      "country_code": "it",
+      "engine_swaps": [],
+      "price": 26400,
+      "price_jp": 2640000,
+      "isOld": false,
+      "lastAppearance": "2025/4/13",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 7,
+      "sinceLastSeen": 0
+    },
+    "63": {
+      "maker_id": 43,
+      "maker_name": "Toyota",
+      "car_id": 63,
+      "car_name": "Corolla Levin 1600GT APEX (AE86) '83",
+      "car_group": "N",
+      "country_id": 2,
+      "country_name": "Japan",
+      "country_code": "jp",
+      "engine_swaps": [
+        {
+          "maker_id": 43,
+          "maker_name": "Toyota",
+          "car_id": "207",
+          "car_name": "MR2 GT-S '97",
+          "engine_name": "3S-GTE-MR2"
+        }
+      ],
+      "price": 51200,
+      "price_jp": 5120000,
+      "isOld": true,
+      "lastAppearance": "2025/4/12",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 8,
+      "sinceLastSeen": 0
+    },
+    "1402": {
+      "maker_id": 11,
+      "maker_name": "Dodge",
+      "car_id": 1402,
+      "car_name": "Viper SRT10 Coupe '06",
+      "car_group": "N",
+      "country_id": 3,
+      "country_name": "United States",
+      "country_code": "us",
+      "engine_swaps": [],
+      "price": 114000,
+      "price_jp": 11400000,
+      "isOld": false,
+      "lastAppearance": "2025/4/11",
+      "lastSeen": "2025/04/20",
       "sinceLastAppearance": 9,
       "sinceLastSeen": 0
     },
@@ -2899,8 +2899,8 @@
       "price_jp": 11700000,
       "isOld": null,
       "lastAppearance": "2025/4/10",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 9,
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 10,
       "sinceLastSeen": 0
     }
   },
@@ -2920,8 +2920,8 @@
       "isOld": true,
       "lastAppearance": "2025/1/21",
       "lastSeen": "2025/01/28",
-      "sinceLastAppearance": 88,
-      "sinceLastSeen": 81
+      "sinceLastAppearance": 89,
+      "sinceLastSeen": 82
     },
     "3376": {
       "maker_id": 17,
@@ -2938,8 +2938,8 @@
       "isOld": true,
       "lastAppearance": "2025/1/18",
       "lastSeen": "2025/01/28",
-      "sinceLastAppearance": 91,
-      "sinceLastSeen": 81
+      "sinceLastAppearance": 92,
+      "sinceLastSeen": 82
     },
     "1931": {
       "maker_id": 110,
@@ -2956,8 +2956,8 @@
       "isOld": true,
       "lastAppearance": "2025/1/27",
       "lastSeen": "2025/02/02",
-      "sinceLastAppearance": 82,
-      "sinceLastSeen": 76
+      "sinceLastAppearance": 83,
+      "sinceLastSeen": 77
     },
     "3445": {
       "maker_id": 4,
@@ -2974,8 +2974,8 @@
       "isOld": true,
       "lastAppearance": "2025/1/28",
       "lastSeen": "2025/02/03",
-      "sinceLastAppearance": 81,
-      "sinceLastSeen": 75
+      "sinceLastAppearance": 82,
+      "sinceLastSeen": 76
     },
     "116": {
       "maker_id": 43,
@@ -2992,8 +2992,8 @@
       "isOld": true,
       "lastAppearance": "2025/1/29",
       "lastSeen": "2025/02/04",
-      "sinceLastAppearance": 80,
-      "sinceLastSeen": 74
+      "sinceLastAppearance": 81,
+      "sinceLastSeen": 75
     },
     "3373": {
       "maker_id": 136,
@@ -3010,8 +3010,8 @@
       "isOld": true,
       "lastAppearance": "2024/11/20",
       "lastSeen": "2025/02/04",
-      "sinceLastAppearance": 150,
-      "sinceLastSeen": 74
+      "sinceLastAppearance": 151,
+      "sinceLastSeen": 75
     },
     "3493": {
       "maker_id": 28,
@@ -3028,8 +3028,8 @@
       "isOld": true,
       "lastAppearance": "2025/1/30",
       "lastSeen": "2025/02/08",
-      "sinceLastAppearance": 79,
-      "sinceLastSeen": 70
+      "sinceLastAppearance": 80,
+      "sinceLastSeen": 71
     },
     "3490": {
       "maker_id": 136,
@@ -3046,8 +3046,8 @@
       "isOld": true,
       "lastAppearance": "2025/2/1",
       "lastSeen": "2025/02/09",
-      "sinceLastAppearance": 77,
-      "sinceLastSeen": 69
+      "sinceLastAppearance": 78,
+      "sinceLastSeen": 70
     },
     "3557": {
       "maker_id": 22,
@@ -3064,8 +3064,8 @@
       "isOld": true,
       "lastAppearance": "2025/2/1",
       "lastSeen": "2025/02/10",
-      "sinceLastAppearance": 77,
-      "sinceLastSeen": 68
+      "sinceLastAppearance": 78,
+      "sinceLastSeen": 69
     },
     "1975": {
       "maker_id": 21,
@@ -3082,8 +3082,8 @@
       "isOld": true,
       "lastAppearance": "2025/2/5",
       "lastSeen": "2025/02/11",
-      "sinceLastAppearance": 73,
-      "sinceLastSeen": 67
+      "sinceLastAppearance": 74,
+      "sinceLastSeen": 68
     },
     "1470": {
       "maker_id": 43,
@@ -3100,8 +3100,8 @@
       "isOld": true,
       "lastAppearance": "2025/2/4",
       "lastSeen": "2025/02/11",
-      "sinceLastAppearance": 74,
-      "sinceLastSeen": 67
+      "sinceLastAppearance": 75,
+      "sinceLastSeen": 68
     },
     "365": {
       "maker_id": 3,
@@ -3118,8 +3118,8 @@
       "isOld": true,
       "lastAppearance": "2025/2/5",
       "lastSeen": "2025/02/12",
-      "sinceLastAppearance": 73,
-      "sinceLastSeen": 66
+      "sinceLastAppearance": 74,
+      "sinceLastSeen": 67
     },
     "3421": {
       "maker_id": 116,
@@ -3136,8 +3136,8 @@
       "isOld": true,
       "lastAppearance": "2025/2/3",
       "lastSeen": "2025/02/12",
-      "sinceLastAppearance": 75,
-      "sinceLastSeen": 66
+      "sinceLastAppearance": 76,
+      "sinceLastSeen": 67
     },
     "543": {
       "maker_id": 17,
@@ -3162,8 +3162,8 @@
       "isOld": true,
       "lastAppearance": "2025/2/8",
       "lastSeen": "2025/02/15",
-      "sinceLastAppearance": 70,
-      "sinceLastSeen": 63
+      "sinceLastAppearance": 71,
+      "sinceLastSeen": 64
     },
     "3362": {
       "maker_id": 110,
@@ -3180,8 +3180,8 @@
       "isOld": true,
       "lastAppearance": "2025/2/13",
       "lastSeen": "2025/02/17",
-      "sinceLastAppearance": 65,
-      "sinceLastSeen": 61
+      "sinceLastAppearance": 66,
+      "sinceLastSeen": 62
     },
     "3400": {
       "maker_id": 136,
@@ -3198,8 +3198,8 @@
       "isOld": true,
       "lastAppearance": "2025/2/11",
       "lastSeen": "2025/02/18",
-      "sinceLastAppearance": 67,
-      "sinceLastSeen": 60
+      "sinceLastAppearance": 68,
+      "sinceLastSeen": 61
     },
     "3519": {
       "maker_id": 136,
@@ -3216,8 +3216,8 @@
       "isOld": true,
       "lastAppearance": "2025/2/6",
       "lastSeen": "2025/02/19",
-      "sinceLastAppearance": 72,
-      "sinceLastSeen": 59
+      "sinceLastAppearance": 73,
+      "sinceLastSeen": 60
     },
     "3375": {
       "maker_id": 136,
@@ -3242,8 +3242,8 @@
       "isOld": true,
       "lastAppearance": "2025/2/13",
       "lastSeen": "2025/02/19",
-      "sinceLastAppearance": 65,
-      "sinceLastSeen": 59
+      "sinceLastAppearance": 66,
+      "sinceLastSeen": 60
     },
     "1900": {
       "maker_id": 55,
@@ -3260,8 +3260,8 @@
       "isOld": true,
       "lastAppearance": "2025/2/13",
       "lastSeen": "2025/02/20",
-      "sinceLastAppearance": 65,
-      "sinceLastSeen": 58
+      "sinceLastAppearance": 66,
+      "sinceLastSeen": 59
     },
     "2011": {
       "maker_id": 110,
@@ -3278,8 +3278,8 @@
       "isOld": true,
       "lastAppearance": "2025/2/14",
       "lastSeen": "2025/02/21",
-      "sinceLastAppearance": 64,
-      "sinceLastSeen": 57
+      "sinceLastAppearance": 65,
+      "sinceLastSeen": 58
     },
     "818": {
       "maker_id": 7,
@@ -3304,8 +3304,8 @@
       "isOld": true,
       "lastAppearance": "2025/2/14",
       "lastSeen": "2025/02/23",
-      "sinceLastAppearance": 64,
-      "sinceLastSeen": 55
+      "sinceLastAppearance": 65,
+      "sinceLastSeen": 56
     },
     "36": {
       "maker_id": 7,
@@ -3322,8 +3322,8 @@
       "isOld": true,
       "lastAppearance": "2025/2/17",
       "lastSeen": "2025/02/25",
-      "sinceLastAppearance": 61,
-      "sinceLastSeen": 53
+      "sinceLastAppearance": 62,
+      "sinceLastSeen": 54
     },
     "3410": {
       "maker_id": 136,
@@ -3340,8 +3340,8 @@
       "isOld": true,
       "lastAppearance": "2025/2/19",
       "lastSeen": "2025/02/26",
-      "sinceLastAppearance": 59,
-      "sinceLastSeen": 52
+      "sinceLastAppearance": 60,
+      "sinceLastSeen": 53
     },
     "3444": {
       "maker_id": 13,
@@ -3366,8 +3366,8 @@
       "isOld": null,
       "lastAppearance": "2025/2/21",
       "lastSeen": "2025/02/28",
-      "sinceLastAppearance": 57,
-      "sinceLastSeen": 50
+      "sinceLastAppearance": 58,
+      "sinceLastSeen": 51
     },
     "1069": {
       "maker_id": 93,
@@ -3384,8 +3384,8 @@
       "isOld": true,
       "lastAppearance": "2025/2/20",
       "lastSeen": "2025/02/28",
-      "sinceLastAppearance": 58,
-      "sinceLastSeen": 50
+      "sinceLastAppearance": 59,
+      "sinceLastSeen": 51
     },
     "3363": {
       "maker_id": 4,
@@ -3402,8 +3402,8 @@
       "isOld": true,
       "lastAppearance": "2025/2/22",
       "lastSeen": "2025/03/02",
-      "sinceLastAppearance": 56,
-      "sinceLastSeen": 48
+      "sinceLastAppearance": 57,
+      "sinceLastSeen": 49
     },
     "1540": {
       "maker_id": 117,
@@ -3420,8 +3420,8 @@
       "isOld": true,
       "lastAppearance": "2025/2/21",
       "lastSeen": "2025/03/02",
-      "sinceLastAppearance": 57,
-      "sinceLastSeen": 48
+      "sinceLastAppearance": 58,
+      "sinceLastSeen": 49
     },
     "2018": {
       "maker_id": 110,
@@ -3438,8 +3438,8 @@
       "isOld": true,
       "lastAppearance": "2025/2/25",
       "lastSeen": "2025/03/04",
-      "sinceLastAppearance": 53,
-      "sinceLastSeen": 46
+      "sinceLastAppearance": 54,
+      "sinceLastSeen": 47
     },
     "3505": {
       "maker_id": 140,
@@ -3456,8 +3456,8 @@
       "isOld": null,
       "lastAppearance": "2025/2/23",
       "lastSeen": "2025/03/04",
-      "sinceLastAppearance": 55,
-      "sinceLastSeen": 46
+      "sinceLastAppearance": 56,
+      "sinceLastSeen": 47
     },
     "3397": {
       "maker_id": 22,
@@ -3474,8 +3474,8 @@
       "isOld": true,
       "lastAppearance": "2025/2/28",
       "lastSeen": "2025/03/07",
-      "sinceLastAppearance": 50,
-      "sinceLastSeen": 43
+      "sinceLastAppearance": 51,
+      "sinceLastSeen": 44
     },
     "1932": {
       "maker_id": 125,
@@ -3492,8 +3492,8 @@
       "isOld": true,
       "lastAppearance": "2025/2/27",
       "lastSeen": "2025/03/09",
-      "sinceLastAppearance": 51,
-      "sinceLastSeen": 41
+      "sinceLastAppearance": 52,
+      "sinceLastSeen": 42
     },
     "3415": {
       "maker_id": 3,
@@ -3510,8 +3510,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/2",
       "lastSeen": "2025/03/10",
-      "sinceLastAppearance": 48,
-      "sinceLastSeen": 40
+      "sinceLastAppearance": 49,
+      "sinceLastSeen": 41
     },
     "105": {
       "maker_id": 32,
@@ -3528,8 +3528,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/2",
       "lastSeen": "2025/03/11",
-      "sinceLastAppearance": 48,
-      "sinceLastSeen": 39
+      "sinceLastAppearance": 49,
+      "sinceLastSeen": 40
     },
     "3487": {
       "maker_id": 13,
@@ -3554,8 +3554,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/4",
       "lastSeen": "2025/03/12",
-      "sinceLastAppearance": 46,
-      "sinceLastSeen": 38
+      "sinceLastAppearance": 47,
+      "sinceLastSeen": 39
     },
     "1553": {
       "maker_id": 17,
@@ -3572,8 +3572,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/6",
       "lastSeen": "2025/03/13",
-      "sinceLastAppearance": 44,
-      "sinceLastSeen": 37
+      "sinceLastAppearance": 45,
+      "sinceLastSeen": 38
     },
     "216": {
       "maker_id": 6,
@@ -3590,8 +3590,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/3",
       "lastSeen": "2025/03/13",
-      "sinceLastAppearance": 47,
-      "sinceLastSeen": 37
+      "sinceLastAppearance": 48,
+      "sinceLastSeen": 38
     },
     "781": {
       "maker_id": 43,
@@ -3608,8 +3608,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/4",
       "lastSeen": "2025/03/14",
-      "sinceLastAppearance": 46,
-      "sinceLastSeen": 36
+      "sinceLastAppearance": 47,
+      "sinceLastSeen": 37
     },
     "808": {
       "maker_id": 39,
@@ -3626,8 +3626,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/6",
       "lastSeen": "2025/03/15",
-      "sinceLastAppearance": 44,
-      "sinceLastSeen": 35
+      "sinceLastAppearance": 45,
+      "sinceLastSeen": 36
     },
     "2010": {
       "maker_id": 110,
@@ -3644,8 +3644,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/9",
       "lastSeen": "2025/03/16",
-      "sinceLastAppearance": 41,
-      "sinceLastSeen": 34
+      "sinceLastAppearance": 42,
+      "sinceLastSeen": 35
     },
     "3464": {
       "maker_id": 7,
@@ -3670,8 +3670,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/10",
       "lastSeen": "2025/03/17",
-      "sinceLastAppearance": 40,
-      "sinceLastSeen": 33
+      "sinceLastAppearance": 41,
+      "sinceLastSeen": 34
     },
     "604": {
       "maker_id": 43,
@@ -3688,8 +3688,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/11",
       "lastSeen": "2025/03/19",
-      "sinceLastAppearance": 39,
-      "sinceLastSeen": 31
+      "sinceLastAppearance": 40,
+      "sinceLastSeen": 32
     },
     "3462": {
       "maker_id": 52,
@@ -3706,8 +3706,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/13",
       "lastSeen": "2025/03/20",
-      "sinceLastAppearance": 37,
-      "sinceLastSeen": 30
+      "sinceLastAppearance": 38,
+      "sinceLastSeen": 31
     },
     "1986": {
       "maker_id": 34,
@@ -3732,8 +3732,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/15",
       "lastSeen": "2025/03/21",
-      "sinceLastAppearance": 35,
-      "sinceLastSeen": 29
+      "sinceLastAppearance": 36,
+      "sinceLastSeen": 30
     },
     "3388": {
       "maker_id": 153,
@@ -3750,8 +3750,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/14",
       "lastSeen": "2025/03/21",
-      "sinceLastAppearance": 36,
-      "sinceLastSeen": 29
+      "sinceLastAppearance": 37,
+      "sinceLastSeen": 30
     },
     "1067": {
       "maker_id": 17,
@@ -3768,8 +3768,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/12",
       "lastSeen": "2025/03/22",
-      "sinceLastAppearance": 38,
-      "sinceLastSeen": 28
+      "sinceLastAppearance": 39,
+      "sinceLastSeen": 29
     },
     "1565": {
       "maker_id": 13,
@@ -3786,8 +3786,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/16",
       "lastSeen": "2025/03/23",
-      "sinceLastAppearance": 34,
-      "sinceLastSeen": 27
+      "sinceLastAppearance": 35,
+      "sinceLastSeen": 28
     },
     "1409": {
       "maker_id": 110,
@@ -3812,8 +3812,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/15",
       "lastSeen": "2025/03/23",
-      "sinceLastAppearance": 35,
-      "sinceLastSeen": 27
+      "sinceLastAppearance": 36,
+      "sinceLastSeen": 28
     },
     "665": {
       "maker_id": 55,
@@ -3838,8 +3838,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/18",
       "lastSeen": "2025/03/26",
-      "sinceLastAppearance": 32,
-      "sinceLastSeen": 24
+      "sinceLastAppearance": 33,
+      "sinceLastSeen": 25
     },
     "954": {
       "maker_id": 28,
@@ -3856,8 +3856,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/17",
       "lastSeen": "2025/03/26",
-      "sinceLastAppearance": 33,
-      "sinceLastSeen": 24
+      "sinceLastAppearance": 34,
+      "sinceLastSeen": 25
     },
     "296": {
       "maker_id": 21,
@@ -3874,8 +3874,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/21",
       "lastSeen": "2025/03/27",
-      "sinceLastAppearance": 29,
-      "sinceLastSeen": 23
+      "sinceLastAppearance": 30,
+      "sinceLastSeen": 24
     },
     "3441": {
       "maker_id": 22,
@@ -3892,8 +3892,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/19",
       "lastSeen": "2025/03/29",
-      "sinceLastAppearance": 31,
-      "sinceLastSeen": 21
+      "sinceLastAppearance": 32,
+      "sinceLastSeen": 22
     },
     "2059": {
       "maker_id": 7,
@@ -3910,8 +3910,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/24",
       "lastSeen": "2025/03/30",
-      "sinceLastAppearance": 26,
-      "sinceLastSeen": 20
+      "sinceLastAppearance": 27,
+      "sinceLastSeen": 21
     },
     "1935": {
       "maker_id": 13,
@@ -3928,8 +3928,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/23",
       "lastSeen": "2025/03/31",
-      "sinceLastAppearance": 27,
-      "sinceLastSeen": 19
+      "sinceLastAppearance": 28,
+      "sinceLastSeen": 20
     },
     "998": {
       "maker_id": 22,
@@ -3946,8 +3946,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/23",
       "lastSeen": "2025/03/31",
-      "sinceLastAppearance": 27,
-      "sinceLastSeen": 19
+      "sinceLastAppearance": 28,
+      "sinceLastSeen": 20
     },
     "3550": {
       "maker_id": 38,
@@ -3964,8 +3964,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/25",
       "lastSeen": "2025/04/01",
-      "sinceLastAppearance": 25,
-      "sinceLastSeen": 18
+      "sinceLastAppearance": 26,
+      "sinceLastSeen": 19
     },
     "1582": {
       "maker_id": 112,
@@ -3982,8 +3982,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/25",
       "lastSeen": "2025/04/01",
-      "sinceLastAppearance": 25,
-      "sinceLastSeen": 18
+      "sinceLastAppearance": 26,
+      "sinceLastSeen": 19
     },
     "2017": {
       "maker_id": 110,
@@ -4000,8 +4000,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/22",
       "lastSeen": "2025/04/01",
-      "sinceLastAppearance": 28,
-      "sinceLastSeen": 18
+      "sinceLastAppearance": 29,
+      "sinceLastSeen": 19
     },
     "3365": {
       "maker_id": 136,
@@ -4026,8 +4026,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/29",
       "lastSeen": "2025/04/05",
-      "sinceLastAppearance": 21,
-      "sinceLastSeen": 14
+      "sinceLastAppearance": 22,
+      "sinceLastSeen": 15
     },
     "3556": {
       "maker_id": 22,
@@ -4044,8 +4044,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/28",
       "lastSeen": "2025/04/05",
-      "sinceLastAppearance": 22,
-      "sinceLastSeen": 14
+      "sinceLastAppearance": 23,
+      "sinceLastSeen": 15
     },
     "3475": {
       "maker_id": 117,
@@ -4062,8 +4062,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/1",
       "lastSeen": "2025/04/06",
-      "sinceLastAppearance": 18,
-      "sinceLastSeen": 13
+      "sinceLastAppearance": 19,
+      "sinceLastSeen": 14
     },
     "1543": {
       "maker_id": 11,
@@ -4088,8 +4088,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/28",
       "lastSeen": "2025/04/06",
-      "sinceLastAppearance": 22,
-      "sinceLastSeen": 13
+      "sinceLastAppearance": 23,
+      "sinceLastSeen": 14
     },
     "3457": {
       "maker_id": 86,
@@ -4106,8 +4106,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/2",
       "lastSeen": "2025/04/08",
-      "sinceLastAppearance": 17,
-      "sinceLastSeen": 11
+      "sinceLastAppearance": 18,
+      "sinceLastSeen": 12
     },
     "1551": {
       "maker_id": 110,
@@ -4124,8 +4124,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/2",
       "lastSeen": "2025/04/08",
-      "sinceLastAppearance": 17,
-      "sinceLastSeen": 11
+      "sinceLastAppearance": 18,
+      "sinceLastSeen": 12
     },
     "1645": {
       "maker_id": 3,
@@ -4142,8 +4142,8 @@
       "isOld": true,
       "lastAppearance": "2025/3/31",
       "lastSeen": "2025/04/08",
-      "sinceLastAppearance": 19,
-      "sinceLastSeen": 11
+      "sinceLastAppearance": 20,
+      "sinceLastSeen": 12
     },
     "3520": {
       "maker_id": 155,
@@ -4168,8 +4168,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/3",
       "lastSeen": "2025/04/09",
-      "sinceLastAppearance": 16,
-      "sinceLastSeen": 10
+      "sinceLastAppearance": 17,
+      "sinceLastSeen": 11
     },
     "1925": {
       "maker_id": 36,
@@ -4194,8 +4194,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/1",
       "lastSeen": "2025/04/09",
-      "sinceLastAppearance": 18,
-      "sinceLastSeen": 10
+      "sinceLastAppearance": 19,
+      "sinceLastSeen": 11
     },
     "3509": {
       "maker_id": 136,
@@ -4220,8 +4220,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/3",
       "lastSeen": "2025/04/10",
-      "sinceLastAppearance": 16,
-      "sinceLastSeen": 9
+      "sinceLastAppearance": 17,
+      "sinceLastSeen": 10
     },
     "3430": {
       "maker_id": 146,
@@ -4246,8 +4246,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/3",
       "lastSeen": "2025/04/11",
-      "sinceLastAppearance": 16,
-      "sinceLastSeen": 8
+      "sinceLastAppearance": 17,
+      "sinceLastSeen": 9
     },
     "3361": {
       "maker_id": 17,
@@ -4264,8 +4264,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/8",
       "lastSeen": "2025/04/13",
-      "sinceLastAppearance": 11,
-      "sinceLastSeen": 6
+      "sinceLastAppearance": 12,
+      "sinceLastSeen": 7
     },
     "836": {
       "maker_id": 28,
@@ -4290,8 +4290,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/8",
       "lastSeen": "2025/04/13",
-      "sinceLastAppearance": 11,
-      "sinceLastSeen": 6
+      "sinceLastAppearance": 12,
+      "sinceLastSeen": 7
     },
     "3514": {
       "maker_id": 9,
@@ -4316,8 +4316,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/7",
       "lastSeen": "2025/04/14",
-      "sinceLastAppearance": 12,
-      "sinceLastSeen": 5
+      "sinceLastAppearance": 13,
+      "sinceLastSeen": 6
     },
     "3525": {
       "maker_id": 15,
@@ -4334,8 +4334,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/10",
       "lastSeen": "2025/04/16",
-      "sinceLastAppearance": 9,
-      "sinceLastSeen": 3
+      "sinceLastAppearance": 10,
+      "sinceLastSeen": 4
     },
     "3437": {
       "maker_id": 140,
@@ -4352,8 +4352,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/11",
       "lastSeen": "2025/04/17",
-      "sinceLastAppearance": 8,
-      "sinceLastSeen": 2
+      "sinceLastAppearance": 9,
+      "sinceLastSeen": 3
     },
     "31": {
       "maker_id": 7,
@@ -4378,8 +4378,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/11",
       "lastSeen": "2025/04/17",
-      "sinceLastAppearance": 8,
-      "sinceLastSeen": 2
+      "sinceLastAppearance": 9,
+      "sinceLastSeen": 3
     },
     "315": {
       "maker_id": 36,
@@ -4396,8 +4396,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/10",
       "lastSeen": "2025/04/17",
-      "sinceLastAppearance": 9,
-      "sinceLastSeen": 2
+      "sinceLastAppearance": 10,
+      "sinceLastSeen": 3
     },
     "1927": {
       "maker_id": 5,
@@ -4414,8 +4414,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/8",
       "lastSeen": "2025/04/17",
-      "sinceLastAppearance": 11,
-      "sinceLastSeen": 2
+      "sinceLastAppearance": 12,
+      "sinceLastSeen": 3
     },
     "837": {
       "maker_id": 28,
@@ -4440,204 +4440,8 @@
       "isOld": true,
       "lastAppearance": "2025/4/7",
       "lastSeen": "2025/04/17",
-      "sinceLastAppearance": 12,
-      "sinceLastSeen": 2
-    },
-    "1984": {
-      "maker_id": 117,
-      "maker_name": "McLaren",
-      "car_id": 1984,
-      "car_name": "McLaren F1 GTR - BMW '95",
-      "car_group": "3",
-      "country_id": 4,
-      "country_name": "United Kingdom",
-      "country_code": "gb",
-      "engine_swaps": [],
-      "price": 16000000,
-      "price_jp": 1600000000,
-      "isOld": true,
-      "lastAppearance": "2025/4/19",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 0,
-      "sinceLastSeen": 0
-    },
-    "485": {
-      "maker_id": 28,
-      "maker_name": "Nissan",
-      "car_id": 485,
-      "car_name": "GT-R GT500 '99",
-      "car_group": "3",
-      "country_id": 2,
-      "country_name": "Japan",
-      "country_code": "jp",
-      "engine_swaps": [],
-      "price": 2500000,
-      "price_jp": 250000000,
-      "isOld": true,
-      "lastAppearance": "2025/4/19",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 0,
-      "sinceLastSeen": 0
-    },
-    "1926": {
-      "maker_id": 36,
-      "maker_name": "Shelby",
-      "car_id": 1926,
-      "car_name": "Cobra Daytona Coupe '64",
-      "car_group": "X",
-      "country_id": 3,
-      "country_name": "United States",
-      "country_code": "us",
-      "engine_swaps": [],
-      "price": 20000000,
-      "price_jp": 2000000000,
-      "isOld": true,
-      "lastAppearance": "2025/4/19",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 0,
-      "sinceLastSeen": 0
-    },
-    "3538": {
-      "maker_id": 11,
-      "maker_name": "Dodge",
-      "car_id": 3538,
-      "car_name": "Charger R/T 426 Hemi '68",
-      "car_group": "N",
-      "country_id": 3,
-      "country_name": "United States",
-      "country_code": "us",
-      "engine_swaps": [
-        {
-          "maker_id": 11,
-          "maker_name": "Dodge",
-          "car_id": "3486",
-          "car_name": "Challenger SRT Demon '18",
-          "engine_name": "Demon-Challenger"
-        }
-      ],
-      "price": 158000,
-      "price_jp": 15800000,
-      "isOld": true,
-      "lastAppearance": "2025/4/19",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 0,
-      "sinceLastSeen": 0
-    },
-    "3429": {
-      "maker_id": 28,
-      "maker_name": "Nissan",
-      "car_id": 3429,
-      "car_name": "Fairlady Z 432 '69",
-      "car_group": "N",
-      "country_id": 2,
-      "country_name": "Japan",
-      "country_code": "jp",
-      "engine_swaps": [
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": "1448",
-          "car_name": "SILVIA spec-R Aero (S15) '02",
-          "engine_name": "SR20DET-Silvia-S15"
-        }
-      ],
-      "price": 312000,
-      "price_jp": 31200000,
-      "isOld": true,
-      "lastAppearance": "2025/4/19",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 0,
-      "sinceLastSeen": 0
-    },
-    "387": {
-      "maker_id": 22,
-      "maker_name": "Mercedes-Benz",
-      "car_id": 387,
-      "car_name": "300 SL Coupe '54",
-      "car_group": "N",
-      "country_id": 5,
-      "country_name": "Germany",
-      "country_code": "de",
-      "engine_swaps": [],
-      "price": 1700000,
-      "price_jp": 170000000,
-      "isOld": true,
-      "lastAppearance": "2025/4/18",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 1,
-      "sinceLastSeen": 0
-    },
-    "3428": {
-      "maker_id": 22,
-      "maker_name": "Mercedes-Benz",
-      "car_id": 3428,
-      "car_name": "S Barker Tourer '29",
-      "car_group": "N",
-      "country_id": 5,
-      "country_name": "Germany",
-      "country_code": "de",
-      "engine_swaps": [],
-      "price": 13000000,
-      "price_jp": 1300000000,
-      "isOld": true,
-      "lastAppearance": "2025/4/16",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 3,
-      "sinceLastSeen": 0
-    },
-    "3489": {
-      "maker_id": 116,
-      "maker_name": "Maserati",
-      "car_id": 3489,
-      "car_name": "A6GCS/53 Spyder '54",
-      "car_group": "X",
-      "country_id": 7,
-      "country_name": "Italy",
-      "country_code": "it",
-      "engine_swaps": [],
-      "price": 3000000,
-      "price_jp": 300000000,
-      "isOld": true,
-      "lastAppearance": "2025/4/15",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 4,
-      "sinceLastSeen": 0
-    },
-    "140": {
-      "maker_id": 15,
-      "maker_name": "Honda",
-      "car_id": 140,
-      "car_name": "NSX GT500 '00",
-      "car_group": "3",
-      "country_id": 2,
-      "country_name": "Japan",
-      "country_code": "jp",
-      "engine_swaps": [],
-      "price": 1500000,
-      "price_jp": 150000000,
-      "isOld": true,
-      "lastAppearance": "2025/4/13",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 6,
-      "sinceLastSeen": 0
-    },
-    "3446": {
-      "maker_id": 136,
-      "maker_name": "Porsche",
-      "car_id": 3446,
-      "car_name": "Spyder type 550/1500RS '55",
-      "car_group": "X",
-      "country_id": 5,
-      "country_name": "Germany",
-      "country_code": "de",
-      "engine_swaps": [],
-      "price": 4850000,
-      "price_jp": 485000000,
-      "isOld": true,
-      "lastAppearance": "2025/4/12",
-      "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 7,
-      "sinceLastSeen": 0
+      "sinceLastAppearance": 13,
+      "sinceLastSeen": 3
     },
     "575": {
       "maker_id": 22,
@@ -4662,7 +4466,203 @@
       "isOld": true,
       "lastAppearance": "2025/4/10",
       "lastSeen": "2025/04/19",
-      "sinceLastAppearance": 9,
+      "sinceLastAppearance": 10,
+      "sinceLastSeen": 1
+    },
+    "1984": {
+      "maker_id": 117,
+      "maker_name": "McLaren",
+      "car_id": 1984,
+      "car_name": "McLaren F1 GTR - BMW '95",
+      "car_group": "3",
+      "country_id": 4,
+      "country_name": "United Kingdom",
+      "country_code": "gb",
+      "engine_swaps": [],
+      "price": 16000000,
+      "price_jp": 1600000000,
+      "isOld": true,
+      "lastAppearance": "2025/4/19",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 1,
+      "sinceLastSeen": 0
+    },
+    "485": {
+      "maker_id": 28,
+      "maker_name": "Nissan",
+      "car_id": 485,
+      "car_name": "GT-R GT500 '99",
+      "car_group": "3",
+      "country_id": 2,
+      "country_name": "Japan",
+      "country_code": "jp",
+      "engine_swaps": [],
+      "price": 2500000,
+      "price_jp": 250000000,
+      "isOld": true,
+      "lastAppearance": "2025/4/19",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 1,
+      "sinceLastSeen": 0
+    },
+    "1926": {
+      "maker_id": 36,
+      "maker_name": "Shelby",
+      "car_id": 1926,
+      "car_name": "Cobra Daytona Coupe '64",
+      "car_group": "X",
+      "country_id": 3,
+      "country_name": "United States",
+      "country_code": "us",
+      "engine_swaps": [],
+      "price": 20000000,
+      "price_jp": 2000000000,
+      "isOld": true,
+      "lastAppearance": "2025/4/19",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 1,
+      "sinceLastSeen": 0
+    },
+    "3538": {
+      "maker_id": 11,
+      "maker_name": "Dodge",
+      "car_id": 3538,
+      "car_name": "Charger R/T 426 Hemi '68",
+      "car_group": "N",
+      "country_id": 3,
+      "country_name": "United States",
+      "country_code": "us",
+      "engine_swaps": [
+        {
+          "maker_id": 11,
+          "maker_name": "Dodge",
+          "car_id": "3486",
+          "car_name": "Challenger SRT Demon '18",
+          "engine_name": "Demon-Challenger"
+        }
+      ],
+      "price": 158000,
+      "price_jp": 15800000,
+      "isOld": true,
+      "lastAppearance": "2025/4/19",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 1,
+      "sinceLastSeen": 0
+    },
+    "3429": {
+      "maker_id": 28,
+      "maker_name": "Nissan",
+      "car_id": 3429,
+      "car_name": "Fairlady Z 432 '69",
+      "car_group": "N",
+      "country_id": 2,
+      "country_name": "Japan",
+      "country_code": "jp",
+      "engine_swaps": [
+        {
+          "maker_id": 28,
+          "maker_name": "Nissan",
+          "car_id": "1448",
+          "car_name": "SILVIA spec-R Aero (S15) '02",
+          "engine_name": "SR20DET-Silvia-S15"
+        }
+      ],
+      "price": 312000,
+      "price_jp": 31200000,
+      "isOld": true,
+      "lastAppearance": "2025/4/19",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 1,
+      "sinceLastSeen": 0
+    },
+    "387": {
+      "maker_id": 22,
+      "maker_name": "Mercedes-Benz",
+      "car_id": 387,
+      "car_name": "300 SL Coupe '54",
+      "car_group": "N",
+      "country_id": 5,
+      "country_name": "Germany",
+      "country_code": "de",
+      "engine_swaps": [],
+      "price": 1700000,
+      "price_jp": 170000000,
+      "isOld": true,
+      "lastAppearance": "2025/4/18",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 2,
+      "sinceLastSeen": 0
+    },
+    "3428": {
+      "maker_id": 22,
+      "maker_name": "Mercedes-Benz",
+      "car_id": 3428,
+      "car_name": "S Barker Tourer '29",
+      "car_group": "N",
+      "country_id": 5,
+      "country_name": "Germany",
+      "country_code": "de",
+      "engine_swaps": [],
+      "price": 13000000,
+      "price_jp": 1300000000,
+      "isOld": true,
+      "lastAppearance": "2025/4/16",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 4,
+      "sinceLastSeen": 0
+    },
+    "3489": {
+      "maker_id": 116,
+      "maker_name": "Maserati",
+      "car_id": 3489,
+      "car_name": "A6GCS/53 Spyder '54",
+      "car_group": "X",
+      "country_id": 7,
+      "country_name": "Italy",
+      "country_code": "it",
+      "engine_swaps": [],
+      "price": 3000000,
+      "price_jp": 300000000,
+      "isOld": true,
+      "lastAppearance": "2025/4/15",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 5,
+      "sinceLastSeen": 0
+    },
+    "140": {
+      "maker_id": 15,
+      "maker_name": "Honda",
+      "car_id": 140,
+      "car_name": "NSX GT500 '00",
+      "car_group": "3",
+      "country_id": 2,
+      "country_name": "Japan",
+      "country_code": "jp",
+      "engine_swaps": [],
+      "price": 1500000,
+      "price_jp": 150000000,
+      "isOld": true,
+      "lastAppearance": "2025/4/13",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 7,
+      "sinceLastSeen": 0
+    },
+    "3446": {
+      "maker_id": 136,
+      "maker_name": "Porsche",
+      "car_id": 3446,
+      "car_name": "Spyder type 550/1500RS '55",
+      "car_group": "X",
+      "country_id": 5,
+      "country_name": "Germany",
+      "country_code": "de",
+      "engine_swaps": [],
+      "price": 4850000,
+      "price_jp": 485000000,
+      "isOld": true,
+      "lastAppearance": "2025/4/12",
+      "lastSeen": "2025/04/20",
+      "sinceLastAppearance": 8,
       "sinceLastSeen": 0
     }
   }
