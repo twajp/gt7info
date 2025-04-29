@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-29T00:11:54.250377+00:00",
+  "timestamp": "2025-04-29T23:58:06.118093+00:00",
   "used": {
     "821": {
       "maker_id": 15,
@@ -1922,15 +1922,7 @@
       "country_id": 2,
       "country_name": "Japan",
       "country_code": "jp",
-      "engine_swaps": [
-        {
-          "maker_id": 15,
-          "maker_name": "Honda",
-          "car_id": "3348",
-          "car_name": "NSX CONCEPT-GT '16",
-          "engine_name": "HR-414E-NSX"
-        }
-      ],
+      "engine_swaps": [],
       "price": 385600,
       "price_jp": 38560000,
       "isOld": true,
@@ -1948,15 +1940,7 @@
       "country_id": 3,
       "country_name": "United States",
       "country_code": "us",
-      "engine_swaps": [
-        {
-          "maker_id": 7,
-          "maker_name": "Chevrolet",
-          "car_id": "3449",
-          "car_name": "Corvette C7 ZR1 '19",
-          "engine_name": "LT5-Corvette-C7"
-        }
-      ],
+      "engine_swaps": [],
       "price": 53800,
       "price_jp": 5380000,
       "isOld": true,
@@ -2064,15 +2048,7 @@
       "country_id": 5,
       "country_name": "Germany",
       "country_code": "de",
-      "engine_swaps": [
-        {
-          "maker_id": 5,
-          "maker_name": "Audi",
-          "car_id": "1927",
-          "car_name": "Sport quattro S1 Pikes Peak '87",
-          "engine_name": "R5-20vT-Quattro-Pikes"
-        }
-      ],
+      "engine_swaps": [],
       "price": 41000,
       "price_jp": 4100000,
       "isOld": true,
@@ -2090,15 +2066,7 @@
       "country_id": 5,
       "country_name": "Germany",
       "country_code": "de",
-      "engine_swaps": [
-        {
-          "maker_id": 136,
-          "maker_name": "Porsche",
-          "car_id": "3311",
-          "car_name": "911 RSR (991) '17",
-          "engine_name": "M97/80-911"
-        }
-      ],
+      "engine_swaps": [],
       "price": 139900,
       "price_jp": 13990000,
       "isOld": false,
@@ -2116,15 +2084,7 @@
       "country_id": 2,
       "country_name": "Japan",
       "country_code": "jp",
-      "engine_swaps": [
-        {
-          "maker_id": 25,
-          "maker_name": "Mitsubishi",
-          "car_id": "3230",
-          "car_name": "Lancer Evolution Final Gr.B Rally Car",
-          "engine_name": "Evo-Final-Gr.B"
-        }
-      ],
+      "engine_swaps": [],
       "price": 62400,
       "price_jp": 6240000,
       "isOld": false,
@@ -2160,15 +2120,7 @@
       "country_id": 2,
       "country_name": "Japan",
       "country_code": "jp",
-      "engine_swaps": [
-        {
-          "maker_id": 25,
-          "maker_name": "Mitsubishi",
-          "car_id": "3230",
-          "car_name": "Lancer Evolution Final Gr.B Rally Car",
-          "engine_name": "Evo-Final-Gr.B"
-        }
-      ],
+      "engine_swaps": [],
       "price": 163600,
       "price_jp": 16360000,
       "isOld": true,
@@ -2222,15 +2174,7 @@
       "country_id": 3,
       "country_name": "United States",
       "country_code": "us",
-      "engine_swaps": [
-        {
-          "maker_id": 13,
-          "maker_name": "Ford",
-          "car_id": "3264",
-          "car_name": "Focus Gr.B Rally Car",
-          "engine_name": "L4-Focus-Gr.B"
-        }
-      ],
+      "engine_swaps": [],
       "price": 129000,
       "price_jp": 12900000,
       "isOld": true,
@@ -2266,15 +2210,7 @@
       "country_id": 3,
       "country_name": "United States",
       "country_code": "us",
-      "engine_swaps": [
-        {
-          "maker_id": 7,
-          "maker_name": "Chevrolet",
-          "car_id": "1480",
-          "car_name": "Corvette ZR1 (C6) '09",
-          "engine_name": "LS9-Corvette"
-        }
-      ],
+      "engine_swaps": [],
       "price": 96000,
       "price_jp": 9600000,
       "isOld": true,
@@ -2292,15 +2228,7 @@
       "country_id": 2,
       "country_name": "Japan",
       "country_code": "jp",
-      "engine_swaps": [
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": "3345",
-          "car_name": "GT-R NISMO '17",
-          "engine_name": "VR38DETT-GT-R-NISMO"
-        }
-      ],
+      "engine_swaps": [],
       "price": 53300,
       "price_jp": 5330000,
       "isOld": true,
@@ -2318,15 +2246,7 @@
       "country_id": 5,
       "country_name": "Germany",
       "country_code": "de",
-      "engine_swaps": [
-        {
-          "maker_id": 136,
-          "maker_name": "Porsche",
-          "car_id": "3311",
-          "car_name": "911 RSR (991) '17",
-          "engine_name": "M97/80-911"
-        }
-      ],
+      "engine_swaps": [],
       "price": 250000,
       "price_jp": 25000000,
       "isOld": true,
@@ -2344,15 +2264,7 @@
       "country_id": 5,
       "country_name": "Germany",
       "country_code": "de",
-      "engine_swaps": [
-        {
-          "maker_id": 6,
-          "maker_name": "BMW",
-          "car_id": "1902",
-          "car_name": "Z4 GT3 '11",
-          "engine_name": "P65B44-Z4"
-        }
-      ],
+      "engine_swaps": [],
       "price": 70500,
       "price_jp": 7050000,
       "isOld": false,
@@ -2370,15 +2282,7 @@
       "country_id": 2,
       "country_name": "Japan",
       "country_code": "jp",
-      "engine_swaps": [
-        {
-          "maker_id": 15,
-          "maker_name": "Honda",
-          "car_id": "3348",
-          "car_name": "NSX CONCEPT-GT '16",
-          "engine_name": "HR-414E-NSX"
-        }
-      ],
+      "engine_swaps": [],
       "price": 447400,
       "price_jp": 44740000,
       "isOld": false,
@@ -2396,15 +2300,7 @@
       "country_id": 7,
       "country_name": "Italy",
       "country_code": "it",
-      "engine_swaps": [
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": "3345",
-          "car_name": "GT-R NISMO '17",
-          "engine_name": "VR38DETT-GT-R-NISMO"
-        }
-      ],
+      "engine_swaps": [],
       "price": 105000,
       "price_jp": 10500000,
       "isOld": true,
@@ -2440,15 +2336,7 @@
       "country_id": 6,
       "country_name": "France",
       "country_code": "fr",
-      "engine_swaps": [
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": "1448",
-          "car_name": "SILVIA spec-R Aero (S15) '02",
-          "engine_name": "SR20DET-Silvia-S15"
-        }
-      ],
+      "engine_swaps": [],
       "price": 129900,
       "price_jp": 12990000,
       "isOld": true,
@@ -2466,15 +2354,7 @@
       "country_id": 7,
       "country_name": "Italy",
       "country_code": "it",
-      "engine_swaps": [
-        {
-          "maker_id": 157,
-          "maker_name": "Garage RCR",
-          "car_id": "3526",
-          "car_name": "Civic",
-          "engine_name": "K24A-Civic"
-        }
-      ],
+      "engine_swaps": [],
       "price": 29300,
       "price_jp": 2930000,
       "isOld": true,
@@ -2510,15 +2390,7 @@
       "country_id": 3,
       "country_name": "United States",
       "country_code": "us",
-      "engine_swaps": [
-        {
-          "maker_id": 156,
-          "maker_name": "Greening Auto Company",
-          "car_id": "3522",
-          "car_name": "Maverick",
-          "engine_name": "Windsor-351-Maverick"
-        }
-      ],
+      "engine_swaps": [],
       "price": 410200,
       "price_jp": 41020000,
       "isOld": false,
@@ -2536,15 +2408,7 @@
       "country_id": 2,
       "country_name": "Japan",
       "country_code": "jp",
-      "engine_swaps": [
-        {
-          "maker_id": 43,
-          "maker_name": "Toyota",
-          "car_id": "207",
-          "car_name": "MR2 GT-S '97",
-          "engine_name": "3S-GTE-MR2"
-        }
-      ],
+      "engine_swaps": [],
       "price": 48200,
       "price_jp": 4820000,
       "isOld": true,
@@ -2580,15 +2444,7 @@
       "country_id": 2,
       "country_name": "Japan",
       "country_code": "jp",
-      "engine_swaps": [
-        {
-          "maker_id": 30,
-          "maker_name": "Pagani",
-          "car_id": "2050",
-          "car_name": "Huayra '13",
-          "engine_name": "M158-AMG-Huayra"
-        }
-      ],
+      "engine_swaps": [],
       "price": 185300,
       "price_jp": 18530000,
       "isOld": true,
@@ -2606,15 +2462,7 @@
       "country_id": 2,
       "country_name": "Japan",
       "country_code": "jp",
-      "engine_swaps": [
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": "210",
-          "car_name": "R34 GT-R V-spec II Nur '02",
-          "engine_name": "RB26DETT-GT-R-R34"
-        }
-      ],
+      "engine_swaps": [],
       "price": 27900,
       "price_jp": 2790000,
       "isOld": false,
@@ -2650,15 +2498,7 @@
       "country_id": 3,
       "country_name": "United States",
       "country_code": "us",
-      "engine_swaps": [
-        {
-          "maker_id": 151,
-          "maker_name": "Roadster Shop",
-          "car_id": "3426",
-          "car_name": "Roadster Shop Rampage",
-          "engine_name": "LS7-Rampage"
-        }
-      ],
+      "engine_swaps": [],
       "price": 428200,
       "price_jp": 42820000,
       "isOld": false,
@@ -2676,15 +2516,7 @@
       "country_id": 5,
       "country_name": "Germany",
       "country_code": "de",
-      "engine_swaps": [
-        {
-          "maker_id": 157,
-          "maker_name": "Garage RCR",
-          "car_id": "3526",
-          "car_name": "Civic",
-          "engine_name": "K24A-Civic"
-        }
-      ],
+      "engine_swaps": [],
       "price": 21100,
       "price_jp": 2110000,
       "isOld": false,
@@ -2720,15 +2552,7 @@
       "country_id": 2,
       "country_name": "Japan",
       "country_code": "jp",
-      "engine_swaps": [
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": "1466",
-          "car_name": "GT-R GT500 '08",
-          "engine_name": "VK45DE-GT-R"
-        }
-      ],
+      "engine_swaps": [],
       "price": 35300,
       "price_jp": 3530000,
       "isOld": false,
@@ -2746,15 +2570,7 @@
       "country_id": 2,
       "country_name": "Japan",
       "country_code": "jp",
-      "engine_swaps": [
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": "3345",
-          "car_name": "GT-R NISMO '17",
-          "engine_name": "VR38DETT-GT-R-NISMO"
-        }
-      ],
+      "engine_swaps": [],
       "price": 48800,
       "price_jp": 4880000,
       "isOld": true,
@@ -2772,15 +2588,7 @@
       "country_id": 5,
       "country_name": "Germany",
       "country_code": "de",
-      "engine_swaps": [
-        {
-          "maker_id": 15,
-          "maker_name": "Honda",
-          "car_id": "3467",
-          "car_name": "Civic Type R Limited Edition (FK8) '20",
-          "engine_name": "K20C1-Civic-'20"
-        }
-      ],
+      "engine_swaps": [],
       "price": 40100,
       "price_jp": 4010000,
       "isOld": true,
@@ -2798,15 +2606,7 @@
       "country_id": 2,
       "country_name": "Japan",
       "country_code": "jp",
-      "engine_swaps": [
-        {
-          "maker_id": 15,
-          "maker_name": "Honda",
-          "car_id": "3467",
-          "car_name": "Civic Type R Limited Edition (FK8) '20",
-          "engine_name": "K20C1-Civic-'20"
-        }
-      ],
+      "engine_swaps": [],
       "price": 46800,
       "price_jp": 4680000,
       "isOld": true,
@@ -2842,15 +2642,7 @@
       "country_id": 7,
       "country_name": "Italy",
       "country_code": "it",
-      "engine_swaps": [
-        {
-          "maker_id": 157,
-          "maker_name": "Garage RCR",
-          "car_id": "3526",
-          "car_name": "Civic",
-          "engine_name": "K24A-Civic"
-        }
-      ],
+      "engine_swaps": [],
       "price": 166200,
       "price_jp": 16620000,
       "isOld": true,
@@ -2868,15 +2660,7 @@
       "country_id": 2,
       "country_name": "Japan",
       "country_code": "jp",
-      "engine_swaps": [
-        {
-          "maker_id": 157,
-          "maker_name": "Garage RCR",
-          "car_id": "3526",
-          "car_name": "Civic",
-          "engine_name": "K24A-Civic"
-        }
-      ],
+      "engine_swaps": [],
       "price": 75200,
       "price_jp": 7520000,
       "isOld": true,
@@ -4336,15 +4120,7 @@
       "country_id": 3,
       "country_name": "United States",
       "country_code": "us",
-      "engine_swaps": [
-        {
-          "maker_id": 11,
-          "maker_name": "Dodge",
-          "car_id": "3486",
-          "car_name": "Challenger SRT Demon '18",
-          "engine_name": "Demon-Challenger"
-        }
-      ],
+      "engine_swaps": [],
       "price": 158000,
       "price_jp": 15800000,
       "isOld": true,
@@ -4398,15 +4174,7 @@
       "country_id": 7,
       "country_name": "Italy",
       "country_code": "it",
-      "engine_swaps": [
-        {
-          "maker_id": 110,
-          "maker_name": "Ferrari",
-          "car_id": "1474",
-          "car_name": "Enzo Ferrari '02",
-          "engine_name": "F140B-Enzo"
-        }
-      ],
+      "engine_swaps": [],
       "price": 3100000,
       "price_jp": 310000000,
       "isOld": true,
@@ -4424,15 +4192,7 @@
       "country_id": 2,
       "country_name": "Japan",
       "country_code": "jp",
-      "engine_swaps": [
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": "1448",
-          "car_name": "SILVIA spec-R Aero (S15) '02",
-          "engine_name": "SR20DET-Silvia-S15"
-        }
-      ],
+      "engine_swaps": [],
       "price": 312000,
       "price_jp": 31200000,
       "isOld": true,
@@ -4455,9 +4215,9 @@
       "price_jp": 135000000,
       "isOld": true,
       "lastAppearance": "2025/4/23",
-      "lastSeen": "2025/04/28",
+      "lastSeen": "2025/04/29",
       "sinceLastAppearance": 6,
-      "sinceLastSeen": 1
+      "sinceLastSeen": 0
     },
     "3376": {
       "maker_id": 17,
@@ -4473,9 +4233,9 @@
       "price_jp": 600000000,
       "isOld": true,
       "lastAppearance": "2025/4/23",
-      "lastSeen": "2025/04/28",
+      "lastSeen": "2025/04/29",
       "sinceLastAppearance": 6,
-      "sinceLastSeen": 1
+      "sinceLastSeen": 0
     },
     "1553": {
       "maker_id": 17,
@@ -4491,9 +4251,9 @@
       "price_jp": 1200000000,
       "isOld": true,
       "lastAppearance": "2025/4/21",
-      "lastSeen": "2025/04/28",
+      "lastSeen": "2025/04/29",
       "sinceLastAppearance": 8,
-      "sinceLastSeen": 1
+      "sinceLastSeen": 0
     },
     "485": {
       "maker_id": 28,
@@ -4509,9 +4269,9 @@
       "price_jp": 250000000,
       "isOld": true,
       "lastAppearance": "2025/4/19",
-      "lastSeen": "2025/04/28",
+      "lastSeen": "2025/04/29",
       "sinceLastAppearance": 10,
-      "sinceLastSeen": 1
+      "sinceLastSeen": 0
     },
     "36": {
       "maker_id": 7,
