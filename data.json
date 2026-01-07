@@ -1,6 +1,94 @@
 {
-  "timestamp": "2026-01-06T00:13:13.088375+00:00",
+  "timestamp": "2026-01-07T00:11:17.763273+00:00",
   "content": [
+    {
+      "id": 20260107,
+      "date": "2026/1/7",
+      "used": [
+        {
+          "maker_id": 34,
+          "maker_name": "Renault",
+          "car_id": 334,
+          "car_name": "Clio V6 24V '00",
+          "car_group": "N",
+          "country_id": 6,
+          "country_name": "France",
+          "country_code": "fr",
+          "engine_swaps": [
+            {
+              "maker_id": 38,
+              "maker_name": "Subaru",
+              "car_id": "3550",
+              "car_name": "Impreza Rally Car '98",
+              "engine_name": "EJ20-Impreza-Rally"
+            }
+          ],
+          "price": 82800,
+          "price_jp": 8280000,
+          "isOld": true
+        },
+        {
+          "maker_id": 6,
+          "maker_name": "BMW",
+          "car_id": 1399,
+          "car_name": "M3 '07",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 6,
+              "maker_name": "BMW",
+              "car_id": "1902",
+              "car_name": "Z4 GT3 '11",
+              "engine_name": "P65B44-Z4"
+            }
+          ],
+          "price": 77600,
+          "price_jp": 7760000,
+          "isOld": false
+        },
+        {
+          "maker_id": 11,
+          "maker_name": "Dodge",
+          "car_id": 1373,
+          "car_name": "Viper GTS '02",
+          "car_group": "N",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [],
+          "price": 106600,
+          "price_jp": 10660000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 11,
+          "maker_name": "Dodge",
+          "car_id": 3538,
+          "car_name": "Charger R/T 426 Hemi '68",
+          "car_group": "N",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [
+            {
+              "maker_id": 11,
+              "maker_name": "Dodge",
+              "car_id": "3486",
+              "car_name": "Challenger SRT Demon '18",
+              "engine_name": "Demon-Challenger"
+            }
+          ],
+          "price": 147000,
+          "price_jp": 14700000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260106,
       "date": "2026/1/6",
@@ -1121,94 +1209,6 @@
           ],
           "price": 194000,
           "price_jp": 19400000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20251224,
-      "date": "2025/12/24",
-      "used": [
-        {
-          "maker_id": 7,
-          "maker_name": "Chevrolet",
-          "car_id": 1542,
-          "car_name": "Corvette Convertible (C3) '69",
-          "car_group": "N",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [
-            {
-              "maker_id": 7,
-              "maker_name": "Chevrolet",
-              "car_id": "3449",
-              "car_name": "Corvette C7 ZR1 '19",
-              "engine_name": "LT5-Corvette-C7"
-            }
-          ],
-          "price": 47000,
-          "price_jp": 4700000,
-          "isOld": true
-        },
-        {
-          "maker_id": 5,
-          "maker_name": "Audi",
-          "car_id": 1365,
-          "car_name": "R8 4.2 '07",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [],
-          "price": 136500,
-          "price_jp": 13650000,
-          "isOld": false
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 155,
-          "maker_name": "NISMO",
-          "car_id": 3520,
-          "car_name": "400R '95",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "3345",
-              "car_name": "GT-R NISMO '17",
-              "engine_name": "VR38DETT-GT-R-NISMO"
-            }
-          ],
-          "price": 1600000,
-          "price_jp": 160000000,
-          "isOld": true
-        },
-        {
-          "maker_id": 146,
-          "maker_name": "Jeep",
-          "car_id": 3430,
-          "car_name": "Willys MB '45",
-          "car_group": "N",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [
-            {
-              "maker_id": 11,
-              "maker_name": "Dodge",
-              "car_id": "2152",
-              "car_name": "Charger SRT Hellcat '15",
-              "engine_name": "Hellcat-Charger"
-            }
-          ],
-          "price": 31300,
-          "price_jp": 3130000,
           "isOld": true
         }
       ]
