@@ -1,6 +1,79 @@
 {
-  "timestamp": "2026-01-08T00:12:45.307850+00:00",
+  "timestamp": "2026-01-09T00:13:00.819954+00:00",
   "content": [
+    {
+      "id": 20260109,
+      "date": "2026/1/9",
+      "used": [
+        {
+          "maker_id": 15,
+          "maker_name": "Honda",
+          "car_id": 821,
+          "car_name": "Civic Type R (EK) '97",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 157,
+              "maker_name": "Garage RCR",
+              "car_id": "3526",
+              "car_name": "Civic",
+              "engine_name": "K24A-Civic"
+            }
+          ],
+          "price": 53500,
+          "price_jp": 5350000,
+          "isOld": true
+        },
+        {
+          "maker_id": 13,
+          "maker_name": "Ford",
+          "car_id": 3466,
+          "car_name": "Sierra RS 500 Cosworth '87",
+          "car_group": "N",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [
+            {
+              "maker_id": 13,
+              "maker_name": "Ford",
+              "car_id": "3264",
+              "car_name": "Focus Gr.B Rally Car",
+              "engine_name": "L4-Focus-Gr.B"
+            }
+          ],
+          "price": 196400,
+          "price_jp": 19640000,
+          "isOld": true
+        },
+        {
+          "maker_id": 6,
+          "maker_name": "BMW",
+          "car_id": 3389,
+          "car_name": "M3 '03",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 6,
+              "maker_name": "BMW",
+              "car_id": "1902",
+              "car_name": "Z4 GT3 '11",
+              "engine_name": "P65B44-Z4"
+            }
+          ],
+          "price": 61100,
+          "price_jp": 6110000,
+          "isOld": false
+        }
+      ],
+      "legend": []
+    },
     {
       "id": 20260108,
       "date": "2026/1/8",
@@ -1335,27 +1408,6 @@
           "isOld": true
         }
       ]
-    },
-    {
-      "id": 20251226,
-      "date": "2025/12/26",
-      "used": [
-        {
-          "maker_id": 34,
-          "maker_name": "Renault",
-          "car_id": 3567,
-          "car_name": "Kangoo 1.4 '01",
-          "car_group": null,
-          "country_id": 6,
-          "country_name": "France",
-          "country_code": "fr",
-          "engine_swaps": [],
-          "price": 14200,
-          "price_jp": 1420000,
-          "isOld": false
-        }
-      ],
-      "legend": []
     }
   ]
 }
