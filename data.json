@@ -1,6 +1,71 @@
 {
-  "timestamp": "2026-01-10T00:12:04.216501+00:00",
+  "timestamp": "2026-01-11T00:13:45.839602+00:00",
   "content": [
+    {
+      "id": 20260111,
+      "date": "2026/1/11",
+      "used": [
+        {
+          "maker_id": 10,
+          "maker_name": "Daihatsu",
+          "car_id": 145,
+          "car_name": "Copen '02",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [],
+          "price": 14400,
+          "price_jp": 1440000,
+          "isOld": false
+        },
+        {
+          "maker_id": 6,
+          "maker_name": "BMW",
+          "car_id": 3453,
+          "car_name": "M3 '89",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 39,
+              "maker_name": "Suzuki",
+              "car_id": "3508",
+              "car_name": "SUZUKI Vision Gran Turismo (Gr.3 Version)",
+              "engine_name": "V8-Suzuki-VGT-Gr.3"
+            }
+          ],
+          "price": 75100,
+          "price_jp": 7510000,
+          "isOld": true
+        },
+        {
+          "maker_id": 38,
+          "maker_name": "Subaru",
+          "car_id": 451,
+          "car_name": "Impreza 22B-STi '98",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 38,
+              "maker_name": "Subaru",
+              "car_id": "3550",
+              "car_name": "Impreza Rally Car '98",
+              "engine_name": "EJ20-Impreza-Rally"
+            }
+          ],
+          "price": 163100,
+          "price_jp": 16310000,
+          "isOld": true
+        }
+      ],
+      "legend": []
+    },
     {
       "id": 20260110,
       "date": "2026/1/10",
@@ -1206,100 +1271,6 @@
         }
       ],
       "legend": []
-    },
-    {
-      "id": 20251228,
-      "date": "2025/12/28",
-      "used": [
-        {
-          "maker_id": 13,
-          "maker_name": "Ford",
-          "car_id": 3555,
-          "car_name": "Escort RS Cosworth '92",
-          "car_group": null,
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [
-            {
-              "maker_id": 13,
-              "maker_name": "Ford",
-              "car_id": "3264",
-              "car_name": "Focus Gr.B Rally Car",
-              "engine_name": "L4-Focus-Gr.B"
-            }
-          ],
-          "price": 128900,
-          "price_jp": 12890000,
-          "isOld": true
-        },
-        {
-          "maker_id": 136,
-          "maker_name": "Porsche",
-          "car_id": 3358,
-          "car_name": "911 GT3 (996) '01",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [],
-          "price": 161700,
-          "price_jp": 16170000,
-          "isOld": false
-        },
-        {
-          "maker_id": 25,
-          "maker_name": "Mitsubishi",
-          "car_id": 799,
-          "car_name": "Lancer Evolution VIII MR GSR '04",
-          "car_group": null,
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 25,
-              "maker_name": "Mitsubishi",
-              "car_id": "3230",
-              "car_name": "Lancer Evolution Final Gr.B Rally Car",
-              "engine_name": "Evo-Final-Gr.B"
-            }
-          ],
-          "price": 65700,
-          "price_jp": 6570000,
-          "isOld": false
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 5,
-          "maker_name": "Audi",
-          "car_id": 1927,
-          "car_name": "Sport quattro S1 Pikes Peak '87",
-          "car_group": "B",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [],
-          "price": 1800000,
-          "price_jp": 180000000,
-          "isOld": true
-        },
-        {
-          "maker_id": 36,
-          "maker_name": "Shelby",
-          "car_id": 315,
-          "car_name": "Cobra 427 '66",
-          "car_group": "N",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [],
-          "price": 2700000,
-          "price_jp": 270000000,
-          "isOld": true
-        }
-      ]
     }
   ]
 }
