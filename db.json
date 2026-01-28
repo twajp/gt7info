@@ -1,32 +1,6 @@
 {
-  "timestamp": "2026-01-27T00:14:30.834473+00:00",
+  "timestamp": "2026-01-28T00:13:18.982895+00:00",
   "used": {
-    "374": {
-      "maker_id": 21,
-      "maker_name": "Mazda",
-      "car_id": 374,
-      "car_name": "RX-7 GT-X (FC) '90",
-      "car_group": "N",
-      "country_id": 2,
-      "country_name": "Japan",
-      "country_code": "jp",
-      "engine_swaps": [
-        {
-          "maker_id": 21,
-          "maker_name": "Mazda",
-          "car_id": "296",
-          "car_name": "787B '91",
-          "engine_name": "R26B-787B"
-        }
-      ],
-      "price": 62800,
-      "price_jp": 6280000,
-      "isOld": true,
-      "lastAppearance": "2025/11/4",
-      "lastSeen": "2025/11/10",
-      "sinceLastAppearance": 84,
-      "sinceLastSeen": 78
-    },
     "942": {
       "maker_id": 7,
       "maker_name": "Chevrolet",
@@ -50,8 +24,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/5",
       "lastSeen": "2025/11/11",
-      "sinceLastAppearance": 83,
-      "sinceLastSeen": 77
+      "sinceLastAppearance": 84,
+      "sinceLastSeen": 78
     },
     "1722": {
       "maker_id": 117,
@@ -68,8 +42,8 @@
       "isOld": false,
       "lastAppearance": "2025/11/3",
       "lastSeen": "2025/11/11",
-      "sinceLastAppearance": 85,
-      "sinceLastSeen": 77
+      "sinceLastAppearance": 86,
+      "sinceLastSeen": 78
     },
     "1480": {
       "maker_id": 7,
@@ -94,8 +68,8 @@
       "isOld": false,
       "lastAppearance": "2025/11/5",
       "lastSeen": "2025/11/13",
-      "sinceLastAppearance": 83,
-      "sinceLastSeen": 75
+      "sinceLastAppearance": 84,
+      "sinceLastSeen": 76
     },
     "1402": {
       "maker_id": 11,
@@ -112,8 +86,8 @@
       "isOld": false,
       "lastAppearance": "2025/11/4",
       "lastSeen": "2025/11/13",
-      "sinceLastAppearance": 84,
-      "sinceLastSeen": 75
+      "sinceLastAppearance": 85,
+      "sinceLastSeen": 76
     },
     "1539": {
       "maker_id": 116,
@@ -130,8 +104,8 @@
       "isOld": false,
       "lastAppearance": "2025/11/3",
       "lastSeen": "2025/11/13",
-      "sinceLastAppearance": 85,
-      "sinceLastSeen": 75
+      "sinceLastAppearance": 86,
+      "sinceLastSeen": 76
     },
     "3377": {
       "maker_id": 11,
@@ -148,8 +122,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/7",
       "lastSeen": "2025/11/14",
-      "sinceLastAppearance": 81,
-      "sinceLastSeen": 74
+      "sinceLastAppearance": 82,
+      "sinceLastSeen": 75
     },
     "1893": {
       "maker_id": 6,
@@ -166,60 +140,8 @@
       "isOld": false,
       "lastAppearance": "2025/11/4",
       "lastSeen": "2025/11/14",
-      "sinceLastAppearance": 84,
-      "sinceLastSeen": 74
-    },
-    "48": {
-      "maker_id": 28,
-      "maker_name": "Nissan",
-      "car_id": 48,
-      "car_name": "Fairlady 240ZG (HS30) '71",
-      "car_group": "N",
-      "country_id": 2,
-      "country_name": "Japan",
-      "country_code": "jp",
-      "engine_swaps": [
-        {
-          "maker_id": 151,
-          "maker_name": "Roadster Shop",
-          "car_id": "3426",
-          "car_name": "Roadster Shop Rampage",
-          "engine_name": "LS7-Rampage"
-        }
-      ],
-      "price": 98200,
-      "price_jp": 9820000,
-      "isOld": true,
-      "lastAppearance": "2025/11/9",
-      "lastSeen": "2025/11/15",
-      "sinceLastAppearance": 79,
-      "sinceLastSeen": 73
-    },
-    "3404": {
-      "maker_id": 136,
-      "maker_name": "Porsche",
-      "car_id": 3404,
-      "car_name": "911 Carrera RS CS (993) '95",
-      "car_group": "N",
-      "country_id": 5,
-      "country_name": "Germany",
-      "country_code": "de",
-      "engine_swaps": [
-        {
-          "maker_id": 136,
-          "maker_name": "Porsche",
-          "car_id": "3539",
-          "car_name": "911 GT3 RS (992) '22",
-          "engine_name": "MDYA-911"
-        }
-      ],
-      "price": 441300,
-      "price_jp": 44130000,
-      "isOld": true,
-      "lastAppearance": "2025/11/3",
-      "lastSeen": "2025/11/15",
       "sinceLastAppearance": 85,
-      "sinceLastSeen": 73
+      "sinceLastSeen": 75
     },
     "773": {
       "maker_id": 28,
@@ -244,8 +166,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/9",
       "lastSeen": "2025/11/16",
-      "sinceLastAppearance": 79,
-      "sinceLastSeen": 72
+      "sinceLastAppearance": 80,
+      "sinceLastSeen": 73
     },
     "102": {
       "maker_id": 28,
@@ -270,8 +192,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/9",
       "lastSeen": "2025/11/17",
-      "sinceLastAppearance": 79,
-      "sinceLastSeen": 71
+      "sinceLastAppearance": 80,
+      "sinceLastSeen": 72
     },
     "37": {
       "maker_id": 15,
@@ -296,8 +218,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/11",
       "lastSeen": "2025/11/18",
-      "sinceLastAppearance": 77,
-      "sinceLastSeen": 70
+      "sinceLastAppearance": 78,
+      "sinceLastSeen": 71
     },
     "3454": {
       "maker_id": 6,
@@ -314,8 +236,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/12",
       "lastSeen": "2025/11/19",
-      "sinceLastAppearance": 76,
-      "sinceLastSeen": 69
+      "sinceLastAppearance": 77,
+      "sinceLastSeen": 70
     },
     "3438": {
       "maker_id": 125,
@@ -340,8 +262,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/12",
       "lastSeen": "2025/11/20",
-      "sinceLastAppearance": 76,
-      "sinceLastSeen": 68
+      "sinceLastAppearance": 77,
+      "sinceLastSeen": 69
     },
     "1933": {
       "maker_id": 3,
@@ -358,8 +280,8 @@
       "isOld": false,
       "lastAppearance": "2025/11/12",
       "lastSeen": "2025/11/20",
-      "sinceLastAppearance": 76,
-      "sinceLastSeen": 68
+      "sinceLastAppearance": 77,
+      "sinceLastSeen": 69
     },
     "1523": {
       "maker_id": 12,
@@ -384,8 +306,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/11",
       "lastSeen": "2025/11/20",
-      "sinceLastAppearance": 77,
-      "sinceLastSeen": 68
+      "sinceLastAppearance": 78,
+      "sinceLastSeen": 69
     },
     "1385": {
       "maker_id": 39,
@@ -402,8 +324,8 @@
       "isOld": false,
       "lastAppearance": "2025/12/4",
       "lastSeen": "2025/12/04",
-      "sinceLastAppearance": 54,
-      "sinceLastSeen": 54
+      "sinceLastAppearance": 55,
+      "sinceLastSeen": 55
     },
     "3422": {
       "maker_id": 6,
@@ -428,8 +350,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/23",
       "lastSeen": "2025/12/29",
-      "sinceLastAppearance": 35,
-      "sinceLastSeen": 29
+      "sinceLastAppearance": 36,
+      "sinceLastSeen": 30
     },
     "301": {
       "maker_id": 25,
@@ -454,8 +376,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/23",
       "lastSeen": "2025/12/30",
-      "sinceLastAppearance": 35,
-      "sinceLastSeen": 28
+      "sinceLastAppearance": 36,
+      "sinceLastSeen": 29
     },
     "1542": {
       "maker_id": 7,
@@ -480,8 +402,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/24",
       "lastSeen": "2025/12/31",
-      "sinceLastAppearance": 34,
-      "sinceLastSeen": 27
+      "sinceLastAppearance": 35,
+      "sinceLastSeen": 28
     },
     "1365": {
       "maker_id": 5,
@@ -498,8 +420,8 @@
       "isOld": false,
       "lastAppearance": "2025/12/24",
       "lastSeen": "2026/01/01",
-      "sinceLastAppearance": 34,
-      "sinceLastSeen": 26
+      "sinceLastAppearance": 35,
+      "sinceLastSeen": 27
     },
     "1506": {
       "maker_id": 112,
@@ -516,8 +438,8 @@
       "isOld": false,
       "lastAppearance": "2025/12/27",
       "lastSeen": "2026/01/02",
-      "sinceLastAppearance": 31,
-      "sinceLastSeen": 25
+      "sinceLastAppearance": 32,
+      "sinceLastSeen": 26
     },
     "293": {
       "maker_id": 15,
@@ -542,8 +464,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/27",
       "lastSeen": "2026/01/02",
-      "sinceLastAppearance": 31,
-      "sinceLastSeen": 25
+      "sinceLastAppearance": 32,
+      "sinceLastSeen": 26
     },
     "1508": {
       "maker_id": 25,
@@ -568,8 +490,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/25",
       "lastSeen": "2026/01/02",
-      "sinceLastAppearance": 33,
-      "sinceLastSeen": 25
+      "sinceLastAppearance": 34,
+      "sinceLastSeen": 26
     },
     "1504": {
       "maker_id": 110,
@@ -586,8 +508,8 @@
       "isOld": false,
       "lastAppearance": "2025/12/27",
       "lastSeen": "2026/01/03",
-      "sinceLastAppearance": 31,
-      "sinceLastSeen": 24
+      "sinceLastAppearance": 32,
+      "sinceLastSeen": 25
     },
     "3573": {
       "maker_id": 9,
@@ -612,8 +534,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/27",
       "lastSeen": "2026/01/03",
-      "sinceLastAppearance": 31,
-      "sinceLastSeen": 24
+      "sinceLastAppearance": 32,
+      "sinceLastSeen": 25
     },
     "1545": {
       "maker_id": 112,
@@ -630,8 +552,8 @@
       "isOld": false,
       "lastAppearance": "2025/12/29",
       "lastSeen": "2026/01/04",
-      "sinceLastAppearance": 29,
-      "sinceLastSeen": 23
+      "sinceLastAppearance": 30,
+      "sinceLastSeen": 24
     },
     "3555": {
       "maker_id": 13,
@@ -656,8 +578,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/28",
       "lastSeen": "2026/01/04",
-      "sinceLastAppearance": 30,
-      "sinceLastSeen": 23
+      "sinceLastAppearance": 31,
+      "sinceLastSeen": 24
     },
     "799": {
       "maker_id": 25,
@@ -682,8 +604,8 @@
       "isOld": false,
       "lastAppearance": "2025/12/28",
       "lastSeen": "2026/01/04",
-      "sinceLastAppearance": 30,
-      "sinceLastSeen": 23
+      "sinceLastAppearance": 31,
+      "sinceLastSeen": 24
     },
     "1537": {
       "maker_id": 43,
@@ -700,8 +622,8 @@
       "isOld": false,
       "lastAppearance": "2025/12/27",
       "lastSeen": "2026/01/04",
-      "sinceLastAppearance": 31,
-      "sinceLastSeen": 23
+      "sinceLastAppearance": 32,
+      "sinceLastSeen": 24
     },
     "173": {
       "maker_id": 34,
@@ -726,8 +648,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/27",
       "lastSeen": "2026/01/04",
-      "sinceLastAppearance": 31,
-      "sinceLastSeen": 23
+      "sinceLastAppearance": 32,
+      "sinceLastSeen": 24
     },
     "3567": {
       "maker_id": 34,
@@ -744,8 +666,8 @@
       "isOld": false,
       "lastAppearance": "2025/12/26",
       "lastSeen": "2026/01/04",
-      "sinceLastAppearance": 32,
-      "sinceLastSeen": 23
+      "sinceLastAppearance": 33,
+      "sinceLastSeen": 24
     },
     "919": {
       "maker_id": 28,
@@ -777,8 +699,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/29",
       "lastSeen": "2026/01/04",
-      "sinceLastAppearance": 29,
-      "sinceLastSeen": 23
+      "sinceLastAppearance": 30,
+      "sinceLastSeen": 24
     },
     "3359": {
       "maker_id": 136,
@@ -803,8 +725,8 @@
       "isOld": false,
       "lastAppearance": "2025/12/29",
       "lastSeen": "2026/01/05",
-      "sinceLastAppearance": 29,
-      "sinceLastSeen": 22
+      "sinceLastAppearance": 30,
+      "sinceLastSeen": 23
     },
     "3358": {
       "maker_id": 136,
@@ -821,8 +743,8 @@
       "isOld": false,
       "lastAppearance": "2025/12/28",
       "lastSeen": "2026/01/05",
-      "sinceLastAppearance": 30,
-      "sinceLastSeen": 22
+      "sinceLastAppearance": 31,
+      "sinceLastSeen": 23
     },
     "104": {
       "maker_id": 28,
@@ -847,8 +769,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/27",
       "lastSeen": "2026/01/05",
-      "sinceLastAppearance": 31,
-      "sinceLastSeen": 22
+      "sinceLastAppearance": 32,
+      "sinceLastSeen": 23
     },
     "533": {
       "maker_id": 18,
@@ -865,8 +787,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/27",
       "lastSeen": "2026/01/06",
-      "sinceLastAppearance": 31,
-      "sinceLastSeen": 21
+      "sinceLastAppearance": 32,
+      "sinceLastSeen": 22
     },
     "3443": {
       "maker_id": 110,
@@ -883,8 +805,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/31",
       "lastSeen": "2026/01/06",
-      "sinceLastAppearance": 27,
-      "sinceLastSeen": 21
+      "sinceLastAppearance": 28,
+      "sinceLastSeen": 22
     },
     "1384": {
       "maker_id": 28,
@@ -909,8 +831,8 @@
       "isOld": false,
       "lastAppearance": "2025/12/30",
       "lastSeen": "2026/01/06",
-      "sinceLastAppearance": 28,
-      "sinceLastSeen": 21
+      "sinceLastAppearance": 29,
+      "sinceLastSeen": 22
     },
     "3471": {
       "maker_id": 43,
@@ -935,8 +857,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/29",
       "lastSeen": "2026/01/06",
-      "sinceLastAppearance": 29,
-      "sinceLastSeen": 21
+      "sinceLastAppearance": 30,
+      "sinceLastSeen": 22
     },
     "1027": {
       "maker_id": 65,
@@ -961,8 +883,8 @@
       "isOld": false,
       "lastAppearance": "2025/12/30",
       "lastSeen": "2026/01/06",
-      "sinceLastAppearance": 28,
-      "sinceLastSeen": 21
+      "sinceLastAppearance": 29,
+      "sinceLastSeen": 22
     },
     "1671": {
       "maker_id": 46,
@@ -987,8 +909,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/31",
       "lastSeen": "2026/01/06",
-      "sinceLastAppearance": 27,
-      "sinceLastSeen": 21
+      "sinceLastAppearance": 28,
+      "sinceLastSeen": 22
     },
     "1458": {
       "maker_id": 28,
@@ -1013,8 +935,8 @@
       "isOld": false,
       "lastAppearance": "2025/12/30",
       "lastSeen": "2026/01/07",
-      "sinceLastAppearance": 28,
-      "sinceLastSeen": 20
+      "sinceLastAppearance": 29,
+      "sinceLastSeen": 21
     },
     "959": {
       "maker_id": 5,
@@ -1031,8 +953,8 @@
       "isOld": false,
       "lastAppearance": "2025/12/29",
       "lastSeen": "2026/01/07",
-      "sinceLastAppearance": 29,
-      "sinceLastSeen": 20
+      "sinceLastAppearance": 30,
+      "sinceLastSeen": 21
     },
     "3563": {
       "maker_id": 15,
@@ -1057,8 +979,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/1",
       "lastSeen": "2026/01/07",
-      "sinceLastAppearance": 26,
-      "sinceLastSeen": 20
+      "sinceLastAppearance": 27,
+      "sinceLastSeen": 21
     },
     "135": {
       "maker_id": 15,
@@ -1083,8 +1005,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/31",
       "lastSeen": "2026/01/08",
-      "sinceLastAppearance": 27,
-      "sinceLastSeen": 19
+      "sinceLastAppearance": 28,
+      "sinceLastSeen": 20
     },
     "3547": {
       "maker_id": 34,
@@ -1101,8 +1023,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/31",
       "lastSeen": "2026/01/08",
-      "sinceLastAppearance": 27,
-      "sinceLastSeen": 19
+      "sinceLastAppearance": 28,
+      "sinceLastSeen": 20
     },
     "24": {
       "maker_id": 28,
@@ -1127,8 +1049,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/1",
       "lastSeen": "2026/01/09",
-      "sinceLastAppearance": 26,
-      "sinceLastSeen": 18
+      "sinceLastAppearance": 27,
+      "sinceLastSeen": 19
     },
     "3341": {
       "maker_id": 140,
@@ -1153,8 +1075,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/2",
       "lastSeen": "2026/01/09",
-      "sinceLastAppearance": 25,
-      "sinceLastSeen": 18
+      "sinceLastAppearance": 26,
+      "sinceLastSeen": 19
     },
     "137": {
       "maker_id": 15,
@@ -1179,8 +1101,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/31",
       "lastSeen": "2026/01/09",
-      "sinceLastAppearance": 27,
-      "sinceLastSeen": 18
+      "sinceLastAppearance": 28,
+      "sinceLastSeen": 19
     },
     "201": {
       "maker_id": 21,
@@ -1205,8 +1127,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/5",
       "lastSeen": "2026/01/11",
-      "sinceLastAppearance": 22,
-      "sinceLastSeen": 16
+      "sinceLastAppearance": 23,
+      "sinceLastSeen": 17
     },
     "145": {
       "maker_id": 10,
@@ -1223,8 +1145,8 @@
       "isOld": false,
       "lastAppearance": "2026/1/11",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 16,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 17,
+      "sinceLastSeen": 16
     },
     "451": {
       "maker_id": 38,
@@ -1249,8 +1171,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/11",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 16,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 17,
+      "sinceLastSeen": 16
     },
     "3453": {
       "maker_id": 6,
@@ -1275,8 +1197,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/11",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 16,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 17,
+      "sinceLastSeen": 16
     },
     "1796": {
       "maker_id": 86,
@@ -1301,8 +1223,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/10",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 17,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 18,
+      "sinceLastSeen": 16
     },
     "3356": {
       "maker_id": 51,
@@ -1327,8 +1249,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/10",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 17,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 18,
+      "sinceLastSeen": 16
     },
     "821": {
       "maker_id": 15,
@@ -1353,8 +1275,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/9",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 18,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 19,
+      "sinceLastSeen": 16
     },
     "3466": {
       "maker_id": 13,
@@ -1379,8 +1301,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/9",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 18,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 19,
+      "sinceLastSeen": 16
     },
     "3389": {
       "maker_id": 6,
@@ -1405,8 +1327,8 @@
       "isOld": false,
       "lastAppearance": "2026/1/9",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 18,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 19,
+      "sinceLastSeen": 16
     },
     "688": {
       "maker_id": 15,
@@ -1431,8 +1353,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/8",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 19,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 20,
+      "sinceLastSeen": 16
     },
     "207": {
       "maker_id": 43,
@@ -1457,8 +1379,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/8",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 19,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 20,
+      "sinceLastSeen": 16
     },
     "3431": {
       "maker_id": 136,
@@ -1483,8 +1405,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/8",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 19,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 20,
+      "sinceLastSeen": 16
     },
     "1527": {
       "maker_id": 12,
@@ -1501,8 +1423,8 @@
       "isOld": false,
       "lastAppearance": "2026/1/8",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 19,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 20,
+      "sinceLastSeen": 16
     },
     "41": {
       "maker_id": 7,
@@ -1527,8 +1449,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/8",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 19,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 20,
+      "sinceLastSeen": 16
     },
     "1448": {
       "maker_id": 28,
@@ -1560,8 +1482,8 @@
       "isOld": false,
       "lastAppearance": "2026/1/8",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 19,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 20,
+      "sinceLastSeen": 16
     },
     "1373": {
       "maker_id": 11,
@@ -1578,8 +1500,8 @@
       "isOld": false,
       "lastAppearance": "2026/1/7",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 20,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 21,
+      "sinceLastSeen": 16
     },
     "334": {
       "maker_id": 34,
@@ -1604,8 +1526,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/7",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 20,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 21,
+      "sinceLastSeen": 16
     },
     "1399": {
       "maker_id": 6,
@@ -1630,8 +1552,8 @@
       "isOld": false,
       "lastAppearance": "2026/1/7",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 20,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 21,
+      "sinceLastSeen": 16
     },
     "82": {
       "maker_id": 43,
@@ -1656,8 +1578,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/6",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 21,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 22,
+      "sinceLastSeen": 16
     },
     "1544": {
       "maker_id": 110,
@@ -1674,8 +1596,8 @@
       "isOld": false,
       "lastAppearance": "2026/1/6",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 21,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 22,
+      "sinceLastSeen": 16
     },
     "3549": {
       "maker_id": 69,
@@ -1692,8 +1614,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/6",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 21,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 22,
+      "sinceLastSeen": 16
     },
     "1044": {
       "maker_id": 43,
@@ -1710,8 +1632,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/6",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 21,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 22,
+      "sinceLastSeen": 16
     },
     "1973": {
       "maker_id": 125,
@@ -1728,8 +1650,8 @@
       "isOld": false,
       "lastAppearance": "2026/1/6",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 21,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 22,
+      "sinceLastSeen": 16
     },
     "63": {
       "maker_id": 43,
@@ -1754,8 +1676,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/6",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 21,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 22,
+      "sinceLastSeen": 16
     },
     "709": {
       "maker_id": 28,
@@ -1787,8 +1709,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/6",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 21,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 22,
+      "sinceLastSeen": 16
     },
     "1426": {
       "maker_id": 13,
@@ -1813,8 +1735,8 @@
       "isOld": false,
       "lastAppearance": "2026/1/3",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 24,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 25,
+      "sinceLastSeen": 16
     },
     "1410": {
       "maker_id": 110,
@@ -1831,8 +1753,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/5",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 22,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 23,
+      "sinceLastSeen": 16
     },
     "1370": {
       "maker_id": 51,
@@ -1857,8 +1779,8 @@
       "isOld": false,
       "lastAppearance": "2026/1/4",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 23,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 24,
+      "sinceLastSeen": 16
     },
     "396": {
       "maker_id": 15,
@@ -1883,8 +1805,8 @@
       "isOld": false,
       "lastAppearance": "2026/1/4",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 23,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 24,
+      "sinceLastSeen": 16
     },
     "1541": {
       "maker_id": 5,
@@ -1901,8 +1823,8 @@
       "isOld": false,
       "lastAppearance": "2026/1/4",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 23,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 24,
+      "sinceLastSeen": 16
     },
     "187": {
       "maker_id": 44,
@@ -1927,8 +1849,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/14",
       "lastSeen": "2026/01/20",
-      "sinceLastAppearance": 13,
-      "sinceLastSeen": 7
+      "sinceLastAppearance": 14,
+      "sinceLastSeen": 8
     },
     "1378": {
       "maker_id": 110,
@@ -1945,8 +1867,8 @@
       "isOld": false,
       "lastAppearance": "2026/1/14",
       "lastSeen": "2026/01/20",
-      "sinceLastAppearance": 13,
-      "sinceLastSeen": 7
+      "sinceLastAppearance": 14,
+      "sinceLastSeen": 8
     },
     "1985": {
       "maker_id": 52,
@@ -1971,8 +1893,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/15",
       "lastSeen": "2026/01/21",
-      "sinceLastAppearance": 12,
-      "sinceLastSeen": 6
+      "sinceLastAppearance": 13,
+      "sinceLastSeen": 7
     },
     "3524": {
       "maker_id": 28,
@@ -1997,8 +1919,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/14",
       "lastSeen": "2026/01/21",
-      "sinceLastAppearance": 13,
-      "sinceLastSeen": 6
+      "sinceLastAppearance": 14,
+      "sinceLastSeen": 7
     },
     "205": {
       "maker_id": 21,
@@ -2023,8 +1945,8 @@
       "isOld": false,
       "lastAppearance": "2026/1/16",
       "lastSeen": "2026/01/22",
-      "sinceLastAppearance": 11,
-      "sinceLastSeen": 5
+      "sinceLastAppearance": 12,
+      "sinceLastSeen": 6
     },
     "3344": {
       "maker_id": 6,
@@ -2049,8 +1971,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/16",
       "lastSeen": "2026/01/22",
-      "sinceLastAppearance": 11,
-      "sinceLastSeen": 5
+      "sinceLastAppearance": 12,
+      "sinceLastSeen": 6
     },
     "489": {
       "maker_id": 28,
@@ -2075,8 +1997,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/16",
       "lastSeen": "2026/01/22",
-      "sinceLastAppearance": 11,
-      "sinceLastSeen": 5
+      "sinceLastAppearance": 12,
+      "sinceLastSeen": 6
     },
     "1773": {
       "maker_id": 46,
@@ -2093,8 +2015,8 @@
       "isOld": false,
       "lastAppearance": "2026/1/14",
       "lastSeen": "2026/01/22",
-      "sinceLastAppearance": 13,
-      "sinceLastSeen": 5
+      "sinceLastAppearance": 14,
+      "sinceLastSeen": 6
     },
     "3403": {
       "maker_id": 46,
@@ -2119,8 +2041,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/17",
       "lastSeen": "2026/01/23",
-      "sinceLastAppearance": 10,
-      "sinceLastSeen": 4
+      "sinceLastAppearance": 11,
+      "sinceLastSeen": 5
     },
     "3439": {
       "maker_id": 136,
@@ -2145,8 +2067,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/18",
       "lastSeen": "2026/01/24",
-      "sinceLastAppearance": 9,
-      "sinceLastSeen": 3
+      "sinceLastAppearance": 10,
+      "sinceLastSeen": 4
     },
     "1578": {
       "maker_id": 3,
@@ -2163,8 +2085,8 @@
       "isOld": false,
       "lastAppearance": "2026/1/17",
       "lastSeen": "2026/01/24",
-      "sinceLastAppearance": 10,
-      "sinceLastSeen": 3
+      "sinceLastAppearance": 11,
+      "sinceLastSeen": 4
     },
     "204": {
       "maker_id": 15,
@@ -2189,8 +2111,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/16",
       "lastSeen": "2026/01/24",
-      "sinceLastAppearance": 11,
-      "sinceLastSeen": 3
+      "sinceLastAppearance": 12,
+      "sinceLastSeen": 4
     },
     "931": {
       "maker_id": 25,
@@ -2215,8 +2137,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/17",
       "lastSeen": "2026/01/24",
-      "sinceLastAppearance": 10,
-      "sinceLastSeen": 3
+      "sinceLastAppearance": 11,
+      "sinceLastSeen": 4
     },
     "1528": {
       "maker_id": 22,
@@ -2233,8 +2155,8 @@
       "isOld": false,
       "lastAppearance": "2026/1/16",
       "lastSeen": "2026/01/24",
-      "sinceLastAppearance": 11,
-      "sinceLastSeen": 3
+      "sinceLastAppearance": 12,
+      "sinceLastSeen": 4
     },
     "514": {
       "maker_id": 15,
@@ -2259,8 +2181,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/18",
       "lastSeen": "2026/01/25",
-      "sinceLastAppearance": 9,
-      "sinceLastSeen": 2
+      "sinceLastAppearance": 10,
+      "sinceLastSeen": 3
     },
     "3432": {
       "maker_id": 38,
@@ -2285,8 +2207,8 @@
       "isOld": false,
       "lastAppearance": "2026/1/17",
       "lastSeen": "2026/01/25",
-      "sinceLastAppearance": 10,
-      "sinceLastSeen": 2
+      "sinceLastAppearance": 11,
+      "sinceLastSeen": 3
     },
     "203": {
       "maker_id": 15,
@@ -2311,8 +2233,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/18",
       "lastSeen": "2026/01/25",
-      "sinceLastAppearance": 9,
-      "sinceLastSeen": 2
+      "sinceLastAppearance": 10,
+      "sinceLastSeen": 3
     },
     "3398": {
       "maker_id": 35,
@@ -2329,8 +2251,8 @@
       "isOld": false,
       "lastAppearance": "2026/1/19",
       "lastSeen": "2026/01/26",
-      "sinceLastAppearance": 8,
-      "sinceLastSeen": 1
+      "sinceLastAppearance": 9,
+      "sinceLastSeen": 2
     },
     "655": {
       "maker_id": 6,
@@ -2355,8 +2277,8 @@
       "isOld": false,
       "lastAppearance": "2026/1/20",
       "lastSeen": "2026/01/26",
-      "sinceLastAppearance": 7,
-      "sinceLastSeen": 1
+      "sinceLastAppearance": 8,
+      "sinceLastSeen": 2
     },
     "3442": {
       "maker_id": 57,
@@ -2381,26 +2303,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/14",
       "lastSeen": "2026/01/26",
-      "sinceLastAppearance": 13,
-      "sinceLastSeen": 1
-    },
-    "1990": {
-      "maker_id": 112,
-      "maker_name": "Lamborghini",
-      "car_id": 1990,
-      "car_name": "Diablo GT '00",
-      "car_group": "N",
-      "country_id": 7,
-      "country_name": "Italy",
-      "country_code": "it",
-      "engine_swaps": [],
-      "price": 778500,
-      "price_jp": 77850000,
-      "isOld": true,
-      "lastAppearance": "2026/1/22",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 5,
-      "sinceLastSeen": 0
+      "sinceLastAppearance": 14,
+      "sinceLastSeen": 2
     },
     "3424": {
       "maker_id": 25,
@@ -2425,7 +2329,155 @@
       "isOld": false,
       "lastAppearance": "2026/1/19",
       "lastSeen": "2026/01/27",
+      "sinceLastAppearance": 9,
+      "sinceLastSeen": 1
+    },
+    "729": {
+      "maker_id": 34,
+      "maker_name": "Renault",
+      "car_id": 729,
+      "car_name": "Avantime 3.0 V6 24V '02",
+      "car_group": null,
+      "country_id": 6,
+      "country_name": "France",
+      "country_code": "fr",
+      "engine_swaps": [
+        {
+          "maker_id": 46,
+          "maker_name": "Volkswagen",
+          "car_id": "2192",
+          "car_name": "Volkswagen GTI VGT (Gr.3)",
+          "engine_name": "GTI-VGT-Gr.3"
+        }
+      ],
+      "price": 37600,
+      "price_jp": 3760000,
+      "isOld": false,
+      "lastAppearance": "2026/1/20",
+      "lastSeen": "2026/01/27",
       "sinceLastAppearance": 8,
+      "sinceLastSeen": 1
+    },
+    "3530": {
+      "maker_id": 3,
+      "maker_name": "Alfa Romeo",
+      "car_id": 3530,
+      "car_name": "Giulia Sprint GT Veloce '67",
+      "car_group": "N",
+      "country_id": 7,
+      "country_name": "Italy",
+      "country_code": "it",
+      "engine_swaps": [
+        {
+          "maker_id": 157,
+          "maker_name": "Garage RCR",
+          "car_id": "3526",
+          "car_name": "Civic",
+          "engine_name": "K24A-Civic"
+        }
+      ],
+      "price": 171300,
+      "price_jp": 17130000,
+      "isOld": true,
+      "lastAppearance": "2026/1/18",
+      "lastSeen": "2026/01/27",
+      "sinceLastAppearance": 10,
+      "sinceLastSeen": 1
+    },
+    "374": {
+      "maker_id": 21,
+      "maker_name": "Mazda",
+      "car_id": 374,
+      "car_name": "RX-7 GT-X (FC) '90",
+      "car_group": "N",
+      "country_id": 2,
+      "country_name": "Japan",
+      "country_code": "jp",
+      "engine_swaps": [
+        {
+          "maker_id": 21,
+          "maker_name": "Mazda",
+          "car_id": "296",
+          "car_name": "787B '91",
+          "engine_name": "R26B-787B"
+        }
+      ],
+      "price": 62800,
+      "price_jp": 6280000,
+      "isOld": true,
+      "lastAppearance": "2026/1/28",
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 0,
+      "sinceLastSeen": 0
+    },
+    "48": {
+      "maker_id": 28,
+      "maker_name": "Nissan",
+      "car_id": 48,
+      "car_name": "Fairlady 240ZG (HS30) '71",
+      "car_group": "N",
+      "country_id": 2,
+      "country_name": "Japan",
+      "country_code": "jp",
+      "engine_swaps": [
+        {
+          "maker_id": 151,
+          "maker_name": "Roadster Shop",
+          "car_id": "3426",
+          "car_name": "Roadster Shop Rampage",
+          "engine_name": "LS7-Rampage"
+        }
+      ],
+      "price": 98200,
+      "price_jp": 9820000,
+      "isOld": true,
+      "lastAppearance": "2026/1/28",
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 0,
+      "sinceLastSeen": 0
+    },
+    "3404": {
+      "maker_id": 136,
+      "maker_name": "Porsche",
+      "car_id": 3404,
+      "car_name": "911 Carrera RS CS (993) '95",
+      "car_group": "N",
+      "country_id": 5,
+      "country_name": "Germany",
+      "country_code": "de",
+      "engine_swaps": [
+        {
+          "maker_id": 136,
+          "maker_name": "Porsche",
+          "car_id": "3539",
+          "car_name": "911 GT3 RS (992) '22",
+          "engine_name": "MDYA-911"
+        }
+      ],
+      "price": 441300,
+      "price_jp": 44130000,
+      "isOld": true,
+      "lastAppearance": "2026/1/28",
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 0,
+      "sinceLastSeen": 0
+    },
+    "1990": {
+      "maker_id": 112,
+      "maker_name": "Lamborghini",
+      "car_id": 1990,
+      "car_name": "Diablo GT '00",
+      "car_group": "N",
+      "country_id": 7,
+      "country_name": "Italy",
+      "country_code": "it",
+      "engine_swaps": [],
+      "price": 778500,
+      "price_jp": 77850000,
+      "isOld": true,
+      "lastAppearance": "2026/1/22",
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 6,
       "sinceLastSeen": 0
     },
     "1481": {
@@ -2450,8 +2502,8 @@
       "price_jp": 68770000,
       "isOld": true,
       "lastAppearance": "2026/1/22",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 5,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 6,
       "sinceLastSeen": 0
     },
     "3570": {
@@ -2468,8 +2520,8 @@
       "price_jp": 5710000,
       "isOld": false,
       "lastAppearance": "2026/1/23",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 4,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 5,
       "sinceLastSeen": 0
     },
     "210": {
@@ -2494,8 +2546,8 @@
       "price_jp": 39980000,
       "isOld": false,
       "lastAppearance": "2026/1/24",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 3,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 4,
       "sinceLastSeen": 0
     },
     "345": {
@@ -2512,8 +2564,8 @@
       "price_jp": 9950000,
       "isOld": null,
       "lastAppearance": "2026/1/24",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 3,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 4,
       "sinceLastSeen": 0
     },
     "379": {
@@ -2538,8 +2590,8 @@
       "price_jp": 5290000,
       "isOld": true,
       "lastAppearance": "2026/1/20",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 7,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 8,
       "sinceLastSeen": 0
     },
     "1507": {
@@ -2556,8 +2608,8 @@
       "price_jp": 32070000,
       "isOld": false,
       "lastAppearance": "2026/1/26",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 1,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 2,
       "sinceLastSeen": 0
     },
     "211": {
@@ -2582,8 +2634,8 @@
       "price_jp": 6480000,
       "isOld": true,
       "lastAppearance": "2026/1/24",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 3,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 4,
       "sinceLastSeen": 0
     },
     "3385": {
@@ -2608,8 +2660,8 @@
       "price_jp": 22330000,
       "isOld": true,
       "lastAppearance": "2026/1/21",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 6,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 7,
       "sinceLastSeen": 0
     },
     "829": {
@@ -2634,8 +2686,8 @@
       "price_jp": 10120000,
       "isOld": true,
       "lastAppearance": "2026/1/22",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 5,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 6,
       "sinceLastSeen": 0
     },
     "3513": {
@@ -2667,8 +2719,8 @@
       "price_jp": 5080000,
       "isOld": true,
       "lastAppearance": "2026/1/23",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 4,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 5,
       "sinceLastSeen": 0
     },
     "810": {
@@ -2693,8 +2745,8 @@
       "price_jp": 5320000,
       "isOld": true,
       "lastAppearance": "2026/1/17",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 10,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 11,
       "sinceLastSeen": 0
     },
     "78": {
@@ -2726,34 +2778,8 @@
       "price_jp": 5880000,
       "isOld": true,
       "lastAppearance": "2026/1/24",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 3,
-      "sinceLastSeen": 0
-    },
-    "729": {
-      "maker_id": 34,
-      "maker_name": "Renault",
-      "car_id": 729,
-      "car_name": "Avantime 3.0 V6 24V '02",
-      "car_group": null,
-      "country_id": 6,
-      "country_name": "France",
-      "country_code": "fr",
-      "engine_swaps": [
-        {
-          "maker_id": 46,
-          "maker_name": "Volkswagen",
-          "car_id": "2192",
-          "car_name": "Volkswagen GTI VGT (Gr.3)",
-          "engine_name": "GTI-VGT-Gr.3"
-        }
-      ],
-      "price": 37600,
-      "price_jp": 3760000,
-      "isOld": false,
-      "lastAppearance": "2026/1/20",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 7,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 4,
       "sinceLastSeen": 0
     },
     "3564": {
@@ -2770,8 +2796,8 @@
       "price_jp": 5410000,
       "isOld": true,
       "lastAppearance": "2026/1/23",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 4,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 5,
       "sinceLastSeen": 0
     },
     "843": {
@@ -2796,8 +2822,8 @@
       "price_jp": 10540000,
       "isOld": true,
       "lastAppearance": "2026/1/27",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 0,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 1,
       "sinceLastSeen": 0
     },
     "1689": {
@@ -2822,8 +2848,8 @@
       "price_jp": 12070000,
       "isOld": null,
       "lastAppearance": "2026/1/26",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 1,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 2,
       "sinceLastSeen": 0
     },
     "779": {
@@ -2848,8 +2874,8 @@
       "price_jp": 1620000,
       "isOld": true,
       "lastAppearance": "2026/1/26",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 1,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 2,
       "sinceLastSeen": 0
     },
     "1461": {
@@ -2881,8 +2907,8 @@
       "price_jp": 5680000,
       "isOld": true,
       "lastAppearance": "2026/1/25",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 2,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 3,
       "sinceLastSeen": 0
     },
     "1778": {
@@ -2907,8 +2933,8 @@
       "price_jp": 3190000,
       "isOld": true,
       "lastAppearance": "2026/1/24",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 3,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 4,
       "sinceLastSeen": 0
     },
     "3384": {
@@ -2940,8 +2966,8 @@
       "price_jp": 4480000,
       "isOld": true,
       "lastAppearance": "2026/1/27",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 0,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 1,
       "sinceLastSeen": 0
     },
     "3551": {
@@ -2966,8 +2992,8 @@
       "price_jp": 7860000,
       "isOld": true,
       "lastAppearance": "2026/1/18",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 9,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 10,
       "sinceLastSeen": 0
     },
     "3434": {
@@ -2984,34 +3010,8 @@
       "price_jp": 36580000,
       "isOld": true,
       "lastAppearance": "2026/1/26",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 1,
-      "sinceLastSeen": 0
-    },
-    "3530": {
-      "maker_id": 3,
-      "maker_name": "Alfa Romeo",
-      "car_id": 3530,
-      "car_name": "Giulia Sprint GT Veloce '67",
-      "car_group": "N",
-      "country_id": 7,
-      "country_name": "Italy",
-      "country_code": "it",
-      "engine_swaps": [
-        {
-          "maker_id": 157,
-          "maker_name": "Garage RCR",
-          "car_id": "3526",
-          "car_name": "Civic",
-          "engine_name": "K24A-Civic"
-        }
-      ],
-      "price": 171300,
-      "price_jp": 17130000,
-      "isOld": true,
-      "lastAppearance": "2026/1/18",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 9,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 2,
       "sinceLastSeen": 0
     },
     "1729": {
@@ -3036,8 +3036,8 @@
       "price_jp": 4080000,
       "isOld": true,
       "lastAppearance": "2026/1/26",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 1,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 2,
       "sinceLastSeen": 0
     },
     "1895": {
@@ -3054,8 +3054,8 @@
       "price_jp": 35930000,
       "isOld": true,
       "lastAppearance": "2026/1/27",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 0,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 1,
       "sinceLastSeen": 0
     }
   },
@@ -3083,8 +3083,8 @@
       "isOld": true,
       "lastAppearance": "2025/9/7",
       "lastSeen": "2025/09/13",
-      "sinceLastAppearance": 142,
-      "sinceLastSeen": 136
+      "sinceLastAppearance": 143,
+      "sinceLastSeen": 137
     },
     "2059": {
       "maker_id": 7,
@@ -3101,8 +3101,8 @@
       "isOld": true,
       "lastAppearance": "2025/9/8",
       "lastSeen": "2025/09/15",
-      "sinceLastAppearance": 141,
-      "sinceLastSeen": 134
+      "sinceLastAppearance": 142,
+      "sinceLastSeen": 135
     },
     "954": {
       "maker_id": 28,
@@ -3119,8 +3119,8 @@
       "isOld": true,
       "lastAppearance": "2025/9/10",
       "lastSeen": "2025/09/16",
-      "sinceLastAppearance": 139,
-      "sinceLastSeen": 133
+      "sinceLastAppearance": 140,
+      "sinceLastSeen": 134
     },
     "3550": {
       "maker_id": 38,
@@ -3137,8 +3137,8 @@
       "isOld": true,
       "lastAppearance": "2025/9/13",
       "lastSeen": "2025/09/19",
-      "sinceLastAppearance": 136,
-      "sinceLastSeen": 130
+      "sinceLastAppearance": 137,
+      "sinceLastSeen": 131
     },
     "998": {
       "maker_id": 22,
@@ -3155,8 +3155,8 @@
       "isOld": true,
       "lastAppearance": "2025/9/16",
       "lastSeen": "2025/09/22",
-      "sinceLastAppearance": 133,
-      "sinceLastSeen": 127
+      "sinceLastAppearance": 134,
+      "sinceLastSeen": 128
     },
     "1582": {
       "maker_id": 112,
@@ -3173,8 +3173,8 @@
       "isOld": true,
       "lastAppearance": "2025/9/15",
       "lastSeen": "2025/09/22",
-      "sinceLastAppearance": 134,
-      "sinceLastSeen": 127
+      "sinceLastAppearance": 135,
+      "sinceLastSeen": 128
     },
     "2017": {
       "maker_id": 110,
@@ -3191,8 +3191,8 @@
       "isOld": true,
       "lastAppearance": "2025/9/14",
       "lastSeen": "2025/09/22",
-      "sinceLastAppearance": 135,
-      "sinceLastSeen": 127
+      "sinceLastAppearance": 136,
+      "sinceLastSeen": 128
     },
     "3441": {
       "maker_id": 22,
@@ -3209,8 +3209,8 @@
       "isOld": true,
       "lastAppearance": "2025/9/17",
       "lastSeen": "2025/09/26",
-      "sinceLastAppearance": 132,
-      "sinceLastSeen": 123
+      "sinceLastAppearance": 133,
+      "sinceLastSeen": 124
     },
     "1645": {
       "maker_id": 3,
@@ -3227,8 +3227,8 @@
       "isOld": true,
       "lastAppearance": "2025/9/21",
       "lastSeen": "2025/09/27",
-      "sinceLastAppearance": 128,
-      "sinceLastSeen": 122
+      "sinceLastAppearance": 129,
+      "sinceLastSeen": 123
     },
     "1935": {
       "maker_id": 13,
@@ -3245,8 +3245,8 @@
       "isOld": true,
       "lastAppearance": "2025/9/14",
       "lastSeen": "2025/09/27",
-      "sinceLastAppearance": 135,
-      "sinceLastSeen": 122
+      "sinceLastAppearance": 136,
+      "sinceLastSeen": 123
     },
     "3365": {
       "maker_id": 136,
@@ -3271,8 +3271,8 @@
       "isOld": true,
       "lastAppearance": "2025/9/21",
       "lastSeen": "2025/09/28",
-      "sinceLastAppearance": 128,
-      "sinceLastSeen": 121
+      "sinceLastAppearance": 129,
+      "sinceLastSeen": 122
     },
     "296": {
       "maker_id": 21,
@@ -3289,8 +3289,8 @@
       "isOld": true,
       "lastAppearance": "2025/9/15",
       "lastSeen": "2025/09/28",
-      "sinceLastAppearance": 134,
-      "sinceLastSeen": 121
+      "sinceLastAppearance": 135,
+      "sinceLastSeen": 122
     },
     "3457": {
       "maker_id": 86,
@@ -3307,8 +3307,8 @@
       "isOld": true,
       "lastAppearance": "2025/9/25",
       "lastSeen": "2025/09/30",
-      "sinceLastAppearance": 124,
-      "sinceLastSeen": 119
+      "sinceLastAppearance": 125,
+      "sinceLastSeen": 120
     },
     "3556": {
       "maker_id": 22,
@@ -3325,8 +3325,8 @@
       "isOld": true,
       "lastAppearance": "2025/9/18",
       "lastSeen": "2025/10/01",
-      "sinceLastAppearance": 131,
-      "sinceLastSeen": 118
+      "sinceLastAppearance": 132,
+      "sinceLastSeen": 119
     },
     "1925": {
       "maker_id": 36,
@@ -3351,8 +3351,8 @@
       "isOld": true,
       "lastAppearance": "2025/9/25",
       "lastSeen": "2025/10/02",
-      "sinceLastAppearance": 124,
-      "sinceLastSeen": 117
+      "sinceLastAppearance": 125,
+      "sinceLastSeen": 118
     },
     "3584": {
       "maker_id": 43,
@@ -3377,8 +3377,8 @@
       "isOld": true,
       "lastAppearance": "2025/10/14",
       "lastSeen": "2025/10/19",
-      "sinceLastAppearance": 105,
-      "sinceLastSeen": 100
+      "sinceLastAppearance": 106,
+      "sinceLastSeen": 101
     },
     "3376": {
       "maker_id": 17,
@@ -3395,8 +3395,8 @@
       "isOld": true,
       "lastAppearance": "2025/10/16",
       "lastSeen": "2025/10/24",
-      "sinceLastAppearance": 103,
-      "sinceLastSeen": 95
+      "sinceLastAppearance": 104,
+      "sinceLastSeen": 96
     },
     "665": {
       "maker_id": 55,
@@ -3421,8 +3421,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/4",
       "lastSeen": "2025/11/09",
-      "sinceLastAppearance": 84,
-      "sinceLastSeen": 79
+      "sinceLastAppearance": 85,
+      "sinceLastSeen": 80
     },
     "1543": {
       "maker_id": 11,
@@ -3454,8 +3454,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/4",
       "lastSeen": "2025/11/09",
-      "sinceLastAppearance": 84,
-      "sinceLastSeen": 79
+      "sinceLastAppearance": 85,
+      "sinceLastSeen": 80
     },
     "3519": {
       "maker_id": 136,
@@ -3472,8 +3472,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/3",
       "lastSeen": "2025/11/10",
-      "sinceLastAppearance": 85,
-      "sinceLastSeen": 78
+      "sinceLastAppearance": 86,
+      "sinceLastSeen": 79
     },
     "3373": {
       "maker_id": 136,
@@ -3490,8 +3490,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/3",
       "lastSeen": "2025/11/10",
-      "sinceLastAppearance": 85,
-      "sinceLastSeen": 78
+      "sinceLastAppearance": 86,
+      "sinceLastSeen": 79
     },
     "1069": {
       "maker_id": 93,
@@ -3508,8 +3508,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/5",
       "lastSeen": "2025/11/11",
-      "sinceLastAppearance": 83,
-      "sinceLastSeen": 77
+      "sinceLastAppearance": 84,
+      "sinceLastSeen": 78
     },
     "3375": {
       "maker_id": 136,
@@ -3534,8 +3534,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/3",
       "lastSeen": "2025/11/11",
-      "sinceLastAppearance": 85,
-      "sinceLastSeen": 77
+      "sinceLastAppearance": 86,
+      "sinceLastSeen": 78
     },
     "2011": {
       "maker_id": 110,
@@ -3552,8 +3552,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/5",
       "lastSeen": "2025/11/12",
-      "sinceLastAppearance": 83,
-      "sinceLastSeen": 76
+      "sinceLastAppearance": 84,
+      "sinceLastSeen": 77
     },
     "818": {
       "maker_id": 7,
@@ -3578,8 +3578,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/4",
       "lastSeen": "2025/11/12",
-      "sinceLastAppearance": 84,
-      "sinceLastSeen": 76
+      "sinceLastAppearance": 85,
+      "sinceLastSeen": 77
     },
     "3410": {
       "maker_id": 136,
@@ -3596,8 +3596,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/10",
       "lastSeen": "2025/11/17",
-      "sinceLastAppearance": 78,
-      "sinceLastSeen": 71
+      "sinceLastAppearance": 79,
+      "sinceLastSeen": 72
     },
     "36": {
       "maker_id": 7,
@@ -3614,8 +3614,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/9",
       "lastSeen": "2025/11/17",
-      "sinceLastAppearance": 79,
-      "sinceLastSeen": 71
+      "sinceLastAppearance": 80,
+      "sinceLastSeen": 72
     },
     "3361": {
       "maker_id": 17,
@@ -3632,8 +3632,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/8",
       "lastSeen": "2025/11/17",
-      "sinceLastAppearance": 80,
-      "sinceLastSeen": 71
+      "sinceLastAppearance": 81,
+      "sinceLastSeen": 72
     },
     "3444": {
       "maker_id": 13,
@@ -3658,8 +3658,8 @@
       "isOld": null,
       "lastAppearance": "2025/11/12",
       "lastSeen": "2025/11/19",
-      "sinceLastAppearance": 76,
-      "sinceLastSeen": 69
+      "sinceLastAppearance": 77,
+      "sinceLastSeen": 70
     },
     "2018": {
       "maker_id": 110,
@@ -3676,8 +3676,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/14",
       "lastSeen": "2025/11/21",
-      "sinceLastAppearance": 74,
-      "sinceLastSeen": 67
+      "sinceLastAppearance": 75,
+      "sinceLastSeen": 68
     },
     "1551": {
       "maker_id": 110,
@@ -3694,8 +3694,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/12",
       "lastSeen": "2025/11/21",
-      "sinceLastAppearance": 76,
-      "sinceLastSeen": 67
+      "sinceLastAppearance": 77,
+      "sinceLastSeen": 68
     },
     "3363": {
       "maker_id": 4,
@@ -3712,8 +3712,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/14",
       "lastSeen": "2025/11/22",
-      "sinceLastAppearance": 74,
-      "sinceLastSeen": 66
+      "sinceLastAppearance": 75,
+      "sinceLastSeen": 67
     },
     "1540": {
       "maker_id": 117,
@@ -3730,8 +3730,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/13",
       "lastSeen": "2025/11/22",
-      "sinceLastAppearance": 75,
-      "sinceLastSeen": 66
+      "sinceLastAppearance": 76,
+      "sinceLastSeen": 67
     },
     "3509": {
       "maker_id": 136,
@@ -3756,8 +3756,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/18",
       "lastSeen": "2025/11/23",
-      "sinceLastAppearance": 70,
-      "sinceLastSeen": 65
+      "sinceLastAppearance": 71,
+      "sinceLastSeen": 66
     },
     "3505": {
       "maker_id": 140,
@@ -3774,8 +3774,8 @@
       "isOld": null,
       "lastAppearance": "2025/11/14",
       "lastSeen": "2025/11/23",
-      "sinceLastAppearance": 74,
-      "sinceLastSeen": 65
+      "sinceLastAppearance": 75,
+      "sinceLastSeen": 66
     },
     "3397": {
       "maker_id": 22,
@@ -3792,8 +3792,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/19",
       "lastSeen": "2025/11/26",
-      "sinceLastAppearance": 69,
-      "sinceLastSeen": 62
+      "sinceLastAppearance": 70,
+      "sinceLastSeen": 63
     },
     "3415": {
       "maker_id": 3,
@@ -3810,8 +3810,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/20",
       "lastSeen": "2025/11/28",
-      "sinceLastAppearance": 68,
-      "sinceLastSeen": 60
+      "sinceLastAppearance": 69,
+      "sinceLastSeen": 61
     },
     "836": {
       "maker_id": 28,
@@ -3836,8 +3836,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/19",
       "lastSeen": "2025/11/28",
-      "sinceLastAppearance": 69,
-      "sinceLastSeen": 60
+      "sinceLastAppearance": 70,
+      "sinceLastSeen": 61
     },
     "1932": {
       "maker_id": 125,
@@ -3854,8 +3854,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/19",
       "lastSeen": "2025/11/29",
-      "sinceLastAppearance": 69,
-      "sinceLastSeen": 59
+      "sinceLastAppearance": 70,
+      "sinceLastSeen": 60
     },
     "3362": {
       "maker_id": 110,
@@ -3872,8 +3872,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/25",
       "lastSeen": "2025/11/30",
-      "sinceLastAppearance": 63,
-      "sinceLastSeen": 58
+      "sinceLastAppearance": 64,
+      "sinceLastSeen": 59
     },
     "105": {
       "maker_id": 32,
@@ -3890,8 +3890,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/21",
       "lastSeen": "2025/11/30",
-      "sinceLastAppearance": 67,
-      "sinceLastSeen": 58
+      "sinceLastAppearance": 68,
+      "sinceLastSeen": 59
     },
     "3487": {
       "maker_id": 13,
@@ -3916,8 +3916,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/23",
       "lastSeen": "2025/12/01",
-      "sinceLastAppearance": 65,
-      "sinceLastSeen": 57
+      "sinceLastAppearance": 66,
+      "sinceLastSeen": 58
     },
     "808": {
       "maker_id": 39,
@@ -3942,8 +3942,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/24",
       "lastSeen": "2025/12/03",
-      "sinceLastAppearance": 64,
-      "sinceLastSeen": 55
+      "sinceLastAppearance": 65,
+      "sinceLastSeen": 56
     },
     "216": {
       "maker_id": 6,
@@ -3960,8 +3960,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/23",
       "lastSeen": "2025/12/03",
-      "sinceLastAppearance": 65,
-      "sinceLastSeen": 55
+      "sinceLastAppearance": 66,
+      "sinceLastSeen": 56
     },
     "1409": {
       "maker_id": 110,
@@ -3986,8 +3986,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/4",
       "lastSeen": "2025/12/04",
-      "sinceLastAppearance": 54,
-      "sinceLastSeen": 54
+      "sinceLastAppearance": 55,
+      "sinceLastSeen": 55
     },
     "3388": {
       "maker_id": 153,
@@ -4004,8 +4004,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/3",
       "lastSeen": "2025/12/04",
-      "sinceLastAppearance": 55,
-      "sinceLastSeen": 54
+      "sinceLastAppearance": 56,
+      "sinceLastSeen": 55
     },
     "3462": {
       "maker_id": 52,
@@ -4022,8 +4022,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/2",
       "lastSeen": "2025/12/04",
-      "sinceLastAppearance": 56,
-      "sinceLastSeen": 54
+      "sinceLastAppearance": 57,
+      "sinceLastSeen": 55
     },
     "3400": {
       "maker_id": 136,
@@ -4040,8 +4040,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/2",
       "lastSeen": "2025/12/04",
-      "sinceLastAppearance": 56,
-      "sinceLastSeen": 54
+      "sinceLastAppearance": 57,
+      "sinceLastSeen": 55
     },
     "1067": {
       "maker_id": 17,
@@ -4058,8 +4058,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/1",
       "lastSeen": "2025/12/04",
-      "sinceLastAppearance": 57,
-      "sinceLastSeen": 54
+      "sinceLastAppearance": 58,
+      "sinceLastSeen": 55
     },
     "3464": {
       "maker_id": 7,
@@ -4084,8 +4084,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/30",
       "lastSeen": "2025/12/04",
-      "sinceLastAppearance": 58,
-      "sinceLastSeen": 54
+      "sinceLastAppearance": 59,
+      "sinceLastSeen": 55
     },
     "604": {
       "maker_id": 43,
@@ -4102,8 +4102,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/30",
       "lastSeen": "2025/12/04",
-      "sinceLastAppearance": 58,
-      "sinceLastSeen": 54
+      "sinceLastAppearance": 59,
+      "sinceLastSeen": 55
     },
     "2010": {
       "maker_id": 110,
@@ -4120,8 +4120,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/28",
       "lastSeen": "2025/12/04",
-      "sinceLastAppearance": 60,
-      "sinceLastSeen": 54
+      "sinceLastAppearance": 61,
+      "sinceLastSeen": 55
     },
     "781": {
       "maker_id": 43,
@@ -4138,8 +4138,8 @@
       "isOld": true,
       "lastAppearance": "2025/11/24",
       "lastSeen": "2025/12/04",
-      "sinceLastAppearance": 64,
-      "sinceLastSeen": 54
+      "sinceLastAppearance": 65,
+      "sinceLastSeen": 55
     },
     "3520": {
       "maker_id": 155,
@@ -4164,8 +4164,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/24",
       "lastSeen": "2025/12/30",
-      "sinceLastAppearance": 34,
-      "sinceLastSeen": 28
+      "sinceLastAppearance": 35,
+      "sinceLastSeen": 29
     },
     "3430": {
       "maker_id": 146,
@@ -4190,8 +4190,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/24",
       "lastSeen": "2026/01/01",
-      "sinceLastAppearance": 34,
-      "sinceLastSeen": 26
+      "sinceLastAppearance": 35,
+      "sinceLastSeen": 27
     },
     "3514": {
       "maker_id": 9,
@@ -4216,8 +4216,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/27",
       "lastSeen": "2026/01/03",
-      "sinceLastAppearance": 31,
-      "sinceLastSeen": 24
+      "sinceLastAppearance": 32,
+      "sinceLastSeen": 25
     },
     "837": {
       "maker_id": 28,
@@ -4242,8 +4242,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/25",
       "lastSeen": "2026/01/04",
-      "sinceLastAppearance": 33,
-      "sinceLastSeen": 23
+      "sinceLastAppearance": 34,
+      "sinceLastSeen": 24
     },
     "315": {
       "maker_id": 36,
@@ -4260,8 +4260,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/28",
       "lastSeen": "2026/01/04",
-      "sinceLastAppearance": 30,
-      "sinceLastSeen": 23
+      "sinceLastAppearance": 31,
+      "sinceLastSeen": 24
     },
     "1927": {
       "maker_id": 5,
@@ -4278,8 +4278,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/28",
       "lastSeen": "2026/01/06",
-      "sinceLastAppearance": 30,
-      "sinceLastSeen": 21
+      "sinceLastAppearance": 31,
+      "sinceLastSeen": 22
     },
     "3437": {
       "maker_id": 140,
@@ -4296,8 +4296,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/31",
       "lastSeen": "2026/01/06",
-      "sinceLastAppearance": 27,
-      "sinceLastSeen": 21
+      "sinceLastAppearance": 28,
+      "sinceLastSeen": 22
     },
     "31": {
       "maker_id": 7,
@@ -4322,8 +4322,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/31",
       "lastSeen": "2026/01/06",
-      "sinceLastAppearance": 27,
-      "sinceLastSeen": 21
+      "sinceLastAppearance": 28,
+      "sinceLastSeen": 22
     },
     "575": {
       "maker_id": 22,
@@ -4348,8 +4348,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/30",
       "lastSeen": "2026/01/08",
-      "sinceLastAppearance": 28,
-      "sinceLastSeen": 19
+      "sinceLastAppearance": 29,
+      "sinceLastSeen": 20
     },
     "3446": {
       "maker_id": 136,
@@ -4366,8 +4366,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/1",
       "lastSeen": "2026/01/10",
-      "sinceLastAppearance": 26,
-      "sinceLastSeen": 17
+      "sinceLastAppearance": 27,
+      "sinceLastSeen": 18
     },
     "140": {
       "maker_id": 15,
@@ -4384,8 +4384,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/3",
       "lastSeen": "2026/01/11",
-      "sinceLastAppearance": 24,
-      "sinceLastSeen": 16
+      "sinceLastAppearance": 25,
+      "sinceLastSeen": 17
     },
     "3525": {
       "maker_id": 15,
@@ -4402,8 +4402,8 @@
       "isOld": true,
       "lastAppearance": "2025/12/30",
       "lastSeen": "2026/01/11",
-      "sinceLastAppearance": 28,
-      "sinceLastSeen": 16
+      "sinceLastAppearance": 29,
+      "sinceLastSeen": 17
     },
     "3445": {
       "maker_id": 4,
@@ -4420,8 +4420,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/12",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 15,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 16,
+      "sinceLastSeen": 16
     },
     "1926": {
       "maker_id": 36,
@@ -4438,8 +4438,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/10",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 17,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 18,
+      "sinceLastSeen": 16
     },
     "485": {
       "maker_id": 28,
@@ -4456,8 +4456,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/8",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 19,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 20,
+      "sinceLastSeen": 16
     },
     "1931": {
       "maker_id": 110,
@@ -4474,8 +4474,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/8",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 19,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 20,
+      "sinceLastSeen": 16
     },
     "3429": {
       "maker_id": 28,
@@ -4507,8 +4507,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/8",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 19,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 20,
+      "sinceLastSeen": 16
     },
     "3538": {
       "maker_id": 11,
@@ -4533,8 +4533,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/7",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 20,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 21,
+      "sinceLastSeen": 16
     },
     "1984": {
       "maker_id": 117,
@@ -4551,8 +4551,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/6",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 21,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 22,
+      "sinceLastSeen": 16
     },
     "387": {
       "maker_id": 22,
@@ -4569,8 +4569,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/6",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 21,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 22,
+      "sinceLastSeen": 16
     },
     "3428": {
       "maker_id": 22,
@@ -4587,8 +4587,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/5",
       "lastSeen": "2026/01/12",
-      "sinceLastAppearance": 22,
-      "sinceLastSeen": 15
+      "sinceLastAppearance": 23,
+      "sinceLastSeen": 16
     },
     "1553": {
       "maker_id": 17,
@@ -4605,8 +4605,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/14",
       "lastSeen": "2026/01/21",
-      "sinceLastAppearance": 13,
-      "sinceLastSeen": 6
+      "sinceLastAppearance": 14,
+      "sinceLastSeen": 7
     },
     "116": {
       "maker_id": 43,
@@ -4623,8 +4623,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/16",
       "lastSeen": "2026/01/23",
-      "sinceLastAppearance": 11,
-      "sinceLastSeen": 4
+      "sinceLastAppearance": 12,
+      "sinceLastSeen": 5
     },
     "1484": {
       "maker_id": 112,
@@ -4641,8 +4641,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/14",
       "lastSeen": "2026/01/23",
-      "sinceLastAppearance": 13,
-      "sinceLastSeen": 4
+      "sinceLastAppearance": 14,
+      "sinceLastSeen": 5
     },
     "3475": {
       "maker_id": 117,
@@ -4659,8 +4659,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/17",
       "lastSeen": "2026/01/24",
-      "sinceLastAppearance": 10,
-      "sinceLastSeen": 3
+      "sinceLastAppearance": 11,
+      "sinceLastSeen": 4
     },
     "761": {
       "maker_id": 18,
@@ -4677,8 +4677,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/16",
       "lastSeen": "2026/01/24",
-      "sinceLastAppearance": 11,
-      "sinceLastSeen": 3
+      "sinceLastAppearance": 12,
+      "sinceLastSeen": 4
     },
     "3493": {
       "maker_id": 28,
@@ -4695,8 +4695,8 @@
       "isOld": true,
       "lastAppearance": "2026/1/16",
       "lastSeen": "2026/01/25",
-      "sinceLastAppearance": 11,
-      "sinceLastSeen": 2
+      "sinceLastAppearance": 12,
+      "sinceLastSeen": 3
     },
     "3557": {
       "maker_id": 22,
@@ -4712,8 +4712,8 @@
       "price_jp": 2000000000,
       "isOld": true,
       "lastAppearance": "2026/1/19",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 8,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 9,
       "sinceLastSeen": 0
     },
     "1975": {
@@ -4730,8 +4730,8 @@
       "price_jp": 60000000,
       "isOld": true,
       "lastAppearance": "2026/1/25",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 2,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 3,
       "sinceLastSeen": 0
     },
     "1470": {
@@ -4748,8 +4748,8 @@
       "price_jp": 160000000,
       "isOld": true,
       "lastAppearance": "2026/1/23",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 4,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 5,
       "sinceLastSeen": 0
     },
     "3490": {
@@ -4766,8 +4766,8 @@
       "price_jp": 220000000,
       "isOld": true,
       "lastAppearance": "2026/1/21",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 6,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 7,
       "sinceLastSeen": 0
     },
     "3489": {
@@ -4784,8 +4784,8 @@
       "price_jp": 280000000,
       "isOld": true,
       "lastAppearance": "2026/1/23",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 4,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 5,
       "sinceLastSeen": 0
     },
     "3421": {
@@ -4802,8 +4802,8 @@
       "price_jp": 6150000,
       "isOld": true,
       "lastAppearance": "2026/1/21",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 6,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 7,
       "sinceLastSeen": 0
     },
     "365": {
@@ -4820,8 +4820,8 @@
       "price_jp": 65000000,
       "isOld": true,
       "lastAppearance": "2026/1/25",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 2,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 3,
       "sinceLastSeen": 0
     },
     "543": {
@@ -4846,8 +4846,8 @@
       "price_jp": 55900000,
       "isOld": true,
       "lastAppearance": "2026/1/27",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 0,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 1,
       "sinceLastSeen": 0
     },
     "1565": {
@@ -4864,8 +4864,8 @@
       "price_jp": 675000000,
       "isOld": true,
       "lastAppearance": "2026/1/26",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 1,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 2,
       "sinceLastSeen": 0
     },
     "1900": {
@@ -4882,8 +4882,8 @@
       "price_jp": 300000000,
       "isOld": true,
       "lastAppearance": "2026/1/26",
-      "lastSeen": "2026/01/27",
-      "sinceLastAppearance": 1,
+      "lastSeen": "2026/01/28",
+      "sinceLastAppearance": 2,
       "sinceLastSeen": 0
     }
   }
