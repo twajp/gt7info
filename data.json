@@ -1,10 +1,132 @@
 {
-  "timestamp": "2026-01-29T00:16:02.096671+00:00",
+  "timestamp": "2026-01-30T00:15:33.714694+00:00",
   "content": [
+    {
+      "id": 20260130,
+      "date": "2026/1/30",
+      "used": [
+        {
+          "maker_id": 12,
+          "maker_name": "Fiat",
+          "car_id": 3575,
+          "car_name": "Panda 30 CL '85",
+          "car_group": null,
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 11800,
+          "price_jp": 1180000,
+          "isOld": true
+        },
+        {
+          "maker_id": 125,
+          "maker_name": "Abarth",
+          "car_id": 3438,
+          "car_name": "Abarth 595 SS '70",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [
+            {
+              "maker_id": 15,
+              "maker_name": "Honda",
+              "car_id": "3467",
+              "car_name": "Civic Type R Limited Edition (FK8) '20",
+              "engine_name": "K20C1-Civic-'20"
+            }
+          ],
+          "price": 50200,
+          "price_jp": 5020000,
+          "isOld": true
+        },
+        {
+          "maker_id": 11,
+          "maker_name": "Dodge",
+          "car_id": 3377,
+          "car_name": "Super Bee '70",
+          "car_group": "N",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [],
+          "price": 61100,
+          "price_jp": 6110000,
+          "isOld": true
+        },
+        {
+          "maker_id": 117,
+          "maker_name": "McLaren",
+          "car_id": 1722,
+          "car_name": "MP4-12C '10",
+          "car_group": "N",
+          "country_id": 4,
+          "country_name": "United Kingdom",
+          "country_code": "gb",
+          "engine_swaps": [],
+          "price": 184200,
+          "price_jp": 18420000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 34,
+          "maker_name": "Renault",
+          "car_id": 3591,
+          "car_name": "Espace F1 '95",
+          "car_group": null,
+          "country_id": 6,
+          "country_name": "France",
+          "country_code": "fr",
+          "engine_swaps": [],
+          "price": 2000000,
+          "price_jp": 200000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260129,
       "date": "2026/1/29",
       "used": [
+        {
+          "maker_id": 44,
+          "maker_name": "TVR",
+          "car_id": 187,
+          "car_name": "Tuscan Speed 6 '00",
+          "car_group": "N",
+          "country_id": 4,
+          "country_name": "United Kingdom",
+          "country_code": "gb",
+          "engine_swaps": [
+            {
+              "maker_id": 7,
+              "maker_name": "Chevrolet",
+              "car_id": "3387",
+              "car_name": "Camaro ZL1 1LE Package '18",
+              "engine_name": "LT4-Camaro"
+            }
+          ],
+          "price": 95000,
+          "price_jp": 9500000,
+          "isOld": true
+        },
+        {
+          "maker_id": 12,
+          "maker_name": "Fiat",
+          "car_id": 3575,
+          "car_name": "Panda 30 CL '85",
+          "car_group": null,
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 14000,
+          "price_jp": 1400000,
+          "isOld": true
+        },
         {
           "maker_id": 15,
           "maker_name": "Honda",
@@ -1129,158 +1251,6 @@
           "engine_swaps": [],
           "price": 12000000,
           "price_jp": 1200000000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20260116,
-      "date": "2026/1/16",
-      "used": [
-        {
-          "maker_id": 15,
-          "maker_name": "Honda",
-          "car_id": 204,
-          "car_name": "Civic Type R (EK) '98",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 15,
-              "maker_name": "Honda",
-              "car_id": "3467",
-              "car_name": "Civic Type R Limited Edition (FK8) '20",
-              "engine_name": "K20C1-Civic-'20"
-            }
-          ],
-          "price": 55200,
-          "price_jp": 5520000,
-          "isOld": true
-        },
-        {
-          "maker_id": 6,
-          "maker_name": "BMW",
-          "car_id": 3344,
-          "car_name": "M3 Sport Evolution '89",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [
-            {
-              "maker_id": 43,
-              "maker_name": "Toyota",
-              "car_id": "3418",
-              "car_name": "GR Supra RZ '20",
-              "engine_name": "B58-GR-Supra-'20"
-            }
-          ],
-          "price": 165000,
-          "price_jp": 16500000,
-          "isOld": true
-        },
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 489,
-          "car_name": "R33 GT-R V-spec '97",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "954",
-              "car_name": "R92CP '92",
-              "engine_name": "VRH35Z-R92CP"
-            }
-          ],
-          "price": 161000,
-          "price_jp": 16100000,
-          "isOld": true
-        },
-        {
-          "maker_id": 22,
-          "maker_name": "Mercedes-Benz",
-          "car_id": 1528,
-          "car_name": "SLR McLaren '09",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [],
-          "price": 512200,
-          "price_jp": 51220000,
-          "isOld": false
-        },
-        {
-          "maker_id": 21,
-          "maker_name": "Mazda",
-          "car_id": 205,
-          "car_name": "RX-7 Spirit R Type A (FD) '02",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 21,
-              "maker_name": "Mazda",
-              "car_id": "296",
-              "car_name": "787B '91",
-              "engine_name": "R26B-787B"
-            }
-          ],
-          "price": 216400,
-          "price_jp": 21640000,
-          "isOld": false
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 43,
-          "maker_name": "Toyota",
-          "car_id": 116,
-          "car_name": "GT-One (TS020) '99",
-          "car_group": null,
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [],
-          "price": 2500000,
-          "price_jp": 250000000,
-          "isOld": true
-        },
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 3493,
-          "car_name": "Skyline Super Silhouette Group 5 '84",
-          "car_group": "3",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [],
-          "price": 1150000,
-          "price_jp": 115000000,
-          "isOld": true
-        },
-        {
-          "maker_id": 18,
-          "maker_name": "Lancia",
-          "car_id": 761,
-          "car_name": "Lancia Delta HF Integrale Rally Car '92",
-          "car_group": null,
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 329300,
-          "price_jp": 32930000,
           "isOld": true
         }
       ]
