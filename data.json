@@ -1,6 +1,92 @@
 {
-  "timestamp": "2026-02-03T00:16:26.956671+00:00",
+  "timestamp": "2026-02-04T00:13:48.686999+00:00",
   "content": [
+    {
+      "id": 20260204,
+      "date": "2026/2/4",
+      "used": [
+        {
+          "maker_id": 43,
+          "maker_name": "Toyota",
+          "car_id": 1537,
+          "car_name": "Prius G '09",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [],
+          "price": 21500,
+          "price_jp": 2150000,
+          "isOld": false
+        },
+        {
+          "maker_id": 18,
+          "maker_name": "Lancia",
+          "car_id": 533,
+          "car_name": "Stratos '73",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 539800,
+          "price_jp": 53980000,
+          "isOld": true
+        },
+        {
+          "maker_id": 28,
+          "maker_name": "Nissan",
+          "car_id": 104,
+          "car_name": "Sileighty '98",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 157,
+              "maker_name": "Garage RCR",
+              "car_id": "3526",
+              "car_name": "Civic",
+              "engine_name": "K24A-Civic"
+            }
+          ],
+          "price": 84800,
+          "price_jp": 8480000,
+          "isOld": true
+        },
+        {
+          "maker_id": 110,
+          "maker_name": "Ferrari",
+          "car_id": 1504,
+          "car_name": "458 Italia '09",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 252200,
+          "price_jp": 25220000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 17,
+          "maker_name": "Jaguar",
+          "car_id": 3361,
+          "car_name": "E-type Coupe '61",
+          "car_group": "N",
+          "country_id": 4,
+          "country_name": "United Kingdom",
+          "country_code": "gb",
+          "engine_swaps": [],
+          "price": 172000,
+          "price_jp": 17200000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260203,
       "date": "2026/2/3",
@@ -1258,64 +1344,6 @@
         }
       ],
       "legend": []
-    },
-    {
-      "id": 20260121,
-      "date": "2026/1/21",
-      "used": [
-        {
-          "maker_id": 136,
-          "maker_name": "Porsche",
-          "car_id": 3385,
-          "car_name": "911 Turbo (930) '81",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [
-            {
-              "maker_id": 136,
-              "maker_name": "Porsche",
-              "car_id": "3311",
-              "car_name": "911 RSR (991) '17",
-              "engine_name": "M97/80-911"
-            }
-          ],
-          "price": 223300,
-          "price_jp": 22330000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 136,
-          "maker_name": "Porsche",
-          "car_id": 3490,
-          "car_name": "Carrera GTS (904) '64",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [],
-          "price": 2200000,
-          "price_jp": 220000000,
-          "isOld": true
-        },
-        {
-          "maker_id": 116,
-          "maker_name": "Maserati",
-          "car_id": 3421,
-          "car_name": "Merak SS '80",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 61500,
-          "price_jp": 6150000,
-          "isOld": true
-        }
-      ]
     }
   ]
 }
