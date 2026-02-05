@@ -1,6 +1,116 @@
 {
-  "timestamp": "2026-02-04T00:13:48.686999+00:00",
+  "timestamp": "2026-02-05T00:16:59.978718+00:00",
   "content": [
+    {
+      "id": 20260205,
+      "date": "2026/2/5",
+      "used": [
+        {
+          "maker_id": 9,
+          "maker_name": "Citroen",
+          "car_id": 3573,
+          "car_name": "BX 19 TRS '87",
+          "car_group": null,
+          "country_id": 6,
+          "country_name": "France",
+          "country_code": "fr",
+          "engine_swaps": [
+            {
+              "maker_id": 5,
+              "maker_name": "Audi",
+              "car_id": "1927",
+              "car_name": "Sport quattro S1 Pikes Peak '87",
+              "engine_name": "R5-20vT-Quattro-Pikes"
+            }
+          ],
+          "price": 25700,
+          "price_jp": 2570000,
+          "isOld": true
+        },
+        {
+          "maker_id": 13,
+          "maker_name": "Ford",
+          "car_id": 3555,
+          "car_name": "Escort RS Cosworth '92",
+          "car_group": null,
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [
+            {
+              "maker_id": 13,
+              "maker_name": "Ford",
+              "car_id": "3264",
+              "car_name": "Focus Gr.B Rally Car",
+              "engine_name": "L4-Focus-Gr.B"
+            }
+          ],
+          "price": 128900,
+          "price_jp": 12890000,
+          "isOld": true
+        },
+        {
+          "maker_id": 43,
+          "maker_name": "Toyota",
+          "car_id": 3471,
+          "car_name": "Celica GT-Four (ST205) '94",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 50,
+              "maker_name": "Lexus",
+              "car_id": "1516",
+              "car_name": "SC430 GT500 '08",
+              "engine_name": "3UZ-FE-SC430"
+            }
+          ],
+          "price": 65500,
+          "price_jp": 6550000,
+          "isOld": true
+        },
+        {
+          "maker_id": 15,
+          "maker_name": "Honda",
+          "car_id": 293,
+          "car_name": "NSX Type R '92",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 15,
+              "maker_name": "Honda",
+              "car_id": "3348",
+              "car_name": "NSX CONCEPT-GT '16",
+              "engine_name": "HR-414E-NSX"
+            }
+          ],
+          "price": 399200,
+          "price_jp": 39920000,
+          "isOld": true
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 7,
+          "maker_name": "Chevrolet",
+          "car_id": 36,
+          "car_name": "Chevelle SS 454 Sport Coupé '70",
+          "car_group": "N",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [],
+          "price": 146000,
+          "price_jp": 14600000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260204,
       "date": "2026/2/4",
@@ -1279,71 +1389,6 @@
           "isOld": true
         }
       ]
-    },
-    {
-      "id": 20260122,
-      "date": "2026/1/22",
-      "used": [
-        {
-          "maker_id": 18,
-          "maker_name": "Lancia",
-          "car_id": 829,
-          "car_name": "Delta HF Integrale Evoluzione '91",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "3345",
-              "car_name": "GT-R NISMO '17",
-              "engine_name": "VR38DETT-GT-R-NISMO"
-            }
-          ],
-          "price": 101200,
-          "price_jp": 10120000,
-          "isOld": true
-        },
-        {
-          "maker_id": 112,
-          "maker_name": "Lamborghini",
-          "car_id": 1481,
-          "car_name": "Countach 25th Anniversary '88",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [
-            {
-              "maker_id": 112,
-              "maker_name": "Lamborghini",
-              "car_id": "3392",
-              "car_name": "Aventador LP 750-4 SV '15",
-              "engine_name": "L539-Aventador-SV"
-            }
-          ],
-          "price": 687700,
-          "price_jp": 68770000,
-          "isOld": true
-        },
-        {
-          "maker_id": 112,
-          "maker_name": "Lamborghini",
-          "car_id": 1990,
-          "car_name": "Diablo GT '00",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 778500,
-          "price_jp": 77850000,
-          "isOld": true
-        }
-      ],
-      "legend": []
     }
   ]
 }
