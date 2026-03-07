@@ -1,6 +1,93 @@
 {
-  "timestamp": "2026-03-06T01:00:39.265661+00:00",
+  "timestamp": "2026-03-07T00:15:55.196687+00:00",
   "content": [
+    {
+      "id": 20260307,
+      "date": "2026/3/7",
+      "used": [
+        {
+          "maker_id": 28,
+          "maker_name": "Nissan",
+          "car_id": 1461,
+          "car_name": "Silvia K's Dia Selection (S13) '90",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 28,
+              "maker_name": "Nissan",
+              "car_id": "1448",
+              "car_name": "SILVIA spec-R Aero (S15) '02",
+              "engine_name": "SR20DET-Silvia-S15"
+            },
+            {
+              "maker_id": 43,
+              "maker_name": "Toyota",
+              "car_id": "82",
+              "car_name": "Supra RZ '97",
+              "engine_name": "2JZ-GTE-Supra"
+            }
+          ],
+          "price": 52800,
+          "price_jp": 5280000,
+          "isOld": true
+        },
+        {
+          "maker_id": 15,
+          "maker_name": "Honda",
+          "car_id": 1689,
+          "car_name": "Civic Type R (EK) Touring Car",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 157,
+              "maker_name": "Garage RCR",
+              "car_id": "3526",
+              "car_name": "Civic",
+              "engine_name": "K24A-Civic"
+            }
+          ],
+          "price": 115800,
+          "price_jp": 11580000,
+          "isOld": null
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 7,
+          "maker_name": "Chevrolet",
+          "car_id": 2059,
+          "car_name": "Corvette Stingray Racer Concept '59",
+          "car_group": "X",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [],
+          "price": 7000000,
+          "price_jp": 700000000,
+          "isOld": true
+        },
+        {
+          "maker_id": 28,
+          "maker_name": "Nissan",
+          "car_id": 954,
+          "car_name": "R92CP '92",
+          "car_group": "1",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [],
+          "price": 2000000,
+          "price_jp": 200000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260306,
       "date": "2026/3/6",
@@ -1222,100 +1309,6 @@
           ],
           "price": 122000,
           "price_jp": 12200000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20260221,
-      "date": "2026/2/21",
-      "used": [
-        {
-          "maker_id": 10,
-          "maker_name": "Daihatsu",
-          "car_id": 145,
-          "car_name": "Copen '02",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [],
-          "price": 16100,
-          "price_jp": 1610000,
-          "isOld": false
-        },
-        {
-          "maker_id": 136,
-          "maker_name": "Porsche",
-          "car_id": 3431,
-          "car_name": "911 Carrera RS (964) '92",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [
-            {
-              "maker_id": 136,
-              "maker_name": "Porsche",
-              "car_id": "3519",
-              "car_name": "959 '87",
-              "engine_name": "959.50-959"
-            }
-          ],
-          "price": 225000,
-          "price_jp": 22500000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 13,
-          "maker_name": "Ford",
-          "car_id": 3487,
-          "car_name": "Mustang Boss 429 '69",
-          "car_group": "N",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [
-            {
-              "maker_id": 13,
-              "maker_name": "Ford",
-              "car_id": "3391",
-              "car_name": "Shelby GT350R '16",
-              "engine_name": "Voodoo-5.2L-GT350R"
-            }
-          ],
-          "price": 349000,
-          "price_jp": 34900000,
-          "isOld": true
-        },
-        {
-          "maker_id": 17,
-          "maker_name": "Jaguar",
-          "car_id": 1067,
-          "car_name": "XJR-9 '88",
-          "car_group": "1",
-          "country_id": 4,
-          "country_name": "United Kingdom",
-          "country_code": "gb",
-          "engine_swaps": [],
-          "price": 3000000,
-          "price_jp": 300000000,
-          "isOld": true
-        },
-        {
-          "maker_id": 43,
-          "maker_name": "Toyota",
-          "car_id": 781,
-          "car_name": "Celica GT-FOUR Rally Car (ST205) '95",
-          "car_group": "B",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [],
-          "price": 210000,
-          "price_jp": 21000000,
           "isOld": true
         }
       ]
