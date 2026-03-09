@@ -1,6 +1,71 @@
 {
-  "timestamp": "2026-03-08T00:15:25.065744+00:00",
+  "timestamp": "2026-03-09T00:16:02.184624+00:00",
   "content": [
+    {
+      "id": 20260309,
+      "date": "2026/3/9",
+      "used": [
+        {
+          "maker_id": 15,
+          "maker_name": "Honda",
+          "car_id": 37,
+          "car_name": "Civic SiR-II (EG) '93",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 15,
+              "maker_name": "Honda",
+              "car_id": "203",
+              "car_name": "Integra Type R (DC2) '98",
+              "engine_name": "B18C-Integra-'98"
+            }
+          ],
+          "price": 50200,
+          "price_jp": 5020000,
+          "isOld": true
+        },
+        {
+          "maker_id": 12,
+          "maker_name": "Fiat",
+          "car_id": 1523,
+          "car_name": "500 F '68",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [
+            {
+              "maker_id": 15,
+              "maker_name": "Honda",
+              "car_id": "2156",
+              "car_name": "2&4 powered by RC213V",
+              "engine_name": "SE75E-2&4"
+            }
+          ],
+          "price": 16500,
+          "price_jp": 1650000,
+          "isOld": true
+        },
+        {
+          "maker_id": 112,
+          "maker_name": "Lamborghini",
+          "car_id": 1990,
+          "car_name": "Diablo GT '00",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 837800,
+          "price_jp": 83780000,
+          "isOld": true
+        }
+      ],
+      "legend": []
+    },
     {
       "id": 20260308,
       "date": "2026/3/8",
@@ -1195,72 +1260,6 @@
         }
       ],
       "legend": []
-    },
-    {
-      "id": 20260223,
-      "date": "2026/2/23",
-      "used": [
-        {
-          "maker_id": 57,
-          "maker_name": "Autobianchi",
-          "car_id": 3442,
-          "car_name": "A112 Abarth '85",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [
-            {
-              "maker_id": 157,
-              "maker_name": "Garage RCR",
-              "car_id": "3526",
-              "car_name": "Civic",
-              "engine_name": "K24A-Civic"
-            }
-          ],
-          "price": 32000,
-          "price_jp": 3200000,
-          "isOld": true
-        },
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 3524,
-          "car_name": "GT-R NISMO (R32) '90",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "3345",
-              "car_name": "GT-R NISMO '17",
-              "engine_name": "VR38DETT-GT-R-NISMO"
-            }
-          ],
-          "price": 387200,
-          "price_jp": 38720000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 17,
-          "maker_name": "Jaguar",
-          "car_id": 1553,
-          "car_name": "XJ13 '66",
-          "car_group": "X",
-          "country_id": 4,
-          "country_name": "United Kingdom",
-          "country_code": "gb",
-          "engine_swaps": [],
-          "price": 12000000,
-          "price_jp": 1200000000,
-          "isOld": true
-        }
-      ]
     }
   ]
 }
