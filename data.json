@@ -1,6 +1,78 @@
 {
-  "timestamp": "2026-03-14T00:16:00.797318+00:00",
+  "timestamp": "2026-03-15T00:18:41.934113+00:00",
   "content": [
+    {
+      "id": 20260315,
+      "date": "2026/3/15",
+      "used": [
+        {
+          "maker_id": 11,
+          "maker_name": "Dodge",
+          "car_id": 3377,
+          "car_name": "Super Bee '70",
+          "car_group": "N",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [],
+          "price": 61100,
+          "price_jp": 6110000,
+          "isOld": true
+        },
+        {
+          "maker_id": 6,
+          "maker_name": "BMW",
+          "car_id": 1893,
+          "car_name": "Z8 '01",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [],
+          "price": 265800,
+          "price_jp": 26580000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 21,
+          "maker_name": "Mazda",
+          "car_id": 296,
+          "car_name": "787B '91",
+          "car_group": "1",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [],
+          "price": 3300000,
+          "price_jp": 330000000,
+          "isOld": true
+        },
+        {
+          "maker_id": 55,
+          "maker_name": "Plymouth",
+          "car_id": 665,
+          "car_name": "Superbird '70",
+          "car_group": "N",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [
+            {
+              "maker_id": 11,
+              "maker_name": "Dodge",
+              "car_id": "2152",
+              "car_name": "Charger SRT Hellcat '15",
+              "engine_name": "Hellcat-Charger"
+            }
+          ],
+          "price": 450000,
+          "price_jp": 45000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260314,
       "date": "2026/3/14",
@@ -1214,72 +1286,6 @@
           "engine_swaps": [],
           "price": 209000,
           "price_jp": 20900000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20260301,
-      "date": "2026/3/1",
-      "used": [
-        {
-          "maker_id": 43,
-          "maker_name": "Toyota",
-          "car_id": 810,
-          "car_name": "Sprinter Trueno 1600GT APEX (AE86) '83",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 43,
-              "maker_name": "Toyota",
-              "car_id": "207",
-              "car_name": "MR2 GT-S '97",
-              "engine_name": "3S-GTE-MR2"
-            }
-          ],
-          "price": 52100,
-          "price_jp": 5210000,
-          "isOld": true
-        },
-        {
-          "maker_id": 15,
-          "maker_name": "Honda",
-          "car_id": 203,
-          "car_name": "Integra Type R (DC2) '98",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 15,
-              "maker_name": "Honda",
-              "car_id": "3467",
-              "car_name": "Civic Type R Limited Edition (FK8) '20",
-              "engine_name": "K20C1-Civic-'20"
-            }
-          ],
-          "price": 65900,
-          "price_jp": 6590000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 43,
-          "maker_name": "Toyota",
-          "car_id": 604,
-          "car_name": "2000GT '67",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [],
-          "price": 982000,
-          "price_jp": 98200000,
           "isOld": true
         }
       ]
