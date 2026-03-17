@@ -1,6 +1,78 @@
 {
-  "timestamp": "2026-03-16T01:02:29.516977+00:00",
+  "timestamp": "2026-03-17T00:54:43.841095+00:00",
   "content": [
+    {
+      "id": 20260317,
+      "date": "2026/3/17",
+      "used": [
+        {
+          "maker_id": 11,
+          "maker_name": "Dodge",
+          "car_id": 1402,
+          "car_name": "Viper SRT10 Coupe '06",
+          "car_group": "N",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [],
+          "price": 112300,
+          "price_jp": 11230000,
+          "isOld": false
+        },
+        {
+          "maker_id": 7,
+          "maker_name": "Chevrolet",
+          "car_id": 942,
+          "car_name": "Corvette ZR-1 (C4) '89",
+          "car_group": "N",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [
+            {
+              "maker_id": 7,
+              "maker_name": "Chevrolet",
+              "car_id": "3449",
+              "car_name": "Corvette C7 ZR1 '19",
+              "engine_name": "LT5-Corvette-C7"
+            }
+          ],
+          "price": 88100,
+          "price_jp": 8810000,
+          "isOld": true
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 52,
+          "maker_name": "Pontiac",
+          "car_id": 3462,
+          "car_name": "GTO 'The Judge' '69",
+          "car_group": "N",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [],
+          "price": 196000,
+          "price_jp": 19600000,
+          "isOld": true
+        },
+        {
+          "maker_id": 22,
+          "maker_name": "Mercedes-Benz",
+          "car_id": 998,
+          "car_name": "Sauber Mercedes C9 '89",
+          "car_group": "1",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [],
+          "price": 3500000,
+          "price_jp": 350000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260316,
       "date": "2026/3/16",
@@ -1148,72 +1220,6 @@
           ],
           "price": 32500,
           "price_jp": 3250000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20260303,
-      "date": "2026/3/3",
-      "used": [
-        {
-          "maker_id": 32,
-          "maker_name": "Peugeot",
-          "car_id": 3564,
-          "car_name": "205 GTI '88",
-          "car_group": null,
-          "country_id": 6,
-          "country_name": "France",
-          "country_code": "fr",
-          "engine_swaps": [],
-          "price": 50700,
-          "price_jp": 5070000,
-          "isOld": true
-        },
-        {
-          "maker_id": 13,
-          "maker_name": "Ford",
-          "car_id": 1729,
-          "car_name": "Mustang Mach 1 '71",
-          "car_group": "N",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [
-            {
-              "maker_id": 13,
-              "maker_name": "Ford",
-              "car_id": "2138",
-              "car_name": "Mustang GT '15",
-              "engine_name": "Coyote-5.0L-Mustang"
-            }
-          ],
-          "price": 44500,
-          "price_jp": 4450000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 110,
-          "maker_name": "Ferrari",
-          "car_id": 1409,
-          "car_name": "F40 '92",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [
-            {
-              "maker_id": 110,
-              "maker_name": "Ferrari",
-              "car_id": "1474",
-              "car_name": "Enzo Ferrari '02",
-              "engine_name": "F140B-Enzo"
-            }
-          ],
-          "price": 3200000,
-          "price_jp": 320000000,
           "isOld": true
         }
       ]
