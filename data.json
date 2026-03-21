@@ -1,6 +1,108 @@
 {
-  "timestamp": "2026-03-20T00:17:27.334445+00:00",
+  "timestamp": "2026-03-21T00:15:50.584592+00:00",
   "content": [
+    {
+      "id": 20260321,
+      "date": "2026/3/21",
+      "used": [
+        {
+          "maker_id": 34,
+          "maker_name": "Renault",
+          "car_id": 3547,
+          "car_name": "R4 GTL '85",
+          "car_group": "N",
+          "country_id": 6,
+          "country_name": "France",
+          "country_code": "fr",
+          "engine_swaps": [],
+          "price": 26300,
+          "price_jp": 2630000,
+          "isOld": true
+        },
+        {
+          "maker_id": 15,
+          "maker_name": "Honda",
+          "car_id": 137,
+          "car_name": "Beat '91",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 15,
+              "maker_name": "Honda",
+              "car_id": "3467",
+              "car_name": "Civic Type R Limited Edition (FK8) '20",
+              "engine_name": "K20C1-Civic-'20"
+            }
+          ],
+          "price": 15900,
+          "price_jp": 1590000,
+          "isOld": true
+        },
+        {
+          "maker_id": 15,
+          "maker_name": "Honda",
+          "car_id": 293,
+          "car_name": "NSX Type R '92",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 15,
+              "maker_name": "Honda",
+              "car_id": "3348",
+              "car_name": "NSX CONCEPT-GT '16",
+              "engine_name": "HR-414E-NSX"
+            }
+          ],
+          "price": 399200,
+          "price_jp": 39920000,
+          "isOld": true
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 36,
+          "maker_name": "Shelby",
+          "car_id": 1925,
+          "car_name": "G.T.350 '65",
+          "car_group": "N",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [
+            {
+              "maker_id": 13,
+              "maker_name": "Ford",
+              "car_id": "3391",
+              "car_name": "Shelby GT350R '16",
+              "engine_name": "Voodoo-5.2L-GT350R"
+            }
+          ],
+          "price": 501000,
+          "price_jp": 50100000,
+          "isOld": true
+        },
+        {
+          "maker_id": 86,
+          "maker_name": "Alpine",
+          "car_id": 3457,
+          "car_name": "A220 Race Car '68",
+          "car_group": "X",
+          "country_id": 6,
+          "country_name": "France",
+          "country_code": "fr",
+          "engine_swaps": [],
+          "price": 330000,
+          "price_jp": 33000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260320,
       "date": "2026/3/20",
@@ -1123,93 +1225,6 @@
           ],
           "price": 179000,
           "price_jp": 17900000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20260307,
-      "date": "2026/3/7",
-      "used": [
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 1461,
-          "car_name": "Silvia K's Dia Selection (S13) '90",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "1448",
-              "car_name": "SILVIA spec-R Aero (S15) '02",
-              "engine_name": "SR20DET-Silvia-S15"
-            },
-            {
-              "maker_id": 43,
-              "maker_name": "Toyota",
-              "car_id": "82",
-              "car_name": "Supra RZ '97",
-              "engine_name": "2JZ-GTE-Supra"
-            }
-          ],
-          "price": 52800,
-          "price_jp": 5280000,
-          "isOld": true
-        },
-        {
-          "maker_id": 15,
-          "maker_name": "Honda",
-          "car_id": 1689,
-          "car_name": "Civic Type R (EK) Touring Car",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 157,
-              "maker_name": "Garage RCR",
-              "car_id": "3526",
-              "car_name": "Civic",
-              "engine_name": "K24A-Civic"
-            }
-          ],
-          "price": 115800,
-          "price_jp": 11580000,
-          "isOld": null
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 7,
-          "maker_name": "Chevrolet",
-          "car_id": 2059,
-          "car_name": "Corvette Stingray Racer Concept '59",
-          "car_group": "X",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [],
-          "price": 7000000,
-          "price_jp": 700000000,
-          "isOld": true
-        },
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 954,
-          "car_name": "R92CP '92",
-          "car_group": "1",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [],
-          "price": 2000000,
-          "price_jp": 200000000,
           "isOld": true
         }
       ]
