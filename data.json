@@ -1,6 +1,102 @@
 {
-  "timestamp": "2026-03-22T00:17:12.947464+00:00",
+  "timestamp": "2026-03-23T00:59:45.335017+00:00",
   "content": [
+    {
+      "id": 20260323,
+      "date": "2026/3/23",
+      "used": [
+        {
+          "maker_id": 43,
+          "maker_name": "Toyota",
+          "car_id": 3471,
+          "car_name": "Celica GT-Four (ST205) '94",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 50,
+              "maker_name": "Lexus",
+              "car_id": "1516",
+              "car_name": "SC430 GT500 '08",
+              "engine_name": "3UZ-FE-SC430"
+            }
+          ],
+          "price": 65500,
+          "price_jp": 6550000,
+          "isOld": true
+        },
+        {
+          "maker_id": 25,
+          "maker_name": "Mitsubishi",
+          "car_id": 799,
+          "car_name": "Lancer Evolution VIII MR GSR '04",
+          "car_group": null,
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 25,
+              "maker_name": "Mitsubishi",
+              "car_id": "3230",
+              "car_name": "Lancer Evolution Final Gr.B Rally Car",
+              "engine_name": "Evo-Final-Gr.B"
+            }
+          ],
+          "price": 60300,
+          "price_jp": 6030000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 136,
+          "maker_name": "Porsche",
+          "car_id": 3509,
+          "car_name": "911 Carrera RS (901) '73",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 136,
+              "maker_name": "Porsche",
+              "car_id": "3519",
+              "car_name": "959 '87",
+              "engine_name": "959.50-959"
+            }
+          ],
+          "price": 740000,
+          "price_jp": 74000000,
+          "isOld": true
+        },
+        {
+          "maker_id": 155,
+          "maker_name": "NISMO",
+          "car_id": 3520,
+          "car_name": "400R '95",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 28,
+              "maker_name": "Nissan",
+              "car_id": "3345",
+              "car_name": "GT-R NISMO '17",
+              "engine_name": "VR38DETT-GT-R-NISMO"
+            }
+          ],
+          "price": 1300000,
+          "price_jp": 130000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260322,
       "date": "2026/3/22",
@@ -1148,71 +1244,6 @@
           "isOld": true
         }
       ]
-    },
-    {
-      "id": 20260309,
-      "date": "2026/3/9",
-      "used": [
-        {
-          "maker_id": 15,
-          "maker_name": "Honda",
-          "car_id": 37,
-          "car_name": "Civic SiR-II (EG) '93",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 15,
-              "maker_name": "Honda",
-              "car_id": "203",
-              "car_name": "Integra Type R (DC2) '98",
-              "engine_name": "B18C-Integra-'98"
-            }
-          ],
-          "price": 50200,
-          "price_jp": 5020000,
-          "isOld": true
-        },
-        {
-          "maker_id": 12,
-          "maker_name": "Fiat",
-          "car_id": 1523,
-          "car_name": "500 F '68",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [
-            {
-              "maker_id": 15,
-              "maker_name": "Honda",
-              "car_id": "2156",
-              "car_name": "2&4 powered by RC213V",
-              "engine_name": "SE75E-2&4"
-            }
-          ],
-          "price": 16500,
-          "price_jp": 1650000,
-          "isOld": true
-        },
-        {
-          "maker_id": 112,
-          "maker_name": "Lamborghini",
-          "car_id": 1990,
-          "car_name": "Diablo GT '00",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 837800,
-          "price_jp": 83780000,
-          "isOld": true
-        }
-      ],
-      "legend": []
     }
   ]
 }
