@@ -1,6 +1,50 @@
 {
-  "timestamp": "2026-04-02T00:59:04.122847+00:00",
+  "timestamp": "2026-04-03T01:02:35.496527+00:00",
   "content": [
+    {
+      "id": 20260403,
+      "date": "2026/4/3",
+      "used": [
+        {
+          "maker_id": 6,
+          "maker_name": "BMW",
+          "car_id": 1399,
+          "car_name": "M3 '07",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 6,
+              "maker_name": "BMW",
+              "car_id": "1902",
+              "car_name": "Z4 GT3 '11",
+              "engine_name": "P65B44-Z4"
+            }
+          ],
+          "price": 72500,
+          "price_jp": 7250000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 15,
+          "maker_name": "Honda",
+          "car_id": 140,
+          "car_name": "NSX GT500 '00",
+          "car_group": "3",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [],
+          "price": 1650000,
+          "price_jp": 165000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260402,
       "date": "2026/4/2",
@@ -1128,180 +1172,6 @@
           "isOld": true
         }
       ]
-    },
-    {
-      "id": 20260320,
-      "date": "2026/3/20",
-      "used": [
-        {
-          "maker_id": 9,
-          "maker_name": "Citroen",
-          "car_id": 3573,
-          "car_name": "BX 19 TRS '87",
-          "car_group": null,
-          "country_id": 6,
-          "country_name": "France",
-          "country_code": "fr",
-          "engine_swaps": [
-            {
-              "maker_id": 5,
-              "maker_name": "Audi",
-              "car_id": "1927",
-              "car_name": "Sport quattro S1 Pikes Peak '87",
-              "engine_name": "R5-20vT-Quattro-Pikes"
-            }
-          ],
-          "price": 25700,
-          "price_jp": 2570000,
-          "isOld": true
-        },
-        {
-          "maker_id": 34,
-          "maker_name": "Renault",
-          "car_id": 173,
-          "car_name": "R5 Turbo '80",
-          "car_group": "N",
-          "country_id": 6,
-          "country_name": "France",
-          "country_code": "fr",
-          "engine_swaps": [
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "1448",
-              "car_name": "SILVIA spec-R Aero (S15) '02",
-              "engine_name": "SR20DET-Silvia-S15"
-            }
-          ],
-          "price": 154500,
-          "price_jp": 15450000,
-          "isOld": true
-        },
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 919,
-          "car_name": "Silvia Q's (S13) '88",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "1448",
-              "car_name": "SILVIA spec-R Aero (S15) '02",
-              "engine_name": "SR20DET-Silvia-S15"
-            },
-            {
-              "maker_id": 38,
-              "maker_name": "Subaru",
-              "car_id": "3339",
-              "car_name": "BRZ Drift Car '17",
-              "engine_name": "LS7-BRZ"
-            }
-          ],
-          "price": 31900,
-          "price_jp": 3190000,
-          "isOld": true
-        },
-        {
-          "maker_id": 15,
-          "maker_name": "Honda",
-          "car_id": 135,
-          "car_name": "S800 '66",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 15,
-              "maker_name": "Honda",
-              "car_id": "2156",
-              "car_name": "2&4 powered by RC213V",
-              "engine_name": "SE75E-2&4"
-            }
-          ],
-          "price": 46200,
-          "price_jp": 4620000,
-          "isOld": true
-        },
-        {
-          "maker_id": 46,
-          "maker_name": "Volkswagen",
-          "car_id": 1671,
-          "car_name": "Sambabus Typ 2 '62",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [
-            {
-              "maker_id": 136,
-              "maker_name": "Porsche",
-              "car_id": "3431",
-              "car_name": "911 Carrera RS (964) '92",
-              "engine_name": "M64/03-911"
-            }
-          ],
-          "price": 55600,
-          "price_jp": 5560000,
-          "isOld": true
-        },
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 104,
-          "car_name": "Sileighty '98",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 157,
-              "maker_name": "Garage RCR",
-              "car_id": "3526",
-              "car_name": "Civic",
-              "engine_name": "K24A-Civic"
-            }
-          ],
-          "price": 84800,
-          "price_jp": 8480000,
-          "isOld": true
-        },
-        {
-          "maker_id": 112,
-          "maker_name": "Lamborghini",
-          "car_id": 1506,
-          "car_name": "Gallardo LP 560-4 '08",
-          "car_group": null,
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 249000,
-          "price_jp": 24900000,
-          "isOld": false
-        },
-        {
-          "maker_id": 110,
-          "maker_name": "Ferrari",
-          "car_id": 1504,
-          "car_name": "458 Italia '09",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 252200,
-          "price_jp": 25220000,
-          "isOld": false
-        }
-      ],
-      "legend": []
     }
   ]
 }
