@@ -1,6 +1,108 @@
 {
-  "timestamp": "2026-04-06T01:05:12.340264+00:00",
+  "timestamp": "2026-04-07T01:03:20.706550+00:00",
   "content": [
+    {
+      "id": 20260407,
+      "date": "2026/4/7",
+      "used": [
+        {
+          "maker_id": 15,
+          "maker_name": "Honda",
+          "car_id": 204,
+          "car_name": "Civic Type R (EK) '98",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 15,
+              "maker_name": "Honda",
+              "car_id": "3467",
+              "car_name": "Civic Type R Limited Edition (FK8) '20",
+              "engine_name": "K20C1-Civic-'20"
+            }
+          ],
+          "price": 53500,
+          "price_jp": 5350000,
+          "isOld": true
+        },
+        {
+          "maker_id": 46,
+          "maker_name": "Volkswagen",
+          "car_id": 3403,
+          "car_name": "Golf I GTI '83",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 5,
+              "maker_name": "Audi",
+              "car_id": "1927",
+              "car_name": "Sport quattro S1 Pikes Peak '87",
+              "engine_name": "R5-20vT-Quattro-Pikes"
+            }
+          ],
+          "price": 43200,
+          "price_jp": 4320000,
+          "isOld": true
+        },
+        {
+          "maker_id": 6,
+          "maker_name": "BMW",
+          "car_id": 3389,
+          "car_name": "M3 '03",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 6,
+              "maker_name": "BMW",
+              "car_id": "1902",
+              "car_name": "Z4 GT3 '11",
+              "engine_name": "P65B44-Z4"
+            }
+          ],
+          "price": 67800,
+          "price_jp": 6780000,
+          "isOld": false
+        },
+        {
+          "maker_id": 110,
+          "maker_name": "Ferrari",
+          "car_id": 1378,
+          "car_name": "F430 '06",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 202200,
+          "price_jp": 20220000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 110,
+          "maker_name": "Ferrari",
+          "car_id": 1931,
+          "car_name": "250 GT Berlinetta passo corto '61",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 6600000,
+          "price_jp": 660000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260406,
       "date": "2026/4/6",
@@ -1127,72 +1229,6 @@
         }
       ],
       "legend": []
-    },
-    {
-      "id": 20260324,
-      "date": "2026/3/24",
-      "used": [
-        {
-          "maker_id": 25,
-          "maker_name": "Mitsubishi",
-          "car_id": 51,
-          "car_name": "FTO GP Version R '97",
-          "car_group": null,
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [],
-          "price": 26200,
-          "price_jp": 2620000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 146,
-          "maker_name": "Jeep",
-          "car_id": 3430,
-          "car_name": "Willys MB '45",
-          "car_group": "N",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [
-            {
-              "maker_id": 11,
-              "maker_name": "Dodge",
-              "car_id": "2152",
-              "car_name": "Charger SRT Hellcat '15",
-              "engine_name": "Hellcat-Charger"
-            }
-          ],
-          "price": 33500,
-          "price_jp": 3350000,
-          "isOld": true
-        },
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 837,
-          "car_name": "Skyline Hard Top 2000GT-R (KPGC10) '70",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "3493",
-              "car_name": "Skyline Super Silhouette Group 5 '84",
-              "engine_name": "LZ20B-Skyline"
-            }
-          ],
-          "price": 194000,
-          "price_jp": 19400000,
-          "isOld": true
-        }
-      ]
     }
   ]
 }
