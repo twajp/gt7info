@@ -1,6 +1,108 @@
 {
-  "timestamp": "2026-04-09T00:54:50.476200+00:00",
+  "timestamp": "2026-04-10T01:04:59.244217+00:00",
   "content": [
+    {
+      "id": 20260410,
+      "date": "2026/4/10",
+      "used": [
+        {
+          "maker_id": 18,
+          "maker_name": "Lancia",
+          "car_id": 829,
+          "car_name": "Delta HF Integrale Evoluzione '91",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [
+            {
+              "maker_id": 28,
+              "maker_name": "Nissan",
+              "car_id": "3345",
+              "car_name": "GT-R NISMO '17",
+              "engine_name": "VR38DETT-GT-R-NISMO"
+            }
+          ],
+          "price": 98500,
+          "price_jp": 9850000,
+          "isOld": true
+        },
+        {
+          "maker_id": 6,
+          "maker_name": "BMW",
+          "car_id": 3344,
+          "car_name": "M3 Sport Evolution '89",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 43,
+              "maker_name": "Toyota",
+              "car_id": "3418",
+              "car_name": "GR Supra RZ '20",
+              "engine_name": "B58-GR-Supra-'20"
+            }
+          ],
+          "price": 162800,
+          "price_jp": 16280000,
+          "isOld": true
+        },
+        {
+          "maker_id": 28,
+          "maker_name": "Nissan",
+          "car_id": 489,
+          "car_name": "R33 GT-R V-spec '97",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 28,
+              "maker_name": "Nissan",
+              "car_id": "954",
+              "car_name": "R92CP '92",
+              "engine_name": "VRH35Z-R92CP"
+            }
+          ],
+          "price": 160500,
+          "price_jp": 16050000,
+          "isOld": true
+        },
+        {
+          "maker_id": 22,
+          "maker_name": "Mercedes-Benz",
+          "car_id": 1528,
+          "car_name": "SLR McLaren '09",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [],
+          "price": 509900,
+          "price_jp": 50990000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 36,
+          "maker_name": "Shelby",
+          "car_id": 1926,
+          "car_name": "Cobra Daytona Coupe '64",
+          "car_group": "X",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [],
+          "price": 20000000,
+          "price_jp": 2000000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260409,
       "date": "2026/4/9",
@@ -1215,114 +1317,6 @@
         }
       ],
       "legend": []
-    },
-    {
-      "id": 20260327,
-      "date": "2026/3/27",
-      "used": [
-        {
-          "maker_id": 21,
-          "maker_name": "Mazda",
-          "car_id": 201,
-          "car_name": "Eunos Roadster (NA) '89",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 21,
-              "maker_name": "Mazda",
-              "car_id": "205",
-              "car_name": "RX-7 Spirit R Type A (FD) '02",
-              "engine_name": "13B-REW-RX-7"
-            }
-          ],
-          "price": 31200,
-          "price_jp": 3120000,
-          "isOld": true
-        },
-        {
-          "maker_id": 110,
-          "maker_name": "Ferrari",
-          "car_id": 3443,
-          "car_name": "308 GTB '75",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 178300,
-          "price_jp": 17830000,
-          "isOld": true
-        },
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 24,
-          "car_name": "180SX Type X '96",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "3345",
-              "car_name": "GT-R NISMO '17",
-              "engine_name": "VR38DETT-GT-R-NISMO"
-            }
-          ],
-          "price": 49700,
-          "price_jp": 4970000,
-          "isOld": true
-        },
-        {
-          "maker_id": 112,
-          "maker_name": "Lamborghini",
-          "car_id": 1545,
-          "car_name": "Murcielago LP 640 '09",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 320700,
-          "price_jp": 32070000,
-          "isOld": false
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 5,
-          "maker_name": "Audi",
-          "car_id": 1927,
-          "car_name": "Sport quattro S1 Pikes Peak '87",
-          "car_group": "B",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [],
-          "price": 1700000,
-          "price_jp": 170000000,
-          "isOld": true
-        },
-        {
-          "maker_id": 36,
-          "maker_name": "Shelby",
-          "car_id": 315,
-          "car_name": "Cobra 427 '66",
-          "car_group": "N",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [],
-          "price": 2700000,
-          "price_jp": 270000000,
-          "isOld": true
-        }
-      ]
     }
   ]
 }
