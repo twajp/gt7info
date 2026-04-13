@@ -1,6 +1,78 @@
 {
-  "timestamp": "2026-04-12T01:08:38.751591+00:00",
+  "timestamp": "2026-04-13T01:10:33.221913+00:00",
   "content": [
+    {
+      "id": 20260413,
+      "date": "2026/4/13",
+      "used": [
+        {
+          "maker_id": 15,
+          "maker_name": "Honda",
+          "car_id": 203,
+          "car_name": "Integra Type R (DC2) '98",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 15,
+              "maker_name": "Honda",
+              "car_id": "3467",
+              "car_name": "Civic Type R Limited Edition (FK8) '20",
+              "engine_name": "K20C1-Civic-'20"
+            }
+          ],
+          "price": 65900,
+          "price_jp": 6590000,
+          "isOld": true
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 17,
+          "maker_name": "Jaguar",
+          "car_id": 3376,
+          "car_name": "D-type '54",
+          "car_group": "X",
+          "country_id": 4,
+          "country_name": "United Kingdom",
+          "country_code": "gb",
+          "engine_swaps": [],
+          "price": 5300000,
+          "price_jp": 530000000,
+          "isOld": true
+        },
+        {
+          "maker_id": 17,
+          "maker_name": "Jaguar",
+          "car_id": 1553,
+          "car_name": "XJ13 '66",
+          "car_group": "X",
+          "country_id": 4,
+          "country_name": "United Kingdom",
+          "country_code": "gb",
+          "engine_swaps": [],
+          "price": 12000000,
+          "price_jp": 1200000000,
+          "isOld": true
+        },
+        {
+          "maker_id": 112,
+          "maker_name": "Lamborghini",
+          "car_id": 1484,
+          "car_name": "Countach LP400 '74",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 1250000,
+          "price_jp": 125000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260412,
       "date": "2026/4/12",
@@ -1104,116 +1176,6 @@
           ],
           "price": 101000,
           "price_jp": 10100000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20260330,
-      "date": "2026/3/30",
-      "used": [
-        {
-          "maker_id": 12,
-          "maker_name": "Fiat",
-          "car_id": 1527,
-          "car_name": "500 1.2 8V Lounge SS '08",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 12700,
-          "price_jp": 1270000,
-          "isOld": false
-        },
-        {
-          "maker_id": 15,
-          "maker_name": "Honda",
-          "car_id": 821,
-          "car_name": "Civic Type R (EK) '97",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 157,
-              "maker_name": "Garage RCR",
-              "car_id": "3526",
-              "car_name": "Civic",
-              "engine_name": "K24A-Civic"
-            }
-          ],
-          "price": 47000,
-          "price_jp": 4700000,
-          "isOld": true
-        },
-        {
-          "maker_id": 51,
-          "maker_name": "MINI",
-          "car_id": 3356,
-          "car_name": "Mini-Cooper 'S' '65",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [
-            {
-              "maker_id": 15,
-              "maker_name": "Honda",
-              "car_id": "3467",
-              "car_name": "Civic Type R Limited Edition (FK8) '20",
-              "engine_name": "K20C1-Civic-'20"
-            }
-          ],
-          "price": 43600,
-          "price_jp": 4360000,
-          "isOld": true
-        },
-        {
-          "maker_id": 51,
-          "maker_name": "MINI",
-          "car_id": 1370,
-          "car_name": "MINI Cooper S '05",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [
-            {
-              "maker_id": 157,
-              "maker_name": "Garage RCR",
-              "car_id": "3526",
-              "car_name": "Civic",
-              "engine_name": "K24A-Civic"
-            }
-          ],
-          "price": 22900,
-          "price_jp": 2290000,
-          "isOld": false
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 22,
-          "maker_name": "Mercedes-Benz",
-          "car_id": 575,
-          "car_name": "190 E 2.5-16 Evolution II '91",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [
-            {
-              "maker_id": 153,
-              "maker_name": "AMG",
-              "car_id": "3531",
-              "car_name": "GT3 '20",
-              "engine_name": "M159-AMG-GT3-'20"
-            }
-          ],
-          "price": 250000,
-          "price_jp": 25000000,
           "isOld": true
         }
       ]
