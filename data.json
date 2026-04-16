@@ -1,6 +1,94 @@
 {
-  "timestamp": "2026-04-15T01:09:23.406193+00:00",
+  "timestamp": "2026-04-16T01:13:06.542352+00:00",
   "content": [
+    {
+      "id": 20260416,
+      "date": "2026/4/16",
+      "used": [
+        {
+          "maker_id": 34,
+          "maker_name": "Renault",
+          "car_id": 729,
+          "car_name": "Avantime 3.0 V6 24V '02",
+          "car_group": null,
+          "country_id": 6,
+          "country_name": "France",
+          "country_code": "fr",
+          "engine_swaps": [
+            {
+              "maker_id": 46,
+              "maker_name": "Volkswagen",
+              "car_id": "2192",
+              "car_name": "Volkswagen GTI VGT (Gr.3)",
+              "engine_name": "GTI-VGT-Gr.3"
+            }
+          ],
+          "price": 44900,
+          "price_jp": 4490000,
+          "isOld": false
+        },
+        {
+          "maker_id": 21,
+          "maker_name": "Mazda",
+          "car_id": 374,
+          "car_name": "RX-7 GT-X (FC) '90",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 21,
+              "maker_name": "Mazda",
+              "car_id": "296",
+              "car_name": "787B '91",
+              "engine_name": "R26B-787B"
+            }
+          ],
+          "price": 52900,
+          "price_jp": 5290000,
+          "isOld": true
+        },
+        {
+          "maker_id": 43,
+          "maker_name": "Toyota",
+          "car_id": 843,
+          "car_name": "Supra 3.0GT Turbo A '88",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 43,
+              "maker_name": "Toyota",
+              "car_id": "82",
+              "car_name": "Supra RZ '97",
+              "engine_name": "2JZ-GTE-Supra"
+            }
+          ],
+          "price": 115200,
+          "price_jp": 11520000,
+          "isOld": true
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 18,
+          "maker_name": "Lancia",
+          "car_id": 761,
+          "car_name": "Lancia Delta HF Integrale Rally Car '92",
+          "car_group": null,
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 350000,
+          "price_jp": 35000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260415,
       "date": "2026/4/15",
@@ -1164,57 +1252,6 @@
           "isOld": true
         }
       ]
-    },
-    {
-      "id": 20260402,
-      "date": "2026/4/2",
-      "used": [
-        {
-          "maker_id": 43,
-          "maker_name": "Toyota",
-          "car_id": 207,
-          "car_name": "MR2 GT-S '97",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 5,
-              "maker_name": "Audi",
-              "car_id": "1365",
-              "car_name": "R8 4.2 '07",
-              "engine_name": "BYH-R8"
-            }
-          ],
-          "price": 54900,
-          "price_jp": 5490000,
-          "isOld": true
-        },
-        {
-          "maker_id": 15,
-          "maker_name": "Honda",
-          "car_id": 688,
-          "car_name": "Integra Type R (DC2) '95",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 157,
-              "maker_name": "Garage RCR",
-              "car_id": "3526",
-              "car_name": "Civic",
-              "engine_name": "K24A-Civic"
-            }
-          ],
-          "price": 56400,
-          "price_jp": 5640000,
-          "isOld": true
-        }
-      ],
-      "legend": []
     }
   ]
 }
