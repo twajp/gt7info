@@ -1,6 +1,100 @@
 {
-  "timestamp": "2026-04-21T01:10:29.618231+00:00",
+  "timestamp": "2026-04-22T01:07:02.842678+00:00",
   "content": [
+    {
+      "id": 20260422,
+      "date": "2026/4/22",
+      "used": [
+        {
+          "maker_id": 28,
+          "maker_name": "Nissan",
+          "car_id": 78,
+          "car_name": "Silvia K's Aero (S14) '96",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 7,
+              "maker_name": "Chevrolet",
+              "car_id": "3449",
+              "car_name": "Corvette C7 ZR1 '19",
+              "engine_name": "LT5-Corvette-C7"
+            },
+            {
+              "maker_id": 28,
+              "maker_name": "Nissan",
+              "car_id": "210",
+              "car_name": "R34 GT-R V-spec II Nur '02",
+              "engine_name": "RB26DETT-GT-R-R34"
+            }
+          ],
+          "price": 58600,
+          "price_jp": 5860000,
+          "isOld": true
+        },
+        {
+          "maker_id": 25,
+          "maker_name": "Mitsubishi",
+          "car_id": 3384,
+          "car_name": "GTO Twin Turbo '91",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 11,
+              "maker_name": "Dodge",
+              "car_id": "3486",
+              "car_name": "Challenger SRT Demon '18",
+              "engine_name": "Demon-Challenger"
+            },
+            {
+              "maker_id": 39,
+              "maker_name": "Suzuki",
+              "car_id": "808",
+              "car_name": "V6 Escudo Pikes Peak Special spec.98",
+              "engine_name": "H25A-Escudo"
+            }
+          ],
+          "price": 49300,
+          "price_jp": 4930000,
+          "isOld": true
+        },
+        {
+          "maker_id": 112,
+          "maker_name": "Lamborghini",
+          "car_id": 1990,
+          "car_name": "Diablo GT '00",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 837800,
+          "price_jp": 83780000,
+          "isOld": true
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 21,
+          "maker_name": "Mazda",
+          "car_id": 1975,
+          "car_name": "RX500 '70",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [],
+          "price": 600000,
+          "price_jp": 60000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260421,
       "date": "2026/4/21",
@@ -1247,79 +1341,6 @@
         }
       ],
       "legend": []
-    },
-    {
-      "id": 20260408,
-      "date": "2026/4/8",
-      "used": [
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 3524,
-          "car_name": "GT-R NISMO (R32) '90",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "3345",
-              "car_name": "GT-R NISMO '17",
-              "engine_name": "VR38DETT-GT-R-NISMO"
-            }
-          ],
-          "price": 387200,
-          "price_jp": 38720000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 485,
-          "car_name": "GT-R GT500 '99",
-          "car_group": "3",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [],
-          "price": 1600000,
-          "price_jp": 160000000,
-          "isOld": true
-        },
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 3429,
-          "car_name": "Fairlady Z 432 '69",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "210",
-              "car_name": "R34 GT-R V-spec II Nur '02",
-              "engine_name": "RB26DETT-GT-R-R34"
-            },
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "1448",
-              "car_name": "SILVIA spec-R Aero (S15) '02",
-              "engine_name": "SR20DET-Silvia-S15"
-            }
-          ],
-          "price": 312000,
-          "price_jp": 31200000,
-          "isOld": true
-        }
-      ]
     }
   ]
 }
