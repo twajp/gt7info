@@ -1,6 +1,58 @@
 {
-  "timestamp": "2026-05-09T01:24:58.739772+00:00",
+  "timestamp": "2026-05-10T01:26:36.122510+00:00",
   "content": [
+    {
+      "id": 20260510,
+      "date": "2026/5/10",
+      "used": [
+        {
+          "maker_id": 86,
+          "maker_name": "Alpine",
+          "car_id": 1796,
+          "car_name": "A110 '72",
+          "car_group": "N",
+          "country_id": 6,
+          "country_name": "France",
+          "country_code": "fr",
+          "engine_swaps": [
+            {
+              "maker_id": 28,
+              "maker_name": "Nissan",
+              "car_id": "1448",
+              "car_name": "SILVIA spec-R Aero (S15) '02",
+              "engine_name": "SR20DET-Silvia-S15"
+            }
+          ],
+          "price": 143700,
+          "price_jp": 14370000,
+          "isOld": true
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 13,
+          "maker_name": "Ford",
+          "car_id": 3444,
+          "car_name": "1932 Ford Roadster Hot Rod",
+          "car_group": "N",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [
+            {
+              "maker_id": 13,
+              "maker_name": "Ford",
+              "car_id": "3391",
+              "car_name": "Shelby GT350R '16",
+              "engine_name": "Voodoo-5.2L-GT350R"
+            }
+          ],
+          "price": 300000,
+          "price_jp": 30000000,
+          "isOld": null
+        }
+      ]
+    },
     {
       "id": 20260509,
       "date": "2026/5/9",
@@ -1249,98 +1301,6 @@
           "engine_swaps": [],
           "price": 2000000,
           "price_jp": 200000000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20260426,
-      "date": "2026/4/26",
-      "used": [
-        {
-          "maker_id": 34,
-          "maker_name": "Renault",
-          "car_id": 3567,
-          "car_name": "Kangoo 1.4 '01",
-          "car_group": null,
-          "country_id": 6,
-          "country_name": "France",
-          "country_code": "fr",
-          "engine_swaps": [],
-          "price": 14100,
-          "price_jp": 1410000,
-          "isOld": false
-        },
-        {
-          "maker_id": 43,
-          "maker_name": "Toyota",
-          "car_id": 1537,
-          "car_name": "Prius G '09",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [],
-          "price": 20700,
-          "price_jp": 2070000,
-          "isOld": false
-        },
-        {
-          "maker_id": 117,
-          "maker_name": "McLaren",
-          "car_id": 1722,
-          "car_name": "MP4-12C '10",
-          "car_group": "N",
-          "country_id": 4,
-          "country_name": "United Kingdom",
-          "country_code": "gb",
-          "engine_swaps": [],
-          "price": 195700,
-          "price_jp": 19570000,
-          "isOld": false
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 3,
-          "maker_name": "Alfa Romeo",
-          "car_id": 365,
-          "car_name": "155 2.5 V6 TI '93",
-          "car_group": "4",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 650000,
-          "price_jp": 65000000,
-          "isOld": true
-        },
-        {
-          "maker_id": 55,
-          "maker_name": "Plymouth",
-          "car_id": 1900,
-          "car_name": "XNR Ghia Roadster '60",
-          "car_group": "N",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [],
-          "price": 3000000,
-          "price_jp": 300000000,
-          "isOld": true
-        },
-        {
-          "maker_id": 13,
-          "maker_name": "Ford",
-          "car_id": 1565,
-          "car_name": "Mark IV Race Car '67",
-          "car_group": "X",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [],
-          "price": 6750000,
-          "price_jp": 675000000,
           "isOld": true
         }
       ]
