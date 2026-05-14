@@ -1,6 +1,92 @@
 {
-  "timestamp": "2026-05-13T01:31:47.631237+00:00",
+  "timestamp": "2026-05-14T01:47:48.205269+00:00",
   "content": [
+    {
+      "id": 20260514,
+      "date": "2026/5/14",
+      "used": [
+        {
+          "maker_id": 39,
+          "maker_name": "Suzuki",
+          "car_id": 1385,
+          "car_name": "Swift Sport '07",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [],
+          "price": 12400,
+          "price_jp": 1240000,
+          "isOld": false
+        },
+        {
+          "maker_id": 110,
+          "maker_name": "Ferrari",
+          "car_id": 1544,
+          "car_name": "430 Scuderia '07",
+          "car_group": null,
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 358700,
+          "price_jp": 35870000,
+          "isOld": false
+        },
+        {
+          "maker_id": 6,
+          "maker_name": "BMW",
+          "car_id": 1399,
+          "car_name": "M3 '07",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 6,
+              "maker_name": "BMW",
+              "car_id": "1902",
+              "car_name": "Z4 GT3 '11",
+              "engine_name": "P65B44-Z4"
+            }
+          ],
+          "price": 81700,
+          "price_jp": 8170000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 140,
+          "maker_name": "De Tomaso",
+          "car_id": 3505,
+          "car_name": "Mangusta (Christian Dior)",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 500000,
+          "price_jp": 50000000,
+          "isOld": null
+        },
+        {
+          "maker_id": 110,
+          "maker_name": "Ferrari",
+          "car_id": 2018,
+          "car_name": "365 GTB4 '71",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 595000,
+          "price_jp": 59500000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260513,
       "date": "2026/5/13",
@@ -918,130 +1004,6 @@
         }
       ],
       "legend": []
-    },
-    {
-      "id": 20260430,
-      "date": "2026/4/30",
-      "used": [
-        {
-          "maker_id": 34,
-          "maker_name": "Renault",
-          "car_id": 3547,
-          "car_name": "R4 GTL '85",
-          "car_group": "N",
-          "country_id": 6,
-          "country_name": "France",
-          "country_code": "fr",
-          "engine_swaps": [],
-          "price": 29200,
-          "price_jp": 2920000,
-          "isOld": true
-        },
-        {
-          "maker_id": 15,
-          "maker_name": "Honda",
-          "car_id": 137,
-          "car_name": "Beat '91",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 15,
-              "maker_name": "Honda",
-              "car_id": "3467",
-              "car_name": "Civic Type R Limited Edition (FK8) '20",
-              "engine_name": "K20C1-Civic-'20"
-            }
-          ],
-          "price": 17100,
-          "price_jp": 1710000,
-          "isOld": true
-        },
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 104,
-          "car_name": "Sileighty '98",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 157,
-              "maker_name": "Garage RCR",
-              "car_id": "3526",
-              "car_name": "Civic",
-              "engine_name": "K24A-Civic"
-            }
-          ],
-          "price": 81900,
-          "price_jp": 8190000,
-          "isOld": true
-        },
-        {
-          "maker_id": 13,
-          "maker_name": "Ford",
-          "car_id": 3555,
-          "car_name": "Escort RS Cosworth '92",
-          "car_group": null,
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [
-            {
-              "maker_id": 13,
-              "maker_name": "Ford",
-              "car_id": "3264",
-              "car_name": "Focus Gr.B Rally Car",
-              "engine_name": "L4-Focus-Gr.B"
-            }
-          ],
-          "price": 122100,
-          "price_jp": 12210000,
-          "isOld": true
-        },
-        {
-          "maker_id": 110,
-          "maker_name": "Ferrari",
-          "car_id": 1504,
-          "car_name": "458 Italia '09",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 243300,
-          "price_jp": 24330000,
-          "isOld": false
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 136,
-          "maker_name": "Porsche",
-          "car_id": 3375,
-          "car_name": "356 A/1500 GS Carrera '56",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [
-            {
-              "maker_id": 136,
-              "maker_name": "Porsche",
-              "car_id": "3519",
-              "car_name": "959 '87",
-              "engine_name": "959.50-959"
-            }
-          ],
-          "price": 606000,
-          "price_jp": 60600000,
-          "isOld": true
-        }
-      ]
     }
   ]
 }
