@@ -1,6 +1,108 @@
 {
-  "timestamp": "2026-05-16T01:25:50.509224+00:00",
+  "timestamp": "2026-05-17T01:31:05.904401+00:00",
   "content": [
+    {
+      "id": 20260517,
+      "date": "2026/5/17",
+      "used": [
+        {
+          "maker_id": 39,
+          "maker_name": "Suzuki",
+          "car_id": 779,
+          "car_name": "Cappuccino (EA11R) '91",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 21,
+              "maker_name": "Mazda",
+              "car_id": "205",
+              "car_name": "RX-7 Spirit R Type A (FD) '02",
+              "engine_name": "13B-REW-RX-7"
+            }
+          ],
+          "price": 19900,
+          "price_jp": 1990000,
+          "isOld": true
+        },
+        {
+          "maker_id": 136,
+          "maker_name": "Porsche",
+          "car_id": 3431,
+          "car_name": "911 Carrera RS (964) '92",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 136,
+              "maker_name": "Porsche",
+              "car_id": "3519",
+              "car_name": "959 '87",
+              "engine_name": "959.50-959"
+            }
+          ],
+          "price": 210300,
+          "price_jp": 21030000,
+          "isOld": true
+        },
+        {
+          "maker_id": 6,
+          "maker_name": "BMW",
+          "car_id": 3389,
+          "car_name": "M3 '03",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 6,
+              "maker_name": "BMW",
+              "car_id": "1902",
+              "car_name": "Z4 GT3 '11",
+              "engine_name": "P65B44-Z4"
+            }
+          ],
+          "price": 65900,
+          "price_jp": 6590000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 22,
+          "maker_name": "Mercedes-Benz",
+          "car_id": 3397,
+          "car_name": "CLK-LM '98",
+          "car_group": "2",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [],
+          "price": 8500000,
+          "price_jp": 850000000,
+          "isOld": true
+        },
+        {
+          "maker_id": 3,
+          "maker_name": "Alfa Romeo",
+          "car_id": 3415,
+          "car_name": "8C 2900B Touring Berlinetta '38",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 20000000,
+          "price_jp": 2000000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260516,
       "date": "2026/5/16",
@@ -1156,64 +1258,6 @@
           ],
           "price": 248000,
           "price_jp": 24800000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20260503,
-      "date": "2026/5/3",
-      "used": [
-        {
-          "maker_id": 15,
-          "maker_name": "Honda",
-          "car_id": 293,
-          "car_name": "NSX Type R '92",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 15,
-              "maker_name": "Honda",
-              "car_id": "3348",
-              "car_name": "NSX CONCEPT-GT '16",
-              "engine_name": "HR-414E-NSX"
-            }
-          ],
-          "price": 388500,
-          "price_jp": 38850000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 136,
-          "maker_name": "Porsche",
-          "car_id": 3373,
-          "car_name": "962 C '88",
-          "car_group": "1",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [],
-          "price": 1250000,
-          "price_jp": 125000000,
-          "isOld": true
-        },
-        {
-          "maker_id": 136,
-          "maker_name": "Porsche",
-          "car_id": 3400,
-          "car_name": "911 GT1 Strassenversion '97",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [],
-          "price": 10000000,
-          "price_jp": 1000000000,
           "isOld": true
         }
       ]
