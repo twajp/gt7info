@@ -1,6 +1,130 @@
 {
-  "timestamp": "2026-05-22T01:50:57.538325+00:00",
+  "timestamp": "2026-05-23T01:29:33.003086+00:00",
   "content": [
+    {
+      "id": 20260523,
+      "date": "2026/5/23",
+      "used": [
+        {
+          "maker_id": 3,
+          "maker_name": "Alfa Romeo",
+          "car_id": 3530,
+          "car_name": "Giulia Sprint GT Veloce '67",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [
+            {
+              "maker_id": 157,
+              "maker_name": "Garage RCR",
+              "car_id": "3526",
+              "car_name": "Civic",
+              "engine_name": "K24A-Civic"
+            }
+          ],
+          "price": 168600,
+          "price_jp": 16860000,
+          "isOld": true
+        },
+        {
+          "maker_id": 25,
+          "maker_name": "Mitsubishi",
+          "car_id": 931,
+          "car_name": "Lancer Evolution III GSR '95",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 25,
+              "maker_name": "Mitsubishi",
+              "car_id": "3230",
+              "car_name": "Lancer Evolution Final Gr.B Rally Car",
+              "engine_name": "Evo-Final-Gr.B"
+            }
+          ],
+          "price": 82200,
+          "price_jp": 8220000,
+          "isOld": true
+        },
+        {
+          "maker_id": 38,
+          "maker_name": "Subaru",
+          "car_id": 3432,
+          "car_name": "Impreza Sedan WRX STi '04",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 136,
+              "maker_name": "Porsche",
+              "car_id": "3558",
+              "car_name": "911 Turbo S (992) '20",
+              "engine_name": "DKH-911"
+            }
+          ],
+          "price": 41400,
+          "price_jp": 4140000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 17,
+          "maker_name": "Jaguar",
+          "car_id": 1067,
+          "car_name": "XJR-9 '88",
+          "car_group": "1",
+          "country_id": 4,
+          "country_name": "United Kingdom",
+          "country_code": "gb",
+          "engine_swaps": [],
+          "price": 3000000,
+          "price_jp": 300000000,
+          "isOld": true
+        },
+        {
+          "maker_id": 43,
+          "maker_name": "Toyota",
+          "car_id": 781,
+          "car_name": "Celica GT-FOUR Rally Car (ST205) '95",
+          "car_group": "B",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [],
+          "price": 200000,
+          "price_jp": 20000000,
+          "isOld": true
+        },
+        {
+          "maker_id": 7,
+          "maker_name": "Chevrolet",
+          "car_id": 3464,
+          "car_name": "Corvette (C1) '58",
+          "car_group": "N",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [
+            {
+              "maker_id": 7,
+              "maker_name": "Chevrolet",
+              "car_id": "3449",
+              "car_name": "Corvette C7 ZR1 '19",
+              "engine_name": "LT5-Corvette-C7"
+            }
+          ],
+          "price": 110000,
+          "price_jp": 11000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260522,
       "date": "2026/5/22",
@@ -994,137 +1118,6 @@
           "isOld": null
         }
       ]
-    },
-    {
-      "id": 20260509,
-      "date": "2026/5/9",
-      "used": [
-        {
-          "maker_id": 51,
-          "maker_name": "MINI",
-          "car_id": 3356,
-          "car_name": "Mini-Cooper 'S' '65",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [
-            {
-              "maker_id": 15,
-              "maker_name": "Honda",
-              "car_id": "3467",
-              "car_name": "Civic Type R Limited Edition (FK8) '20",
-              "engine_name": "K20C1-Civic-'20"
-            }
-          ],
-          "price": 39300,
-          "price_jp": 3930000,
-          "isOld": true
-        },
-        {
-          "maker_id": 140,
-          "maker_name": "De Tomaso",
-          "car_id": 3341,
-          "car_name": "Pantera '71",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [
-            {
-              "maker_id": 13,
-              "maker_name": "Ford",
-              "car_id": "2138",
-              "car_name": "Mustang GT '15",
-              "engine_name": "Coyote-5.0L-Mustang"
-            }
-          ],
-          "price": 170400,
-          "price_jp": 17040000,
-          "isOld": true
-        },
-        {
-          "maker_id": 51,
-          "maker_name": "MINI",
-          "car_id": 1370,
-          "car_name": "MINI Cooper S '05",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [
-            {
-              "maker_id": 157,
-              "maker_name": "Garage RCR",
-              "car_id": "3526",
-              "car_name": "Civic",
-              "engine_name": "K24A-Civic"
-            }
-          ],
-          "price": 23600,
-          "price_jp": 2360000,
-          "isOld": false
-        },
-        {
-          "maker_id": 13,
-          "maker_name": "Ford",
-          "car_id": 1426,
-          "car_name": "Ford GT '06",
-          "car_group": "N",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [
-            {
-              "maker_id": 156,
-              "maker_name": "Greening Auto Company",
-              "car_id": "3522",
-              "car_name": "Maverick",
-              "engine_name": "Windsor-351-Maverick"
-            }
-          ],
-          "price": 408700,
-          "price_jp": 40870000,
-          "isOld": false
-        },
-        {
-          "maker_id": 5,
-          "maker_name": "Audi",
-          "car_id": 1541,
-          "car_name": "TTS Coupe '09",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [],
-          "price": 55600,
-          "price_jp": 5560000,
-          "isOld": false
-        },
-        {
-          "maker_id": 15,
-          "maker_name": "Honda",
-          "car_id": 396,
-          "car_name": "NSX Type R '02",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 15,
-              "maker_name": "Honda",
-              "car_id": "3348",
-              "car_name": "NSX CONCEPT-GT '16",
-              "engine_name": "HR-414E-NSX"
-            }
-          ],
-          "price": 428500,
-          "price_jp": 42850000,
-          "isOld": false
-        }
-      ],
-      "legend": []
     }
   ]
 }
