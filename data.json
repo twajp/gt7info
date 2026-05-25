@@ -1,6 +1,50 @@
 {
-  "timestamp": "2026-05-24T01:48:53.886409+00:00",
+  "timestamp": "2026-05-25T01:54:53.748792+00:00",
   "content": [
+    {
+      "id": 20260525,
+      "date": "2026/5/25",
+      "used": [
+        {
+          "maker_id": 15,
+          "maker_name": "Honda",
+          "car_id": 203,
+          "car_name": "Integra Type R (DC2) '98",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 15,
+              "maker_name": "Honda",
+              "car_id": "3467",
+              "car_name": "Civic Type R Limited Edition (FK8) '20",
+              "engine_name": "K20C1-Civic-'20"
+            }
+          ],
+          "price": 56900,
+          "price_jp": 5690000,
+          "isOld": true
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 17,
+          "maker_name": "Jaguar",
+          "car_id": 1553,
+          "car_name": "XJ13 '66",
+          "car_group": "X",
+          "country_id": 4,
+          "country_name": "United Kingdom",
+          "country_code": "gb",
+          "engine_swaps": [],
+          "price": 12000000,
+          "price_jp": 1200000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260524,
       "date": "2026/5/24",
@@ -1075,92 +1119,6 @@
           "isOld": true
         }
       ]
-    },
-    {
-      "id": 20260511,
-      "date": "2026/5/11",
-      "used": [
-        {
-          "maker_id": 10,
-          "maker_name": "Daihatsu",
-          "car_id": 145,
-          "car_name": "Copen '02",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [],
-          "price": 15100,
-          "price_jp": 1510000,
-          "isOld": false
-        },
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 709,
-          "car_name": "Fairlady Z 300ZX TT 2seater '89",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "3345",
-              "car_name": "GT-R NISMO '17",
-              "engine_name": "VR38DETT-GT-R-NISMO"
-            },
-            {
-              "maker_id": 151,
-              "maker_name": "Roadster Shop",
-              "car_id": "3426",
-              "car_name": "Roadster Shop Rampage",
-              "engine_name": "LS7-Rampage"
-            }
-          ],
-          "price": 51500,
-          "price_jp": 5150000,
-          "isOld": true
-        },
-        {
-          "maker_id": 34,
-          "maker_name": "Renault",
-          "car_id": 334,
-          "car_name": "Clio V6 24V '00",
-          "car_group": "N",
-          "country_id": 6,
-          "country_name": "France",
-          "country_code": "fr",
-          "engine_swaps": [
-            {
-              "maker_id": 38,
-              "maker_name": "Subaru",
-              "car_id": "3550",
-              "car_name": "Impreza Rally Car '98",
-              "engine_name": "EJ20-Impreza-Rally"
-            }
-          ],
-          "price": 78400,
-          "price_jp": 7840000,
-          "isOld": true
-        },
-        {
-          "maker_id": 110,
-          "maker_name": "Ferrari",
-          "car_id": 1410,
-          "car_name": "512 BB '76",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 301600,
-          "price_jp": 30160000,
-          "isOld": true
-        }
-      ],
-      "legend": []
     }
   ]
 }
