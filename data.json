@@ -1,6 +1,137 @@
 {
-  "timestamp": "2026-05-27T01:53:46.550968+00:00",
+  "timestamp": "2026-05-28T01:26:48.977384+00:00",
   "content": [
+    {
+      "id": 20260528,
+      "date": "2026/5/28",
+      "used": [
+        {
+          "maker_id": 46,
+          "maker_name": "Volkswagen",
+          "car_id": 1778,
+          "car_name": "Volkswagen 1200 '66",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 136,
+              "maker_name": "Porsche",
+              "car_id": "3431",
+              "car_name": "911 Carrera RS (964) '92",
+              "engine_name": "M64/03-911"
+            }
+          ],
+          "price": 32700,
+          "price_jp": 3270000,
+          "isOld": true
+        },
+        {
+          "maker_id": 28,
+          "maker_name": "Nissan",
+          "car_id": 78,
+          "car_name": "Silvia K's Aero (S14) '96",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 7,
+              "maker_name": "Chevrolet",
+              "car_id": "3449",
+              "car_name": "Corvette C7 ZR1 '19",
+              "engine_name": "LT5-Corvette-C7"
+            },
+            {
+              "maker_id": 28,
+              "maker_name": "Nissan",
+              "car_id": "210",
+              "car_name": "R34 GT-R V-spec II Nur '02",
+              "engine_name": "RB26DETT-GT-R-R34"
+            }
+          ],
+          "price": 57600,
+          "price_jp": 5760000,
+          "isOld": true
+        },
+        {
+          "maker_id": 7,
+          "maker_name": "Chevrolet",
+          "car_id": 3570,
+          "car_name": "Corvette Z06 (C5) '01",
+          "car_group": null,
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [],
+          "price": 56200,
+          "price_jp": 5620000,
+          "isOld": false
+        },
+        {
+          "maker_id": 136,
+          "maker_name": "Porsche",
+          "car_id": 3439,
+          "car_name": "911 Carrera RS (993) '95",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 35,
+              "maker_name": "RUF",
+              "car_id": "3398",
+              "car_name": "CTR3 '07",
+              "engine_name": "CTR38-CTR3"
+            }
+          ],
+          "price": 215200,
+          "price_jp": 21520000,
+          "isOld": true
+        },
+        {
+          "maker_id": 112,
+          "maker_name": "Lamborghini",
+          "car_id": 1481,
+          "car_name": "Countach 25th Anniversary '88",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [
+            {
+              "maker_id": 112,
+              "maker_name": "Lamborghini",
+              "car_id": "3392",
+              "car_name": "Aventador LP 750-4 SV '15",
+              "engine_name": "L539-Aventador-SV"
+            }
+          ],
+          "price": 659700,
+          "price_jp": 65970000,
+          "isOld": true
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 153,
+          "maker_name": "AMG",
+          "car_id": 3388,
+          "car_name": "300 SEL 6.8 AMG '71",
+          "car_group": "X",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [],
+          "price": 700000,
+          "price_jp": 70000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260527,
       "date": "2026/5/27",
@@ -1273,92 +1404,6 @@
         }
       ],
       "legend": []
-    },
-    {
-      "id": 20260514,
-      "date": "2026/5/14",
-      "used": [
-        {
-          "maker_id": 39,
-          "maker_name": "Suzuki",
-          "car_id": 1385,
-          "car_name": "Swift Sport '07",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [],
-          "price": 12400,
-          "price_jp": 1240000,
-          "isOld": false
-        },
-        {
-          "maker_id": 110,
-          "maker_name": "Ferrari",
-          "car_id": 1544,
-          "car_name": "430 Scuderia '07",
-          "car_group": null,
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 358700,
-          "price_jp": 35870000,
-          "isOld": false
-        },
-        {
-          "maker_id": 6,
-          "maker_name": "BMW",
-          "car_id": 1399,
-          "car_name": "M3 '07",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [
-            {
-              "maker_id": 6,
-              "maker_name": "BMW",
-              "car_id": "1902",
-              "car_name": "Z4 GT3 '11",
-              "engine_name": "P65B44-Z4"
-            }
-          ],
-          "price": 81700,
-          "price_jp": 8170000,
-          "isOld": false
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 140,
-          "maker_name": "De Tomaso",
-          "car_id": 3505,
-          "car_name": "Mangusta (Christian Dior)",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 500000,
-          "price_jp": 50000000,
-          "isOld": null
-        },
-        {
-          "maker_id": 110,
-          "maker_name": "Ferrari",
-          "car_id": 2018,
-          "car_name": "365 GTB4 '71",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 595000,
-          "price_jp": 59500000,
-          "isOld": true
-        }
-      ]
     }
   ]
 }
