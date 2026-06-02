@@ -1,6 +1,80 @@
 {
-  "timestamp": "2026-06-01T02:03:13.440315+00:00",
+  "timestamp": "2026-06-02T02:04:40.616347+00:00",
   "content": [
+    {
+      "id": 20260602,
+      "date": "2026/6/2",
+      "used": [
+        {
+          "maker_id": 136,
+          "maker_name": "Porsche",
+          "car_id": 3385,
+          "car_name": "911 Turbo (930) '81",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 136,
+              "maker_name": "Porsche",
+              "car_id": "3311",
+              "car_name": "911 RSR (991) '17",
+              "engine_name": "M97/80-911"
+            }
+          ],
+          "price": 213800,
+          "price_jp": 21380000,
+          "isOld": true
+        },
+        {
+          "maker_id": 38,
+          "maker_name": "Subaru",
+          "car_id": 379,
+          "car_name": "Impreza Coupe WRX Type R STi Ver.VI '99",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 38,
+              "maker_name": "Subaru",
+              "car_id": "3550",
+              "car_name": "Impreza Rally Car '98",
+              "engine_name": "EJ20-Impreza-Rally"
+            }
+          ],
+          "price": 62700,
+          "price_jp": 6270000,
+          "isOld": true
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 43,
+          "maker_name": "Toyota",
+          "car_id": 3584,
+          "car_name": "Land Cruiser FJ40V '74",
+          "car_group": null,
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 151,
+              "maker_name": "Roadster Shop",
+              "car_id": "3426",
+              "car_name": "Roadster Shop Rampage",
+              "engine_name": "LS7-Rampage"
+            }
+          ],
+          "price": 50900,
+          "price_jp": 5090000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260601,
       "date": "2026/6/1",
@@ -1091,108 +1165,6 @@
         }
       ],
       "legend": []
-    },
-    {
-      "id": 20260519,
-      "date": "2026/5/19",
-      "used": [
-        {
-          "maker_id": 43,
-          "maker_name": "Toyota",
-          "car_id": 810,
-          "car_name": "Sprinter Trueno 1600GT APEX (AE86) '83",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 43,
-              "maker_name": "Toyota",
-              "car_id": "207",
-              "car_name": "MR2 GT-S '97",
-              "engine_name": "3S-GTE-MR2"
-            }
-          ],
-          "price": 53300,
-          "price_jp": 5330000,
-          "isOld": true
-        },
-        {
-          "maker_id": 46,
-          "maker_name": "Volkswagen",
-          "car_id": 1773,
-          "car_name": "Scirocco R '10",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [],
-          "price": 37500,
-          "price_jp": 3750000,
-          "isOld": false
-        },
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 3524,
-          "car_name": "GT-R NISMO (R32) '90",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "3345",
-              "car_name": "GT-R NISMO '17",
-              "engine_name": "VR38DETT-GT-R-NISMO"
-            }
-          ],
-          "price": 396300,
-          "price_jp": 39630000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 32,
-          "maker_name": "Peugeot",
-          "car_id": 105,
-          "car_name": "205 Turbo 16 Evolution 2 '86",
-          "car_group": "B",
-          "country_id": 6,
-          "country_name": "France",
-          "country_code": "fr",
-          "engine_swaps": [],
-          "price": 1000000,
-          "price_jp": 100000000,
-          "isOld": true
-        },
-        {
-          "maker_id": 13,
-          "maker_name": "Ford",
-          "car_id": 3487,
-          "car_name": "Mustang Boss 429 '69",
-          "car_group": "N",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [
-            {
-              "maker_id": 13,
-              "maker_name": "Ford",
-              "car_id": "3391",
-              "car_name": "Shelby GT350R '16",
-              "engine_name": "Voodoo-5.2L-GT350R"
-            }
-          ],
-          "price": 335000,
-          "price_jp": 33500000,
-          "isOld": true
-        }
-      ]
     }
   ]
 }
