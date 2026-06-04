@@ -1,6 +1,56 @@
 {
-  "timestamp": "2026-06-03T02:13:06.586949+00:00",
+  "timestamp": "2026-06-04T02:11:22.217970+00:00",
   "content": [
+    {
+      "id": 20260604,
+      "date": "2026/6/4",
+      "used": [
+        {
+          "maker_id": 112,
+          "maker_name": "Lamborghini",
+          "car_id": 1990,
+          "car_name": "Diablo GT '00",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 785300,
+          "price_jp": 78530000,
+          "isOld": true
+        },
+        {
+          "maker_id": 110,
+          "maker_name": "Ferrari",
+          "car_id": 3434,
+          "car_name": "Testarossa '91",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 368500,
+          "price_jp": 36850000,
+          "isOld": true
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 7,
+          "maker_name": "Chevrolet",
+          "car_id": 2059,
+          "car_name": "Corvette Stingray Racer Concept '59",
+          "car_group": "X",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [],
+          "price": 7000000,
+          "price_jp": 700000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260603,
       "date": "2026/6/3",
@@ -1134,41 +1184,6 @@
           "price": 166100,
           "price_jp": 16610000,
           "isOld": true
-        }
-      ],
-      "legend": []
-    },
-    {
-      "id": 20260521,
-      "date": "2026/5/21",
-      "used": [
-        {
-          "maker_id": 32,
-          "maker_name": "Peugeot",
-          "car_id": 3564,
-          "car_name": "205 GTI '88",
-          "car_group": null,
-          "country_id": 6,
-          "country_name": "France",
-          "country_code": "fr",
-          "engine_swaps": [],
-          "price": 57600,
-          "price_jp": 5760000,
-          "isOld": true
-        },
-        {
-          "maker_id": 22,
-          "maker_name": "Mercedes-Benz",
-          "car_id": 1528,
-          "car_name": "SLR McLaren '09",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [],
-          "price": 491700,
-          "price_jp": 49170000,
-          "isOld": false
         }
       ],
       "legend": []
