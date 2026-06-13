@@ -1,6 +1,78 @@
 {
-  "timestamp": "2026-06-12T02:01:25.757993+00:00",
+  "timestamp": "2026-06-13T01:54:18.718472+00:00",
   "content": [
+    {
+      "id": 20260613,
+      "date": "2026/6/13",
+      "used": [
+        {
+          "maker_id": 15,
+          "maker_name": "Honda",
+          "car_id": 3563,
+          "car_name": "Civic Si Extra (EF) '87",
+          "car_group": null,
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 15,
+              "maker_name": "Honda",
+              "car_id": "203",
+              "car_name": "Integra Type R (DC2) '98",
+              "engine_name": "B18C-Integra-'98"
+            }
+          ],
+          "price": 55100,
+          "price_jp": 5510000,
+          "isOld": true
+        },
+        {
+          "maker_id": 5,
+          "maker_name": "Audi",
+          "car_id": 1365,
+          "car_name": "R8 4.2 '07",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [],
+          "price": 137900,
+          "price_jp": 13790000,
+          "isOld": false
+        },
+        {
+          "maker_id": 112,
+          "maker_name": "Lamborghini",
+          "car_id": 1506,
+          "car_name": "Gallardo LP 560-4 '08",
+          "car_group": null,
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 251300,
+          "price_jp": 25130000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 22,
+          "maker_name": "Mercedes-Benz",
+          "car_id": 3441,
+          "car_name": "300 SL (W194) '52",
+          "car_group": "X",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [],
+          "price": 20000000,
+          "price_jp": 2000000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260612,
       "date": "2026/6/12",
@@ -1023,50 +1095,6 @@
         }
       ],
       "legend": []
-    },
-    {
-      "id": 20260530,
-      "date": "2026/5/30",
-      "used": [
-        {
-          "maker_id": 110,
-          "maker_name": "Ferrari",
-          "car_id": 1895,
-          "car_name": "Dino 246 GT '71",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 346000,
-          "price_jp": 34600000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 110,
-          "maker_name": "Ferrari",
-          "car_id": 1409,
-          "car_name": "F40 '92",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [
-            {
-              "maker_id": 110,
-              "maker_name": "Ferrari",
-              "car_id": "1474",
-              "car_name": "Enzo Ferrari '02",
-              "engine_name": "F140B-Enzo"
-            }
-          ],
-          "price": 3400000,
-          "price_jp": 340000000,
-          "isOld": true
-        }
-      ]
     }
   ]
 }
