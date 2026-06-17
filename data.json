@@ -1,6 +1,136 @@
 {
-  "timestamp": "2026-06-16T02:12:42.957261+00:00",
+  "timestamp": "2026-06-17T02:06:51.841510+00:00",
   "content": [
+    {
+      "id": 20260617,
+      "date": "2026/6/17",
+      "used": [
+        {
+          "maker_id": 69,
+          "maker_name": "Volvo",
+          "car_id": 3549,
+          "car_name": "240 SE Estate '93",
+          "car_group": "N",
+          "country_id": 12,
+          "country_name": "Sweden",
+          "country_code": "se",
+          "engine_swaps": [],
+          "price": 48600,
+          "price_jp": 4860000,
+          "isOld": true
+        },
+        {
+          "maker_id": 43,
+          "maker_name": "Toyota",
+          "car_id": 1044,
+          "car_name": "Sports 800 '65",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [],
+          "price": 43800,
+          "price_jp": 4380000,
+          "isOld": true
+        },
+        {
+          "maker_id": 12,
+          "maker_name": "Fiat",
+          "car_id": 1527,
+          "car_name": "500 1.2 8V Lounge SS '08",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 12500,
+          "price_jp": 1250000,
+          "isOld": false
+        },
+        {
+          "maker_id": 43,
+          "maker_name": "Toyota",
+          "car_id": 3471,
+          "car_name": "Celica GT-Four (ST205) '94",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 50,
+              "maker_name": "Lexus",
+              "car_id": "1516",
+              "car_name": "SC430 GT500 '08",
+              "engine_name": "3UZ-FE-SC430"
+            }
+          ],
+          "price": 65500,
+          "price_jp": 6550000,
+          "isOld": true
+        },
+        {
+          "maker_id": 136,
+          "maker_name": "Porsche",
+          "car_id": 3359,
+          "car_name": "911 GT3 (997) '09",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 136,
+              "maker_name": "Porsche",
+              "car_id": "3311",
+              "car_name": "911 RSR (991) '17",
+              "engine_name": "M97/80-911"
+            }
+          ],
+          "price": 141900,
+          "price_jp": 14190000,
+          "isOld": false
+        },
+        {
+          "maker_id": 112,
+          "maker_name": "Lamborghini",
+          "car_id": 1545,
+          "car_name": "Murcielago LP 640 '09",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 316200,
+          "price_jp": 31620000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 36,
+          "maker_name": "Shelby",
+          "car_id": 1925,
+          "car_name": "G.T.350 '65",
+          "car_group": "N",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [
+            {
+              "maker_id": 13,
+              "maker_name": "Ford",
+              "car_id": "3391",
+              "car_name": "Shelby GT350R '16",
+              "engine_name": "Voodoo-5.2L-GT350R"
+            }
+          ],
+          "price": 501000,
+          "price_jp": 50100000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260616,
       "date": "2026/6/16",
@@ -1190,86 +1320,6 @@
           "engine_swaps": [],
           "price": 7000000,
           "price_jp": 700000000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20260603,
-      "date": "2026/6/3",
-      "used": [
-        {
-          "maker_id": 25,
-          "maker_name": "Mitsubishi",
-          "car_id": 211,
-          "car_name": "Lancer Evolution V GSR '98",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 25,
-              "maker_name": "Mitsubishi",
-              "car_id": "3230",
-              "car_name": "Lancer Evolution Final Gr.B Rally Car",
-              "engine_name": "Evo-Final-Gr.B"
-            }
-          ],
-          "price": 73400,
-          "price_jp": 7340000,
-          "isOld": true
-        },
-        {
-          "maker_id": 43,
-          "maker_name": "Toyota",
-          "car_id": 843,
-          "car_name": "Supra 3.0GT Turbo A '88",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 43,
-              "maker_name": "Toyota",
-              "car_id": "82",
-              "car_name": "Supra RZ '97",
-              "engine_name": "2JZ-GTE-Supra"
-            }
-          ],
-          "price": 116800,
-          "price_jp": 11680000,
-          "isOld": true
-        },
-        {
-          "maker_id": 35,
-          "maker_name": "RUF",
-          "car_id": 3398,
-          "car_name": "CTR3 '07",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [],
-          "price": 788800,
-          "price_jp": 78880000,
-          "isOld": false
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 38,
-          "maker_name": "Subaru",
-          "car_id": 3550,
-          "car_name": "Impreza Rally Car '98",
-          "car_group": null,
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [],
-          "price": 650000,
-          "price_jp": 65000000,
           "isOld": true
         }
       ]
