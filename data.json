@@ -1,6 +1,150 @@
 {
-  "timestamp": "2026-06-17T02:06:51.841510+00:00",
+  "timestamp": "2026-06-18T02:04:38.255621+00:00",
   "content": [
+    {
+      "id": 20260618,
+      "date": "2026/6/18",
+      "used": [
+        {
+          "maker_id": 34,
+          "maker_name": "Renault",
+          "car_id": 3603,
+          "car_name": "Twingo '93",
+          "car_group": null,
+          "country_id": 6,
+          "country_name": "France",
+          "country_code": "fr",
+          "engine_swaps": [],
+          "price": 14000,
+          "price_jp": 1400000,
+          "isOld": true
+        },
+        {
+          "maker_id": 34,
+          "maker_name": "Renault",
+          "car_id": 3603,
+          "car_name": "Twingo '93",
+          "car_group": null,
+          "country_id": 6,
+          "country_name": "France",
+          "country_code": "fr",
+          "engine_swaps": [],
+          "price": 14000,
+          "price_jp": 1400000,
+          "isOld": true
+        },
+        {
+          "maker_id": 34,
+          "maker_name": "Renault",
+          "car_id": 3603,
+          "car_name": "Twingo '93",
+          "car_group": null,
+          "country_id": 6,
+          "country_name": "France",
+          "country_code": "fr",
+          "engine_swaps": [],
+          "price": 14000,
+          "price_jp": 1400000,
+          "isOld": true
+        },
+        {
+          "maker_id": 15,
+          "maker_name": "Honda",
+          "car_id": 821,
+          "car_name": "Civic Type R (EK) '97",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 157,
+              "maker_name": "Garage RCR",
+              "car_id": "3526",
+              "car_name": "Civic",
+              "engine_name": "K24A-Civic"
+            }
+          ],
+          "price": 57000,
+          "price_jp": 5700000,
+          "isOld": true
+        },
+        {
+          "maker_id": 51,
+          "maker_name": "MINI",
+          "car_id": 3356,
+          "car_name": "Mini-Cooper 'S' '65",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 15,
+              "maker_name": "Honda",
+              "car_id": "3467",
+              "car_name": "Civic Type R Limited Edition (FK8) '20",
+              "engine_name": "K20C1-Civic-'20"
+            }
+          ],
+          "price": 42800,
+          "price_jp": 4280000,
+          "isOld": true
+        },
+        {
+          "maker_id": 25,
+          "maker_name": "Mitsubishi",
+          "car_id": 51,
+          "car_name": "FTO GP Version R '97",
+          "car_group": null,
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [],
+          "price": 26200,
+          "price_jp": 2620000,
+          "isOld": true
+        },
+        {
+          "maker_id": 28,
+          "maker_name": "Nissan",
+          "car_id": 1458,
+          "car_name": "Fairlady Z (Z34) '08",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 28,
+              "maker_name": "Nissan",
+              "car_id": "1466",
+              "car_name": "GT-R GT500 '08",
+              "engine_name": "VK45DE-GT-R"
+            }
+          ],
+          "price": 32900,
+          "price_jp": 3290000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 86,
+          "maker_name": "Alpine",
+          "car_id": 3457,
+          "car_name": "A220 Race Car '68",
+          "car_group": "X",
+          "country_id": 6,
+          "country_name": "France",
+          "country_code": "fr",
+          "engine_swaps": [],
+          "price": 330000,
+          "price_jp": 33000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260617,
       "date": "2026/6/17",
@@ -1270,56 +1414,6 @@
           "engine_swaps": [],
           "price": 2000000,
           "price_jp": 200000000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20260604,
-      "date": "2026/6/4",
-      "used": [
-        {
-          "maker_id": 112,
-          "maker_name": "Lamborghini",
-          "car_id": 1990,
-          "car_name": "Diablo GT '00",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 785300,
-          "price_jp": 78530000,
-          "isOld": true
-        },
-        {
-          "maker_id": 110,
-          "maker_name": "Ferrari",
-          "car_id": 3434,
-          "car_name": "Testarossa '91",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 368500,
-          "price_jp": 36850000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 7,
-          "maker_name": "Chevrolet",
-          "car_id": 2059,
-          "car_name": "Corvette Stingray Racer Concept '59",
-          "car_group": "X",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [],
-          "price": 7000000,
-          "price_jp": 700000000,
           "isOld": true
         }
       ]
