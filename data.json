@@ -1,6 +1,64 @@
 {
-  "timestamp": "2026-07-03T01:20:26.952468+00:00",
+  "timestamp": "2026-07-04T01:20:24.000063+00:00",
   "content": [
+    {
+      "id": 20260704,
+      "date": "2026/7/4",
+      "used": [
+        {
+          "maker_id": 12,
+          "maker_name": "Fiat",
+          "car_id": 1523,
+          "car_name": "500 F '68",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [
+            {
+              "maker_id": 15,
+              "maker_name": "Honda",
+              "car_id": "2156",
+              "car_name": "2&4 powered by RC213V",
+              "engine_name": "SE75E-2&4"
+            }
+          ],
+          "price": 18300,
+          "price_jp": 1830000,
+          "isOld": true
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 22,
+          "maker_name": "Mercedes-Benz",
+          "car_id": 3428,
+          "car_name": "S Barker Tourer '29",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [],
+          "price": 13000000,
+          "price_jp": 1300000000,
+          "isOld": true
+        },
+        {
+          "maker_id": 22,
+          "maker_name": "Mercedes-Benz",
+          "car_id": 387,
+          "car_name": "300 SL Coupe '54",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [],
+          "price": 1650000,
+          "price_jp": 165000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260703,
       "date": "2026/7/3",
@@ -1240,27 +1298,6 @@
           "isOld": true
         }
       ]
-    },
-    {
-      "id": 20260620,
-      "date": "2026/6/20",
-      "used": [
-        {
-          "maker_id": 5,
-          "maker_name": "Audi",
-          "car_id": 959,
-          "car_name": "TT Coupe 3.2 quattro '03",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [],
-          "price": 49800,
-          "price_jp": 4980000,
-          "isOld": false
-        }
-      ],
-      "legend": []
     }
   ]
 }
