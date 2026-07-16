@@ -1,6 +1,84 @@
 {
-  "timestamp": "2026-07-15T21:56:08.524835+00:00",
+  "timestamp": "2026-07-16T01:10:42.072615+00:00",
   "content": [
+    {
+      "id": 20260716,
+      "date": "2026/7/16",
+      "used": [
+        {
+          "maker_id": 43,
+          "maker_name": "Toyota",
+          "car_id": 1537,
+          "car_name": "Prius G '09",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [],
+          "price": 19600,
+          "price_jp": 1960000,
+          "isOld": false
+        },
+        {
+          "maker_id": 11,
+          "maker_name": "Dodge",
+          "car_id": 1402,
+          "car_name": "Viper SRT10 Coupe '06",
+          "car_group": "N",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [],
+          "price": 115800,
+          "price_jp": 11580000,
+          "isOld": false
+        },
+        {
+          "maker_id": 112,
+          "maker_name": "Lamborghini",
+          "car_id": 1990,
+          "car_name": "Diablo GT '00",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 786300,
+          "price_jp": 78630000,
+          "isOld": true
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 43,
+          "maker_name": "Toyota",
+          "car_id": 116,
+          "car_name": "GT-One (TS020) '99",
+          "car_group": null,
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [],
+          "price": 2500000,
+          "price_jp": 250000000,
+          "isOld": true
+        },
+        {
+          "maker_id": 21,
+          "maker_name": "Mazda",
+          "car_id": 1975,
+          "car_name": "RX500 '70",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [],
+          "price": 600000,
+          "price_jp": 60000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260715,
       "date": "2026/7/15",
@@ -1161,85 +1239,6 @@
           "isOld": true
         }
       ]
-    },
-    {
-      "id": 20260702,
-      "date": "2026/7/2",
-      "used": [
-        {
-          "maker_id": 18,
-          "maker_name": "Lancia",
-          "car_id": 829,
-          "car_name": "Delta HF Integrale Evoluzione '91",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "3345",
-              "car_name": "GT-R NISMO '17",
-              "engine_name": "VR38DETT-GT-R-NISMO"
-            }
-          ],
-          "price": 104400,
-          "price_jp": 10440000,
-          "isOld": true
-        },
-        {
-          "maker_id": 32,
-          "maker_name": "Peugeot",
-          "car_id": 3564,
-          "car_name": "205 GTI '88",
-          "car_group": null,
-          "country_id": 6,
-          "country_name": "France",
-          "country_code": "fr",
-          "engine_swaps": [],
-          "price": 53500,
-          "price_jp": 5350000,
-          "isOld": true
-        },
-        {
-          "maker_id": 110,
-          "maker_name": "Ferrari",
-          "car_id": 1378,
-          "car_name": "F430 '06",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 206600,
-          "price_jp": 20660000,
-          "isOld": false
-        },
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 3524,
-          "car_name": "GT-R NISMO (R32) '90",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "3345",
-              "car_name": "GT-R NISMO '17",
-              "engine_name": "VR38DETT-GT-R-NISMO"
-            }
-          ],
-          "price": 397700,
-          "price_jp": 39770000,
-          "isOld": true
-        }
-      ],
-      "legend": []
     }
   ]
 }
