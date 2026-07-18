@@ -1,6 +1,49 @@
 {
-  "timestamp": "2026-07-17T01:15:06.334715+00:00",
+  "timestamp": "2026-07-18T01:07:05.102225+00:00",
   "content": [
+    {
+      "id": 20260718,
+      "date": "2026/7/18",
+      "used": [
+        {
+          "maker_id": 15,
+          "maker_name": "Honda",
+          "car_id": 135,
+          "car_name": "S800 '66",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 15,
+              "maker_name": "Honda",
+              "car_id": "2156",
+              "car_name": "2&4 powered by RC213V",
+              "engine_name": "SE75E-2&4"
+            }
+          ],
+          "price": 49300,
+          "price_jp": 4930000,
+          "isOld": true
+        },
+        {
+          "maker_id": 110,
+          "maker_name": "Ferrari",
+          "car_id": 1895,
+          "car_name": "Dino 246 GT '71",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 343200,
+          "price_jp": 34320000,
+          "isOld": true
+        }
+      ],
+      "legend": []
+    },
     {
       "id": 20260717,
       "date": "2026/7/17",
@@ -1222,64 +1265,6 @@
           "engine_swaps": [],
           "price": 17500000,
           "price_jp": 1750000000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20260704,
-      "date": "2026/7/4",
-      "used": [
-        {
-          "maker_id": 12,
-          "maker_name": "Fiat",
-          "car_id": 1523,
-          "car_name": "500 F '68",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [
-            {
-              "maker_id": 15,
-              "maker_name": "Honda",
-              "car_id": "2156",
-              "car_name": "2&4 powered by RC213V",
-              "engine_name": "SE75E-2&4"
-            }
-          ],
-          "price": 18300,
-          "price_jp": 1830000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 22,
-          "maker_name": "Mercedes-Benz",
-          "car_id": 3428,
-          "car_name": "S Barker Tourer '29",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [],
-          "price": 13000000,
-          "price_jp": 1300000000,
-          "isOld": true
-        },
-        {
-          "maker_id": 22,
-          "maker_name": "Mercedes-Benz",
-          "car_id": 387,
-          "car_name": "300 SL Coupe '54",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [],
-          "price": 1650000,
-          "price_jp": 165000000,
           "isOld": true
         }
       ]
