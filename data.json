@@ -1,6 +1,27 @@
 {
-  "timestamp": "2026-07-19T01:11:45.667874+00:00",
+  "timestamp": "2026-07-20T01:15:20.079526+00:00",
   "content": [
+    {
+      "id": 20260720,
+      "date": "2026/7/20",
+      "used": [
+        {
+          "maker_id": 12,
+          "maker_name": "Fiat",
+          "car_id": 3575,
+          "car_name": "Panda 30 CL '85",
+          "car_group": null,
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 11400,
+          "price_jp": 1140000,
+          "isOld": true
+        }
+      ],
+      "legend": []
+    },
     {
       "id": 20260719,
       "date": "2026/7/19",
@@ -1112,108 +1133,6 @@
           "engine_swaps": [],
           "price": 1600000,
           "price_jp": 160000000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20260706,
-      "date": "2026/7/6",
-      "used": [
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 48,
-          "car_name": "Fairlady 240ZG (HS30) '71",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 151,
-              "maker_name": "Roadster Shop",
-              "car_id": "3426",
-              "car_name": "Roadster Shop Rampage",
-              "engine_name": "LS7-Rampage"
-            }
-          ],
-          "price": 107800,
-          "price_jp": 10780000,
-          "isOld": true
-        },
-        {
-          "maker_id": 3,
-          "maker_name": "Alfa Romeo",
-          "car_id": 1933,
-          "car_name": "MiTo '09",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 21200,
-          "price_jp": 2120000,
-          "isOld": false
-        },
-        {
-          "maker_id": 25,
-          "maker_name": "Mitsubishi",
-          "car_id": 931,
-          "car_name": "Lancer Evolution III GSR '95",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 25,
-              "maker_name": "Mitsubishi",
-              "car_id": "3230",
-              "car_name": "Lancer Evolution Final Gr.B Rally Car",
-              "engine_name": "Evo-Final-Gr.B"
-            }
-          ],
-          "price": 84600,
-          "price_jp": 8460000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 11,
-          "maker_name": "Dodge",
-          "car_id": 3538,
-          "car_name": "Charger R/T 426 Hemi '68",
-          "car_group": "N",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [
-            {
-              "maker_id": 11,
-              "maker_name": "Dodge",
-              "car_id": "3486",
-              "car_name": "Challenger SRT Demon '18",
-              "engine_name": "Demon-Challenger"
-            }
-          ],
-          "price": 134000,
-          "price_jp": 13400000,
-          "isOld": true
-        },
-        {
-          "maker_id": 110,
-          "maker_name": "Ferrari",
-          "car_id": 1931,
-          "car_name": "250 GT Berlinetta passo corto '61",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 6600000,
-          "price_jp": 660000000,
           "isOld": true
         }
       ]
