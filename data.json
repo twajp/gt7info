@@ -1,6 +1,72 @@
 {
-  "timestamp": "2026-07-23T01:16:52.042548+00:00",
+  "timestamp": "2026-07-24T01:13:38.134277+00:00",
   "content": [
+    {
+      "id": 20260724,
+      "date": "2026/7/24",
+      "used": [
+        {
+          "maker_id": 15,
+          "maker_name": "Honda",
+          "car_id": 137,
+          "car_name": "Beat '91",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 15,
+              "maker_name": "Honda",
+              "car_id": "3467",
+              "car_name": "Civic Type R Limited Edition (FK8) '20",
+              "engine_name": "K20C1-Civic-'20"
+            }
+          ],
+          "price": 15000,
+          "price_jp": 1500000,
+          "isOld": true
+        },
+        {
+          "maker_id": 25,
+          "maker_name": "Mitsubishi",
+          "car_id": 301,
+          "car_name": "Lancer Evolution IV GSR '96",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 25,
+              "maker_name": "Mitsubishi",
+              "car_id": "3230",
+              "car_name": "Lancer Evolution Final Gr.B Rally Car",
+              "engine_name": "Evo-Final-Gr.B"
+            }
+          ],
+          "price": 46300,
+          "price_jp": 4630000,
+          "isOld": true
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 116,
+          "maker_name": "Maserati",
+          "car_id": 3421,
+          "car_name": "Merak SS '80",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 61500,
+          "price_jp": 6150000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260723,
       "date": "2026/7/23",
@@ -1043,79 +1109,6 @@
           ],
           "price": 661000,
           "price_jp": 66100000,
-          "isOld": true
-        }
-      ],
-      "legend": []
-    },
-    {
-      "id": 20260710,
-      "date": "2026/7/10",
-      "used": [
-        {
-          "maker_id": 46,
-          "maker_name": "Volkswagen",
-          "car_id": 1778,
-          "car_name": "Volkswagen 1200 '66",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [
-            {
-              "maker_id": 136,
-              "maker_name": "Porsche",
-              "car_id": "3431",
-              "car_name": "911 Carrera RS (964) '92",
-              "engine_name": "M64/03-911"
-            }
-          ],
-          "price": 32900,
-          "price_jp": 3290000,
-          "isOld": true
-        },
-        {
-          "maker_id": 6,
-          "maker_name": "BMW",
-          "car_id": 3551,
-          "car_name": "M3 '97",
-          "car_group": null,
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [
-            {
-              "maker_id": 38,
-              "maker_name": "Subaru",
-              "car_id": "3339",
-              "car_name": "BRZ Drift Car '17",
-              "engine_name": "LS7-BRZ"
-            }
-          ],
-          "price": 85400,
-          "price_jp": 8540000,
-          "isOld": true
-        },
-        {
-          "maker_id": 136,
-          "maker_name": "Porsche",
-          "car_id": 3404,
-          "car_name": "911 Carrera RS CS (993) '95",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [
-            {
-              "maker_id": 136,
-              "maker_name": "Porsche",
-              "car_id": "3539",
-              "car_name": "911 GT3 RS (992) '22",
-              "engine_name": "MDYA-911"
-            }
-          ],
-          "price": 413100,
-          "price_jp": 41310000,
           "isOld": true
         }
       ],
