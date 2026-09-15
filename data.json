@@ -1,6 +1,78 @@
 {
-  "timestamp": "2026-09-14T01:44:50.038609+00:00",
+  "timestamp": "2026-09-15T01:55:42.489044+00:00",
   "content": [
+    {
+      "id": 20260915,
+      "date": "2026/9/15",
+      "used": [
+        {
+          "maker_id": 39,
+          "maker_name": "Suzuki",
+          "car_id": 1385,
+          "car_name": "Swift Sport '07",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [],
+          "price": 13300,
+          "price_jp": 1330000,
+          "isOld": false
+        },
+        {
+          "maker_id": 140,
+          "maker_name": "De Tomaso",
+          "car_id": 3341,
+          "car_name": "Pantera '71",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [
+            {
+              "maker_id": 13,
+              "maker_name": "Ford",
+              "car_id": "2138",
+              "car_name": "Mustang GT '15",
+              "engine_name": "Coyote-5.0L-Mustang"
+            }
+          ],
+          "price": 164000,
+          "price_jp": 16400000,
+          "isOld": true
+        },
+        {
+          "maker_id": 5,
+          "maker_name": "Audi",
+          "car_id": 1541,
+          "car_name": "TTS Coupe '09",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [],
+          "price": 55800,
+          "price_jp": 5580000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 3,
+          "maker_name": "Alfa Romeo",
+          "car_id": 1645,
+          "car_name": "GIULIA TZ2 carrozzata da ZAGATO '65",
+          "car_group": "X",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 3850000,
+          "price_jp": 385000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260914,
       "date": "2026/9/14",
@@ -1111,156 +1183,6 @@
           "engine_swaps": [],
           "price": 650000,
           "price_jp": 65000000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20260901,
-      "date": "2026/9/1",
-      "used": [
-        {
-          "maker_id": 43,
-          "maker_name": "Toyota",
-          "car_id": 3612,
-          "car_name": "Chaser Tourer V '97",
-          "car_group": null,
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [],
-          "price": 70000,
-          "price_jp": 7000000,
-          "isOld": true
-        },
-        {
-          "maker_id": 43,
-          "maker_name": "Toyota",
-          "car_id": 3611,
-          "car_name": "Mark II Tourer V '97",
-          "car_group": null,
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [],
-          "price": 70000,
-          "price_jp": 7000000,
-          "isOld": true
-        },
-        {
-          "maker_id": 12,
-          "maker_name": "Fiat",
-          "car_id": 3575,
-          "car_name": "Panda 30 CL '85",
-          "car_group": null,
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 10300,
-          "price_jp": 1030000,
-          "isOld": true
-        },
-        {
-          "maker_id": 9,
-          "maker_name": "Citroen",
-          "car_id": 3573,
-          "car_name": "BX 19 TRS '87",
-          "car_group": null,
-          "country_id": 6,
-          "country_name": "France",
-          "country_code": "fr",
-          "engine_swaps": [
-            {
-              "maker_id": 5,
-              "maker_name": "Audi",
-              "car_id": "1927",
-              "car_name": "Sport quattro S1 Pikes Peak '87",
-              "engine_name": "R5-20vT-Quattro-Pikes"
-            }
-          ],
-          "price": 23700,
-          "price_jp": 2370000,
-          "isOld": true
-        },
-        {
-          "maker_id": 116,
-          "maker_name": "Maserati",
-          "car_id": 1539,
-          "car_name": "GranTurismo S '08",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 137900,
-          "price_jp": 13790000,
-          "isOld": false
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 17,
-          "maker_name": "Jaguar",
-          "car_id": 3361,
-          "car_name": "E-type Coupe '61",
-          "car_group": "N",
-          "country_id": 4,
-          "country_name": "United Kingdom",
-          "country_code": "gb",
-          "engine_swaps": [],
-          "price": 186000,
-          "price_jp": 18600000,
-          "isOld": true
-        },
-        {
-          "maker_id": 136,
-          "maker_name": "Porsche",
-          "car_id": 3440,
-          "car_name": "911 Turbo S Leichtbau (964) '93",
-          "car_group": null,
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [],
-          "price": 1200000,
-          "price_jp": 120000000,
-          "isOld": true
-        },
-        {
-          "maker_id": 136,
-          "maker_name": "Porsche",
-          "car_id": 3365,
-          "car_name": "356 A/1500 GS GT Carrera Speedster '56",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [
-            {
-              "maker_id": 136,
-              "maker_name": "Porsche",
-              "car_id": "3519",
-              "car_name": "959 '87",
-              "engine_name": "959.50-959"
-            }
-          ],
-          "price": 1400000,
-          "price_jp": 140000000,
-          "isOld": true
-        },
-        {
-          "maker_id": 52,
-          "maker_name": "Pontiac",
-          "car_id": 3462,
-          "car_name": "GTO 'The Judge' '69",
-          "car_group": "N",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [],
-          "price": 196000,
-          "price_jp": 19600000,
           "isOld": true
         }
       ]
