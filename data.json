@@ -1,6 +1,182 @@
 {
-  "timestamp": "2026-09-19T01:41:09.503357+00:00",
+  "timestamp": "2026-09-20T01:43:02.970158+00:00",
   "content": [
+    {
+      "id": 20260920,
+      "date": "2026/9/20",
+      "used": [
+        {
+          "maker_id": 46,
+          "maker_name": "Volkswagen",
+          "car_id": 3403,
+          "car_name": "Golf I GTI '83",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 5,
+              "maker_name": "Audi",
+              "car_id": "1927",
+              "car_name": "Sport quattro S1 Pikes Peak '87",
+              "engine_name": "R5-20vT-Quattro-Pikes"
+            }
+          ],
+          "price": 48900,
+          "price_jp": 4890000,
+          "isOld": true
+        },
+        {
+          "maker_id": 43,
+          "maker_name": "Toyota",
+          "car_id": 810,
+          "car_name": "Sprinter Trueno 1600GT APEX (AE86) '83",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 43,
+              "maker_name": "Toyota",
+              "car_id": "207",
+              "car_name": "MR2 GT-S '97",
+              "engine_name": "3S-GTE-MR2"
+            }
+          ],
+          "price": 49500,
+          "price_jp": 4950000,
+          "isOld": true
+        },
+        {
+          "maker_id": 43,
+          "maker_name": "Toyota",
+          "car_id": 207,
+          "car_name": "MR2 GT-S '97",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 5,
+              "maker_name": "Audi",
+              "car_id": "1365",
+              "car_name": "R8 4.2 '07",
+              "engine_name": "BYH-R8"
+            }
+          ],
+          "price": 59700,
+          "price_jp": 5970000,
+          "isOld": true
+        },
+        {
+          "maker_id": 15,
+          "maker_name": "Honda",
+          "car_id": 688,
+          "car_name": "Integra Type R (DC2) '95",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 157,
+              "maker_name": "Garage RCR",
+              "car_id": "3526",
+              "car_name": "Civic",
+              "engine_name": "K24A-Civic"
+            }
+          ],
+          "price": 64700,
+          "price_jp": 6470000,
+          "isOld": true
+        },
+        {
+          "maker_id": 43,
+          "maker_name": "Toyota",
+          "car_id": 82,
+          "car_name": "Supra RZ '97",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 30,
+              "maker_name": "Pagani",
+              "car_id": "2050",
+              "car_name": "Huayra '13",
+              "engine_name": "M158-AMG-Huayra"
+            }
+          ],
+          "price": 189600,
+          "price_jp": 18960000,
+          "isOld": true
+        },
+        {
+          "maker_id": 110,
+          "maker_name": "Ferrari",
+          "car_id": 1544,
+          "car_name": "430 Scuderia '07",
+          "car_group": null,
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 348800,
+          "price_jp": 34880000,
+          "isOld": false
+        },
+        {
+          "maker_id": 21,
+          "maker_name": "Mazda",
+          "car_id": 205,
+          "car_name": "RX-7 Spirit R Type A (FD) '02",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 21,
+              "maker_name": "Mazda",
+              "car_id": "296",
+              "car_name": "787B '91",
+              "engine_name": "R26B-787B"
+            }
+          ],
+          "price": 220300,
+          "price_jp": 22030000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 155,
+          "maker_name": "NISMO",
+          "car_id": 3520,
+          "car_name": "400R '95",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 28,
+              "maker_name": "Nissan",
+              "car_id": "3345",
+              "car_name": "GT-R NISMO '17",
+              "engine_name": "VR38DETT-GT-R-NISMO"
+            }
+          ],
+          "price": 1300000,
+          "price_jp": 130000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260919,
       "date": "2026/9/19",
@@ -1011,63 +1187,6 @@
           "price": 132500,
           "price_jp": 13250000,
           "isOld": true
-        }
-      ],
-      "legend": []
-    },
-    {
-      "id": 20260906,
-      "date": "2026/9/6",
-      "used": [
-        {
-          "maker_id": 18,
-          "maker_name": "Lancia",
-          "car_id": 533,
-          "car_name": "Stratos '73",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 495800,
-          "price_jp": 49580000,
-          "isOld": true
-        },
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 104,
-          "car_name": "Sileighty '98",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 157,
-              "maker_name": "Garage RCR",
-              "car_id": "3526",
-              "car_name": "Civic",
-              "engine_name": "K24A-Civic"
-            }
-          ],
-          "price": 82000,
-          "price_jp": 8200000,
-          "isOld": true
-        },
-        {
-          "maker_id": 112,
-          "maker_name": "Lamborghini",
-          "car_id": 1506,
-          "car_name": "Gallardo LP 560-4 '08",
-          "car_group": null,
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 242700,
-          "price_jp": 24270000,
-          "isOld": false
         }
       ],
       "legend": []
