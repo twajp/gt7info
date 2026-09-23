@@ -1,6 +1,79 @@
 {
-  "timestamp": "2026-09-22T01:55:42.537021+00:00",
+  "timestamp": "2026-09-23T01:50:48.936058+00:00",
   "content": [
+    {
+      "id": 20260923,
+      "date": "2026/9/23",
+      "used": [
+        {
+          "maker_id": 6,
+          "maker_name": "BMW",
+          "car_id": 3344,
+          "car_name": "M3 Sport Evolution '89",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 43,
+              "maker_name": "Toyota",
+              "car_id": "3418",
+              "car_name": "GR Supra RZ '20",
+              "engine_name": "B58-GR-Supra-'20"
+            }
+          ],
+          "price": 162000,
+          "price_jp": 16200000,
+          "isOld": true
+        },
+        {
+          "maker_id": 6,
+          "maker_name": "BMW",
+          "car_id": 3389,
+          "car_name": "M3 '03",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 6,
+              "maker_name": "BMW",
+              "car_id": "1902",
+              "car_name": "Z4 GT3 '11",
+              "engine_name": "P65B44-Z4"
+            }
+          ],
+          "price": 72700,
+          "price_jp": 7270000,
+          "isOld": false
+        },
+        {
+          "maker_id": 136,
+          "maker_name": "Porsche",
+          "car_id": 3431,
+          "car_name": "911 Carrera RS (964) '92",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 136,
+              "maker_name": "Porsche",
+              "car_id": "3519",
+              "car_name": "959 '87",
+              "engine_name": "959.50-959"
+            }
+          ],
+          "price": 209400,
+          "price_jp": 20940000,
+          "isOld": true
+        }
+      ],
+      "legend": []
+    },
     {
       "id": 20260922,
       "date": "2026/9/22",
@@ -1284,70 +1357,6 @@
           "engine_swaps": [],
           "price": 20000000,
           "price_jp": 2000000000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20260909,
-      "date": "2026/9/9",
-      "used": [
-        {
-          "maker_id": 69,
-          "maker_name": "Volvo",
-          "car_id": 3549,
-          "car_name": "240 SE Estate '93",
-          "car_group": "N",
-          "country_id": 12,
-          "country_name": "Sweden",
-          "country_code": "se",
-          "engine_swaps": [],
-          "price": 42500,
-          "price_jp": 4250000,
-          "isOld": true
-        },
-        {
-          "maker_id": 43,
-          "maker_name": "Toyota",
-          "car_id": 1044,
-          "car_name": "Sports 800 '65",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [],
-          "price": 44900,
-          "price_jp": 4490000,
-          "isOld": true
-        },
-        {
-          "maker_id": 110,
-          "maker_name": "Ferrari",
-          "car_id": 1504,
-          "car_name": "458 Italia '09",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 247500,
-          "price_jp": 24750000,
-          "isOld": false
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 7,
-          "maker_name": "Chevrolet",
-          "car_id": 2059,
-          "car_name": "Corvette Stingray Racer Concept '59",
-          "car_group": "X",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [],
-          "price": 7000000,
-          "price_jp": 700000000,
           "isOld": true
         }
       ]
