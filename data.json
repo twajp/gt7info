@@ -1,6 +1,108 @@
 {
-  "timestamp": "2026-09-26T02:03:10.523008+00:00",
+  "timestamp": "2026-09-27T01:53:47.812328+00:00",
   "content": [
+    {
+      "id": 20260927,
+      "date": "2026/9/27",
+      "used": [
+        {
+          "maker_id": 3,
+          "maker_name": "Alfa Romeo",
+          "car_id": 3530,
+          "car_name": "Giulia Sprint GT Veloce '67",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [
+            {
+              "maker_id": 157,
+              "maker_name": "Garage RCR",
+              "car_id": "3526",
+              "car_name": "Civic",
+              "engine_name": "K24A-Civic"
+            }
+          ],
+          "price": 171900,
+          "price_jp": 17190000,
+          "isOld": true
+        },
+        {
+          "maker_id": 6,
+          "maker_name": "BMW",
+          "car_id": 1399,
+          "car_name": "M3 '07",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 6,
+              "maker_name": "BMW",
+              "car_id": "1902",
+              "car_name": "Z4 GT3 '11",
+              "engine_name": "P65B44-Z4"
+            }
+          ],
+          "price": 78900,
+          "price_jp": 7890000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 15,
+          "maker_name": "Honda",
+          "car_id": 3525,
+          "car_name": "RA272 '65",
+          "car_group": "X",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [],
+          "price": 2500000,
+          "price_jp": 250000000,
+          "isOld": true
+        },
+        {
+          "maker_id": 22,
+          "maker_name": "Mercedes-Benz",
+          "car_id": 575,
+          "car_name": "190 E 2.5-16 Evolution II '91",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 153,
+              "maker_name": "AMG",
+              "car_id": "3531",
+              "car_name": "GT3 '20",
+              "engine_name": "M159-AMG-GT3-'20"
+            }
+          ],
+          "price": 250000,
+          "price_jp": 25000000,
+          "isOld": true
+        },
+        {
+          "maker_id": 140,
+          "maker_name": "De Tomaso",
+          "car_id": 3437,
+          "car_name": "Mangusta '69",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 310000,
+          "price_jp": 31000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260926,
       "date": "2026/9/26",
@@ -1220,93 +1322,6 @@
           ],
           "price": 404700,
           "price_jp": 40470000,
-          "isOld": false
-        }
-      ],
-      "legend": []
-    },
-    {
-      "id": 20260913,
-      "date": "2026/9/13",
-      "used": [
-        {
-          "maker_id": 86,
-          "maker_name": "Alpine",
-          "car_id": 1796,
-          "car_name": "A110 '72",
-          "car_group": "N",
-          "country_id": 6,
-          "country_name": "France",
-          "country_code": "fr",
-          "engine_swaps": [
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "1448",
-              "car_name": "SILVIA spec-R Aero (S15) '02",
-              "engine_name": "SR20DET-Silvia-S15"
-            }
-          ],
-          "price": 143800,
-          "price_jp": 14380000,
-          "isOld": true
-        },
-        {
-          "maker_id": 10,
-          "maker_name": "Daihatsu",
-          "car_id": 145,
-          "car_name": "Copen '02",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [],
-          "price": 13400,
-          "price_jp": 1340000,
-          "isOld": false
-        },
-        {
-          "maker_id": 65,
-          "maker_name": "DMC",
-          "car_id": 1027,
-          "car_name": "DeLorean S2 '04",
-          "car_group": "N",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [
-            {
-              "maker_id": 151,
-              "maker_name": "Roadster Shop",
-              "car_id": "3426",
-              "car_name": "Roadster Shop Rampage",
-              "engine_name": "LS7-Rampage"
-            }
-          ],
-          "price": 433300,
-          "price_jp": 43330000,
-          "isOld": false
-        },
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 1458,
-          "car_name": "Fairlady Z (Z34) '08",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "1466",
-              "car_name": "GT-R GT500 '08",
-              "engine_name": "VK45DE-GT-R"
-            }
-          ],
-          "price": 37900,
-          "price_jp": 3790000,
           "isOld": false
         }
       ],
