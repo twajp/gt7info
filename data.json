@@ -1,6 +1,100 @@
 {
-  "timestamp": "2026-09-28T02:00:35.029844+00:00",
+  "timestamp": "2026-09-29T02:47:17.048962+00:00",
   "content": [
+    {
+      "id": 20260929,
+      "date": "2026/9/29",
+      "used": [
+        {
+          "maker_id": 15,
+          "maker_name": "Honda",
+          "car_id": 514,
+          "car_name": "S2000 '99",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 157,
+              "maker_name": "Garage RCR",
+              "car_id": "3526",
+              "car_name": "Civic",
+              "engine_name": "K24A-Civic"
+            }
+          ],
+          "price": 102900,
+          "price_jp": 10290000,
+          "isOld": true
+        },
+        {
+          "maker_id": 38,
+          "maker_name": "Subaru",
+          "car_id": 3432,
+          "car_name": "Impreza Sedan WRX STi '04",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 136,
+              "maker_name": "Porsche",
+              "car_id": "3558",
+              "car_name": "911 Turbo S (992) '20",
+              "engine_name": "DKH-911"
+            }
+          ],
+          "price": 49800,
+          "price_jp": 4980000,
+          "isOld": false
+        },
+        {
+          "maker_id": 28,
+          "maker_name": "Nissan",
+          "car_id": 1448,
+          "car_name": "SILVIA spec-R Aero (S15) '02",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 28,
+              "maker_name": "Nissan",
+              "car_id": "3345",
+              "car_name": "GT-R NISMO '17",
+              "engine_name": "VR38DETT-GT-R-NISMO"
+            },
+            {
+              "maker_id": 43,
+              "maker_name": "Toyota",
+              "car_id": "82",
+              "car_name": "Supra RZ '97",
+              "engine_name": "2JZ-GTE-Supra"
+            }
+          ],
+          "price": 58800,
+          "price_jp": 5880000,
+          "isOld": false
+        },
+        {
+          "maker_id": 22,
+          "maker_name": "Mercedes-Benz",
+          "car_id": 1528,
+          "car_name": "SLR McLaren '09",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [],
+          "price": 491400,
+          "price_jp": 49140000,
+          "isOld": false
+        }
+      ],
+      "legend": []
+    },
     {
       "id": 20260928,
       "date": "2026/9/28",
@@ -1316,78 +1410,6 @@
           "engine_swaps": [],
           "price": 6700000,
           "price_jp": 670000000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20260915,
-      "date": "2026/9/15",
-      "used": [
-        {
-          "maker_id": 39,
-          "maker_name": "Suzuki",
-          "car_id": 1385,
-          "car_name": "Swift Sport '07",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [],
-          "price": 13300,
-          "price_jp": 1330000,
-          "isOld": false
-        },
-        {
-          "maker_id": 140,
-          "maker_name": "De Tomaso",
-          "car_id": 3341,
-          "car_name": "Pantera '71",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [
-            {
-              "maker_id": 13,
-              "maker_name": "Ford",
-              "car_id": "2138",
-              "car_name": "Mustang GT '15",
-              "engine_name": "Coyote-5.0L-Mustang"
-            }
-          ],
-          "price": 164000,
-          "price_jp": 16400000,
-          "isOld": true
-        },
-        {
-          "maker_id": 5,
-          "maker_name": "Audi",
-          "car_id": 1541,
-          "car_name": "TTS Coupe '09",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [],
-          "price": 55800,
-          "price_jp": 5580000,
-          "isOld": false
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 3,
-          "maker_name": "Alfa Romeo",
-          "car_id": 1645,
-          "car_name": "GIULIA TZ2 carrozzata da ZAGATO '65",
-          "car_group": "X",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 3850000,
-          "price_jp": 385000000,
           "isOld": true
         }
       ]
