@@ -1,6 +1,57 @@
 {
-  "timestamp": "2026-09-29T02:47:17.048962+00:00",
+  "timestamp": "2026-09-30T02:27:19.328374+00:00",
   "content": [
+    {
+      "id": 20260930,
+      "date": "2026/9/30",
+      "used": [
+        {
+          "maker_id": 15,
+          "maker_name": "Honda",
+          "car_id": 37,
+          "car_name": "Civic SiR-II (EG) '93",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 15,
+              "maker_name": "Honda",
+              "car_id": "203",
+              "car_name": "Integra Type R (DC2) '98",
+              "engine_name": "B18C-Integra-'98"
+            }
+          ],
+          "price": 52500,
+          "price_jp": 5250000,
+          "isOld": true
+        },
+        {
+          "maker_id": 7,
+          "maker_name": "Chevrolet",
+          "car_id": 1480,
+          "car_name": "Corvette ZR1 (C6) '09",
+          "car_group": "N",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [
+            {
+              "maker_id": 113,
+              "maker_name": "Bugatti",
+              "car_id": "3473",
+              "car_name": "Chiron '16",
+              "engine_name": "8.0-WR16-64v4T-Chiron"
+            }
+          ],
+          "price": 104600,
+          "price_jp": 10460000,
+          "isOld": false
+        }
+      ],
+      "legend": []
+    },
     {
       "id": 20260929,
       "date": "2026/9/29",
@@ -1352,64 +1403,6 @@
           ],
           "price": 501000,
           "price_jp": 50100000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20260916,
-      "date": "2026/9/16",
-      "used": [
-        {
-          "maker_id": 51,
-          "maker_name": "MINI",
-          "car_id": 1370,
-          "car_name": "MINI Cooper S '05",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [
-            {
-              "maker_id": 157,
-              "maker_name": "Garage RCR",
-              "car_id": "3526",
-              "car_name": "Civic",
-              "engine_name": "K24A-Civic"
-            }
-          ],
-          "price": 21200,
-          "price_jp": 2120000,
-          "isOld": false
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 22,
-          "maker_name": "Mercedes-Benz",
-          "car_id": 998,
-          "car_name": "Sauber Mercedes C9 '89",
-          "car_group": "1",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [],
-          "price": 3500000,
-          "price_jp": 350000000,
-          "isOld": true
-        },
-        {
-          "maker_id": 13,
-          "maker_name": "Ford",
-          "car_id": 1935,
-          "car_name": "GT40 Mark I '66",
-          "car_group": "N",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [],
-          "price": 6700000,
-          "price_jp": 670000000,
           "isOld": true
         }
       ]
