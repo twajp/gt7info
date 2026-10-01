@@ -1,6 +1,72 @@
 {
-  "timestamp": "2026-09-30T02:27:19.328374+00:00",
+  "timestamp": "2026-10-01T02:29:46.829641+00:00",
   "content": [
+    {
+      "id": 20261001,
+      "date": "2026/10/1",
+      "used": [
+        {
+          "maker_id": 15,
+          "maker_name": "Honda",
+          "car_id": 203,
+          "car_name": "Integra Type R (DC2) '98",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 15,
+              "maker_name": "Honda",
+              "car_id": "3467",
+              "car_name": "Civic Type R Limited Edition (FK8) '20",
+              "engine_name": "K20C1-Civic-'20"
+            }
+          ],
+          "price": 59200,
+          "price_jp": 5920000,
+          "isOld": true
+        },
+        {
+          "maker_id": 25,
+          "maker_name": "Mitsubishi",
+          "car_id": 3424,
+          "car_name": "Lancer Evolution IX MR GSR '06",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 25,
+              "maker_name": "Mitsubishi",
+              "car_id": "3230",
+              "car_name": "Lancer Evolution Final Gr.B Rally Car",
+              "engine_name": "Evo-Final-Gr.B"
+            }
+          ],
+          "price": 91900,
+          "price_jp": 9190000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 15,
+          "maker_name": "Honda",
+          "car_id": 140,
+          "car_name": "NSX GT500 '00",
+          "car_group": "3",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [],
+          "price": 1650000,
+          "price_jp": 165000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20260930,
       "date": "2026/9/30",
@@ -1281,131 +1347,6 @@
         }
       ],
       "legend": []
-    },
-    {
-      "id": 20260917,
-      "date": "2026/9/17",
-      "used": [
-        {
-          "maker_id": 57,
-          "maker_name": "Autobianchi",
-          "car_id": 3442,
-          "car_name": "A112 Abarth '85",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [
-            {
-              "maker_id": 157,
-              "maker_name": "Garage RCR",
-              "car_id": "3526",
-              "car_name": "Civic",
-              "engine_name": "K24A-Civic"
-            }
-          ],
-          "price": 29900,
-          "price_jp": 2990000,
-          "isOld": true
-        },
-        {
-          "maker_id": 52,
-          "maker_name": "Pontiac",
-          "car_id": 1985,
-          "car_name": "Firebird Trans Am '78",
-          "car_group": "N",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [
-            {
-              "maker_id": 7,
-              "maker_name": "Chevrolet",
-              "car_id": "1480",
-              "car_name": "Corvette ZR1 (C6) '09",
-              "engine_name": "LS9-Corvette"
-            }
-          ],
-          "price": 90600,
-          "price_jp": 9060000,
-          "isOld": true
-        },
-        {
-          "maker_id": 15,
-          "maker_name": "Honda",
-          "car_id": 204,
-          "car_name": "Civic Type R (EK) '98",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 15,
-              "maker_name": "Honda",
-              "car_id": "3467",
-              "car_name": "Civic Type R Limited Edition (FK8) '20",
-              "engine_name": "K20C1-Civic-'20"
-            }
-          ],
-          "price": 51100,
-          "price_jp": 5110000,
-          "isOld": true
-        },
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 709,
-          "car_name": "Fairlady Z 300ZX TT 2seater '89",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "3345",
-              "car_name": "GT-R NISMO '17",
-              "engine_name": "VR38DETT-GT-R-NISMO"
-            },
-            {
-              "maker_id": 151,
-              "maker_name": "Roadster Shop",
-              "car_id": "3426",
-              "car_name": "Roadster Shop Rampage",
-              "engine_name": "LS7-Rampage"
-            }
-          ],
-          "price": 61500,
-          "price_jp": 6150000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 36,
-          "maker_name": "Shelby",
-          "car_id": 1925,
-          "car_name": "G.T.350 '65",
-          "car_group": "N",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [
-            {
-              "maker_id": 13,
-              "maker_name": "Ford",
-              "car_id": "3391",
-              "car_name": "Shelby GT350R '16",
-              "engine_name": "Voodoo-5.2L-GT350R"
-            }
-          ],
-          "price": 501000,
-          "price_jp": 50100000,
-          "isOld": true
-        }
-      ]
     }
   ]
 }
