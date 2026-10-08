@@ -1,6 +1,72 @@
 {
-  "timestamp": "2026-10-07T02:43:50.967743+00:00",
+  "timestamp": "2026-10-08T03:00:54.290729+00:00",
   "content": [
+    {
+      "id": 20261008,
+      "date": "2026/10/8",
+      "used": [
+        {
+          "maker_id": 6,
+          "maker_name": "BMW",
+          "car_id": 3422,
+          "car_name": "3.0 CSL '73",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 6,
+              "maker_name": "BMW",
+              "car_id": "1902",
+              "car_name": "Z4 GT3 '11",
+              "engine_name": "P65B44-Z4"
+            }
+          ],
+          "price": 219600,
+          "price_jp": 21960000,
+          "isOld": true
+        },
+        {
+          "maker_id": 28,
+          "maker_name": "Nissan",
+          "car_id": 210,
+          "car_name": "R34 GT-R V-spec II Nur '02",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 28,
+              "maker_name": "Nissan",
+              "car_id": "954",
+              "car_name": "R92CP '92",
+              "engine_name": "VRH35Z-R92CP"
+            }
+          ],
+          "price": 387000,
+          "price_jp": 38700000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 36,
+          "maker_name": "Shelby",
+          "car_id": 1926,
+          "car_name": "Cobra Daytona Coupe '64",
+          "car_group": "X",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [],
+          "price": 20000000,
+          "price_jp": 2000000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20261007,
       "date": "2026/10/7",
@@ -1117,108 +1183,6 @@
           "isOld": true
         }
       ]
-    },
-    {
-      "id": 20260924,
-      "date": "2026/9/24",
-      "used": [
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 1461,
-          "car_name": "Silvia K's Dia Selection (S13) '90",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "1448",
-              "car_name": "SILVIA spec-R Aero (S15) '02",
-              "engine_name": "SR20DET-Silvia-S15"
-            },
-            {
-              "maker_id": 43,
-              "maker_name": "Toyota",
-              "car_id": "82",
-              "car_name": "Supra RZ '97",
-              "engine_name": "2JZ-GTE-Supra"
-            }
-          ],
-          "price": 47000,
-          "price_jp": 4700000,
-          "isOld": true
-        },
-        {
-          "maker_id": 6,
-          "maker_name": "BMW",
-          "car_id": 3453,
-          "car_name": "M3 '89",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [
-            {
-              "maker_id": 39,
-              "maker_name": "Suzuki",
-              "car_id": "3508",
-              "car_name": "SUZUKI Vision Gran Turismo (Gr.3 Version)",
-              "engine_name": "V8-Suzuki-VGT-Gr.3"
-            }
-          ],
-          "price": 83000,
-          "price_jp": 8300000,
-          "isOld": true
-        },
-        {
-          "maker_id": 7,
-          "maker_name": "Chevrolet",
-          "car_id": 41,
-          "car_name": "Corvette Stingray (C3) '69",
-          "car_group": "N",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [
-            {
-              "maker_id": 7,
-              "maker_name": "Chevrolet",
-              "car_id": "3449",
-              "car_name": "Corvette C7 ZR1 '19",
-              "engine_name": "LT5-Corvette-C7"
-            }
-          ],
-          "price": 58300,
-          "price_jp": 5830000,
-          "isOld": true
-        },
-        {
-          "maker_id": 44,
-          "maker_name": "TVR",
-          "car_id": 187,
-          "car_name": "Tuscan Speed 6 '00",
-          "car_group": "N",
-          "country_id": 4,
-          "country_name": "United Kingdom",
-          "country_code": "gb",
-          "engine_swaps": [
-            {
-              "maker_id": 7,
-              "maker_name": "Chevrolet",
-              "car_id": "3387",
-              "car_name": "Camaro ZL1 1LE Package '18",
-              "engine_name": "LT4-Camaro"
-            }
-          ],
-          "price": 71100,
-          "price_jp": 7110000,
-          "isOld": true
-        }
-      ],
-      "legend": []
     }
   ]
 }
