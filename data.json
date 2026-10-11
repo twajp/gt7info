@@ -1,6 +1,57 @@
 {
-  "timestamp": "2026-10-10T02:48:10.998576+00:00",
+  "timestamp": "2026-10-11T02:15:26.741758+00:00",
   "content": [
+    {
+      "id": 20261011,
+      "date": "2026/10/11",
+      "used": [
+        {
+          "maker_id": 28,
+          "maker_name": "Nissan",
+          "car_id": 78,
+          "car_name": "Silvia K's Aero (S14) '96",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 7,
+              "maker_name": "Chevrolet",
+              "car_id": "3449",
+              "car_name": "Corvette C7 ZR1 '19",
+              "engine_name": "LT5-Corvette-C7"
+            },
+            {
+              "maker_id": 28,
+              "maker_name": "Nissan",
+              "car_id": "210",
+              "car_name": "R34 GT-R V-spec II Nur '02",
+              "engine_name": "RB26DETT-GT-R-R34"
+            }
+          ],
+          "price": 57500,
+          "price_jp": 5750000,
+          "isOld": true
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 17,
+          "maker_name": "Jaguar",
+          "car_id": 1553,
+          "car_name": "XJ13 '66",
+          "car_group": "X",
+          "country_id": 4,
+          "country_name": "United Kingdom",
+          "country_code": "gb",
+          "engine_swaps": [],
+          "price": 12000000,
+          "price_jp": 1200000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20261010,
       "date": "2026/10/10",
@@ -1098,108 +1149,6 @@
           "engine_swaps": [],
           "price": 4950000,
           "price_jp": 495000000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20260927,
-      "date": "2026/9/27",
-      "used": [
-        {
-          "maker_id": 3,
-          "maker_name": "Alfa Romeo",
-          "car_id": 3530,
-          "car_name": "Giulia Sprint GT Veloce '67",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [
-            {
-              "maker_id": 157,
-              "maker_name": "Garage RCR",
-              "car_id": "3526",
-              "car_name": "Civic",
-              "engine_name": "K24A-Civic"
-            }
-          ],
-          "price": 171900,
-          "price_jp": 17190000,
-          "isOld": true
-        },
-        {
-          "maker_id": 6,
-          "maker_name": "BMW",
-          "car_id": 1399,
-          "car_name": "M3 '07",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [
-            {
-              "maker_id": 6,
-              "maker_name": "BMW",
-              "car_id": "1902",
-              "car_name": "Z4 GT3 '11",
-              "engine_name": "P65B44-Z4"
-            }
-          ],
-          "price": 78900,
-          "price_jp": 7890000,
-          "isOld": false
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 15,
-          "maker_name": "Honda",
-          "car_id": 3525,
-          "car_name": "RA272 '65",
-          "car_group": "X",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [],
-          "price": 2500000,
-          "price_jp": 250000000,
-          "isOld": true
-        },
-        {
-          "maker_id": 22,
-          "maker_name": "Mercedes-Benz",
-          "car_id": 575,
-          "car_name": "190 E 2.5-16 Evolution II '91",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [
-            {
-              "maker_id": 153,
-              "maker_name": "AMG",
-              "car_id": "3531",
-              "car_name": "GT3 '20",
-              "engine_name": "M159-AMG-GT3-'20"
-            }
-          ],
-          "price": 250000,
-          "price_jp": 25000000,
-          "isOld": true
-        },
-        {
-          "maker_id": 140,
-          "maker_name": "De Tomaso",
-          "car_id": 3437,
-          "car_name": "Mangusta '69",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 310000,
-          "price_jp": 31000000,
           "isOld": true
         }
       ]
