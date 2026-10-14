@@ -1,6 +1,106 @@
 {
-  "timestamp": "2026-10-13T03:56:28.084351+00:00",
+  "timestamp": "2026-10-14T02:11:17.695656+00:00",
   "content": [
+    {
+      "id": 20261014,
+      "date": "2026/10/14",
+      "used": [
+        {
+          "maker_id": 34,
+          "maker_name": "Renault",
+          "car_id": 3547,
+          "car_name": "R4 GTL '85",
+          "car_group": "N",
+          "country_id": 6,
+          "country_name": "France",
+          "country_code": "fr",
+          "engine_swaps": [],
+          "price": 26500,
+          "price_jp": 2650000,
+          "isOld": true
+        },
+        {
+          "maker_id": 28,
+          "maker_name": "Nissan",
+          "car_id": 773,
+          "car_name": "R32 GT-R V-spec II '94",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 28,
+              "maker_name": "Nissan",
+              "car_id": "954",
+              "car_name": "R92CP '92",
+              "engine_name": "VRH35Z-R92CP"
+            }
+          ],
+          "price": 176500,
+          "price_jp": 17650000,
+          "isOld": true
+        },
+        {
+          "maker_id": 116,
+          "maker_name": "Maserati",
+          "car_id": 1539,
+          "car_name": "GranTurismo S '08",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 137900,
+          "price_jp": 13790000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 136,
+          "maker_name": "Porsche",
+          "car_id": 3490,
+          "car_name": "Carrera GTS (904) '64",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [],
+          "price": 2250000,
+          "price_jp": 225000000,
+          "isOld": true
+        },
+        {
+          "maker_id": 17,
+          "maker_name": "Jaguar",
+          "car_id": 3376,
+          "car_name": "D-type '54",
+          "car_group": "X",
+          "country_id": 4,
+          "country_name": "United Kingdom",
+          "country_code": "gb",
+          "engine_swaps": [],
+          "price": 5300000,
+          "price_jp": 530000000,
+          "isOld": true
+        },
+        {
+          "maker_id": 43,
+          "maker_name": "Toyota",
+          "car_id": 116,
+          "car_name": "GT-One (TS020) '99",
+          "car_group": null,
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [],
+          "price": 2500000,
+          "price_jp": 250000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20261013,
       "date": "2026/10/13",
@@ -1081,57 +1181,6 @@
           "isOld": true
         }
       ]
-    },
-    {
-      "id": 20260930,
-      "date": "2026/9/30",
-      "used": [
-        {
-          "maker_id": 15,
-          "maker_name": "Honda",
-          "car_id": 37,
-          "car_name": "Civic SiR-II (EG) '93",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 15,
-              "maker_name": "Honda",
-              "car_id": "203",
-              "car_name": "Integra Type R (DC2) '98",
-              "engine_name": "B18C-Integra-'98"
-            }
-          ],
-          "price": 52500,
-          "price_jp": 5250000,
-          "isOld": true
-        },
-        {
-          "maker_id": 7,
-          "maker_name": "Chevrolet",
-          "car_id": 1480,
-          "car_name": "Corvette ZR1 (C6) '09",
-          "car_group": "N",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [
-            {
-              "maker_id": 113,
-              "maker_name": "Bugatti",
-              "car_id": "3473",
-              "car_name": "Chiron '16",
-              "engine_name": "8.0-WR16-64v4T-Chiron"
-            }
-          ],
-          "price": 104600,
-          "price_jp": 10460000,
-          "isOld": false
-        }
-      ],
-      "legend": []
     }
   ]
 }
