@@ -1,6 +1,236 @@
 {
-  "timestamp": "2026-10-19T01:50:43.113476+00:00",
+  "timestamp": "2026-10-20T02:09:34.612565+00:00",
   "content": [
+    {
+      "id": 20261020,
+      "date": "2026/10/20",
+      "used": [
+        {
+          "maker_id": 110,
+          "maker_name": "Ferrari",
+          "car_id": 3654,
+          "car_name": "F355 Berlinetta '94",
+          "car_group": null,
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 360000,
+          "price_jp": 36000000,
+          "isOld": true
+        },
+        {
+          "maker_id": 9,
+          "maker_name": "Citroen",
+          "car_id": 3653,
+          "car_name": "2 CV 6 Charleston '86",
+          "car_group": null,
+          "country_id": 6,
+          "country_name": "France",
+          "country_code": "fr",
+          "engine_swaps": [],
+          "price": 33000,
+          "price_jp": 3300000,
+          "isOld": true
+        },
+        {
+          "maker_id": 43,
+          "maker_name": "Toyota",
+          "car_id": 1044,
+          "car_name": "Sports 800 '65",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [],
+          "price": 43800,
+          "price_jp": 4380000,
+          "isOld": true
+        },
+        {
+          "maker_id": 12,
+          "maker_name": "Fiat",
+          "car_id": 1527,
+          "car_name": "500 1.2 8V Lounge SS '08",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 12500,
+          "price_jp": 1250000,
+          "isOld": false
+        },
+        {
+          "maker_id": 7,
+          "maker_name": "Chevrolet",
+          "car_id": 1542,
+          "car_name": "Corvette Convertible (C3) '69",
+          "car_group": "N",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [
+            {
+              "maker_id": 7,
+              "maker_name": "Chevrolet",
+              "car_id": "3449",
+              "car_name": "Corvette C7 ZR1 '19",
+              "engine_name": "LT5-Corvette-C7"
+            }
+          ],
+          "price": 47000,
+          "price_jp": 4700000,
+          "isOld": true
+        },
+        {
+          "maker_id": 25,
+          "maker_name": "Mitsubishi",
+          "car_id": 1508,
+          "car_name": "Lancer Evolution VI GSR T.M. SCP '99",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 25,
+              "maker_name": "Mitsubishi",
+              "car_id": "3230",
+              "car_name": "Lancer Evolution Final Gr.B Rally Car",
+              "engine_name": "Evo-Final-Gr.B"
+            }
+          ],
+          "price": 165200,
+          "price_jp": 16520000,
+          "isOld": true
+        },
+        {
+          "maker_id": 18,
+          "maker_name": "Lancia",
+          "car_id": 533,
+          "car_name": "Stratos '73",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 539800,
+          "price_jp": 53980000,
+          "isOld": true
+        },
+        {
+          "maker_id": 112,
+          "maker_name": "Lamborghini",
+          "car_id": 1506,
+          "car_name": "Gallardo LP 560-4 '08",
+          "car_group": null,
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 236900,
+          "price_jp": 23690000,
+          "isOld": false
+        },
+        {
+          "maker_id": 110,
+          "maker_name": "Ferrari",
+          "car_id": 1504,
+          "car_name": "458 Italia '09",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 244300,
+          "price_jp": 24430000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 136,
+          "maker_name": "Porsche",
+          "car_id": 3365,
+          "car_name": "356 A/1500 GS GT Carrera Speedster '56",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 136,
+              "maker_name": "Porsche",
+              "car_id": "3519",
+              "car_name": "959 '87",
+              "engine_name": "959.50-959"
+            }
+          ],
+          "price": 1400000,
+          "price_jp": 140000000,
+          "isOld": true
+        },
+        {
+          "maker_id": 39,
+          "maker_name": "Suzuki",
+          "car_id": 808,
+          "car_name": "V6 Escudo Pikes Peak Special spec.98",
+          "car_group": "X",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 39,
+              "maker_name": "Suzuki",
+              "car_id": "3508",
+              "car_name": "SUZUKI Vision Gran Turismo (Gr.3 Version)",
+              "engine_name": "V8-Suzuki-VGT-Gr.3"
+            }
+          ],
+          "price": 1700000,
+          "price_jp": 170000000,
+          "isOld": true
+        },
+        {
+          "maker_id": 116,
+          "maker_name": "Maserati",
+          "car_id": 3489,
+          "car_name": "A6GCS/53 Spyder '54",
+          "car_group": "X",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 2800000,
+          "price_jp": 280000000,
+          "isOld": true
+        },
+        {
+          "maker_id": 17,
+          "maker_name": "Jaguar",
+          "car_id": 543,
+          "car_name": "XJ220 '92",
+          "car_group": "N",
+          "country_id": 4,
+          "country_name": "United Kingdom",
+          "country_code": "gb",
+          "engine_swaps": [
+            {
+              "maker_id": 17,
+              "maker_name": "Jaguar",
+              "car_id": "1067",
+              "car_name": "XJR-9 '88",
+              "engine_name": "V12-XJR-9"
+            }
+          ],
+          "price": 604000,
+          "price_jp": 60400000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20261019,
       "date": "2026/10/19",
@@ -1198,115 +1428,6 @@
         }
       ],
       "legend": []
-    },
-    {
-      "id": 20261006,
-      "date": "2026/10/6",
-      "used": [
-        {
-          "maker_id": 11,
-          "maker_name": "Dodge",
-          "car_id": 3377,
-          "car_name": "Super Bee '70",
-          "car_group": "N",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [],
-          "price": 60200,
-          "price_jp": 6020000,
-          "isOld": true
-        },
-        {
-          "maker_id": 21,
-          "maker_name": "Mazda",
-          "car_id": 374,
-          "car_name": "RX-7 GT-X (FC) '90",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 21,
-              "maker_name": "Mazda",
-              "car_id": "296",
-              "car_name": "787B '91",
-              "engine_name": "R26B-787B"
-            }
-          ],
-          "price": 62900,
-          "price_jp": 6290000,
-          "isOld": true
-        },
-        {
-          "maker_id": 112,
-          "maker_name": "Lamborghini",
-          "car_id": 1481,
-          "car_name": "Countach 25th Anniversary '88",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [
-            {
-              "maker_id": 112,
-              "maker_name": "Lamborghini",
-              "car_id": "3392",
-              "car_name": "Aventador LP 750-4 SV '15",
-              "engine_name": "L539-Aventador-SV"
-            }
-          ],
-          "price": 699400,
-          "price_jp": 69940000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 485,
-          "car_name": "GT-R GT500 '99",
-          "car_group": "3",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [],
-          "price": 1600000,
-          "price_jp": 160000000,
-          "isOld": true
-        },
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 3429,
-          "car_name": "Fairlady Z 432 '69",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "210",
-              "car_name": "R34 GT-R V-spec II Nur '02",
-              "engine_name": "RB26DETT-GT-R-R34"
-            },
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "1448",
-              "car_name": "SILVIA spec-R Aero (S15) '02",
-              "engine_name": "SR20DET-Silvia-S15"
-            }
-          ],
-          "price": 312000,
-          "price_jp": 31200000,
-          "isOld": true
-        }
-      ]
     }
   ]
 }
