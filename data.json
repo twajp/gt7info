@@ -1,6 +1,12 @@
 {
-  "timestamp": "2026-10-22T01:57:45.576885+00:00",
+  "timestamp": "2026-10-23T02:00:18.485920+00:00",
   "content": [
+    {
+      "id": 20261023,
+      "date": "2026/10/23",
+      "used": [],
+      "legend": []
+    },
     {
       "id": 20261022,
       "date": "2026/10/22",
@@ -1450,79 +1456,6 @@
         }
       ],
       "legend": []
-    },
-    {
-      "id": 20261009,
-      "date": "2026/10/9",
-      "used": [
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 919,
-          "car_name": "Silvia Q's (S13) '88",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "1448",
-              "car_name": "SILVIA spec-R Aero (S15) '02",
-              "engine_name": "SR20DET-Silvia-S15"
-            },
-            {
-              "maker_id": 38,
-              "maker_name": "Subaru",
-              "car_id": "3339",
-              "car_name": "BRZ Drift Car '17",
-              "engine_name": "LS7-BRZ"
-            }
-          ],
-          "price": 32600,
-          "price_jp": 3260000,
-          "isOld": true
-        },
-        {
-          "maker_id": 25,
-          "maker_name": "Mitsubishi",
-          "car_id": 211,
-          "car_name": "Lancer Evolution V GSR '98",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 25,
-              "maker_name": "Mitsubishi",
-              "car_id": "3230",
-              "car_name": "Lancer Evolution Final Gr.B Rally Car",
-              "engine_name": "Evo-Final-Gr.B"
-            }
-          ],
-          "price": 76300,
-          "price_jp": 7630000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 4,
-          "maker_name": "Aston Martin",
-          "car_id": 3445,
-          "car_name": "DB5 '64",
-          "car_group": "N",
-          "country_id": 4,
-          "country_name": "United Kingdom",
-          "country_code": "gb",
-          "engine_swaps": [],
-          "price": 883000,
-          "price_jp": 88300000,
-          "isOld": true
-        }
-      ]
     }
   ]
 }
