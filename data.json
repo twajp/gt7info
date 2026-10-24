@@ -1,6 +1,50 @@
 {
-  "timestamp": "2026-10-23T02:00:18.485920+00:00",
+  "timestamp": "2026-10-24T02:01:02.699228+00:00",
   "content": [
+    {
+      "id": 20261024,
+      "date": "2026/10/24",
+      "used": [
+        {
+          "maker_id": 25,
+          "maker_name": "Mitsubishi",
+          "car_id": 799,
+          "car_name": "Lancer Evolution VIII MR GSR '04",
+          "car_group": null,
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 25,
+              "maker_name": "Mitsubishi",
+              "car_id": "3230",
+              "car_name": "Lancer Evolution Final Gr.B Rally Car",
+              "engine_name": "Evo-Final-Gr.B"
+            }
+          ],
+          "price": 64800,
+          "price_jp": 6480000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 13,
+          "maker_name": "Ford",
+          "car_id": 1565,
+          "car_name": "Mark IV Race Car '67",
+          "car_group": "X",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [],
+          "price": 6750000,
+          "price_jp": 675000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20261023,
       "date": "2026/10/23",
@@ -1356,106 +1400,6 @@
           "isOld": true
         }
       ]
-    },
-    {
-      "id": 20261010,
-      "date": "2026/10/10",
-      "used": [
-        {
-          "maker_id": 25,
-          "maker_name": "Mitsubishi",
-          "car_id": 3384,
-          "car_name": "GTO Twin Turbo '91",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 11,
-              "maker_name": "Dodge",
-              "car_id": "3486",
-              "car_name": "Challenger SRT Demon '18",
-              "engine_name": "Demon-Challenger"
-            },
-            {
-              "maker_id": 39,
-              "maker_name": "Suzuki",
-              "car_id": "808",
-              "car_name": "V6 Escudo Pikes Peak Special spec.98",
-              "engine_name": "H25A-Escudo"
-            }
-          ],
-          "price": 45000,
-          "price_jp": 4500000,
-          "isOld": true
-        },
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 102,
-          "car_name": "Skyline GTS-R (R31) '87",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "210",
-              "car_name": "R34 GT-R V-spec II Nur '02",
-              "engine_name": "RB26DETT-GT-R-R34"
-            }
-          ],
-          "price": 162800,
-          "price_jp": 16280000,
-          "isOld": true
-        },
-        {
-          "maker_id": 153,
-          "maker_name": "AMG",
-          "car_id": 1507,
-          "car_name": "SLS AMG '10",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [],
-          "price": 310800,
-          "price_jp": 31080000,
-          "isOld": false
-        },
-        {
-          "maker_id": 11,
-          "maker_name": "Dodge",
-          "car_id": 1402,
-          "car_name": "Viper SRT10 Coupe '06",
-          "car_group": "N",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [],
-          "price": 112800,
-          "price_jp": 11280000,
-          "isOld": false
-        },
-        {
-          "maker_id": 112,
-          "maker_name": "Lamborghini",
-          "car_id": 1990,
-          "car_name": "Diablo GT '00",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 790200,
-          "price_jp": 79020000,
-          "isOld": true
-        }
-      ],
-      "legend": []
     }
   ]
 }
