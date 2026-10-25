@@ -1,6 +1,71 @@
 {
-  "timestamp": "2026-10-24T02:01:02.699228+00:00",
+  "timestamp": "2026-10-25T01:45:35.515662+00:00",
   "content": [
+    {
+      "id": 20261025,
+      "date": "2026/10/25",
+      "used": [
+        {
+          "maker_id": 86,
+          "maker_name": "Alpine",
+          "car_id": 1796,
+          "car_name": "A110 '72",
+          "car_group": "N",
+          "country_id": 6,
+          "country_name": "France",
+          "country_code": "fr",
+          "engine_swaps": [
+            {
+              "maker_id": 28,
+              "maker_name": "Nissan",
+              "car_id": "1448",
+              "car_name": "SILVIA spec-R Aero (S15) '02",
+              "engine_name": "SR20DET-Silvia-S15"
+            }
+          ],
+          "price": 137300,
+          "price_jp": 13730000,
+          "isOld": true
+        },
+        {
+          "maker_id": 5,
+          "maker_name": "Audi",
+          "car_id": 959,
+          "car_name": "TT Coupe 3.2 quattro '03",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [],
+          "price": 49800,
+          "price_jp": 4980000,
+          "isOld": false
+        },
+        {
+          "maker_id": 136,
+          "maker_name": "Porsche",
+          "car_id": 3359,
+          "car_name": "911 GT3 (997) '09",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [
+            {
+              "maker_id": 136,
+              "maker_name": "Porsche",
+              "car_id": "3311",
+              "car_name": "911 RSR (991) '17",
+              "engine_name": "M97/80-911"
+            }
+          ],
+          "price": 138000,
+          "price_jp": 13800000,
+          "isOld": false
+        }
+      ],
+      "legend": []
+    },
     {
       "id": 20261024,
       "date": "2026/10/24",
@@ -1346,57 +1411,6 @@
           "engine_swaps": [],
           "price": 1600000,
           "price_jp": 160000000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20261011,
-      "date": "2026/10/11",
-      "used": [
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 78,
-          "car_name": "Silvia K's Aero (S14) '96",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 7,
-              "maker_name": "Chevrolet",
-              "car_id": "3449",
-              "car_name": "Corvette C7 ZR1 '19",
-              "engine_name": "LT5-Corvette-C7"
-            },
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "210",
-              "car_name": "R34 GT-R V-spec II Nur '02",
-              "engine_name": "RB26DETT-GT-R-R34"
-            }
-          ],
-          "price": 57500,
-          "price_jp": 5750000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 17,
-          "maker_name": "Jaguar",
-          "car_id": 1553,
-          "car_name": "XJ13 '66",
-          "car_group": "X",
-          "country_id": 4,
-          "country_name": "United Kingdom",
-          "country_code": "gb",
-          "engine_swaps": [],
-          "price": 12000000,
-          "price_jp": 1200000000,
           "isOld": true
         }
       ]
