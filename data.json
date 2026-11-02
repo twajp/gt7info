@@ -1,6 +1,27 @@
 {
-  "timestamp": "2026-11-01T04:54:10.150015+00:00",
+  "timestamp": "2026-11-02T02:47:07.054109+00:00",
   "content": [
+    {
+      "id": 20261102,
+      "date": "2026/11/2",
+      "used": [
+        {
+          "maker_id": 110,
+          "maker_name": "Ferrari",
+          "car_id": 1544,
+          "car_name": "430 Scuderia '07",
+          "car_group": null,
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 375600,
+          "price_jp": 37560000,
+          "isOld": false
+        }
+      ],
+      "legend": []
+    },
     {
       "id": 20261101,
       "date": "2026/11/1",
@@ -1279,114 +1300,6 @@
           ],
           "price": 604000,
           "price_jp": 60400000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20261019,
-      "date": "2026/10/19",
-      "used": [
-        {
-          "maker_id": 43,
-          "maker_name": "Toyota",
-          "car_id": 63,
-          "car_name": "Corolla Levin 1600GT APEX (AE86) '83",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 43,
-              "maker_name": "Toyota",
-              "car_id": "207",
-              "car_name": "MR2 GT-S '97",
-              "engine_name": "3S-GTE-MR2"
-            }
-          ],
-          "price": 50200,
-          "price_jp": 5020000,
-          "isOld": true
-        },
-        {
-          "maker_id": 125,
-          "maker_name": "Abarth",
-          "car_id": 1973,
-          "car_name": "Abarth 500 '09",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 23500,
-          "price_jp": 2350000,
-          "isOld": false
-        },
-        {
-          "maker_id": 69,
-          "maker_name": "Volvo",
-          "car_id": 3549,
-          "car_name": "240 SE Estate '93",
-          "car_group": "N",
-          "country_id": 12,
-          "country_name": "Sweden",
-          "country_code": "se",
-          "engine_swaps": [],
-          "price": 48600,
-          "price_jp": 4860000,
-          "isOld": true
-        },
-        {
-          "maker_id": 25,
-          "maker_name": "Mitsubishi",
-          "car_id": 301,
-          "car_name": "Lancer Evolution IV GSR '96",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 25,
-              "maker_name": "Mitsubishi",
-              "car_id": "3230",
-              "car_name": "Lancer Evolution Final Gr.B Rally Car",
-              "engine_name": "Evo-Final-Gr.B"
-            }
-          ],
-          "price": 46300,
-          "price_jp": 4630000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 18,
-          "maker_name": "Lancia",
-          "car_id": 761,
-          "car_name": "Lancia Delta HF Integrale Rally Car '92",
-          "car_group": null,
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [],
-          "price": 300000,
-          "price_jp": 30000000,
-          "isOld": true
-        },
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 3493,
-          "car_name": "Skyline Super Silhouette Group 5 '84",
-          "car_group": "3",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [],
-          "price": 1150000,
-          "price_jp": 115000000,
           "isOld": true
         }
       ]
