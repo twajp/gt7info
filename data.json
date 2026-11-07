@@ -1,6 +1,131 @@
 {
-  "timestamp": "2026-11-06T03:43:08.091929+00:00",
+  "timestamp": "2026-11-07T03:16:23.979174+00:00",
   "content": [
+    {
+      "id": 20261107,
+      "date": "2026/11/7",
+      "used": [
+        {
+          "maker_id": 3,
+          "maker_name": "Alfa Romeo",
+          "car_id": 3530,
+          "car_name": "Giulia Sprint GT Veloce '67",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [
+            {
+              "maker_id": 157,
+              "maker_name": "Garage RCR",
+              "car_id": "3526",
+              "car_name": "Civic",
+              "engine_name": "K24A-Civic"
+            }
+          ],
+          "price": 177300,
+          "price_jp": 17730000,
+          "isOld": true
+        },
+        {
+          "maker_id": 39,
+          "maker_name": "Suzuki",
+          "car_id": 779,
+          "car_name": "Cappuccino (EA11R) '91",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 21,
+              "maker_name": "Mazda",
+              "car_id": "205",
+              "car_name": "RX-7 Spirit R Type A (FD) '02",
+              "engine_name": "13B-REW-RX-7"
+            }
+          ],
+          "price": 17300,
+          "price_jp": 1730000,
+          "isOld": true
+        },
+        {
+          "maker_id": 28,
+          "maker_name": "Nissan",
+          "car_id": 489,
+          "car_name": "R33 GT-R V-spec '97",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 28,
+              "maker_name": "Nissan",
+              "car_id": "954",
+              "car_name": "R92CP '92",
+              "engine_name": "VRH35Z-R92CP"
+            }
+          ],
+          "price": 157400,
+          "price_jp": 15740000,
+          "isOld": true
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 13,
+          "maker_name": "Ford",
+          "car_id": 3444,
+          "car_name": "1932 Ford Roadster Hot Rod",
+          "car_group": "N",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [
+            {
+              "maker_id": 13,
+              "maker_name": "Ford",
+              "car_id": "3391",
+              "car_name": "Shelby GT350R '16",
+              "engine_name": "Voodoo-5.2L-GT350R"
+            }
+          ],
+          "price": 225000,
+          "price_jp": 22500000,
+          "isOld": null
+        },
+        {
+          "maker_id": 28,
+          "maker_name": "Nissan",
+          "car_id": 3429,
+          "car_name": "Fairlady Z 432 '69",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 28,
+              "maker_name": "Nissan",
+              "car_id": "210",
+              "car_name": "R34 GT-R V-spec II Nur '02",
+              "engine_name": "RB26DETT-GT-R-R34"
+            },
+            {
+              "maker_id": 28,
+              "maker_name": "Nissan",
+              "car_id": "1448",
+              "car_name": "SILVIA spec-R Aero (S15) '02",
+              "engine_name": "SR20DET-Silvia-S15"
+            }
+          ],
+          "price": 290000,
+          "price_jp": 29000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20261106,
       "date": "2026/11/6",
@@ -1139,50 +1264,6 @@
         }
       ],
       "legend": []
-    },
-    {
-      "id": 20261024,
-      "date": "2026/10/24",
-      "used": [
-        {
-          "maker_id": 25,
-          "maker_name": "Mitsubishi",
-          "car_id": 799,
-          "car_name": "Lancer Evolution VIII MR GSR '04",
-          "car_group": null,
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 25,
-              "maker_name": "Mitsubishi",
-              "car_id": "3230",
-              "car_name": "Lancer Evolution Final Gr.B Rally Car",
-              "engine_name": "Evo-Final-Gr.B"
-            }
-          ],
-          "price": 64800,
-          "price_jp": 6480000,
-          "isOld": false
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 13,
-          "maker_name": "Ford",
-          "car_id": 1565,
-          "car_name": "Mark IV Race Car '67",
-          "car_group": "X",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [],
-          "price": 6750000,
-          "price_jp": 675000000,
-          "isOld": true
-        }
-      ]
     }
   ]
 }
