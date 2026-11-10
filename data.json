@@ -1,6 +1,50 @@
 {
-  "timestamp": "2026-11-09T03:01:44.121411+00:00",
+  "timestamp": "2026-11-10T04:48:37.734022+00:00",
   "content": [
+    {
+      "id": 20261110,
+      "date": "2026/11/10",
+      "used": [
+        {
+          "maker_id": 46,
+          "maker_name": "Volkswagen",
+          "car_id": 1773,
+          "car_name": "Scirocco R '10",
+          "car_group": "N",
+          "country_id": 5,
+          "country_name": "Germany",
+          "country_code": "de",
+          "engine_swaps": [],
+          "price": 39200,
+          "price_jp": 3920000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 28,
+          "maker_name": "Nissan",
+          "car_id": 836,
+          "car_name": "Skyline 2000GT-R (KPGC110) '73",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 28,
+              "maker_name": "Nissan",
+              "car_id": "3493",
+              "car_name": "Skyline Super Silhouette Group 5 '84",
+              "engine_name": "LZ20B-Skyline"
+            }
+          ],
+          "price": 537000,
+          "price_jp": 53700000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20261109,
       "date": "2026/11/9",
@@ -1284,49 +1328,6 @@
           "engine_swaps": [],
           "price": 55000,
           "price_jp": 5500000,
-          "isOld": false
-        }
-      ],
-      "legend": []
-    },
-    {
-      "id": 20261027,
-      "date": "2026/10/27",
-      "used": [
-        {
-          "maker_id": 39,
-          "maker_name": "Suzuki",
-          "car_id": 1385,
-          "car_name": "Swift Sport '07",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [],
-          "price": 12900,
-          "price_jp": 1290000,
-          "isOld": false
-        },
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 1384,
-          "car_name": "Fairlady Z Version S (Z33) '07",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "210",
-              "car_name": "R34 GT-R V-spec II Nur '02",
-              "engine_name": "RB26DETT-GT-R-R34"
-            }
-          ],
-          "price": 31000,
-          "price_jp": 3100000,
           "isOld": false
         }
       ],
