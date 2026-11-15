@@ -1,6 +1,64 @@
 {
-  "timestamp": "2026-11-14T03:37:50.466980+00:00",
+  "timestamp": "2026-11-15T03:10:01.076048+00:00",
   "content": [
+    {
+      "id": 20261115,
+      "date": "2026/11/15",
+      "used": [
+        {
+          "maker_id": 34,
+          "maker_name": "Renault",
+          "car_id": 729,
+          "car_name": "Avantime 3.0 V6 24V '02",
+          "car_group": null,
+          "country_id": 6,
+          "country_name": "France",
+          "country_code": "fr",
+          "engine_swaps": [
+            {
+              "maker_id": 46,
+              "maker_name": "Volkswagen",
+              "car_id": "2192",
+              "car_name": "Volkswagen GTI VGT (Gr.3)",
+              "engine_name": "GTI-VGT-Gr.3"
+            }
+          ],
+          "price": 39300,
+          "price_jp": 3930000,
+          "isOld": false
+        },
+        {
+          "maker_id": 3,
+          "maker_name": "Alfa Romeo",
+          "car_id": 1578,
+          "car_name": "8C Competizione '08",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 294600,
+          "price_jp": 29460000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 125,
+          "maker_name": "Abarth",
+          "car_id": 1932,
+          "car_name": "1500 Biposto Bertone B.A.T 1 '52",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 1000000,
+          "price_jp": 100000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20261114,
       "date": "2026/11/14",
@@ -1054,108 +1112,6 @@
         }
       ],
       "legend": []
-    },
-    {
-      "id": 20261101,
-      "date": "2026/11/1",
-      "used": [
-        {
-          "maker_id": 12,
-          "maker_name": "Fiat",
-          "car_id": 1523,
-          "car_name": "500 F '68",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [
-            {
-              "maker_id": 15,
-              "maker_name": "Honda",
-              "car_id": "2156",
-              "car_name": "2&4 powered by RC213V",
-              "engine_name": "SE75E-2&4"
-            }
-          ],
-          "price": 18800,
-          "price_jp": 1880000,
-          "isOld": true
-        },
-        {
-          "maker_id": 43,
-          "maker_name": "Toyota",
-          "car_id": 207,
-          "car_name": "MR2 GT-S '97",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 5,
-              "maker_name": "Audi",
-              "car_id": "1365",
-              "car_name": "R8 4.2 '07",
-              "engine_name": "BYH-R8"
-            }
-          ],
-          "price": 54900,
-          "price_jp": 5490000,
-          "isOld": true
-        },
-        {
-          "maker_id": 43,
-          "maker_name": "Toyota",
-          "car_id": 3612,
-          "car_name": "Chaser Tourer V '97",
-          "car_group": null,
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [],
-          "price": 52600,
-          "price_jp": 5260000,
-          "isOld": true
-        },
-        {
-          "maker_id": 43,
-          "maker_name": "Toyota",
-          "car_id": 82,
-          "car_name": "Supra RZ '97",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 30,
-              "maker_name": "Pagani",
-              "car_id": "2050",
-              "car_name": "Huayra '13",
-              "engine_name": "M158-AMG-Huayra"
-            }
-          ],
-          "price": 186900,
-          "price_jp": 18690000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 17,
-          "maker_name": "Jaguar",
-          "car_id": 3361,
-          "car_name": "E-type Coupe '61",
-          "car_group": "N",
-          "country_id": 4,
-          "country_name": "United Kingdom",
-          "country_code": "gb",
-          "engine_swaps": [],
-          "price": 193000,
-          "price_jp": 19300000,
-          "isOld": true
-        }
-      ]
     }
   ]
 }
