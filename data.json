@@ -1,6 +1,100 @@
 {
-  "timestamp": "2026-11-17T05:15:30.869211+00:00",
+  "timestamp": "2026-11-18T04:44:15.620960+00:00",
   "content": [
+    {
+      "id": 20261118,
+      "date": "2026/11/18",
+      "used": [
+        {
+          "maker_id": 12,
+          "maker_name": "Fiat",
+          "car_id": 3575,
+          "car_name": "Panda 30 CL '85",
+          "car_group": null,
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 10300,
+          "price_jp": 1030000,
+          "isOld": true
+        },
+        {
+          "maker_id": 13,
+          "maker_name": "Ford",
+          "car_id": 1729,
+          "car_name": "Mustang Mach 1 '71",
+          "car_group": "N",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [
+            {
+              "maker_id": 13,
+              "maker_name": "Ford",
+              "car_id": "2138",
+              "car_name": "Mustang GT '15",
+              "engine_name": "Coyote-5.0L-Mustang"
+            }
+          ],
+          "price": 41200,
+          "price_jp": 4120000,
+          "isOld": true
+        },
+        {
+          "maker_id": 21,
+          "maker_name": "Mazda",
+          "car_id": 374,
+          "car_name": "RX-7 GT-X (FC) '90",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 21,
+              "maker_name": "Mazda",
+              "car_id": "296",
+              "car_name": "787B '91",
+              "engine_name": "R26B-787B"
+            }
+          ],
+          "price": 50800,
+          "price_jp": 5080000,
+          "isOld": true
+        },
+        {
+          "maker_id": 116,
+          "maker_name": "Maserati",
+          "car_id": 1539,
+          "car_name": "GranTurismo S '08",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [],
+          "price": 146000,
+          "price_jp": 14600000,
+          "isOld": false
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 17,
+          "maker_name": "Jaguar",
+          "car_id": 1067,
+          "car_name": "XJR-9 '88",
+          "car_group": "1",
+          "country_id": 4,
+          "country_name": "United Kingdom",
+          "country_code": "gb",
+          "engine_swaps": [],
+          "price": 3000000,
+          "price_jp": 300000000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20261117,
       "date": "2026/11/17",
@@ -1223,86 +1317,6 @@
         }
       ],
       "legend": []
-    },
-    {
-      "id": 20261104,
-      "date": "2026/11/4",
-      "used": [
-        {
-          "maker_id": 18,
-          "maker_name": "Lancia",
-          "car_id": 829,
-          "car_name": "Delta HF Integrale Evoluzione '91",
-          "car_group": "N",
-          "country_id": 7,
-          "country_name": "Italy",
-          "country_code": "it",
-          "engine_swaps": [
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "3345",
-              "car_name": "GT-R NISMO '17",
-              "engine_name": "VR38DETT-GT-R-NISMO"
-            }
-          ],
-          "price": 104400,
-          "price_jp": 10440000,
-          "isOld": true
-        },
-        {
-          "maker_id": 15,
-          "maker_name": "Honda",
-          "car_id": 688,
-          "car_name": "Integra Type R (DC2) '95",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 157,
-              "maker_name": "Garage RCR",
-              "car_id": "3526",
-              "car_name": "Civic",
-              "engine_name": "K24A-Civic"
-            }
-          ],
-          "price": 61500,
-          "price_jp": 6150000,
-          "isOld": true
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 136,
-          "maker_name": "Porsche",
-          "car_id": 3410,
-          "car_name": "917K '70",
-          "car_group": "X",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [],
-          "price": 20000000,
-          "price_jp": 2000000000,
-          "isOld": true
-        },
-        {
-          "maker_id": 93,
-          "maker_name": "Chaparral",
-          "car_id": 1069,
-          "car_name": "2J '70",
-          "car_group": "X",
-          "country_id": 3,
-          "country_name": "United States",
-          "country_code": "us",
-          "engine_swaps": [],
-          "price": 2500000,
-          "price_jp": 250000000,
-          "isOld": true
-        }
-      ]
     }
   ]
 }
