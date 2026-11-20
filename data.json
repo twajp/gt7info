@@ -1,6 +1,78 @@
 {
-  "timestamp": "2026-11-19T04:34:23.883365+00:00",
+  "timestamp": "2026-11-20T04:22:35.129239+00:00",
   "content": [
+    {
+      "id": 20261120,
+      "date": "2026/11/20",
+      "used": [
+        {
+          "maker_id": 34,
+          "maker_name": "Renault",
+          "car_id": 3567,
+          "car_name": "Kangoo 1.4 '01",
+          "car_group": null,
+          "country_id": 6,
+          "country_name": "France",
+          "country_code": "fr",
+          "engine_swaps": [],
+          "price": 13500,
+          "price_jp": 1350000,
+          "isOld": false
+        },
+        {
+          "maker_id": 28,
+          "maker_name": "Nissan",
+          "car_id": 78,
+          "car_name": "Silvia K's Aero (S14) '96",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 7,
+              "maker_name": "Chevrolet",
+              "car_id": "3449",
+              "car_name": "Corvette C7 ZR1 '19",
+              "engine_name": "LT5-Corvette-C7"
+            },
+            {
+              "maker_id": 28,
+              "maker_name": "Nissan",
+              "car_id": "210",
+              "car_name": "R34 GT-R V-spec II Nur '02",
+              "engine_name": "RB26DETT-GT-R-R34"
+            }
+          ],
+          "price": 57600,
+          "price_jp": 5760000,
+          "isOld": true
+        },
+        {
+          "maker_id": 43,
+          "maker_name": "Toyota",
+          "car_id": 843,
+          "car_name": "Supra 3.0GT Turbo A '88",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 43,
+              "maker_name": "Toyota",
+              "car_id": "82",
+              "car_name": "Supra RZ '97",
+              "engine_name": "2JZ-GTE-Supra"
+            }
+          ],
+          "price": 115200,
+          "price_jp": 11520000,
+          "isOld": true
+        }
+      ],
+      "legend": []
+    },
     {
       "id": 20261119,
       "date": "2026/11/19",
@@ -1165,64 +1237,6 @@
           "isOld": true
         }
       ]
-    },
-    {
-      "id": 20261106,
-      "date": "2026/11/6",
-      "used": [
-        {
-          "maker_id": 28,
-          "maker_name": "Nissan",
-          "car_id": 3513,
-          "car_name": "Silvia K's Type S (S14) '94",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [
-            {
-              "maker_id": 7,
-              "maker_name": "Chevrolet",
-              "car_id": "3449",
-              "car_name": "Corvette C7 ZR1 '19",
-              "engine_name": "LT5-Corvette-C7"
-            },
-            {
-              "maker_id": 28,
-              "maker_name": "Nissan",
-              "car_id": "3345",
-              "car_name": "GT-R NISMO '17",
-              "engine_name": "VR38DETT-GT-R-NISMO"
-            }
-          ],
-          "price": 43400,
-          "price_jp": 4340000,
-          "isOld": true
-        },
-        {
-          "maker_id": 44,
-          "maker_name": "TVR",
-          "car_id": 187,
-          "car_name": "Tuscan Speed 6 '00",
-          "car_group": "N",
-          "country_id": 4,
-          "country_name": "United Kingdom",
-          "country_code": "gb",
-          "engine_swaps": [
-            {
-              "maker_id": 7,
-              "maker_name": "Chevrolet",
-              "car_id": "3387",
-              "car_name": "Camaro ZL1 1LE Package '18",
-              "engine_name": "LT4-Camaro"
-            }
-          ],
-          "price": 82400,
-          "price_jp": 8240000,
-          "isOld": true
-        }
-      ],
-      "legend": []
     }
   ]
 }
