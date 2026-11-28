@@ -1,6 +1,87 @@
 {
-  "timestamp": "2026-11-27T05:25:22.291638+00:00",
+  "timestamp": "2026-11-28T05:00:32.932216+00:00",
   "content": [
+    {
+      "id": 20261128,
+      "date": "2026/11/28",
+      "used": [
+        {
+          "maker_id": 25,
+          "maker_name": "Mitsubishi",
+          "car_id": 211,
+          "car_name": "Lancer Evolution V GSR '98",
+          "car_group": "N",
+          "country_id": 2,
+          "country_name": "Japan",
+          "country_code": "jp",
+          "engine_swaps": [
+            {
+              "maker_id": 25,
+              "maker_name": "Mitsubishi",
+              "car_id": "3230",
+              "car_name": "Lancer Evolution Final Gr.B Rally Car",
+              "engine_name": "Evo-Final-Gr.B"
+            }
+          ],
+          "price": 68800,
+          "price_jp": 6880000,
+          "isOld": true
+        }
+      ],
+      "legend": [
+        {
+          "maker_id": 110,
+          "maker_name": "Ferrari",
+          "car_id": 1409,
+          "car_name": "F40 '92",
+          "car_group": "N",
+          "country_id": 7,
+          "country_name": "Italy",
+          "country_code": "it",
+          "engine_swaps": [
+            {
+              "maker_id": 110,
+              "maker_name": "Ferrari",
+              "car_id": "1474",
+              "car_name": "Enzo Ferrari '02",
+              "engine_name": "F140B-Enzo"
+            }
+          ],
+          "price": 4250000,
+          "price_jp": 425000000,
+          "isOld": true
+        },
+        {
+          "maker_id": 11,
+          "maker_name": "Dodge",
+          "car_id": 1543,
+          "car_name": "Challenger R/T '70",
+          "car_group": "N",
+          "country_id": 3,
+          "country_name": "United States",
+          "country_code": "us",
+          "engine_swaps": [
+            {
+              "maker_id": 11,
+              "maker_name": "Dodge",
+              "car_id": "3486",
+              "car_name": "Challenger SRT Demon '18",
+              "engine_name": "Demon-Challenger"
+            },
+            {
+              "maker_id": 11,
+              "maker_name": "Dodge",
+              "car_id": "2152",
+              "car_name": "Charger SRT Hellcat '15",
+              "engine_name": "Hellcat-Charger"
+            }
+          ],
+          "price": 168000,
+          "price_jp": 16800000,
+          "isOld": true
+        }
+      ]
+    },
     {
       "id": 20261127,
       "date": "2026/11/27",
@@ -1149,64 +1230,6 @@
           "engine_swaps": [],
           "price": 1000000,
           "price_jp": 100000000,
-          "isOld": true
-        }
-      ]
-    },
-    {
-      "id": 20261114,
-      "date": "2026/11/14",
-      "used": [
-        {
-          "maker_id": 46,
-          "maker_name": "Volkswagen",
-          "car_id": 1778,
-          "car_name": "Volkswagen 1200 '66",
-          "car_group": "N",
-          "country_id": 5,
-          "country_name": "Germany",
-          "country_code": "de",
-          "engine_swaps": [
-            {
-              "maker_id": 136,
-              "maker_name": "Porsche",
-              "car_id": "3431",
-              "car_name": "911 Carrera RS (964) '92",
-              "engine_name": "M64/03-911"
-            }
-          ],
-          "price": 32900,
-          "price_jp": 3290000,
-          "isOld": true
-        },
-        {
-          "maker_id": 43,
-          "maker_name": "Toyota",
-          "car_id": 345,
-          "car_name": "Sprinter Trueno 1600GT APEX (S.Shigeno Version)",
-          "car_group": "N",
-          "country_id": 2,
-          "country_name": "Japan",
-          "country_code": "jp",
-          "engine_swaps": [],
-          "price": 106100,
-          "price_jp": 10610000,
-          "isOld": null
-        }
-      ],
-      "legend": [
-        {
-          "maker_id": 4,
-          "maker_name": "Aston Martin",
-          "car_id": 3363,
-          "car_name": "DB3S '53",
-          "car_group": "X",
-          "country_id": 4,
-          "country_name": "United Kingdom",
-          "country_code": "gb",
-          "engine_swaps": [],
-          "price": 6000000,
-          "price_jp": 600000000,
           "isOld": true
         }
       ]
